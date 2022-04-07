@@ -290,6 +290,9 @@ http://red.ipfox.org:8080/amr/123456789/37819
 #EXTINF:0 tvg-id="ext" group-title="SSC Sports",SSC 7 HD
 http://red.ipfox.org:8080/amr/123456789/37820
 
+
+#EXTINF:-1,Ultra Nature
+http://tv.sigma-iptv.net:7000/live/lestulupes/icceTgfhaB/575534765.m3u8
 #EXTINF:-1,Love Nature 
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="PLATINIUM TV",|Platinium| REELPX Cinema HD
