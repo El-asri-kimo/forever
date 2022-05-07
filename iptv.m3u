@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Beinp1
+http://147.135.252.4:9001/live/beinp1.ts
 #EXTINF:0 tvg-id="ext" group-title="IPFox World",IPFox Exclusive 1
 http://red.ipfox.org:8080/amr/123456789/37694
 #EXTINF:0 tvg-id="ext" group-title="IPFox World",IPFox Exclusive 2
