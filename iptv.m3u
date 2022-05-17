@@ -2857,3 +2857,2050 @@ http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/179018
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/179017
 #EXTINF:0 tvg-id="ext" group-title="AR: ----- MYHD",AR: MyHD MBC4 HD
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/179016
+
+
+#EXTM3U
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",FR: TF1 FHD
+http://elaf.xyz:80/Hamada3/123123/180775
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",FR: TF1 HD
+http://elaf.xyz:80/Hamada3/123123/180776
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",FR: TF1
+http://elaf.xyz:80/Hamada3/123123/180777
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF1 +1 HD
+http://elaf.xyz:80/Hamada3/123123/180778
+#EXTINF:0 tvg-id="TF1plus1.fr" group-title="Channels",FR: TF1 +1
+http://elaf.xyz:80/Hamada3/123123/180779
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF1 Series Films FHD
+http://elaf.xyz:80/Hamada3/123123/180780
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF1 Series Film HD
+http://elaf.xyz:80/Hamada3/123123/180781
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="Channels",FR: TF1 Series Films
+http://elaf.xyz:80/Hamada3/123123/180782
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",FR: M6 FHD
+http://elaf.xyz:80/Hamada3/123123/180783
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",FR: M6 HD
+http://elaf.xyz:80/Hamada3/123123/180784
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",FR: M6
+http://elaf.xyz:80/Hamada3/123123/180785
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",FR: FRANCE 2 FHD
+http://elaf.xyz:80/Hamada3/123123/180786
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",FR: FRANCE 2 HD
+http://elaf.xyz:80/Hamada3/123123/180787
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",FR: FRANCE2
+http://elaf.xyz:80/Hamada3/123123/180788
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",FR: FRANCE 3 FHD
+http://elaf.xyz:80/Hamada3/123123/180789
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",FR: FRANCE 3 HD
+http://elaf.xyz:80/Hamada3/123123/180790
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",FR: FRANCE3
+http://elaf.xyz:80/Hamada3/123123/180791
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",FR: FRANCE 4 FHD
+http://elaf.xyz:80/Hamada3/123123/180792
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",FR: FRANCE 4 HD
+http://elaf.xyz:80/Hamada3/123123/180793
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",FR: FRANCE4
+http://elaf.xyz:80/Hamada3/123123/180794
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",FR: FRANCE 5 FHD
+http://elaf.xyz:80/Hamada3/123123/180795
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",FR: FRANCE 5 HD
+http://elaf.xyz:80/Hamada3/123123/180796
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",FR: FRANCE5
+http://elaf.xyz:80/Hamada3/123123/180797
+#EXTINF:0 tvg-id="FranceO.fr" group-title="Channels",FR: FRANCE O FHD
+http://elaf.xyz:80/Hamada3/123123/180798
+#EXTINF:0 tvg-id="FranceO.fr" group-title="Channels",FR: FRANCE O HD
+http://elaf.xyz:80/Hamada3/123123/180799
+#EXTINF:0 tvg-id="FranceO.fr" group-title="Channels",FR: FRANCE O
+http://elaf.xyz:80/Hamada3/123123/180800
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",FR: 6ter FHD
+http://elaf.xyz:80/Hamada3/123123/180801
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",FR: 6Ter HD
+http://elaf.xyz:80/Hamada3/123123/180802
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",FR: 6Ter
+http://elaf.xyz:80/Hamada3/123123/180803
+#EXTINF:0 tvg-id="W9.fr" group-title="Channels",FR: W9 FHD
+http://elaf.xyz:80/Hamada3/123123/180804
+#EXTINF:0 tvg-id="W9.fr" group-title="Channels",FR: W9 HD
+http://elaf.xyz:80/Hamada3/123123/180805
+#EXTINF:0 tvg-id="W9.fr" group-title="Channels",FR: W9
+http://elaf.xyz:80/Hamada3/123123/180806
+#EXTINF:0 tvg-id="ARTE.fr" group-title="Channels",FR: ARTE FHD
+http://elaf.xyz:80/Hamada3/123123/180807
+#EXTINF:0 tvg-id="ARTE.fr" group-title="Channels",FR: ARTE HD
+http://elaf.xyz:80/Hamada3/123123/180808
+#EXTINF:0 tvg-id="ARTE.fr" group-title="Channels",FR: ARTE
+http://elaf.xyz:80/Hamada3/123123/180809
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="Channels",FR: Cherie25 FHD
+http://elaf.xyz:80/Hamada3/123123/180810
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="Channels",FR: CHERIE25 HD
+http://elaf.xyz:80/Hamada3/123123/180811
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="Channels",FR: CHERIE 25
+http://elaf.xyz:80/Hamada3/123123/180812
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Channels",FR: NRJ12 FHD
+http://elaf.xyz:80/Hamada3/123123/180813
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Channels",FR: NRJ12 HD
+http://elaf.xyz:80/Hamada3/123123/180814
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Channels",FR: NRJ12
+http://elaf.xyz:80/Hamada3/123123/180815
+#EXTINF:0 tvg-id="TV5MondeFBS.fr" group-title="Channels",FR: TV5 MONDE HD
+http://elaf.xyz:80/Hamada3/123123/180816
+#EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="Channels",FR: TV5 MONDE
+http://elaf.xyz:80/Hamada3/123123/180817
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",FR: C8 HD
+http://elaf.xyz:80/Hamada3/123123/180818
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",FR: C8
+http://elaf.xyz:80/Hamada3/123123/180819
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CStar HD
+http://elaf.xyz:80/Hamada3/123123/180820
+#EXTINF:0 tvg-id="CStar.fr" group-title="Channels",FR: CStar
+http://elaf.xyz:80/Hamada3/123123/180821
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",FR: CANAL PLUS FHD
+http://elaf.xyz:80/Hamada3/123123/180822
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",FR: CANAL PLUS HD
+http://elaf.xyz:80/Hamada3/123123/180823
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",FR: CANAL PLUS
+http://elaf.xyz:80/Hamada3/123123/180824
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",FR: CANAL PLUS CINEMA FHD
+http://elaf.xyz:80/Hamada3/123123/180825
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",FR: CANAL PLUS CINEMA HD
+http://elaf.xyz:80/Hamada3/123123/180826
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANAL PLUS CINEMA
+http://elaf.xyz:80/Hamada3/123123/180827
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="Channels",FR: CANAL PLUS DECALE FHD
+http://elaf.xyz:80/Hamada3/123123/180828
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="Channels",FR: CANAL PLUS DECALE HD
+http://elaf.xyz:80/Hamada3/123123/180829
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANAL PLUS DECALE
+http://elaf.xyz:80/Hamada3/123123/180830
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="Channels",FR: CANAL PLUS FAMILY FHD
+http://elaf.xyz:80/Hamada3/123123/180831
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="Channels",FR: CANAL PLUS FAMILY HD
+http://elaf.xyz:80/Hamada3/123123/180832
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANAL PLUS FAMILY
+http://elaf.xyz:80/Hamada3/123123/180833
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="Channels",FR: CANAL PLUS SERIES FHD
+http://elaf.xyz:80/Hamada3/123123/180834
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="Channels",FR: CANAL PLUS SERIES HD
+http://elaf.xyz:80/Hamada3/123123/180835
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANAL PLUS SERIES
+http://elaf.xyz:80/Hamada3/123123/180836
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",FR: CANAL PLUS SPORT FHD
+http://elaf.xyz:80/Hamada3/123123/180837
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CINE CLUB HD
+http://elaf.xyz:80/Hamada3/123123/180838
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="Channels",FR: CINE CLUB
+http://elaf.xyz:80/Hamada3/123123/180839
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",FR: CINE CLASSIC HD
+http://elaf.xyz:80/Hamada3/123123/180840
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",FR: CINE CLASSIC
+http://elaf.xyz:80/Hamada3/123123/180841
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="Channels",FR: CINE FAMIZ HD
+http://elaf.xyz:80/Hamada3/123123/180842
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="Channels",FR: CINE FAMIZ
+http://elaf.xyz:80/Hamada3/123123/180843
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="Channels",FR: CINE FRISSON HD
+http://elaf.xyz:80/Hamada3/123123/180844
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="Channels",FR: CINE  FRISSON
+http://elaf.xyz:80/Hamada3/123123/180845
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CINE POLAR HD
+http://elaf.xyz:80/Hamada3/123123/180846
+#EXTINF:0 tvg-id="CinePolar.fr" group-title="Channels",FR: CINE POLAR
+http://elaf.xyz:80/Hamada3/123123/180847
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="Channels",FR: CINE EMOTION HD
+http://elaf.xyz:80/Hamada3/123123/180848
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="Channels",FR: CINE EMOTION
+http://elaf.xyz:80/Hamada3/123123/180849
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CINE PREMIERE HD
+http://elaf.xyz:80/Hamada3/123123/180850
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="Channels",FR: CINE PREMIERE
+http://elaf.xyz:80/Hamada3/123123/180851
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="Channels",FR: PARIS PREMIERE HD
+http://elaf.xyz:80/Hamada3/123123/180852
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="Channels",FR: PARIS PREMIERE
+http://elaf.xyz:80/Hamada3/123123/180853
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="Channels",FR: OCS CHOC HD
+http://elaf.xyz:80/Hamada3/123123/180854
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="Channels",FR: OCS CHOC
+http://elaf.xyz:80/Hamada3/123123/180855
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="Channels",FR: OCS CITY HD
+http://elaf.xyz:80/Hamada3/123123/180856
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="Channels",FR: OCS CITY
+http://elaf.xyz:80/Hamada3/123123/180857
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="Channels",FR: OCS MAX HD
+http://elaf.xyz:80/Hamada3/123123/180858
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="Channels",FR: OCS MAX
+http://elaf.xyz:80/Hamada3/123123/180859
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="Channels",FR: OCS Geants HD
+http://elaf.xyz:80/Hamada3/123123/180860
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="Channels",FR: OCS Geants
+http://elaf.xyz:80/Hamada3/123123/180861
+#EXTINF:0 tvg-id="Action.fr" group-title="Channels",FR: ACTION HD
+http://elaf.xyz:80/Hamada3/123123/180862
+#EXTINF:0 tvg-id="Action.fr" group-title="Channels",FR: ACTION
+http://elaf.xyz:80/Hamada3/123123/180863
+#EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",FR: 13eme RUE HD
+http://elaf.xyz:80/Hamada3/123123/180864
+#EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",FR: 13eme RUE
+http://elaf.xyz:80/Hamada3/123123/180865
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TFX HD
+http://elaf.xyz:80/Hamada3/123123/180866
+#EXTINF:0 tvg-id="TFX.fr" group-title="Channels",FR: TFX
+http://elaf.xyz:80/Hamada3/123123/180867
+#EXTINF:0 tvg-id="RTL9.fr" group-title="Channels",FR: RTL9 HD
+http://elaf.xyz:80/Hamada3/123123/180868
+#EXTINF:0 tvg-id="RTL9.fr" group-title="Channels",FR: RTL9
+http://elaf.xyz:80/Hamada3/123123/180869
+#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",FR: SYFY HD
+http://elaf.xyz:80/Hamada3/123123/180870
+#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",FR: SYFY
+http://elaf.xyz:80/Hamada3/123123/180871
+#EXTINF:0 tvg-id="TMC.fr" group-title="Channels",FR: TMC HD
+http://elaf.xyz:80/Hamada3/123123/180872
+#EXTINF:0 tvg-id="TMC.fr" group-title="Channels",FR: TMC
+http://elaf.xyz:80/Hamada3/123123/180873
+#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",FR: TCM CINEMA HD
+http://elaf.xyz:80/Hamada3/123123/180874
+#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",FR: TCM CINEMA
+http://elaf.xyz:80/Hamada3/123123/180875
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="Channels",FR: SERIE CLUB FHD
+http://elaf.xyz:80/Hamada3/123123/180876
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="Channels",FR: SERIE CLUB HD
+http://elaf.xyz:80/Hamada3/123123/180877
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",FR: PARAMOUNT CHANNEL HD
+http://elaf.xyz:80/Hamada3/123123/180878
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",FR: PARAMOUNT CHANNEL
+http://elaf.xyz:80/Hamada3/123123/180879
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",FR: CANAL PLUS SPORT HD
+http://elaf.xyz:80/Hamada3/123123/180880
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",FR: CANAL PLUS SPORT
+http://elaf.xyz:80/Hamada3/123123/180881
+#EXTINF:0 tvg-id="RougeTV.fr" group-title="Channels",FR: ROUGE TV HD
+http://elaf.xyz:80/Hamada3/123123/180882
+#EXTINF:0 tvg-id="RougeTV.fr" group-title="Channels",FR: ROUGE TV
+http://elaf.xyz:80/Hamada3/123123/180883
+#EXTINF:0 tvg-id="Animaux.fr" group-title="Channels",FR: ANIMAUX HD
+http://elaf.xyz:80/Hamada3/123123/180884
+#EXTINF:0 tvg-id="Animaux.fr" group-title="Channels",FR: ANIMAUX
+http://elaf.xyz:80/Hamada3/123123/180885
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="Channels",FR: Ushuaia HD
+http://elaf.xyz:80/Hamada3/123123/180886
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="Channels",FR: Ushuaia
+http://elaf.xyz:80/Hamada3/123123/180887
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="Channels",FR: NAT GEO WILD HD
+http://elaf.xyz:80/Hamada3/123123/180888
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="Channels",FR: NAT GEO WILD
+http://elaf.xyz:80/Hamada3/123123/180889
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: NATIONAL GEO HD
+http://elaf.xyz:80/Hamada3/123123/180890
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="Channels",FR: NATIONAL GEO
+http://elaf.xyz:80/Hamada3/123123/180891
+#EXTINF:0 tvg-id="Discovery.fr" group-title="Channels",FR: DISCOVERY HD
+http://elaf.xyz:80/Hamada3/123123/180892
+#EXTINF:0 tvg-id="Discovery.fr" group-title="Channels",FR: DISCOVERY
+http://elaf.xyz:80/Hamada3/123123/180893
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="Channels",FR: DISCOVERY SCIENCE HD
+http://elaf.xyz:80/Hamada3/123123/180894
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="Channels",FR: DISCOVERY SCIENCE
+http://elaf.xyz:80/Hamada3/123123/180895
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="Channels",FR: PLANET PLUS HD
+http://elaf.xyz:80/Hamada3/123123/180896
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: PLANET PLUS
+http://elaf.xyz:80/Hamada3/123123/180897
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",FR: PLANETE CI HD
+http://elaf.xyz:80/Hamada3/123123/180898
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",FR: PLANETE CI
+http://elaf.xyz:80/Hamada3/123123/180899
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",FR: PLANETE A&E HD
+http://elaf.xyz:80/Hamada3/123123/180900
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",FR: PLANETE A&E
+http://elaf.xyz:80/Hamada3/123123/180901
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC STORY HD
+http://elaf.xyz:80/Hamada3/123123/180902
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC STORY
+http://elaf.xyz:80/Hamada3/123123/180903
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="Channels",FR: RMC Decouverte HD
+http://elaf.xyz:80/Hamada3/123123/180904
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="Channels",FR: RMC Decouverte
+http://elaf.xyz:80/Hamada3/123123/180905
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="Channels",FR: SCIENCE ET VIE HD
+http://elaf.xyz:80/Hamada3/123123/180906
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="Channels",FR: SCIENCE ET VIE
+http://elaf.xyz:80/Hamada3/123123/180907
+#EXTINF:0 tvg-id="Voyage.fr" group-title="Channels",FR: VOYAGE HD
+http://elaf.xyz:80/Hamada3/123123/180908
+#EXTINF:0 tvg-id="Voyage.fr" group-title="Channels",FR: VOYAGE
+http://elaf.xyz:80/Hamada3/123123/180909
+#EXTINF:0 tvg-id="Seasons.fr" group-title="Channels",FR: SEASON HD
+http://elaf.xyz:80/Hamada3/123123/180910
+#EXTINF:0 tvg-id="Seasons.fr" group-title="Channels",FR: SEASON
+http://elaf.xyz:80/Hamada3/123123/180911
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CHASSE&PECHE HD
+http://elaf.xyz:80/Hamada3/123123/180912
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="Channels",FR: CHASSE&PECHE
+http://elaf.xyz:80/Hamada3/123123/180913
+#EXTINF:0 tvg-id="Histoire.fr" group-title="Channels",FR: HISTOIRE HD
+http://elaf.xyz:80/Hamada3/123123/180914
+#EXTINF:0 tvg-id="Histoire.fr" group-title="Channels",FR: HISTOIRE
+http://elaf.xyz:80/Hamada3/123123/180915
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TOUTE_L\'HISTOIRE HD
+http://elaf.xyz:80/Hamada3/123123/180916
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TOUTE L\'HISTOIRE
+http://elaf.xyz:80/Hamada3/123123/180917
+#EXTINF:0 tvg-id="Trek.fr" group-title="Channels",FR: Trek HD
+http://elaf.xyz:80/Hamada3/123123/180918
+#EXTINF:0 tvg-id="Trek.fr" group-title="Channels",FR: Trek
+http://elaf.xyz:80/Hamada3/123123/180919
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="Channels",FR: CRIME DISTRICT HD
+http://elaf.xyz:80/Hamada3/123123/180920
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="Channels",FR: CRIME DISTRICT
+http://elaf.xyz:80/Hamada3/123123/180921
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: DISCOVERY INVESTIGATION HD
+http://elaf.xyz:80/Hamada3/123123/180922
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: DISCOVERY INVESTIGATION
+http://elaf.xyz:80/Hamada3/123123/180923
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 1 HD
+http://elaf.xyz:80/Hamada3/123123/180924
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 1
+http://elaf.xyz:80/Hamada3/123123/180925
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Access 1 HD
+http://elaf.xyz:80/Hamada3/123123/180926
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 2 HD
+http://elaf.xyz:80/Hamada3/123123/180927
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 2
+http://elaf.xyz:80/Hamada3/123123/180928
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Access 2 HD
+http://elaf.xyz:80/Hamada3/123123/180929
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 3 HD
+http://elaf.xyz:80/Hamada3/123123/180930
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 3
+http://elaf.xyz:80/Hamada3/123123/180931
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Access 3 HD
+http://elaf.xyz:80/Hamada3/123123/180932
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 4 HD
+http://elaf.xyz:80/Hamada3/123123/180933
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 5 HD
+http://elaf.xyz:80/Hamada3/123123/180934
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 6 HD
+http://elaf.xyz:80/Hamada3/123123/180935
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 7 HD
+http://elaf.xyz:80/Hamada3/123123/180936
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 8 HD
+http://elaf.xyz:80/Hamada3/123123/180937
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 9 HD
+http://elaf.xyz:80/Hamada3/123123/180938
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 10 HD
+http://elaf.xyz:80/Hamada3/123123/180939
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 11 HD
+http://elaf.xyz:80/Hamada3/123123/180940
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 12 HD
+http://elaf.xyz:80/Hamada3/123123/180941
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 13 HD
+http://elaf.xyz:80/Hamada3/123123/180942
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 14 HD
+http://elaf.xyz:80/Hamada3/123123/180943
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 15 HD
+http://elaf.xyz:80/Hamada3/123123/180944
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Sport Live 16 HD
+http://elaf.xyz:80/Hamada3/123123/180945
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",FR: EuroSport 1 HD
+http://elaf.xyz:80/Hamada3/123123/180946
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",FR: EuroSport 1
+http://elaf.xyz:80/Hamada3/123123/180947
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Channels",FR: EuroSport 2 HD
+http://elaf.xyz:80/Hamada3/123123/180948
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Channels",FR: EuroSport 2
+http://elaf.xyz:80/Hamada3/123123/180949
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",FR: Infosport HD
+http://elaf.xyz:80/Hamada3/123123/180950
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",FR: Infosport
+http://elaf.xyz:80/Hamada3/123123/180951
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Foot24 HD
+http://elaf.xyz:80/Hamada3/123123/180952
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Foot24
+http://elaf.xyz:80/Hamada3/123123/180953
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Equipe21 HD
+http://elaf.xyz:80/Hamada3/123123/180954
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Golf Plus HD
+http://elaf.xyz:80/Hamada3/123123/180956
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="Channels",FR: Golf Plus
+http://elaf.xyz:80/Hamada3/123123/180957
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",FR: Golf Channel HD
+http://elaf.xyz:80/Hamada3/123123/180958
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",FR: Golf Channel
+http://elaf.xyz:80/Hamada3/123123/180959
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",FR: Equidia Live HD
+http://elaf.xyz:80/Hamada3/123123/180960
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",FR: Equidia Live
+http://elaf.xyz:80/Hamada3/123123/180961
+#EXTINF:0 tvg-id="EquidiaLife.fr" group-title="Channels",FR: EQUIDIA LIFE HD
+http://elaf.xyz:80/Hamada3/123123/180962
+#EXTINF:0 tvg-id="EquidiaLife.fr" group-title="Channels",FR: EQUIDIA LIFE
+http://elaf.xyz:80/Hamada3/123123/180963
+#EXTINF:0 tvg-id="Automoto.fr" group-title="Channels",FR: AB Moteur HD
+http://elaf.xyz:80/Hamada3/123123/180964
+#EXTINF:0 tvg-id="Automoto.fr" group-title="Channels",FR: AB Moteurs
+http://elaf.xyz:80/Hamada3/123123/180965
+#EXTINF:0 tvg-id="KombatSport.fr" group-title="Channels",FR: KOMBAT SPORT HD
+http://elaf.xyz:80/Hamada3/123123/180966
+#EXTINF:0 tvg-id="KombatSport.fr" group-title="Channels",FR: KOMBAT SPORT
+http://elaf.xyz:80/Hamada3/123123/180967
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BFM sportHD
+http://elaf.xyz:80/Hamada3/123123/180968
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BFM SPORT
+http://elaf.xyz:80/Hamada3/123123/180969
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: EXTREME SPORTS HD
+http://elaf.xyz:80/Hamada3/123123/180970
+#EXTINF:0 tvg-id="JOne.fr" group-title="Channels",FR: J-ONE HD
+http://elaf.xyz:80/Hamada3/123123/180971
+#EXTINF:0 tvg-id="JOne.fr" group-title="Channels",FR: J-ONE
+http://elaf.xyz:80/Hamada3/123123/180972
+#EXTINF:0 tvg-id="PIWI.fr" group-title="Channels",FR: Piwi HD
+http://elaf.xyz:80/Hamada3/123123/180973
+#EXTINF:0 tvg-id="PIWI.fr" group-title="Channels",FR: Piwi
+http://elaf.xyz:80/Hamada3/123123/180974
+#EXTINF:0 tvg-id="Tiji.fr" group-title="Channels",FR: TIJI HD
+http://elaf.xyz:80/Hamada3/123123/180975
+#EXTINF:0 tvg-id="Tiji.fr" group-title="Channels",FR: TIJI
+http://elaf.xyz:80/Hamada3/123123/180976
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="Channels",FR: DISNEY CHANNEL HD
+http://elaf.xyz:80/Hamada3/123123/180977
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="Channels",FR: DISNEY CHANNEL
+http://elaf.xyz:80/Hamada3/123123/180978
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="Channels",FR: DISNEY CINEMA HD
+http://elaf.xyz:80/Hamada3/123123/180979
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="Channels",FR: DISNEY CINEMA
+http://elaf.xyz:80/Hamada3/123123/180980
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="Channels",FR: DISNEY XD HD
+http://elaf.xyz:80/Hamada3/123123/180981
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="Channels",FR: DISNEY XD
+http://elaf.xyz:80/Hamada3/123123/180982
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="Channels",FR: DISNEY JUNIOR HD
+http://elaf.xyz:80/Hamada3/123123/180983
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="Channels",FR: DISNEY JUNIOR
+http://elaf.xyz:80/Hamada3/123123/180984
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="Channels",FR: TELETOON HD
+http://elaf.xyz:80/Hamada3/123123/180985
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="Channels",FR: TELETOON
+http://elaf.xyz:80/Hamada3/123123/180986
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TELETOON PLUS HD
+http://elaf.xyz:80/Hamada3/123123/180987
+#EXTINF:0 tvg-id="TeleTOONplus1.fr" group-title="Channels",FR: TELETOON PLUS
+http://elaf.xyz:80/Hamada3/123123/180988
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="Channels",FR: NICKELODEON HD
+http://elaf.xyz:80/Hamada3/123123/180989
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="Channels",FR: NICKELODEON
+http://elaf.xyz:80/Hamada3/123123/180990
+#EXTINF:0 tvg-id="Nick4teens.fr" group-title="Channels",FR: NICKELODEON 4TEEN HD
+http://elaf.xyz:80/Hamada3/123123/180991
+#EXTINF:0 tvg-id="Nick4teens.fr" group-title="Channels",FR: NICKELODEON 4TEEN
+http://elaf.xyz:80/Hamada3/123123/180992
+#EXTINF:0 tvg-id="NickJr.fr" group-title="Channels",FR: NICKELODEON JUNIOR HD
+http://elaf.xyz:80/Hamada3/123123/180993
+#EXTINF:0 tvg-id="NickJr.fr" group-title="Channels",FR: NICKELODEON JUNIOR
+http://elaf.xyz:80/Hamada3/123123/180994
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CartoonNetwork HD
+http://elaf.xyz:80/Hamada3/123123/180995
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CartoonNetwork
+http://elaf.xyz:80/Hamada3/123123/180996
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="Channels",FR: BOOMERANG HD
+http://elaf.xyz:80/Hamada3/123123/180997
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="Channels",FR: BOOMERANG
+http://elaf.xyz:80/Hamada3/123123/180998
+#EXTINF:0 tvg-id="Boing.fr" group-title="Channels",FR: BOING HD
+http://elaf.xyz:80/Hamada3/123123/180999
+#EXTINF:0 tvg-id="Boing.fr" group-title="Channels",FR: BOING
+http://elaf.xyz:80/Hamada3/123123/181000
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="Channels",FR: CANAL J HD
+http://elaf.xyz:80/Hamada3/123123/181001
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="Channels",FR: CANAL J
+http://elaf.xyz:80/Hamada3/123123/181002
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Channels",FR: GULLI HD
+http://elaf.xyz:80/Hamada3/123123/181003
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Channels",FR: GULLI
+http://elaf.xyz:80/Hamada3/123123/181004
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MANGAS TV HD
+http://elaf.xyz:80/Hamada3/123123/181005
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MANGAS TV
+http://elaf.xyz:80/Hamada3/123123/181006
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Toonami HD
+http://elaf.xyz:80/Hamada3/123123/181007
+#EXTINF:0 tvg-id="Toonami.fr" group-title="Channels",FR: Toonami
+http://elaf.xyz:80/Hamada3/123123/181008
+#EXTINF:0 tvg-id="GameOne.fr" group-title="Channels",FR: GAME ONE HD
+http://elaf.xyz:80/Hamada3/123123/181009
+#EXTINF:0 tvg-id="GameOne.fr" group-title="Channels",FR: GAME ONE
+http://elaf.xyz:80/Hamada3/123123/181010
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: Discovery Family HD
+http://elaf.xyz:80/Hamada3/123123/181011
+#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="Channels",FR: Discovery Family
+http://elaf.xyz:80/Hamada3/123123/181012
+#EXTINF:0 tvg-id="Teva.fr" group-title="Channels",FR: TEVA HD
+http://elaf.xyz:80/Hamada3/123123/181013
+#EXTINF:0 tvg-id="Teva.fr" group-title="Channels",FR: TEVA
+http://elaf.xyz:80/Hamada3/123123/181014
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",FR: Tv Breizh HD
+http://elaf.xyz:80/Hamada3/123123/181015
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",FR: Tv Breizh
+http://elaf.xyz:80/Hamada3/123123/181016
+#EXTINF:0 tvg-id="Comedie.fr" group-title="Channels",FR: Comedie HD
+http://elaf.xyz:80/Hamada3/123123/181017
+#EXTINF:0 tvg-id="Comedie.fr" group-title="Channels",FR: Comedie
+http://elaf.xyz:80/Hamada3/123123/181018
+#EXTINF:0 tvg-id="AB1.fr" group-title="Channels",FR: AB1 HD
+http://elaf.xyz:80/Hamada3/123123/181019
+#EXTINF:0 tvg-id="AB1.fr" group-title="Channels",FR: AB1
+http://elaf.xyz:80/Hamada3/123123/181020
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: WEO HD
+http://elaf.xyz:80/Hamada3/123123/181021
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: WEO
+http://elaf.xyz:80/Hamada3/123123/181022
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Channels",FR: BFM Business HD
+http://elaf.xyz:80/Hamada3/123123/181023
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Channels",FR: BFM Business
+http://elaf.xyz:80/Hamada3/123123/181024
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: E! Entertainment HD
+http://elaf.xyz:80/Hamada3/123123/181025
+#EXTINF:0 tvg-id="Eentertainment.fr" group-title="Channels",FR: E! Entertainment
+http://elaf.xyz:80/Hamada3/123123/181026
+#EXTINF:0 tvg-id="TraceUrban.fr" group-title="Channels",FR: TRACE Urban HD
+http://elaf.xyz:80/Hamada3/123123/181027
+#EXTINF:0 tvg-id="TraceUrban.fr" group-title="Channels",FR: TRACE Urban
+http://elaf.xyz:80/Hamada3/123123/181028
+#EXTINF:0 tvg-id="MyCuisine.fr" group-title="Channels",FR: My Cuisine
+http://elaf.xyz:80/Hamada3/123123/181029
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: My Cuisine HD
+http://elaf.xyz:80/Hamada3/123123/181030
+#EXTINF:0 tvg-id="BET.fr" group-title="Channels",FR: BET HD
+http://elaf.xyz:80/Hamada3/123123/181031
+#EXTINF:0 tvg-id="BravaHD.fr" group-title="Channels",FR: BRAVA HD
+http://elaf.xyz:80/Hamada3/123123/181032
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: ELLE GIRL HD
+http://elaf.xyz:80/Hamada3/123123/181033
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: IL-TV HD
+http://elaf.xyz:80/Hamada3/123123/181034
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: ONE TV HD
+http://elaf.xyz:80/Hamada3/123123/181035
+#EXTINF:0 tvg-id="RFMTV.fr" group-title="Channels",FR: RFM TV HD
+http://elaf.xyz:80/Hamada3/123123/181036
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TVM3 HD
+http://elaf.xyz:80/Hamada3/123123/181037
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",FR: LCI HD
+http://elaf.xyz:80/Hamada3/123123/181038
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",FR: LCI
+http://elaf.xyz:80/Hamada3/123123/181039
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: LCP HD
+http://elaf.xyz:80/Hamada3/123123/181040
+#EXTINF:0 tvg-id="LCP.fr" group-title="Channels",FR: LCP
+http://elaf.xyz:80/Hamada3/123123/181041
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BFM HD
+http://elaf.xyz:80/Hamada3/123123/181042
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="Channels",FR: BFM
+http://elaf.xyz:80/Hamada3/123123/181043
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",FR: C NEWS HD
+http://elaf.xyz:80/Hamada3/123123/181044
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",FR: C NEWS
+http://elaf.xyz:80/Hamada3/123123/181045
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: FRANCE.24 HD
+http://elaf.xyz:80/Hamada3/123123/181046
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: FRANCE.24
+http://elaf.xyz:80/Hamada3/123123/181047
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: EURONEWS HD
+http://elaf.xyz:80/Hamada3/123123/181048
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: EURONEWS
+http://elaf.xyz:80/Hamada3/123123/181049
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="Channels",FR: FRANCE INFO HD
+http://elaf.xyz:80/Hamada3/123123/181050
+#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="Channels",FR: M6 MUSIC HD
+http://elaf.xyz:80/Hamada3/123123/181051
+#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="Channels",FR: M6 MUSIC
+http://elaf.xyz:80/Hamada3/123123/181052
+#EXTINF:0 tvg-id="MCM.fr" group-title="Channels",FR: MCM HD
+http://elaf.xyz:80/Hamada3/123123/181053
+#EXTINF:0 tvg-id="MCM.fr" group-title="Channels",FR: MCM
+http://elaf.xyz:80/Hamada3/123123/181054
+#EXTINF:0 tvg-id="MCMtop.fr" group-title="Channels",FR: MCM TOP HD
+http://elaf.xyz:80/Hamada3/123123/181055
+#EXTINF:0 tvg-id="MCMtop.fr" group-title="Channels",FR: MCM TOP
+http://elaf.xyz:80/Hamada3/123123/181056
+#EXTINF:0 tvg-id="MTVbase.fr" group-title="Channels",FR: MTV Base HD
+http://elaf.xyz:80/Hamada3/123123/181057
+#EXTINF:0 tvg-id="MTVbase.fr" group-title="Channels",FR: MTV Base
+http://elaf.xyz:80/Hamada3/123123/181058
+#EXTINF:0 tvg-id="MTV.fr" group-title="Channels",FR: MTV FRANCE HD
+http://elaf.xyz:80/Hamada3/123123/181059
+#EXTINF:0 tvg-id="MTV.fr" group-title="Channels",FR: MTV FRANCE
+http://elaf.xyz:80/Hamada3/123123/181060
+#EXTINF:0 tvg-id="MTVHits.fr" group-title="Channels",FR: MTV Hits HD
+http://elaf.xyz:80/Hamada3/123123/181061
+#EXTINF:0 tvg-id="MTVHits.fr" group-title="Channels",FR: MTV Hits
+http://elaf.xyz:80/Hamada3/123123/181062
+#EXTINF:0 tvg-id="MTVDance.fr" group-title="Channels",FR: MTV Dance HD
+http://elaf.xyz:80/Hamada3/123123/181063
+#EXTINF:0 tvg-id="MTVDance.fr" group-title="Channels",FR: MTV Dance
+http://elaf.xyz:80/Hamada3/123123/181064
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: MEZZO FR HD
+http://elaf.xyz:80/Hamada3/123123/181065
+#EXTINF:0 tvg-id="MezzoLiveHD.fr" group-title="Channels",FR: MEZZO LIVE HD
+http://elaf.xyz:80/Hamada3/123123/181066
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",FR: beIN SPORTS 1 SD
+http://elaf.xyz:80/Hamada3/123123/181067
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",FR: beIN SPORTS 1 HD
+http://elaf.xyz:80/Hamada3/123123/181068
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",FR: beIN SPORTS 1 FHD
+http://elaf.xyz:80/Hamada3/123123/181069
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",FR: beIN SPORTS 2 SD
+http://elaf.xyz:80/Hamada3/123123/181070
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",FR: beIN SPORTS 2 HD
+http://elaf.xyz:80/Hamada3/123123/181071
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",FR: beIN SPORTS 2 FHD
+http://elaf.xyz:80/Hamada3/123123/181072
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",FR: beIN SPORTS 3 SD
+http://elaf.xyz:80/Hamada3/123123/181073
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",FR: beIN SPORTS 3 HD
+http://elaf.xyz:80/Hamada3/123123/181074
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",FR: beIN SPORTS 3 FHD
+http://elaf.xyz:80/Hamada3/123123/181075
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: LN24
+http://elaf.xyz:80/Hamada3/123123/181076
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BX1
+http://elaf.xyz:80/Hamada3/123123/181077
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANAL C
+http://elaf.xyz:80/Hamada3/123123/181078
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CGTN Français
+http://elaf.xyz:80/Hamada3/123123/181079
+#EXTINF:0 tvg-id="Action.fr" group-title="Channels",FR: ACTION FHD
+http://elaf.xyz:80/Hamada3/123123/181080
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Luxe_TV_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48560
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_POLAR+_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48558
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Clubbing_TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48786
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_ALTICE_STUDIO_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50067
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_LFM_TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3725
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_VICELAND_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4773
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_WARNER_TV_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49198
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_MY_CUISINE_TV_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49200
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_DISCOVERY_FAMILY_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49202
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_AB_EXPLORE_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50934
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_MOTORSPORT_TV_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48785
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_MOTORSPORT_TV_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51663
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_NOVELAS_TV_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51168
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_13eme_Rue_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/104
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_6ter_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/372
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_AB1_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48676
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_AB3_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48677
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Action_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4555
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_ALTICE_STUDIO_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48559
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_ANIMAUX_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47758
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Arte_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48669
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Bet_Etoile_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48678
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BFM_Business_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47785
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BFM_PARIS_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52223
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Boing_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48626
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Boomerang_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48565
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_C8_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4501
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL+_ALPHA_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/53532
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL+_CINEMA_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/78
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL+_DECALE_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/77
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Canal+_Kids_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49209
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL+_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/76
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL+_FORMULE_1_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/53533
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Canal+_Ligue_1_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/53531
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL+_MOTOGP_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/53530
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL+_PREMIER_LEAGUE_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/53528
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL+_SERIES_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/79
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Canal+_Sports_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49208
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL+_TOP14_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/53529
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL_ALPHA_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52490
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CANAL_J_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47805
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Cartoon_Network_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50952
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CHASSE_ET_PECHE_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52778
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Cherie_25_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3314
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Cine_Classic_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48671
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Cine_Club_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2292
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Cine_Emotion_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3332
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Cine_Famiz_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/83
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fr_Cine_Frisson_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/86
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Cine_POLAR_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4548
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Cine_Premier_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/85
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Comedie_+_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48674
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Crime_District_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48673
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_CSTAR_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4500
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_C_NEWS_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50857
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_DISCOVERY_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49688
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_DISCOVERY_INVESTIGATION_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49211
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Discovery_Science_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49860
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Disney_Channel_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48622
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Disney_Cinema_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50937
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_DISNEY_JUNIOR_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2298
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_E!_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52238
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_EQUIDIA_LIVE_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49748
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_EUROSPORT_1_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51644
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_EUROSPORT_2_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51645
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Foot+ 24/24_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51647
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_France_02_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/98
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_France_03_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/99
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_France_04_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/100
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_FRANCE_5_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1695
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_FRANCE_O_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51043
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_GAME_ONE_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47801
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_GOLF+_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49122
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Golf_Channel_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2896
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Gulli_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47800
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_INFOSPORT_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50296
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_J-ONE_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49859
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_LCI_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52780
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_L_EQUIPE_H265
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52720
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_M6_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/96
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_M6_MUSIC_H265
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52779
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Manga_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47803
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_MEZZO_LIVE_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49684
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_MTV_France_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48675
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_NATIONAL_GEO_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4502
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_NATIONAL_GEO_WILD_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48679
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Nickelodeon_4Teen_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50485
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_NICKELODEON_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52782
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_NICKELODEON_JUNIOR_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52781
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_NRJ_12_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49609
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_OCS_CHOC_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47779
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_OCS_City_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47777
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_OCS_GEANT_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47776
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_OCS_Max_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47774
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_PARAMOUNT_CHANNEL_DECALE_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51164
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_PARAMOUNT_CHANNEL_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51174
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_PARIS_PREMIERE_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50440
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Piwi_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47793
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_PLANETE+_CI_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50482
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_PLANETE_+_A&E_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2059
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Planete_+_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/111
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_RMC_Decouvert_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4553
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_RTL9_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3676
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Science_et_Vie_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50438
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_SEASON_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50915
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_SERIE_CLUB_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/105
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Syfy_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/106
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TCM_Cinema_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4547
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TEVA_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/108
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TF1_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/95
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TF1_SERIES_FILMS_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50139
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TFX_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4546
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TIJI_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47798
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TMC_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/371
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TOONAMI_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48782
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TOUTE_L'HISTOIRE_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52777
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TREK_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49466
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TV5_MONDE_INFO_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49607
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TVBREIZH_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4556
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Ushuaia_TV_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48680
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Voyage_TV_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/47759
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_W9_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/107
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Weo_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49158
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_LCP_PUBLIC_SENAT_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/54311
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIB: Libya Al Rasmeya
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46192
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIB: Libya 218
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/48891
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIB: LIBYA Channel
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46191
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIB: LIBYA EL WATAN
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/46193
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIB: LIBYA Al Ahrar TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49754
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIB: Al Nabaa
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2297
+#EXTINF:0 tvg-id="ext" group-title="Channels",LIB: Al Tanasuh TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49756
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: RTS Deux HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1524
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: RTS un HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/1523
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: SRF 1 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4010
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: SRF 2 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4011
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: SRF INFO
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2885
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: Teleclub Cinema
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2498
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: Teleclub EMOTION
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/3172
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: Teleclub Star Action
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2493
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: Teleclub Zoom
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51044
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: TELE M1
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2882
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: Teleclub Sport 1
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2494
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: Teleclub Sport 2
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2495
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: Tele Bärn
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/2883
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU:  Tele 1 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/4012
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: My Sports 1 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50867
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: My Sports 2 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50869
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: My Sports 3 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50870
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: My Sports 4 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50871
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: My Sports 5 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50872
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: My Sports 6 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50873
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: My Sports 7 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50874
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: My Sports 8 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50875
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: Tele M1 HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52415
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: CANAL 9
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52416
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: RTS Couleur 3
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52417
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: SPORT KANALEN HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/52419
+#EXTINF:0 tvg-id="ext" group-title="Channels",SU: LEMAN BLEU FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49752
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_BRAVA_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49271
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_FASHION_TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49265
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_FASHION_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49707
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_E!_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49266
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_HIT_TV_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49258
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_KTO_TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49257
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_LCP_ASSEMBLEE_NATIONALE
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49254
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_LUCKY_JACK_TV_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49255
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_AUTOMOTO_LA_CHAINE_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49262
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_Viàvosges_TV
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/49261
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_SUNDANCE_FullHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50059
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_LCI
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50065
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_C_NEWS_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50066
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_ROUGE_TV_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50163
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TV7
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/50165
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_TV8_MONT_BLANC_HD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51613
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR_LA_TELE_FHD
+http://server.sibfungold.info:8080/gaicu84/UcNSL7T0ud/51608
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",FR: TF1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1158
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF1 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218547
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",FR: TF1 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/29961
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF1+1
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/208894
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TF1+1 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218641
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",FR: FRANCE 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1941
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: FRANCE 2 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218549
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",FR: FRANCE 2 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/29960
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",FR: FRANCE 3 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1942
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: FRANCE 3 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218550
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",FR: FRANCE 3 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/50900
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: FRANCE 3 NOA
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/379577
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",FR: FRANCE 4 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/343
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: FRANCE 4 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218551
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",FR: FRANCE 4 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/50901
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",FR: FRANCE 5 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1943
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: FRANCE 5 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218552
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",FR: FRANCE 5 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/29959
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",FR: M6 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1159
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: M6 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218548
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",FR: M6 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/29962
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",FR: 6TER HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/366
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: 6TER HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218556
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",FR: 6TER FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/29954
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",FR: C8 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1931
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: C8 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218554
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",FR: C8 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134234
+#EXTINF:0 tvg-id="W9.fr" group-title="Channels",FR: W9 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1947
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: W9 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218553
+#EXTINF:0 tvg-id="W9.fr" group-title="Channels",FR: W9 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384429
+#EXTINF:0 tvg-id="TMC.fr" group-title="Channels",FR: TMC HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1946
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TMC HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218645
+#EXTINF:0 tvg-id="TMC.fr" group-title="Channels",FR: TMC FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/29955
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TMC+1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137937
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TMC+1 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218644
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="Channels",FR: PARIS PREMIERE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2546
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: PARIS PREMIERE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218559
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",FR: TV BREIZH HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3805
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: TV BREIZH HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218655
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",FR: TV BREIZH FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384431
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: E! ENTERTAINMENT HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3999
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: E! ENTERTAINMENT HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218603
+#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",FR: SYFY HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1238
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: SYFY HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218638
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: COMEDY CENTRAL  HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/165280
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: LUCKY JACK HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187836
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: ALSACE 20
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/73491
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: LFM TV FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/288953
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR:  TV8 MONTBLANC hevc
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218657
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: D5 TV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/253781
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: NON STOP PEOPLE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134345
+
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: -----FR CINEMA-----
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/135913
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="FR: -----FR CINEMA",FR: CANAL+ HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/364
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: CANAL+ HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218660
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="FR: -----FR CINEMA",FR: CANAL+ FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187547
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FR: -----FR CINEMA",FR: CANAL+  CINEMA HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/355
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: CANAL+ CINEMA HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218661
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FR: -----FR CINEMA",FR: CANAL+ CINEMA FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187544
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: CANAL+ DOCS FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384412
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="FR: -----FR CINEMA",FR: OCS Max HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3971
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: OCS MAX HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218676
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="FR: -----FR CINEMA",FR: OCS MAX FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384433
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FR: -----FR CINEMA",FR: OCS CHOC HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3969
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: OCS CHOC HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218673
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FR: -----FR CINEMA",FR: OCS CHOC FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384432
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FR: -----FR CINEMA",FR: OCS CITY HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3970
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: OCS CITY HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218674
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FR: -----FR CINEMA",FR: OCS CITY FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384434
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="FR: -----FR CINEMA",FR: OCS GEANTS HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3825
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: OCS GEANTS HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218675
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="FR: -----FR CINEMA",FR: OCS GEANTS FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187800
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FR: -----FR CINEMA",FR: CINE+ PREMIER HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1473
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: CINE+ PREMIER HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218668
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FR: -----FR CINEMA",FR: CINE+ PREMIER FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/145001
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FR: -----FR CINEMA",FR: CINE EMOTION HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1474
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: CINE+ EMOTION HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218665
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FR: -----FR CINEMA",FR: CINE+ EMOTION FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/145000
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FR: -----FR CINEMA",FR: CINE+ FRISSON HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/524
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: CINE+ FRISSON HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218667
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FR: -----FR CINEMA",FR: CINE+ FRISSON FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/144998
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FR: -----FR CINEMA",FR: CINE+ FAMIZ HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/523
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: CINE+ FAMIZ HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218666
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FR: -----FR CINEMA",FR: CINE+ FAMIZ FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/144999
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FR: -----FR CINEMA",FR: CINE+ CLUB HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/8560
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: CINE+ CLUB HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218669
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FR: -----FR CINEMA",FR: CINE+ CLUB FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188535
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FR: -----FR CINEMA",FR: CINE+ CLASSIC HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1480
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: CINE+ CLASSIC HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218670
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FR: -----FR CINEMA",FR: CINE CLASSIC FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384828
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: ORANGE CINE 6 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/394614
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: ORANGE CLUB 3 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/394604
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: ORANGE CRIME FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/394609
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: ORANGE PREMIUM 1 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/394600
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: ORANGE PREMIUM 2 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/394601
+#EXTINF:0 tvg-id="Action.fr" group-title="FR: -----FR CINEMA",FR: ACTION HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2541
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: ACTION HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218557
+#EXTINF:0 tvg-id="TCM.fr" group-title="FR: -----FR CINEMA",FR: TCM CINEMA HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2544
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: TCM CINEMA HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218679
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FR: -----FR CINEMA",FR: PARAMOUNT CHANNEL FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/199988
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FR: -----FR CINEMA",FR: PARAMOUNT CHANNEL HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3807
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: PARAMOUNT CHANNEL HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218677
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: ALTICE STUDIO HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/128406
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: ALTICE STUDIO HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218586
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: PARAMOUNT DECALE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/199990
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: PARAMOUNT DECALE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218678
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: PARAMOUNT DECALE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/199989
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: NOLLYWOOD HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94565
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: NOLLYWOOD TV Epic HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/273291
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: NOLLYWOOD FULL HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/208279
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: EUROCHANNEL HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/281215
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: A+ FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/123034
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: A+ HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/279603
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR CINEMA",FR: VICELAND HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384435
+
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: -----DIVERTISSEMENT-----
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/380774
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="FR: -----DIVERTISSEMENT",FR: CANAL+  DECALE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/365
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: CANAL+ DECALE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218663
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="FR: -----DIVERTISSEMENT",FR: CANAL+  DECALE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187545
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FR: -----DIVERTISSEMENT",FR: CANAL+ SERIES HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1444
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: CANAL+ SERIES HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218664
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FR: -----DIVERTISSEMENT",FR: CANAL+  SERIES FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/145002
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: TF1 SERIES FILMS HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/359
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: TF1 SERIES FILMS HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218642
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: TF1 SERIES FILMS FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/29957
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: TFX HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1949
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: TFX HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218643
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: TFX FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/29956
+#EXTINF:0 tvg-id="Comedie.fr" group-title="FR: -----DIVERTISSEMENT",FR: COMEDIE+ HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3813
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: COMEDIE+ HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218672
+#EXTINF:0 tvg-id="Comedie.fr" group-title="FR: -----DIVERTISSEMENT",FR: COMEDIE+ FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384455
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: WARNER TV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130875
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: WARNER TV HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218680
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: WARNER TV FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188532
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: POLAR+ HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/130874
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: POLAR+ HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218671
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: POLAR+ FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384457
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="FR: -----DIVERTISSEMENT",FR: DISNEY CINEMA HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/196205
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: DISNEY CINEMA HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218571
+#EXTINF:0 tvg-id="BET.fr" group-title="FR: -----DIVERTISSEMENT",FR: BET HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/8652
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: BET HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218589
+#EXTINF:0 tvg-id="BET.fr" group-title="FR: -----DIVERTISSEMENT",FR: BET FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384458
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="FR: -----DIVERTISSEMENT",FR: SERIE CLUB HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3803
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: SERIE CLUB HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218636
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="FR: -----DIVERTISSEMENT",FR: CHERIE 25 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1951
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: CHERIE 25 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218595
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="FR: -----DIVERTISSEMENT",FR: CHERIE 25 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134235
+#EXTINF:0 tvg-id="Teva.fr" group-title="FR: -----DIVERTISSEMENT",FR: TEVA HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2545
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: TEVA HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218640
+#EXTINF:0 tvg-id="AB1.fr" group-title="FR: -----DIVERTISSEMENT",FR: AB1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/7443
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: AB1 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218584
+#EXTINF:0 tvg-id="AB1.fr" group-title="FR: -----DIVERTISSEMENT",FR: AB1 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384791
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: AB 3 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/197281
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: AB3 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218585
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: CSTAR HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1950
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: C STAR HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218555
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: CSTAR FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134233
+#EXTINF:0 tvg-id="RTL9.fr" group-title="FR: -----DIVERTISSEMENT",FR: RTL 9 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2542
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: RTL 9 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218634
+#EXTINF:0 tvg-id="13RUE.fr" group-title="FR: -----DIVERTISSEMENT",FR: 13 EME RUE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1236
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: 13 EME RUE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218558
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: CLIQUE TV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/198419
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: CLIQUE TV HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218596
+#EXTINF:0 tvg-id="ext" group-title="FR: -----DIVERTISSEMENT",FR: NOVELAS TV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/262678
+
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: -----FR SPORT-----
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/135906
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FR: -----FR SPORT",FR: CANAL+ SPORT HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/356
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: CANAL+ SPORT HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218691
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FR: -----FR SPORT",FR: CANAL+ SPORT FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187549
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: CANAL+ TOP 14 RUGBY  FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/339542
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: CANAL+ LIGUE 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/322279
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: CANAL+ PREMIER LEAGUE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/339544
+#EXTINF:0 tvg-id="Foot24.fr" group-title="FR: -----FR SPORT",FR: FOOT+ 24/24 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3981
+#EXTINF:0 tvg-id="Foot24.fr" group-title="FR: -----FR SPORT",FR: FOOT+ 24/24 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188522
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="FR: -----FR SPORT",FR: BEIN SPORT 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/361
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="FR: -----FR SPORT",FR: BEIN SPORT 1 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187813
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BEIN SPORT 1 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218706
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="FR: -----FR SPORT",FR: BEIN SPORT 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/362
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BEIN SPORT 2 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218707
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="FR: -----FR SPORT",FR: BEIN SPORT 2 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187812
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="FR: -----FR SPORT",FR: BEIN SPORT 3 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/363
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BEIN SPORT 3 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/268448
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="FR: -----FR SPORT",FR: BEIN SPORT 3 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187811
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="FR: -----FR SPORT",FR: BEIN SPORTS MAX 4 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/8565
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="FR: -----FR SPORT",FR: BEIN SPORTS MAX 4 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187747
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BEIN SPORTS MAX  HD 5
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187746
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BEIN SPORT MAX HD 5
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/8566
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BEIN SPORT MAX HD 6
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/8567
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="FR: -----FR SPORT",FR: BEIN SPORTS MAX 6 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187745
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BEIN SPORT MAX HD 7
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/73482
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BEIN SPORT MAX HD 8
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/73483
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BEIN SPORT MAX HD 9
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/73484
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BEIN SPORTS MAX  HD 10
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187741
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORT 1
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/322971
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORTS 1 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187807
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORT 2
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/322972
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORTS 2 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187806
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORT 3
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/322973
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORTS 3 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187805
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORT 4
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/322974
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORTS 4 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187804
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORT 5
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/322975
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORTS 5 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187803
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORT 6
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/322976
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MULTISPORTS 6 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187802
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="FR: -----FR SPORT",FR: L'EQUIPE 21 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384460
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: L'EQUIPE 21 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218688
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="FR: -----FR SPORT",FR: L'EQUIPE 21 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384461
+#EXTINF:0 tvg-id="Infosport.fr" group-title="FR: -----FR SPORT",FR: INFOSPORT+ HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384462
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: INFOSPORT+ HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218611
+#EXTINF:0 tvg-id="Infosport.fr" group-title="FR: -----FR SPORT",FR: INFOSPORT+ FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/235058
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT UHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/198241
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FR: -----FR SPORT",FR: RMC SPORT 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/7175
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT 1 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218693
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FR: -----FR SPORT",FR: RMC SPORT 1 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187799
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FR: -----FR SPORT",FR: RMC SPORT 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/7176
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT 2 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218694
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FR: -----FR SPORT",FR: RMC SPORT 2 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/174965
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="FR: -----FR SPORT",FR: RMC SPORT 3 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/7434
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT 3 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218695
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="FR: -----FR SPORT",FR: RMC SPORT 3 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/176079
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="FR: -----FR SPORT",FR: RMC SPORT 4 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/137934
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT 4 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218696
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="FR: -----FR SPORT",FR: RMC SPORT  4 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/176136
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT 5 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/209453
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 5 FHD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218697
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 6
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187797
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 6 FHD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218698
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 7
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187796
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 7 FHD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218699
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 8
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187795
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 8 FHD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218700
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 9
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187794
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 9 FHD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218701
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 10
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218540
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 10 FHD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218702
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 11
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218541
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 12
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218542
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 13
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218543
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 14 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218544
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT LIVE 15 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218545
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC SPORT NEWS HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218692
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: RMC ACCESS  2 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/161707
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 1 HD (ÉVÉNEMENTS EN DIRECT)
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368502
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367644
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 1 Full FHD ( VENDREDI MATCH )
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/378385
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367643
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 2 HD (ÉVÉNEMENTS EN DIRECT)
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368503
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 2 Full HD ( SAMEDI MATCH )
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/378386
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 3 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367642
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 3 HD (ÉVÉNEMENTS EN DIRECT)
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368504
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 3 Full HD ( DIMANCHE 1er MATCH )
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/378392
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 4 HD (ÉVÉNEMENTS EN DIRECT)
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368505
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 4 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367641
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 4 Full HD ( DIMANCHE MULTIPLEX )
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/378497
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 5 HD (ÉVÉNEMENTS EN DIRECT)
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368506
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 5 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367640
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 5 Full HD ( DIMANCHE 2ème MATCH )
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/378503
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 6 HD (ÉVÉNEMENTS EN DIRECT)
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368507
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 6 HD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367639
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 6 Full HD ( DIMANCHE 3ème MATCH )
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/378501
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 7 HD (ÉVÉNEMENTS EN DIRECT)
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368508
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 7 HD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367638
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 7 Full HD ( DIMANCHE 4ème MATCH )
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/378500
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 8 HD (ÉVÉNEMENTS EN DIRECT)
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/368509
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR:  AMAZON PRIME 8 HD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367637
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 8 Full HD ( DIMANCHE 5ème MATCH )
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/378499
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME 9 Full HD ( DIMANCHE SOIR FOOTBALL )
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/378498
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: PRIME VIDEO 1 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367646
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME VIDEO 1
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/367645
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME VIDEO 2
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/380158
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME VIDEO 3
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/380157
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME VIDEO 4
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/380156
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME VIDEO 5
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/380155
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME VIDEO 6
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/380154
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME VIDEO 7
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/380153
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AMAZON PRIME VIDEO 8
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/380152
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="FR: -----FR SPORT",FR: EUROSPORT 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1892
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: EUROSPORT 1 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218682
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="FR: -----FR SPORT",FR: EUROSPORT 1 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384463
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="FR: -----FR SPORT",FR: EUROSPORT 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3827
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: EUROSPORT 2 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218683
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="FR: -----FR SPORT",FR: EUROSPORT 2 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384464
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR:  AUTOMOTO TV
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/330470
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AUTOMOTO HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/235057
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: AUTOMOTO LA CHAINE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188511
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: EQUIDIA HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1491
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: EQUIDIA HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218685
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: EQUIDIA FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188530
+#EXTINF:0 tvg-id="Golf.fr" group-title="FR: -----FR SPORT",FR: GOLF+  HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187808
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: GOLF+ HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218686
+#EXTINF:0 tvg-id="Golf.fr" group-title="FR: -----FR SPORT",FR: GOLF CHANNEL
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/8653
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: GOLF CHANNEL HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218687
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: EXTREME SPORTS FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188528
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: SPORT EN FRANCE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/288958
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: GINX eSports TV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/288956
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: MEN'S.UP
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/208281
+#EXTINF:0 tvg-id="OLTV.fr" group-title="FR: -----FR SPORT",FR: OL TV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/202593
+#EXTINF:0 tvg-id="Automoto.fr" group-title="FR: -----FR SPORT",FR: AB MOTEURS
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3829
+#EXTINF:0 tvg-id="Automoto.fr" group-title="FR: -----FR SPORT",FR: AB MOTEURS HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/333364
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: BFM SPORT
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/88284
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR SPORT",FR: L EQUIPE CINE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1488
+
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: -----CULTURE-----
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/380999
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="FR: -----CULTURE",FR: PLANETE+ HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1890
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: PLANETE+ HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218583
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="FR: -----CULTURE",FR: PLANETE+ FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384465
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: PLANETE+AVENTURE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188538
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: PLANETE+ AVENTURE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1445
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: PLANETE+ AVENTURE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218576
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: PLANETE+ CRIME HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1235
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: PLANETE+ CRIME HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218577
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="FR: -----CULTURE",FR: PLANETE+ CI FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384467
+#EXTINF:0 tvg-id="ARTE.fr" group-title="FR: -----CULTURE",FR: ARTE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1496
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: ARTE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218587
+#EXTINF:0 tvg-id="ARTE.fr" group-title="FR: -----CULTURE",FR: ARTE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134232
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: TV 5 MONDE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/8559
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="FR: -----CULTURE",FR: NAT GEO HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1893
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: NAT GEO HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218573
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="FR: -----CULTURE",FR: NAT GEO FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384477
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="FR: -----CULTURE",FR: NAT GEO WILD HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2548
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: NAT GEO WILD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218562
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="FR: -----CULTURE",FR: NAT GEO WILD FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187801
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FR: -----CULTURE",FR: USHUAIA TV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2549
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: USHUAIA TV HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218582
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FR: -----CULTURE",FR: USHUAIA FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187790
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FR: -----CULTURE",FR: RMC DECOUVERTE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1486
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: RMC DECOUVERTE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218633
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FR: -----CULTURE",FR: RMC DECOUVERTE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134237
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: RMC STORY HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1948
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: RMC STORY HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218659
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: RMC STORY FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134236
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: MUSEUM CHANNEL HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/208280
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="FR: -----CULTURE",FR: SCIENCE ET VIE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/335
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: SCIENCE ET VIE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218635
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="FR: -----CULTURE",FR: SCIENCE ET VIE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384479
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FR: -----CULTURE",FR: DISCOVERY SCIENCE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1233
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: DISCOVERY SCIENCE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218600
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: DISCOVERY FRANCE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2547
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: DISCOVERY FRANCE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/199984
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: DISCOVERY FAMILY HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187810
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: DISCOVERY FAMILY HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218599
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FR: -----CULTURE",FR: CRIME DISTRICT HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94538
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: CRIME DISTRICT HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218598
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: DISCOVERY FRANCE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218560
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: DISCOVERY INVESTIGATION HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94564
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: DISCOVERY INVEST HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218561
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FR: -----CULTURE",FR: DISCOVERY SCIENCE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/199985
+#EXTINF:0 tvg-id="Trek.fr" group-title="FR: -----CULTURE",FR: TREK HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3822
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: VOYAGE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218563
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: ABXPLORE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/205450
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: TREK TV HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218580
+#EXTINF:0 tvg-id="Histoire.fr" group-title="FR: -----CULTURE",FR: HISTOIRE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1484
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: HISTOIRE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218609
+#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="FR: -----CULTURE",FR: TOUTE L HISTOIRE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2550
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: TOUTE L.HISTOIRE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218647
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: TOUTE L'HISTOIRE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188525
+#EXTINF:0 tvg-id="Animaux.fr" group-title="FR: -----CULTURE",FR: ANIMAUX HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384676
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: ANIMAUX HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218568
+#EXTINF:0 tvg-id="Animaux.fr" group-title="FR: -----CULTURE",FR: ANIMAUX FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/334
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FR: -----CULTURE",FR: CHASSE ET PECHE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/337
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FR: -----CULTURE",FR: CHASSE ET PÊCHE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188518
+#EXTINF:0 tvg-id="Seasons.fr" group-title="FR: -----CULTURE",FR: SEASONS HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3804
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: SEASONS HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218578
+#EXTINF:0 tvg-id="ext" group-title="FR: -----CULTURE",FR: MY CUISINE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218625
+
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: -----FR ENFANT-----
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/135914
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: CANAL+  KID HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/357
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: CANAL+ KID HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218662
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: CANAL+ KID FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187546
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="FR: -----FR ENFANT",FR: DISNEY CINEMA FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/199987
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: DISNEY+ HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/249212
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="FR: -----FR ENFANT",FR: DISNEY CHANNEL HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1891
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: DISNEY CHANNEL HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218570
+#EXTINF:0 tvg-id="DisneyChannelPlus1.fr" group-title="FR: -----FR ENFANT",FR: DISNEY CHANNEL 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1952
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: DISNEY CHANNEL+1 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218601
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="FR: -----FR ENFANT",FR: DISNEY JUNIOR HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1954
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: DISNEY JUNIOR HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218565
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="FR: -----FR ENFANT",FR: DISNEY XD HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1953
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: DISNEY XD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218602
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="FR: -----FR ENFANT",FR: BOOMERANG HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1500
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: BOOMERANG HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218569
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FR: -----FR ENFANT",FR: NICKELODEON HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3809
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: NICKELODEON HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218574
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: NICKELODEON +1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/161753
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: NICK JUNIOR HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3808
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: NICK JUNIOR HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218626
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: NICKELODEON 4 TEEN HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/224548
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: NICKELODEON 4 TEEN HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218627
+#EXTINF:0 tvg-id="Boing.fr" group-title="FR: -----FR ENFANT",FR: BOING HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/8562
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: BOING HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218592
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="FR: -----FR ENFANT",FR: TELETOON+ HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1501
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: TELETOON+ HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218579
+#EXTINF:0 tvg-id="TeleTOONplus1.fr" group-title="FR: -----FR ENFANT",FR: TELETOON +1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/6035
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: TELETOON+1 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218639
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: TOONAMI HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94560
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: TOONAMI HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218566
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="FR: -----FR ENFANT",FR: CANAL J HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3828
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: CANAL J HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218594
+#EXTINF:0 tvg-id="JOne.fr" group-title="FR: -----FR ENFANT",FR: J-ONE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94561
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: J-ONE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384481
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: J ONE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218612
+#EXTINF:0 tvg-id="Gulli.fr" group-title="FR: -----FR ENFANT",FR: GULLI HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/347
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: GULLI HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218608
+#EXTINF:0 tvg-id="Gulli.fr" group-title="FR: -----FR ENFANT",FR: GULLI FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187828
+#EXTINF:0 tvg-id="Tiji.fr" group-title="FR: -----FR ENFANT",FR: TIJI HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3823
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: TIJI HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218567
+#EXTINF:0 tvg-id="Tiji.fr" group-title="FR: -----FR ENFANT",FR: TIJI FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/197279
+#EXTINF:0 tvg-id="PIWI.fr" group-title="FR: -----FR ENFANT",FR: PIWI+ HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3824
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: PIWI+ HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218575
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: PIWI + FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/197280
+#EXTINF:0 tvg-id="Mangas.fr" group-title="FR: -----FR ENFANT",FR: MANGAS
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/329
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: MANGAS HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218572
+#EXTINF:0 tvg-id="GameOne.fr" group-title="FR: -----FR ENFANT",FR: GAME ONE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3812
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: GAME ONE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218607
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: GAME ONE+1
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/134346
+#EXTINF:0 tvg-id="BabyTV.fr" group-title="FR: -----FR ENFANT",FR: BABY TV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/239438
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: IDF1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212535
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="FR: -----FR ENFANT",FR: CARTOON NETWORK HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1502
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR ENFANT",FR: CARTOON NETWORK HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218564
+
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: -----24/7-----
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/381169
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: MONDE GUMBALL
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/252132
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: DREAMWORKS
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/250776
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: MONDE ET NATURE
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/250737
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: DRAGON BALL SUPER
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/250449
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: TOM ET JERRY
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/250301
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: PEPPA PIG
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/250778
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: DORA L'EXPLORATRICE
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/250300
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: DC COMICS
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/250286
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: WWE
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/249211
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA ACTION HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/169318
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA ACTION 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/169336
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA ACTION 3 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/211958
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA DRAME 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/169335
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA COMEDY HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/169321
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA COMEDY 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212616
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA PREMIUM HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/169320
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA GOLD HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/169319
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA 1 2019 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/199459
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA 2019 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/198913
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: SL CINEMA 2 2019 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/200745
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 1 ACTION HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212571
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 2 COMEDY HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212570
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 3 ARTS MARCIAUX HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212572
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 4 BIOPIC HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212610
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 5 DOCUMENTAIRES HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212593
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 6 GUERRE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212615
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 7 Walt Disney HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212617
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 8 Policier HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212625
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 9 Epouvante-horreur HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212765
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 11 ACTION 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/213004
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 10 COMEDY 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212994
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 12 MANGAS HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/237537
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 13 DRAME HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/238029
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CINE OFFICE 14 CONCERT HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/247031
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: OCS GO CINEMA 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/129204
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: OCS GO CINEMA 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/129201
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CANALPLAY 1
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2126
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CANALPLAY 2
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2127
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CANALPLAY 3
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2128
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CANALPLAY 4
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2129
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: CANALPLAY 5
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/2130
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: A LA CARTE 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3830
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: A LA CARTE 2 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3831
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: A LA CARTE 3 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3832
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: A LA CARTE 4 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/208912
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: A LA CARTE 5 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3973
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: A LA CARTE 6 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3974
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: A LA CARTE 7 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3975
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: A LA CARTE 8 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/150671
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: A LA CARTE 9 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/150672
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: A LA CARTE 10 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/150673
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: Rakuten TV Comedie
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/372513
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: RAKUTEN TV Famille
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/372512
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: ORANGE CINEMA 1 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/129199
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: ORANGE CINEMA 4 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/129196
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: ORANGE CINEMA 5 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/129195
+#EXTINF:0 tvg-id="ext" group-title="FR: -----24/7",FR: ORANGE CINEMA AVENTURE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/129193
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FR: -----24/7",FR: PARIS PREMIERE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/384430
+
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: -----INFORMATION-----
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/381175
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="FR: -----INFORMATION",FR: FRANCE INFO
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/73487
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: FRANCE INFO HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218605
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="FR: -----INFORMATION",FR: FRANCE INFO HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1944
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: EURONEWS
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/13239
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: EURONEWS FR HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218604
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: RT FRANCE HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/339182
+#EXTINF:0 tvg-id="France24fr.fr" group-title="FR: -----INFORMATION",FR: FRANCE 24 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/789
+#EXTINF:0 tvg-id="CNews.fr" group-title="FR: -----INFORMATION",FR: CNEWS HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1956
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: CNEWS HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218597
+#EXTINF:0 tvg-id="CNews.fr" group-title="FR: -----INFORMATION",FR: CNEWS FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187827
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="FR: -----INFORMATION",FR: BFM TV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1958
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: BFM TV HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218591
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="FR: -----INFORMATION",FR: BFM TV FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187826
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: BFM PARIS FHD HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218631
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="FR: -----INFORMATION",FR: BFM BUSINESS HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/73486
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: BFM BUSINESS HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218590
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: LCP HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1957
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: LCP FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187829
+#EXTINF:0 tvg-id="LCI.fr" group-title="FR: -----INFORMATION",FR: LCI HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/5564
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: LCI HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218615
+#EXTINF:0 tvg-id="i24News.fr" group-title="FR: -----INFORMATION",FR: I24 NEWS
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/73490
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: I24 NEWS HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218610
+#EXTINF:0 tvg-id="KTO.fr" group-title="FR: -----INFORMATION",FR: KTO
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1207
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: TV5 MONDE hevc
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218656
+#EXTINF:0 tvg-id="ext" group-title="FR: -----INFORMATION",FR: LA CHAINE METEO HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218614
+
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: -----FR MUSIQUE NEWS-----
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/135916
+#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: M6 MUSIC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/13880
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: M6 MUSIC HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218617
+#EXTINF:0 tvg-id="NRJHits.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: NRJ HITS HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/29906
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: NRJ HITS HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218629
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: NRJ 12 HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/1497
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: NRJ 12 HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218628
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: NRJ 12 FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/29953
+#EXTINF:0 tvg-id="MCM.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: MCM
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/13903
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: MCM HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218619
+#EXTINF:0 tvg-id="MCMtop.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: MCM TOP HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/136164
+#EXTINF:0 tvg-id="MTV.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: MTV FRANCE
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/6038
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: MTV FRANCE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218623
+#EXTINF:0 tvg-id="MTVHits.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: MTV HITS
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/172043
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: MTV HITS HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218624
+#EXTINF:0 tvg-id="MTVDance.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: MTV DANCE
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/3811
+#EXTINF:0 tvg-id="BravaHD.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: BRAVA HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/65177
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: BRAVA HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218593
+#EXTINF:0 tvg-id="Mezzo.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: MEZZO
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94549
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: MEZZO LIVE HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218622
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: CSTAR HITS FRANCE FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188521
+#EXTINF:0 tvg-id="TraceUrban.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE URBAN
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/13215
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE URBAN HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218654
+#EXTINF:0 tvg-id="TraceAFRICA.fr" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE AFRICA
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94574
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE GOSPEL
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94573
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE MZIKI
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94572
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE NAIJA
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94571
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE TOCA
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94570
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE TROPICAL
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94569
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE SPORT AND STAR (MULTI LANGUAGE)
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/94568
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE CARIBBEAN
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/288951
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE LATINA
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/288950
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE AFRIKORA HEVC
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218648
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: TRACE KITOKO
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/187965
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: MELODY TV
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/218621
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: MELODY FHD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/188526
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: RT
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/194892
+#EXTINF:0 tvg-id="ext" group-title="FR: -----FR MUSIQUE NEWS",FR: DJAZZ TV HD
+http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/212532
