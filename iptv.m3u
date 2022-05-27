@@ -1,5 +1,1133 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_Sports_News
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2296
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_NBA_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49691
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_01_SD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3244
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_02_SD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3245
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_03_SD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3246
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_04_SD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3247
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_05_SD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49383
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_06_SD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49384
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_07_SD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49385
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_01_PREMIUM_SD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49685
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_02_PREMIUM_SD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49386
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_03_PREMIUM_SD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49686
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_premiere
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/17
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_Action
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/18
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_Drama
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/19
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_family
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1791
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Movies
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49494
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_FOX_Family_Movies_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51393
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Drama_Arabic
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49495
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Baraem
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3564
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Series_1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4114
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Series_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50439
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_JEEM
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3563
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_BE_Junior
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49868
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_GOURMET
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4113
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fatafeat
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50063
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_AMC
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48776
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_DREAMWORKS
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4577
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Boomerang
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48858
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_DMAX
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48892
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_Outdoor
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49491
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_DTX
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49496
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeiN_HGTV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52009
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Life_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52773
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Discovery_Kids_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52774
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Cartoon_Network_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52775
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_BBC_Earth_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52786
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeiN_Baby_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52811
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Crime_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53023
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Action_Movies_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53024
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Box_Office_1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53060
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Box_Office_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53061
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Box_Office_3
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53395
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_Discovery_Life
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53944
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Animal_Planet_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54362
+
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",•●★----| Chaîne OSN & ART |----★●•
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50004
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ALPHA_CINEMA_1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/37
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ALPHA_CINEMA_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/38
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Alpha_Musalsat
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50896
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_AL_Youm_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1618
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Animal_Planet_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50853
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Aflam_1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/31
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Aflam_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/32
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Cinema
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/33
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Hekayat_1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/34
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Hekayat_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/35
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Boomberg
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51458
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_BOX_Office_01
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/47
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_BOX_Office_02
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_BOX_Office_03
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Comedy
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2284
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Channel_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50852
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Family_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50851
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_IDX_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50850
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Science_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50849
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Disney_Channel_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50848
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Life_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48860
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Food_Network_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50838
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_History_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50837
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_Action
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/46
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_First+2_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51606
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_First_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3917
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/43
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_Disney_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48758
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Series_First_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50583
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Star_Movies
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1765
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Star_World
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1768
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Family_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51465
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Thriller_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51466
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_TLC_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51138
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Yahala_Al_Oula
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/39
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_YAHALA_CINEMA
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1860
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_YAHALA_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51464
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN WWE
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3923
+
+
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Action 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52341
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Action 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53153
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Aflam 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52160
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Aflam 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52159
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Horror
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53163
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Kids
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53168
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA masr7yat
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52158
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA ZaMaN
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52899
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEOUT ACTION 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53156
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",DRaGoN Action 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51552
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",FR: Movies Boss TV 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52640
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",FR: Movies Boss TV 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52641
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",FR: Movies Boss TV 3 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52642
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",FR: Movies Boss TV 4 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52643
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",FR: Movies Boss TV 6 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52645
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",FR: Movies Boss TV 8 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52647
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",FR: NETFLIX 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54365
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Action 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52156
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Arabia
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53887
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Arabic BoxOffice 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52342
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Arabic BoxOffice 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52343
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Cinema
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53857
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Cinema 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52829
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Cinema 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53171
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Classic
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53856
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Hollywood BoxOffice 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52345
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Hollywood BoxOffice 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52344
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Horror 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52157
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Kids 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53890
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Kids 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53853
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Kids 3
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53854
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Music
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53264
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Netflix 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53850
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Netflix 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53859
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Netflix 3
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53858
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Quran
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53265
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Master Cinema Kids1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52625
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Master Cinema Kids2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52626
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",MAX ACTION
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52902
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFILIX Action 3
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53161
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netfilix Choufli Hal 2006
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54346
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netfilix Choufli Hal 2007
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54347
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netfilix Choufli Hal 2008
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54348
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netfilix Choufli Hal 2009
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54349
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Action 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52163
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Action 3
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52192
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Action 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52882
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Adel-Imam
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52825
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX ARABIC 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52628
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX ARABIC 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53154
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX BOLLYOOD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52639
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Comedy +2 FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52194
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Comedy FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52193
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Drama +2 FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52195
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Horror 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52198
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix KIDS +2 FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52199
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix KIDS FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52200
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX MOVIES
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52891
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX sci-fi
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52191
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX THRILLER
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52887
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX THRILLER 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52884
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Nsibti Laziza Tunisienne
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53537
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",OSN ACTION 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53912
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",OSN Action 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53891
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",OSN HORROR
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53920
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",OSN KIDS
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53922
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Osn Netflix
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53892
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Rap Tunisien
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53534
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Sat 1 Horror
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52826
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Serie Tunisienne
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53536
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID  Sci-Fi 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53107
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Action
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52747
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID Action 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53101
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID ADVENTURE 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53096
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Aflam
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52797
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Bollywood 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52745
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID Bollywood 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53109
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Comedy 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52796
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID COMEDY 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53094
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID Doc 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53105
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Doc 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52744
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID DRAMA 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53111
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID FAMILY 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53108
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID FAMILY 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53106
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Hindi
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52742
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Horror
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52746
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Horror 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52799
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",shahid movies 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53266
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID ADVENTURE 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53103
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID  Sci-Fi 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53104
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Thriller 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53267
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD1  ظل امرأة
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52992
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD10 دامسكو
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53001
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD11 أوراق من ألماضي
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53002
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD12 ألمكيده
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53003
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD13  أدم
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53004
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD14 زوال
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53015
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD15 نبتدي منين الحكاية
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53014
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD16 قوس قزح
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53013
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD17 جرن الشاويش
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53012
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD18  حكم الهوى
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53011
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD19 حارة المشرقة
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53010
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD2  روزنة
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52993
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD20حرائر
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53009
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD21 حلاوه روح
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53008
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD22 حائرات
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53007
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD23 حدث في دمشق
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53006
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD24 بلا غمد
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53005
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD3  رجال و نساء
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52994
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD4 أخت تريز
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52995
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD5  نهاية رجل شجاع
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52996
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD6  خطوط حمراء
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52997
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD7 كشف الأقنعة
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52998
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD8 عين اجوزة
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52999
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofDrama- HD9 دومينو
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53000
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shoofli Hal Tunisienne
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53535
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofMax- Action HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52978
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofMax- Adel Imam HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52986
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofMax- Classic HD1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52979
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofMax- Classic HD2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52980
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofMax- Comedy HD1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52981
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofMax- Comedy HD2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52982
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofMax- Drama HD1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52983
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",ShoofMax- Drama HD2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52984
+
+
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_01_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2252
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_02_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2103
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_03_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2279
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_04_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50383
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_04_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50384
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_ACCESS_SPORT_01_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51267
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_ACCESS_SPORT_02_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51268
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 5
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51276
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 6
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51275
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 7
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51274
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 8
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51273
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 9
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51272
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 10
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51271
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 11
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51270
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 12
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51269
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: TELEFOOT HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52916
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Story_H265
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52784
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Decouverte_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52783
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_07
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49617
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_08
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49616
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_09
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49615
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_05
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49619
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_04
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49620
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_06
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49618
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_10
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49614
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_01_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53639
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_02_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53640
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_03_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53641
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_04_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53642
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_05_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53643
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_06_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53644
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 1 FHD [Match Time]
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53927
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 2 FHD [Match Time]
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53928
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 3 FHD [Match Time]
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53929
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 4 FHD [Match Time]
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53930
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 5 FHD [Match Time]
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53931
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 6 FHD [Match Time]
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53932
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 7 FHD [Match Time]
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53933
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 8 FHD [Match Time]
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53934
+
+
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: ##########   Turkey   ##########
+dr
+#EXTINF:0 tvg-id="24.tr" group-title="TR: ##########   Turkey",TR: 24 TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48425
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: 360 TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4065
+#EXTINF:0 tvg-id="AHaber.tr" group-title="TR: ##########   Turkey",TR: A Haber HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3165
+#EXTINF:0 tvg-id="A2.tr" group-title="TR: ##########   Turkey",TR: A2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4064
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: ANADOLU TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50801
+#EXTINF:0 tvg-id="ATV.tr" group-title="TR: ##########   Turkey",TR: ATV Avrupa
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48413
+#EXTINF:0 tvg-id="ATV.tr" group-title="TR: ##########   Turkey",TR: ATV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/826
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Aksu TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48416
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BEIN MOVIES ACTION 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50142
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BEIN SERIES VICE HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50148
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BEIN SERIES SCI-FI HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50799
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BEIN SERIES DRAMA HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50146
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BEIN SERIES COMEDY HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50147
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN IZ TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48274
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN Movies Family HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1553
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="TR: ##########   Turkey",TR: beIN Sport 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/469
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="TR: ##########   Turkey",TR: beIN Sport 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1547
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="TR: ##########   Turkey",TR: beIN Sport 3 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1549
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN Sport 4 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49946
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN Box Office 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4066
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN Box Office 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4067
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN Box Office 3 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4068
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN Movies Turk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48275
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN Movies Stars HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48276
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN Movies Premiere 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48277
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN Movies Action HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3179
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Animal Planet HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48415
+#EXTINF:0 tvg-id="ASpor.tr" group-title="TR: ##########   Turkey",TR: A Spor HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/828
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="TR: ##########   Turkey",TR: EuroSport 1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48253
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Euro D
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48384
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Euro Star
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48383
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="TR: ##########   Turkey",TR: EuroSport 2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48252
+#EXTINF:0 tvg-id="NatGeoPeople.tr" group-title="TR: ##########   Turkey",TR: Nat Geo People
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1773
+#EXTINF:0 tvg-id="NatGeoWild.tr" group-title="TR: ##########   Turkey",TR: Nat Geo Wild HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1760
+#EXTINF:0 tvg-id="KanalD.tr" group-title="TR: ##########   Turkey",TR: Kanal D HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1646
+#EXTINF:0 tvg-id="DisneyJunior.tr" group-title="TR: ##########   Turkey",TR: Disney Junior
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1759
+#EXTINF:0 tvg-id="DisneyChannel.tr" group-title="TR: ##########   Turkey",TR: Disney Channel
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1758
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Kral POP HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1550
+#EXTINF:0 tvg-id="Salon1.tr" group-title="TR: ##########   Turkey",TR: Salon 1 FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/802
+#EXTINF:0 tvg-id="Salon2.tr" group-title="TR: ##########   Turkey",TR: Salon 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/801
+#EXTINF:0 tvg-id="Salon3.tr" group-title="TR: ##########   Turkey",TR: Salon 3 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/800
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BEREKET  TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50802
+#EXTINF:0 tvg-id="TRT1.tr" group-title="TR: ##########   Turkey",TR: TRT 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/409
+#EXTINF:0 tvg-id="ShowTurk.tr" group-title="TR: ##########   Turkey",TR: Show Turk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/411
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="TR: ##########   Turkey",TR: Kanal 7 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/413
+#EXTINF:0 tvg-id="24.tr" group-title="TR: ##########   Turkey",TR: Kanal 24
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/414
+#EXTINF:0 tvg-id="CNNTURK.tr" group-title="TR: ##########   Turkey",TR: CNN Turk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/415
+#EXTINF:0 tvg-id="BLOOMBERG.tr" group-title="TR: ##########   Turkey",TR: Bloomberg TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/416
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BenguTurk TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/418
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Fox Crime
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3169
+#EXTINF:0 tvg-id="Fox.tr" group-title="TR: ##########   Turkey",TR: Fox HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3163
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Fox Life
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3168
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Dizismart PREMIUM HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50804
+#EXTINF:0 tvg-id="TJKTV.tr" group-title="TR: ##########   Turkey",TR: TJK TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48332
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TGRT Haber HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48320
+#EXTINF:0 tvg-id="StarHD.tr" group-title="TR: ##########   Turkey",TR: Star HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48337
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Smart Sport 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48242
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Smart Sport 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48243
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Sinema Action HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48273
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Sinema TV YERLI
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48257
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Show Max
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48335
+#EXTINF:0 tvg-id="ShowTV.tr" group-title="TR: ##########   Turkey",TR: Show HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48336
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Semerkant TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48338
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: S Sports TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48251
+#EXTINF:0 tvg-id="PowerTurk.tr" group-title="TR: ##########   Turkey",TR: Power Turk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48341
+#EXTINF:0 tvg-id="PlanetTurk.tr" group-title="TR: ##########   Turkey",TR: Planet Turk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48342
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: AS TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48343
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Planet Cocuk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48345
+#EXTINF:0 tvg-id="NTVSpor.tr" group-title="TR: ##########   Turkey",TR: NTV Sport HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48350
+#EXTINF:0 tvg-id="NTV.tr" group-title="TR: ##########   Turkey",TR: NTV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48351
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: NR1 Turk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48353
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: KRAL POP AKUSTIK
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50806
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Nick JR
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48349
+#EXTINF:0 tvg-id="NATGEOGRAPHIC.tr" group-title="TR: ##########   Turkey",TR: Nat Geo HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48348
+#EXTINF:0 tvg-id="MovieSmartFamily.tr" group-title="TR: ##########   Turkey",TR: MovieSmart Family HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48266
+#EXTINF:0 tvg-id="MovieSmartAction.tr" group-title="TR: ##########   Turkey",TR: MovieSmart Action HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49214
+#EXTINF:0 tvg-id="MovieSmartTurk.tr" group-title="TR: ##########   Turkey",TR: MovieSmart Turk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49213
+#EXTINF:0 tvg-id="MovieSmartFest.tr" group-title="TR: ##########   Turkey",TR: MovieSmart Fest HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49212
+#EXTINF:0 tvg-id="MovieSmartClassic.tr" group-title="TR: ##########   Turkey",TR: MovieSmart Classic HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49215
+#EXTINF:0 tvg-id="MovieSmartPlatin.tr" group-title="TR: ##########   Turkey",TR: MovieSmart Platin HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49216
+#EXTINF:0 tvg-id="MovieSmartPlatin2.tr" group-title="TR: ##########   Turkey",TR: MovieSmart Platin 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48264
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Dizismart Max HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48263
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Minika Go HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48354
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Minika Cocuk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48355
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: MagicBox Komedi HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48267
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: MagicBox Animasyon HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48268
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Lalegul TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48357
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Kon TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48360
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BEYKENT TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48362
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Karaden
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48363
+#EXTINF:0 tvg-id="Kanal7.tr" group-title="TR: ##########   Turkey",TR: Kanal 7 Avrupa
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48369
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Kanal 58
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48365
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Kanal 3
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48370
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Kanal 26
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48366
+#EXTINF:0 tvg-id="IdmanAzerbaycan.tr" group-title="TR: ##########   Turkey",TR: IDMan TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48371
+#EXTINF:0 tvg-id="History.tr" group-title="TR: ##########   Turkey",TR: History Channel HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48373
+#EXTINF:0 tvg-id="HalkTV.tr" group-title="TR: ##########   Turkey",TR: Halk TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48374
+#EXTINF:0 tvg-id="HABERTURK.tr" group-title="TR: ##########   Turkey",TR: Haber Turk HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48375
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="TR: ##########   Turkey",TR: GS TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48255
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Genc TV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48376
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Filmbox Fantastik HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48339
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: KUDUS TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48382
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Fenerbahce
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48254
+#EXTINF:0 tvg-id="DreamTV.tr" group-title="TR: ##########   Turkey",TR: Dream TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48389
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Dream Truk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48388
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Dost TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48390
+#EXTINF:0 tvg-id="DisneyXD.tr" group-title="TR: ##########   Turkey",TR: Disney XD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48391
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Discovery SIENCE HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48394
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Discovery IDX HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48395
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Da Vinci Learning HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48398
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Cem TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48400
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Cay TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48401
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Cartoon Network HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48402
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BRT 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48403
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BRT 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48404
+#EXTINF:0 tvg-id="BJKTV.tr" group-title="TR: ##########   Turkey",TR: BJK TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48256
+#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="TR: ##########   Turkey",TR: Beyaz TV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48406
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: BEN TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48409
+#EXTINF:0 tvg-id="Discovery.tr" group-title="TR: ##########   Turkey",TR: Discovery Channel
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3171
+#EXTINF:0 tvg-id="BabyTV.tr" group-title="TR: ##########   Turkey",TR: Baby TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48411
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Nickeledeon HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48352
+#EXTINF:0 tvg-id="TRTDIYANET.tr" group-title="TR: ##########   Turkey",TR: TRT Diyanet
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48328
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="TR: ##########   Turkey",TR: TRT Haber HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48327
+#EXTINF:0 tvg-id="TRTOkul.tr" group-title="TR: ##########   Turkey",TR: TRT Okul
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48324
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TRT Sport HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48323
+#EXTINF:0 tvg-id="TRTturk.tr" group-title="TR: ##########   Turkey",TR: TRT Turk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48322
+#EXTINF:0 tvg-id="Tv2.tr" group-title="TR: ##########   Turkey",TR: TV 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48317
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TV 4
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48316
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TV 5
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48315
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TV 8.5 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48313
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TV EM
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48312
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TV Kayseri
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48311
+#EXTINF:0 tvg-id="UlkeTV.tr" group-title="TR: ##########   Turkey",TR: Ulke TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48310
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TRT Muzik HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3170
+#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="TR: ##########   Turkey",TR: TRT Belgesel HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/406
+#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="TR: ##########   Turkey",TR: TRT Cocuk
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/405
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Yaban TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48309
+#EXTINF:0 tvg-id="TRTWorldHD.tr" group-title="TR: ##########   Turkey",TR: TRT World
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/401
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TiviBu Sport 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48241
+#EXTINF:0 tvg-id="TV8.tr" group-title="TR: ##########   Turkey",TR: TV8 FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/795
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TiviBu Sport 2 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48240
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: TiviBu Sport 3 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48239
+#EXTINF:0 tvg-id="TRTAVAZ.tr" group-title="TR: ##########   Turkey",TR: TRT AVAZ
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50809
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: YOL TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51541
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: bein Movies Premiere 1 HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52708
+#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="TR: ##########   Turkey",TR: TGRT EU
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52714
+#EXTINF:0 tvg-id="TVNet.tr" group-title="TR: ##########   Turkey",TR: TVNET HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52715
+#EXTINF:0 tvg-id="KanalB.tr" group-title="TR: ##########   Turkey",TR: KANAL B
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52716
+#EXTINF:0 tvg-id="PowerTV.tr" group-title="TR: ##########   Turkey",TR: POWER TV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/53016
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: Exxen Sport 1 FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54439
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: EXXEN SPORT 2 FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54440
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: beIN Sport HABER
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54465
+#EXTINF:0 tvg-id="ViasatHistory.tr" group-title="TR: ##########   Turkey",TR: VIASAT History HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54466
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: VIASAT EXPLORER HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54467
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",TR: DOCUBOX HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54468
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BBC_1_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/260
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BBC_2_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/261
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BBC_3_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/262
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BBC_4_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/263
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BBC_NEW_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/264
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BBC_Alba
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51651
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_4_Seven_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2013
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_At_The_Races
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2859
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_1_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3600
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_2_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3601
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_3_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3602
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_ESPN_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/255
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_Extra_1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/253
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_Extra_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3603
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_Extra_3
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3604
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_Extra_4
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3605
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_ITV_1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/256
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_ITV_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/257
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_ITV_3
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/258
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_ITV_4
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/259
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_UFC_FIGHT_PASS
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50967
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Challenge
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3614
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_CBS_Justice
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1466
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_CBS_REALITY
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1467
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Channel_4_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/49160
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Channel_5_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2012
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Channel_5_USA
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51623
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Movies_Action&Adventure
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48939
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_MOVIES_CRIME_&_THRILLER
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/241
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_MOVIES_DRAMA
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/245
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Movies_Family
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/242
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Living_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48942
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Movies_Premiere
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/244
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_MOVIES_SELECT
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48945
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_MOVIES_Disney
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1240
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Movies_SyFi-Horror
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/243
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_MOVIES_COMEDY
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/247
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Chelsea_TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2860
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Comedy_Central_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3615
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Comedy_Central_Extra
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3616
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Crime_&_Investigation
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3617
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_CBS_Drama
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1468
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_DISCOVERY_SCIENCE
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2037
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_EUROSPORT_1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2056
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_EUROSPORT_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2057
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Eir_Sports_1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3607
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Eir_Sports_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3608
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_EURONEWS
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4454
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Baby_TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2051
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Disney_Junior
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3684
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_DISNEY_CHANNEL_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2047
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_DRAMA
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2015
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_DMAX_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2041
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Discovery_Shed
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2050
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_DISCOVERY_TURBO
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2036
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_FOX_SPORTS
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1478
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Fox
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1477
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_DISCOVERY_HISTORY
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2039
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_DISCOVERY_INVESTIGATION
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2038
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Home
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2910
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Home_&_Health
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2911
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_MTV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1675
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_MTV_Dance
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1672
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_MTV_Rocks
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1674
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_MTV_Hits
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1669
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_MTV_Classic
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51650
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_HORROR_CHANNEL
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3621
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_LFC_TV_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2861
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_France_24_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3613
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Premier_Sports_1_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/793
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_DISCOVERY_Channel_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2040
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_E!_Entertainment_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3611
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_NAT_GEO_WILD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2035
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_NAT._GEO._FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2034
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Celtic_FC_TV (Live for Matches)
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50827
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_news
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/791
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_NFL_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/786
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Action_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48933
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Mix_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4557
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Mix_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48932
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Arena_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52229
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Arena_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4558
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Cricket_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/785
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Cricket_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4697
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_SPORTS_GOLF_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48925
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_SPORTS_MAIN_EVENT_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/788
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Main_Event_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4699
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Premier_League_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/784
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Premier_League_FullHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4701
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Football_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50058
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Football_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50826
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_SPORTS_F1_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/789
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_SPORTS_F1_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52055
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Sports_Golf_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/787
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BoxNation_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50877
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Alibi
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4051
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Animal_Planet
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4052
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Dave
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4063
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_E4
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3610
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Film_4
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2016
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Gold
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48959
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_RTE_One_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50686
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_RTE_TWO_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48964
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Setanta_Sports_1
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2054
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_2
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48950
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_Arts_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48952
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_Atlantic_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48975
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SKY_NEWS
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48951
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_One
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2862
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sky_MUTV_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1476
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Sony_Movies
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48976
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_EDEN
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3609
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Travel_Channel
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48965
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_True_Entertainment
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48966
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Universal
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48974
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_VIVA
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48970
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Watch
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48971
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_WWE_Network
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/48972
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Yesterday
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/1479
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_CBeebies_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/4060
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_DISNEY_XD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2046
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Cartoon_Network_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/50813
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_NICK_JUNIOR_Too
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2049
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_NICKTOONS
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2048
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_RACING_UK
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/2055
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_UTV_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/3754
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_TLC
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51621
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_FOX_NEWS
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51622
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_FOOD_NETWORK
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51652
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_QUEST
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51657
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Quest_Red
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51658
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Movies4Men
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51668
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_SYFY_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51670
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_TCM
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51669
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_History_Channel_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51683
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Box_Hits_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52082
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BOX_OFFICE_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52083
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_3_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52239
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_2_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52240
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_BT_Sport_1_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52241
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Tiny_Pop_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52020
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Premier_Sports_2_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52815
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_La_Liga_Tv_FHD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52816
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_FREE_SPORTS_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/52843
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",UK_Colors_CinePlex_HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/54300
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN : DITYA TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51311
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN : CAPTAIN TV HD
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51312
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN : DD PODHIGAI
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51318
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN : EET TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51320
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN :  JAYA MAX
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51322
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN :  JAYA MAX USA
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51323
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN :  JAYA MOVIES
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51324
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN :  JAYA PLUS
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51325
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN :  JAYA TV
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51326
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN :  JAYA TV US
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51327
+#EXTINF:0 tvg-id="ext" group-title="TR: ##########   Turkey",IN :  KTV USA
+http://server.sibfungold.info:8080/bagio19821/WhE4rbagio19821@dooby/51330
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Netflix Action HD
 http://casaip.tv:8000/t135ime135135/4122fj34ca/227231
 #EXTINF:0 tvg-id="ext" group-title="Channels",Netflix Action 2 HD
