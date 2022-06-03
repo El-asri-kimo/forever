@@ -1,6 +1,477 @@
 #EXTM3U
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",## BEIN SPORT HD ##
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11411
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORT HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11430
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS NBA HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11429
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS NEWS HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11428
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN PREMIUM 1 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139074
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN PREMIUM 2 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139073
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN PREMIUM 3 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139072
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11427
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11426
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11425
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 4 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11424
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 5 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11423
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 6 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11422
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 7 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11421
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 ENGLISH HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139080
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 ENGLISH HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139079
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 ENGLISH HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139078
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 FRENCH HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139077
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 FRENCH HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139076
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 FRENCH HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139075
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS XTRA 1 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/146394
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS XTRA 2 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/146395
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP SPORTS HIGHLIGHTS
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/324121
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343590
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 1 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343589
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 2 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343588
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 3 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343587
+#EXTINF:0 tvg-id="ext" group-title="Channels",## BEIN SPORT BESTQ ##
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11407
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN PREMIUM 1 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139083
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN PREMIUM 2 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139082
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN PREMIUM 3 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139081
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11406
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11405
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11404
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 4 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11403
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 5 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11402
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 6 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11401
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 7 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11400
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 ENGLISH UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139089
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 ENGLISH UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139088
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 ENGLISH UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139087
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 FRENCH UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139086
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 FRENCH UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139085
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 FRENCH UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139084
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS XTRA 1 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139091
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS XTRA 2 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139090
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343582
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 1 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343581
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 2 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343580
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 3 UHD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343579
+#EXTINF:0 tvg-id="ext" group-title="Channels",## BEIN SPORT 4K ##
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66044
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/304810
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS PREMIUM 1 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66045
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS PREMIUM 2 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66046
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS PREMIUM 3 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66047
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66054
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66057
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66058
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 4 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66048
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 5 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66049
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 6 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66050
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 7 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66051
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 ENGLISH 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66059
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 ENGLISH 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66060
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 ENGLISH 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66061
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR|  BEIN SPORTS 1 FRENCH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66062
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 FRENCH 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139059
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 FRENCH 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139060
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS XTRA 1 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66052
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS XTRA 2 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/66053
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343594
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 1 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343593
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 2 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343592
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 3 4K
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343591
+#EXTINF:0 tvg-id="ext" group-title="Channels",## BEIN SPORTS HEVC ##
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305208
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 PREMIUM
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305205
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 PREMIUM
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305204
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 PREMIUM
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305203
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305202
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305201
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305200
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 4
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305199
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 5
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305198
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 6
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305197
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 7
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305196
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 EN
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305195
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 EN
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305194
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 EN
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/305193
+#EXTINF:0 tvg-id="ext" group-title="Channels",## |AR| BEIN SPORT SD ##
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11393
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11392
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS NEWS SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11391
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS NBA SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11390
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS PREMIUM 1 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11389
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS PREMIUM 2 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11388
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS PREMIUM 3 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11387
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139061
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139062
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139063
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 4 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11386
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 5 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11385
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 6 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11384
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 7 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11383
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 ENGLISH SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139069
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 ENGLISH SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139068
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 ENGLISH SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139067
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 1 FRENCH SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139066
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 2 FRENCH SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139065
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS 3 FRENCH SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139064
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS XTRA 1 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139071
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS XTRA 2 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/139070
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343586
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 1 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343585
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 2 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343584
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEIN SPORTS AFC 3 SD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/343583
+#EXTINF:0 tvg-id="ext" group-title="Channels",## |AR| ALKASS ##
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11592
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALKASS 1 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11591
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALKASS 2 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11590
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALKASS 4 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11589
+#EXTINF:0 tvg-id="ext" group-title="Channels",## |AR| NEWS & FACTUAL ##
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11555
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| CORONA VIRUS INFO
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11554
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL JAZEERA HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11553
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL JAZEERA DOCUMENTARY HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11552
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL JAZEERA MUBASHER HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11551
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL ARABIYA HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11550
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL ARABIYA AL HADATH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11549
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL ARABY 2 HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/317736
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BBC ARABIC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11548
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| FRANCE 24
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11547
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| RT ARAB
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11546
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| SKY NEWS ARABIA HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11545
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL HURRA HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11544
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL ARABY HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11543
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| TRT ARABIC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11542
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL ALAM NEWS CHANNEL
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11541
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| DW ARABIC
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11540
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| CNBC ARABIYA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11538
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| HADATH NEWS
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11537
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL HIWAR HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11536
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL MUSTAKILA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11535
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL JAZEERA ENGLISH HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11534
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL JAZEERA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11533
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BBC WORLD NEWS
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11532
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL JAZEERA DOCUMENTARY
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11531
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL JAZEERA ENGLISH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11530
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| I24 NEWS
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11529
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| I24 NEWS HD FRENCH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11528
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| I24 NEWS HD ENGLISH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11527
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL QANAT 9
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11525
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| Al EKHBARIA HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11524
+#EXTINF:0 tvg-id="ext" group-title="Channels",## |AR| KIDS ##
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11523
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| JEEM KIDS HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11520
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ATFAL & MAWAHEB
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11519
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BARAEM KIDS HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11516
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| HOD HOD TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11515
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MAJID KIDS HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11514
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| SPACETOON
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11513
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| CARTOON NETWORK
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11512
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| TOYOR ALJANAH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11511
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AMOU YAZID TOFOLA TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/370776
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS SHAUN THE SHEEP HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294702
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS TOM AND JERRY HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294700
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS ZIG AND SHARKO HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294699
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS SANAFIR HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294698
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS MASHA AND THE BEAR HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294697
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS PJ MASKS HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294696
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS PEPPA PIG HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294694
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS BABYBUS HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294693
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS BEN AND HOLLYS HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294692
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS SPONGEBOB HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294691
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS DIANA PALY HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/299734
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS LITTLE ANGEL HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294690
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS FAIRY TALES HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294689
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS FIREMAN SAM HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294688
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS BOOBA HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294687
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS RABBIDS HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294686
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS SUPER JOJO HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294685
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS SIRAJ HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294684
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS TOM TALKING HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294683
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS MANSOUR HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294681
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS AL HIKAYA HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294680
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS ISLAMIC HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294679
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS GRIZZY HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294678
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS OGGY HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294677
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS VLAD AND NIKI HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294674
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS WOODPECKER HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294673
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP KIDS ODDBODS HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294672
+#EXTINF:0 tvg-id="ext" group-title="Channels",## |AR| ISLAMIC ##
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11211
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| SAUDI QURAN
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11203
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| SAUDI QURAN HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11202
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| SAUDI SUNNAH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11201
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| SAUDI SUNNAH HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11200
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| QURAN TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/138244
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| QURAN MAJID ALAWAIRI
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/138250
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| IQRAA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11199
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP QURAN AL AFASY HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294721
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP QURAN SAAD AL GHAMDI HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294716
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP QURAN ISLAM SUBHI HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294718
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP QURAN RAAD AL KUDRI HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294720
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP QURAN FARES ABBAD HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294722
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP QURAN MAHIR ALMUAIQLY DH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294719
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP QURAN ENGLISH HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294717
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP ISLAM AL SUNNAH TV HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294715
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP ISLAM AL NOUR TV HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294714
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP ISLAM AL MAAREF TV HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294713
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| POP ISLAM AL SHOROUK TV HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/294712
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| RESALA HD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11198
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ZAD TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11194
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL RAHMA TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11197
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MECCA TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11196
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AHLU ALQURAN
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11195
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL MAJD 1
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11193
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL MAJD 2
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11192
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL MAJD 3
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11191
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BIN OUTHAYMINE
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11189
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| TANASOH
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11188
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| SAFA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11187
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL RESALA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11186
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MTA AL ARABIA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11185
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MTA WORLD
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11184
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL HAQIQA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11183
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| DAWAAH TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11179
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| KAIFA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11180
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALMAHDI TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/65574
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL FATEH QURAN
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/65573
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| MAKKAH TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/65572
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALFATH SONA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/63861
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| ALIMAN TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/63857
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| SALAAM TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/63853
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL ZAHRA TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/63849
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL ISTIQAMA
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/63848
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| DUAA TV
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/63847
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL ERTH NABAWI
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/63846
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| AL SIRAT
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/11181
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| TV CORAN
+http://premiumott.xyz:80/YVGQFD8SHV/9OOUZAOIBB/31278
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN NEWS HD
 http://bestsave.ltd:2052/sultan1/sultan16/16001
 #EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN NBA
