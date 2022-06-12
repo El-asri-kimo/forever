@@ -1,6 +1,31 @@
 #EXTM3U
 
 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS 1 HD ARABE
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138432
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS 10 HD ARABE
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138441
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS 11 HD ARABE
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138442
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS 2 HD ARABE
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138433
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS 3 HD ARABE
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138434
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS 4 HD ARABE
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138435
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS 5 HD ARABE
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138436
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS 6 HD ARABE
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138437
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS 7 HD ARABE
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138438
+#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS| BEIN SPORTS 9 HD ARABE
+http://clienteworld.com:80/LindolfoNeto3/LindolfoNeto3/138440
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",SD: beIN SPORTS 1
 http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1660
 #EXTINF:0 tvg-id="ext" group-title="Channels",SD: beIN SPORTS 2
