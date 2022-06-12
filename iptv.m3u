@@ -1,5 +1,144 @@
 #EXTM3U
 
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SD: beIN SPORTS 1
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1660
+#EXTINF:0 tvg-id="ext" group-title="Channels",SD: beIN SPORTS 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1646
+#EXTINF:0 tvg-id="ext" group-title="Channels",SD: beIN SPORTS 3
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1663
+#EXTINF:0 tvg-id="ext" group-title="Channels",SD: TIVIBU SPOR 1
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1664
+#EXTINF:0 tvg-id="ext" group-title="Channels",SD: TIVIBU SPOR 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1645
+#EXTINF:0 tvg-id="ext" group-title="Channels",4K: beIN SPORTS
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1662
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: beIN SPORTS 1 [S1]
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21208
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: beIN SPORTS 1 [S2]
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1661
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: beIN SPORTS 1 [S3]
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/10538
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: beIN SPORTS 1 [S4]
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1793
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: beIN SPORTS 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1659
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: beIN SPORTS 3
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1658
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: beIN SPORTS 4
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1657
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: S SPORTS
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1647
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: S SPORTS 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1644
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: SMARTSPOR
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1650
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: SMARTSPOR 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1668
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: TIVIBU SPOR 1
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1653
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: TIVIBU SPOR 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1652
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: TIVIBU SPOR 3
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1651
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: EUROSPORT 1
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1649
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: EUROSPORT 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1648
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: EXXEN SPORT 1
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21211
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: EXXEN SPORT 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21212
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: EXXEN SPORT 3
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21213
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: EXXEN SPORT 4
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/22355
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: BEIN CONNECT 1
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/19536
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: BEIN CONNECT 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/19537
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: BEIN CONNECT 3
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/19538
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: BEIN CONNECT 4
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/19539
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: beIN SPORTS MAX 1
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1656
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: beIN SPORTS MAX 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1655
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: BEINSPORTS HABER
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1654
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: S SPORT PLUS 1 (MA)
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21209
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: S SPORT PLUS 2 (MA)
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21210
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: TJK TV
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1789
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: FB TV
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1640
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: GS TV
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1641
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: NBA TV
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1639
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: TRT SPOR
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1642
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: TRT SPOR 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/18236
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: A SPOR
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1643
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: SKYSPORT 1
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1744
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: SKYSPORT 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1745
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: RMC SPORT 1
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1800
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: DIEMA SPORT 1
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1802
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: DIEMA SPORT 2
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1803
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: TLC
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1624
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: D MAX
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1598
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: BEIN IZ TV
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1609
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: HISTORY
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1601
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: BBC EARTH
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1602
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: ANIMAL PLANET
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1600
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: NAT GEO
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1608
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: NAT GEO WILD
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1607
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: DISCOVERY ID XTRA
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1603
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: DISCOVERY SCIENCE
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1604
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: DISCOVERY CHANNEL
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1605
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: DA VINCI LEARNING
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1694
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: SCINCE&VIE
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21159
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: VIASAT EXPLORE
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21160
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: VIASAT HISTORY
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1695
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: VIASAT LOVE NATURE HD
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21158
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: LOVE NATURE
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21029
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: CHASSE PECHE
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/21024
+#EXTINF:0 tvg-id="ext" group-title="Channels",HD: FIGHT BOX
+http://cms.tivigoiptv.live:80/mahmut11/11mahmut/1723 
+
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="AR: ----- MYHD",AR: ----- MYHD -----
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/179049
 #EXTINF:0 tvg-id="ext" group-title="AR: ----- MYHD",AR: VIP MY CINEMA HD
