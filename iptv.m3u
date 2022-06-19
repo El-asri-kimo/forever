@@ -1,5 +1,650 @@
 #EXTM3U
 
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Global HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216466
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports News HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216465
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",beIN Sports NBA HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216464
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Global FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216463
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports News FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216462
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",beIN Sports NBA FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216461
+#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="Channels",beIN Sports Premium 1 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216523
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Premium 1 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216522
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Premium 1 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216521
+#EXTINF:0 tvg-id="beINSportsPremium2.qa" group-title="Channels",beIN Sports Premium 2 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216520
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Premium 2 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216519
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Premium 2 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216518
+#EXTINF:0 tvg-id="beINSportsPremium3.qa" group-title="Channels",beIN Sports Premium 3 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216517
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Premium 3 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216516
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Premium 3 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216515
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",beIN Sports 1 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216514
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",beIN Sports 1 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216513
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",beIN Sports 1 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216512
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",beIN Sports 2 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216511
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",beIN Sports 2 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216510
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",beIN Sports 2 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216509
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",beIN Sports 3 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216508
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",beIN Sports 3 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216507
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",beIN Sports 3 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216506
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",beIN Sports 4 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216505
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",beIN Sports 4 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216504
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",beIN Sports 4 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216503
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",beIN Sports 5 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216502
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",beIN Sports 5 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216501
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",beIN Sports 5 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216500
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",beIN Sports 6 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216499
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",beIN Sports 6 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216498
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",beIN Sports 6 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216497
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",beIN Sports 7 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216496
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",beIN Sports 7 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216495
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",beIN Sports 7 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216494
+#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="Channels",beIN Sports Xtra 1 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216493
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Xtra 1 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216492
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Xtra 11 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216491
+#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="Channels",beIN Sports Xtra 2 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216490
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Xtra 2 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216489
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports Xtra 22 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216488
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="Channels",beIN Sports English 1 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216487
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports English 1 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216486
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports English 1 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216485
+#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="Channels",beIN Sports English 2 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216484
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports English 2 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216483
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports English 2 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216482
+#EXTINF:0 tvg-id="beINSportsEnglish3.qa" group-title="Channels",beIN Sports English 3 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216481
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports English 3 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216480
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports English 3 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216479
+#EXTINF:0 tvg-id="beINSportsFrench1.qa" group-title="Channels",beIN Sports French 1 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216478
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports French 1 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216477
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports French 1 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216476
+#EXTINF:0 tvg-id="beINSportsFrench2.qa" group-title="Channels",beIN Sports French 2 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216475
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports French 2 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216474
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports French 2 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216473
+#EXTINF:0 tvg-id="beINSportsFrench3.qa" group-title="Channels",beIN Sports French 3 SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216472
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports French 3 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216471
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports French 3 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/216470
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: ABU DHABI SPORTS 1 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/226159
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: ABU DHABI SPORTS 2 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/226158
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: ABU DHABI SPORTS 3 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/226157
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: ABU DHABI SPORTS 4 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/226156
+#EXTINF:0 tvg-id="ext" group-title="Channels",UAE: ABU DHABI SPORT 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/226155
+#EXTINF:0 tvg-id="ext" group-title="Channels",UAE: ABU DHABI SPORT 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/226154
+#EXTINF:0 tvg-id="ext" group-title="Channels",UAE :ABU DHABI SPORT 3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/226153
+#EXTINF:0 tvg-id="ext" group-title="Channels",UAE: ABU DHABI SPORT 4
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/226152
+#EXTINF:0 tvg-id="ext" group-title="Channels",AD SPORT EXTRA HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/215542
+#EXTINF:0 tvg-id="ext" group-title="Channels",AD SPORT EXTRA SD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/215541
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 1 4K
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/213011
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS PREMIUM 01 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208785
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS PREMIUM  02 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208784
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS PREMIUM  03 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208783
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 01 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208782
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 02 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208781
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 03 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208780
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 04 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208779
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 05 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208778
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 06 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208777
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 07 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208776
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS XTRA 1 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208775
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS XTRA 2 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208774
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 01 FHD FR
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208773
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 02 FHD FR
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208772
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 03 FHD FR
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208771
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 01 FHD EN
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208770
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 02 FHD EN
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208769
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 03 FHD EN
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208768
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS NBA FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208767
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN KASS FHD3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208766
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINS PORTS 1 4K
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208765
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Channels",beIN SPORTS MAX 1 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208764
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS MAX 2 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208763
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS MAX 3 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208762
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",beIN SPORTS MAX 4 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208761
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Channels",beIN SPORTS MAX 5 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208760
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="Channels",beIN SPORTS MAX 6 FHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/208759
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEINS SPORTS PREMIUM 1 UHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205309
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEINS SPORTS PREMIUM 2 UHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205308
+#EXTINF:0 tvg-id="ext" group-title="Channels",|AR| BEINS SPORTS PREMIUM 3 UHD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205307
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS Premium 4K 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205299
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS Premium 4K 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205298
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS Premium 4K 3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205297
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 4K 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205296
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 4K 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205295
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 4K 3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205294
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 4K 4
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205293
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 4K 5
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205292
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 4K 6
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205291
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 4K 7
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205290
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS Extra 4K 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205289
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport English 4k 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205288
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport English 4k 3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205287
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport French 4k 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205286
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport French 4k 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205285
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport English 4k 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205284
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport NBA 4K
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/205283
+#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="Channels",|FR| M6 MUSIC HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199196
+#EXTINF:0 tvg-id="TraceUrban.fr" group-title="Channels",|FR| TRACE URBAN HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199195
+#EXTINF:0 tvg-id="MezzoLiveHD.fr" group-title="Channels",|FR| MEZZO LIVE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199194
+#EXTINF:0 tvg-id="MCM.fr" group-title="Channels",|FR| MCM HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199193
+#EXTINF:0 tvg-id="MCMtop.fr" group-title="Channels",|FR| MCM TOP HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199192
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MELODY TV HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199191
+#EXTINF:0 tvg-id="TeleMelody.fr" group-title="Channels",|FR| MELODY
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199190
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| LFM TV HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199189
+#EXTINF:0 tvg-id="NRJHits.fr" group-title="Channels",|FR| NRJ HITS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199188
+#EXTINF:0 tvg-id="RFMTV.fr" group-title="Channels",|FR| RFM TV HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199187
+#EXTINF:0 tvg-id="MTV.fr" group-title="Channels",|FR| MTV HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199186
+#EXTINF:0 tvg-id="MTVLiveHD.fr" group-title="Channels",|FR| MTV LIVE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199185
+#EXTINF:0 tvg-id="MTVHits.fr" group-title="Channels",|FR| MTV HITS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199184
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TVM 3 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199183
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TVM3 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199182
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| C STAR HIT
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199181
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| C STAR HITS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199180
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL NEWS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199179
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL NEWS
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199178
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",|FR| CNEWS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199177
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",|FR| CNEWS
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199176
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",|FR| LCI HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199175
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",|FR|  LCI
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199174
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="Channels",|FR| FRANCE INFO HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199173
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="Channels",|FR|  FRANCE INFO
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199172
+#EXTINF:0 tvg-id="France24fr.fr" group-title="Channels",|FR| FRANCE 24 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199171
+#EXTINF:0 tvg-id="France24.fr" group-title="Channels",|FR|  FRANCE 24
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199170
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EURONEWS (FRENCH)
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199169
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EURONEWS FR
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199168
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| LCP HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199167
+#EXTINF:0 tvg-id="LCP.fr" group-title="Channels",|FR|  LCP
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199166
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="Channels",|FR| BFM TV HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199165
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Channels",|FR| BFM BUSINESS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199164
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Channels",|FR| BFM BUSINESS
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199163
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BFM PARIS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199162
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BFM PARIS
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199161
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| I 24 NEWS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199160
+#EXTINF:0 tvg-id="i24News.fr" group-title="Channels",|FR| I 24 NEWS
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199159
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TOUTE L'HISTOIRE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199158
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TOUTE L'HISTOIRE
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199157
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="Channels",|FR| PLANÈTE+ HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199156
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",|FR| PLANÈTE+ AE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199155
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| PLANÈTE+ AE
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199154
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",|FR| PLANÈTE+ CI HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199153
+#EXTINF:0 tvg-id="Discovery.fr" group-title="Channels",|FR| DISCOVERY HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199152
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="Channels",|FR| DISCOVERY SCIENCE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199151
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| DISCOVERY FAMILY HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199150
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| DISCOVERY ID HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199149
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| DISCOVERY INVESTIGATION HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199148
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| NGC HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199147
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| NGC WILD HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199146
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="Channels",|FR| USHUAIA HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199145
+#EXTINF:0 tvg-id="Histoire.fr" group-title="Channels",|FR| HISTOIRE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199144
+#EXTINF:0 tvg-id="Animaux.fr" group-title="Channels",|FR| ANIMAUX HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199143
+#EXTINF:0 tvg-id="Trek.fr" group-title="Channels",|FR| TREK HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199142
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="Channels",|FR| CHASSE ET PÊCHE
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199141
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="Channels",|FR| CHASSE ET PÊCHE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199140
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="Channels",|FR| SCIENCE ET VIE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199139
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="Channels",|FR| RMC DECOUVERTE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199138
+#EXTINF:0 tvg-id="Seasons.fr" group-title="Channels",|FR| SEASONS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199137
+#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",|FR| TCM CINEMA HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199136
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="Channels",|FR| CRIME DISTRICT HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199135
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",|FR| BEIN SPORT 1 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199134
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",|FR| BEIN SPORT 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199133
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",|FR| BEIN SPORT 2 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199132
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",|FR| BEIN SPORT 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199131
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 3 FR HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199130
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",|FR| BEIN SPORT 3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199129
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",beIN SPORTS MAX 4
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199128
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 5 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199127
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 6 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199126
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 7 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199125
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 8 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199124
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 9 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199123
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",|FR| BEIN SPORT MAX 10 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199122
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",|FR| EUROSPORT 1 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199121
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",|FR| EUROSPORT 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199120
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Channels",|FR| EUROSPORT 2 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199119
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Channels",|FR| EUROSPORT 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199118
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 1 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199117
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199116
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 2 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199115
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199114
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199113
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 4
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199112
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 5 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199111
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 5
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199110
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 6 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199109
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 6
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199108
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 7 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199107
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 7
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199106
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 8 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199105
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 8
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199104
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 9 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199103
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 9
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199102
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 10 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199101
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 10
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199100
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 11 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199099
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 11
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199098
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 12 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199097
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 12
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199096
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 13 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199095
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 13
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199094
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 14 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199093
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 14
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199092
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 15 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199091
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 15
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199090
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTI SPORTS 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199089
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTI SPORTS 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199088
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTI SPORTS 3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199087
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTIS PORTS 3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199086
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTI SPORTS 4
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199085
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTI SPORTS 5
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199084
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTISPORTS 5
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199083
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTI SPORTS 6
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199082
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTISPORTS 6
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199081
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| FOOT+ 24 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199080
+#EXTINF:0 tvg-id="Foot24.fr" group-title="Channels",|FR| FOOT+ 24
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199079
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",|FR| INFOSPORT+ HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199078
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| INFO SPORT
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199077
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",|FR| EQUIDIA LIVE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199076
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",|FR| EQUIDIA LIVE
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199075
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",|FR| GOLF+ HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199074
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="Channels",|FR| GOLF+
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199073
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MOTORSPORT TV HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199072
+#EXTINF:0 tvg-id="MotorsportTV.fr" group-title="Channels",|FR| MOTORSPORT TV
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199071
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AUTO MOTO HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199070
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AUTO MOTO
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199069
+#EXTINF:0 tvg-id="GameOnePlus1.fr" group-title="Channels",|FR| GAME ONE  +1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199068
+#EXTINF:0 tvg-id="ext" group-title="Channels",MCANAL-EUROSPORT 360 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199067
+#EXTINF:0 tvg-id="ext" group-title="Channels",MCANAL-EUROSPORT 360 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199066
+#EXTINF:0 tvg-id="ext" group-title="Channels",MCANAL-EUROSPORT 360 3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199065
+#EXTINF:0 tvg-id="ext" group-title="Channels",MCANAL-EUROSPORT 360 4
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199064
+#EXTINF:0 tvg-id="ext" group-title="Channels",MCANAL-EUROSPORT 360 5
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199063
+#EXTINF:0 tvg-id="ext" group-title="Channels",MCANAL-EUROSPORT 360 6
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199062
+#EXTINF:0 tvg-id="ext" group-title="Channels",MCANAL-EUROSPORT 360 7
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199061
+#EXTINF:0 tvg-id="ext" group-title="Channels",MCANAL-EUROSPORT 360 8
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199060
+#EXTINF:0 tvg-id="ext" group-title="Channels",-SAT- MULTISPORTS 1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199059
+#EXTINF:0 tvg-id="ext" group-title="Channels",-SAT- MULTISPORTS 2
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199058
+#EXTINF:0 tvg-id="ext" group-title="Channels",-SAT- MULTISPORTS 3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199057
+#EXTINF:0 tvg-id="ext" group-title="Channels",-SAT- MULTISPORTS 4
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199056
+#EXTINF:0 tvg-id="ext" group-title="Channels",-SAT- MULTISPORTS 5
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199055
+#EXTINF:0 tvg-id="ext" group-title="Channels",-SAT- MULTISPORTS 6
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199054
+#EXTINF:0 tvg-id="ext" group-title="Channels",CSATHD-RMC SPORT 1.
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199053
+#EXTINF:0 tvg-id="ext" group-title="Channels",CSATHD-RMC SPORT 2.
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199052
+#EXTINF:0 tvg-id="ext" group-title="Channels",CSATHD-GOLF+.
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199051
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| POLAR+ HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199025
+#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",|FR| SYFY HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199024
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="Channels",|FR| SERIE CLUB HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199023
+#EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",|FR| 13 EME RUE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199022
+#EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",|FR| 13EME RUE
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199021
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR|  ALTICE STUDIO HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199020
+#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="Channels",|FR| ALTICE STUDIO
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199019
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| WARNER TV HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199018
+#EXTINF:0 tvg-id="Warnertv.fr" group-title="Channels",|FR| WARNER TV
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199017
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",|FR| TV BREIZH HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199016
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Channels",|FR| NRJ 12 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199015
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC STORY HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199014
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="Channels",|FR| CHERIE 25 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199013
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="Channels",|FR| PARIS PREMIERE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199012
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| VICELAND HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199011
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| E! ENTERTAINMENT HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199010
+#EXTINF:0 tvg-id="MyCuisine.fr" group-title="Channels",|FR| MY CUISINE
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199009
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MY CUISINE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199008
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| J ONE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199007
+#EXTINF:0 tvg-id="GameOne.fr" group-title="Channels",|FR| GAME ONE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199006
+#EXTINF:0 tvg-id="Mangas.fr" group-title="Channels",|FR| MANGAS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199005
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AB 1 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199004
+#EXTINF:0 tvg-id="AB1.fr" group-title="Channels",|FR| AB1
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199003
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AB 3 HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199002
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AB3
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199001
+#EXTINF:0 tvg-id="BET.fr" group-title="Channels",|FR| BET HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/199000
+#EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="Channels",|FR| TV5 MONDE
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198999
+#EXTINF:0 tvg-id="TV5MondeFBS.fr" group-title="Channels",|FR| TV5 MONDE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198998
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TELECLUB ZOOM
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198997
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TELECLUB ZOOM HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198996
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A+ HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198995
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| NOLLYWOOD  EPIC
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198994
+#EXTINF:0 tvg-id="Nollywood.fr" group-title="Channels",|FR| NOLLYWOOD TV
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198993
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",|FR| CANAL+ HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198992
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",|FR| CANAL+
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198991
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",|FR| CANAL+ SPORT HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198990
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="Channels",|FR| CANAL+ SERIE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198989
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",|FR| CANAL+ SPORT
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198988
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="Channels",|FR| CANAL+ SERIES
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198987
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="Channels",|FR| CANAL+ FAMILY HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198986
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="Channels",|FR| CANAL+ FAMILY
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198985
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="Channels",|FR| CANAL+ DECALE HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198984
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="Channels",|FR| CANAL+ DECALE
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198983
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",|FR| CANAL+ CINEMA HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198982
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",|FR| CANAL+ CINEMA
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198981
+
+#EXTINF:0 tvg-id="ext" group-title="|FR| CINEMA HD",-------------- |FR| CINEMA HD ------------
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198980
+#EXTINF:0 tvg-id="Action.fr" group-title="|FR| CINEMA HD",|FR| ACTION
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198979
+#EXTINF:0 tvg-id="Action.fr" group-title="|FR| CINEMA HD",|FR| ACTION HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198978
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="|FR| CINEMA HD",|FR| OCS MAX
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198977
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="|FR| CINEMA HD",|FR| OCS MAX HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198976
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="|FR| CINEMA HD",|FR| OCS CITY
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198975
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="|FR| CINEMA HD",|FR| OCS CITY HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198974
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="|FR| CINEMA HD",|FR| OCS GEANTS
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198973
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="|FR| CINEMA HD",|FR| OCS GEANTS HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198972
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="|FR| CINEMA HD",|FR| OCS CHOC
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198971
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="|FR| CINEMA HD",|FR| OCS CHOC HD
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198970
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="|FR| CINEMA HD",|FR| CINE+ PREMIER
+http://217.74.16.145:80/1520833330/Alwu3KxmlL/198969
+
 
 
  
