@@ -1,4 +1,775 @@
 #EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Source1 : ♣♦♣♦♣♦♣--beIN SporT bARCA HD--♣♦♣♦♣♦♣
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/48
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS NEWS HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/49
+#EXTINF:0 tvg-id="BeINSports.es" group-title="Channels",BEIN  SPORTS HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/50
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS PREMIUM 1 HD  Local
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/51
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS PREMIUM 2 HD  Local
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/52
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS PREMIUM 3 HD  Local
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/53
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1 HD Local
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/54
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 2 HD Local
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/55
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 HD Local
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/56
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 4 HD Local
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/57
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 5 HD Local
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/58
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 6 HD LOCAL
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/59
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 7 HD LOCAL
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/60
+#EXTINF:0 tvg-id="ext" group-title="Channels",Source1 : ♣♦♣♦♣♦♣--beIN SporT Madrid HD--♣♦♣♦♣♦♣
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/61
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/62
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 2 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/63
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/64
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BEIN SPORTS 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/65
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BEIN SPORTS 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/66
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BEIN SPORTS 6
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/67
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BEIN SPORTS 7
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/68
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BEIN SPORTS 1 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/69
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORTS 2 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/70
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORTS 3 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/71
+#EXTINF:0 tvg-id="ext" group-title="Channels",Source1 : ♣♦♣♦♣♦♣--beIN SporT Local Milan --♣♦♣♦♣♦♣
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/72
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT AR 1 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/73
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT AR 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/74
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT AR 2 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/75
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT AR 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/76
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT AR 3 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/77
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT AR 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/78
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT AR 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/79
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT AR 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/80
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT AR 6
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/81
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEINSPORT AR 7
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/82
+#EXTINF:0 tvg-id="ext" group-title="Channels",Source1 : ♣♦♣♦♣♦♣--beIN SporT Liverpool--♣♦♣♦♣♦♣
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/83
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS NEWS HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/84
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BEIN SPORTS 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/85
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1  Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/86
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORTS 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/87
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORTS 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/88
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/89
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORTS 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/90
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BEIN SPORTS 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/91
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BEIN SPORTS 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/92
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BEIN SPORTS 6
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/93
+#EXTINF:0 tvg-id="ext" group-title="Channels",Source1 : ♣♦♣♦♣♦♣--beIN SporT Juventus--♣♦♣♦♣♦♣
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/97
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1 premiem
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/98
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 2 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/99
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/100
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BEIN SPORTS 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/101
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BEIN SPORTS 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/102
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BEIN SPORTS 6
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/103
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BEIN SPORTS 7
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/104
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BEIN SPORTS 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/105
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORTS 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/106
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",BEIN SPORTS 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/107
+#EXTINF:0 tvg-id="ext" group-title="Channels",Source1 : ♣♦♣♦♣♦♣--beIN SporT INTER--♣♦♣♦♣♦♣
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/108
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 1 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/109
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 2 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/110
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS 3 Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/111
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",BEIN SPORTS 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/112
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BEIN SPORTS 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/113
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BEIN SPORTS 6
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/114
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BEIN SPORTS 7
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/115
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BEIN SPORTS 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/116
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",BEIN SPORTS 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/117
+#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="Channels",BEIN SPORTS xtra 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/118
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS French HD1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34017
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN SPORTS French HD2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34018
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports English HD1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34019
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports English HD2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34020
+#EXTINF:0 tvg-id="ext" group-title="Channels",AR: BeiN Sports 2 EN  FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports English HD3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34021
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="Channels",BeIN Sports NBA HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34022
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports Extra 2 FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35686
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport XTRA 1 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35687
+#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport XTRA 2 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35688
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",##### BEIN SPORTS UHD LOCAL  #####
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/1
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",BEIN SPORTS Premium 1 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/2
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",BEIN SPORTS Premium 2 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/3
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",BEIN SPORTS Premium 3 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/4
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",BEIN SPORTS 1 UHD LOCAL
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/9
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",BEIN SPORTS 2 UHD LOCAL
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/10
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",BEIN SPORTS 3 UHD LOCAL
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/11
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",BEIN SPORTS 4 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/5
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",BEIN SPORTS 5 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/6
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",BEIN SPORTS 6 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/7
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD LOCAL",BEIN SPORTS 7 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/8
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",##### BEIN SPORTS UHD #####
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/12
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 1 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/13
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 2 UHD Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 3 UHD Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/15
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 4 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/16
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 5 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/17
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 6 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/18
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 7 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/19
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 2 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/20
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 1 UHD Premium
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/21
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 3 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/22
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",##### BEIN SPORTS UHD #####
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/23
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 1 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/24
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 1 Premium  UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/25
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 2 Premium UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/26
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 2 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/27
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 3 Premium UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/28
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 3 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/29
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 4 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/30
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 5 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/31
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 6 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/32
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 7 UHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/33
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",AR: BeiN Sports 1 EN  FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",AR: BeiN Sports XTRA FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/36
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 1 ENGLISH FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34023
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 2 ENGLISH FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34024
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 3 ENGLISH FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34025
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 1 FRENCH FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34026
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BEIN SPORTS 2 FRENCH FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34027
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="BEIN SPORTS UHD",BEIN SPORTS NBA FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34028
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",BeIN Sports Extra 1 FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35685
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",AFC NO LOGO
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119092
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",Bein Sport AFC FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119093
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",Bein Sport AFC 1 FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119094
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",Bein Sport AFC 2 FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119095
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS UHD",Bein Sport AFC 3 FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119096
+
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/32690
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Sports SD1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34029
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Sports SD2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34030
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Sports SD3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34031
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Sports SD4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34032
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Sports SD5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34033
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Sports SD6
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34034
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Sports SD7
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/34035
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS Premium SD1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35705
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS Premium SD2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35706
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS Premium SD3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35707
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN PREMIUM 1_LOW
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39086
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN PREMIUM 2_LOW
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39087
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN PREMIUM 3_LOW
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39088
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS 1_LOW
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39089
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS 2_LOW
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39090
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS 3_LOW
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39091
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS 4_LOW
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39092
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS 5_LOW
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39093
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS 6_LOW
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39094
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS 7_LOW
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39095
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 3 HEVC
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119061
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 3 Ultra 4K
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119060
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 3 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119059
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 3 SD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119058
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 2 HEVC
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119057
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 2 Ultra 4K
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119056
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 2 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119055
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 2 SD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119054
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 1 HEVC
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119053
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 1 Ultra 4K
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119052
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 1 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119051
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC 1 SD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119050
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC HEVC
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119049
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC Ultra 4K
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119048
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119047
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",beIN SPORTS  AFC SD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119046
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein AFC Source Family
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119097
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein AFC3 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119098
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein AFC2 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119099
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein AFC1 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119100
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein AFC3 SD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119101
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein AFC2 SD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119102
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein AFC1 SD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/119103
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Abu Dhabi Sports 1 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/911
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Abu Dhabi Sports 2 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/912
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Abu Dhabi Sports 3 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/913
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Abu Dhabi Sports 4 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/914
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Al Kass Sports 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/915
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Al Kass Sports 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/916
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Al Kass Sports 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/917
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Al Kass Sports 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/918
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Al Kass Sports 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/919
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Emirates Dubai Racing 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/920
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Emirates Dubai Racing 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/921
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Saudi Sport KSA 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/922
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Saudi Sport KSA 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/923
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Saudi Sport KSA 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/924
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Saudi Sport KSA 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/925
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Saudi Sport KSA 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/926
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Saudi Sport KSA 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/927
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Abu Dhabi Sports 1 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/928
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Abu Dhabi Sports 2 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/929
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Abu Dhabi Sports 3 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/930
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Abu Dhabi Sports 4 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/931
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Al Kass Sports 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/932
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Al Kass Sports 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/933
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Al Kass Sports 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/934
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Al Kass Sports 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/935
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Al Kass Sports 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/936
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Emirates Dubai Racing 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/937
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Emirates Dubai Racing 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/938
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Emirates Dubai Racing 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/939
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Saudi Sport KSA 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/940
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Saudi Sport KSA 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/941
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Saudi Sport KSA 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/942
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[SPO] Saudi Sport KSA 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/943
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ON Time Sports 3HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/13725
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ON Time Sports 3FHD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/13726
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Libya Sports 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14024
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[KSA] KSA SSC 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35725
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[KSA] KSA SSC 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35726
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[KSA] KSA SSC 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35727
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[KSA] KSA SSC 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35728
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[KSA] KSA SSC 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35729
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[KSA] KSA SSC 6
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35730
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[KSA] KSA SSC 7
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/35731
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Abu Dhabi Sport ASIA 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/37977
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Abu Dhabi Sport ASIA 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/37978
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",KSA SSC 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/38503
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",KSA SSC 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/38504
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",KSA SSC 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/38505
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",KSA SSC 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/38506
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",KSA SSC 6
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/38507
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",KSA SSC 7
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/38508
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",KSA SSC 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/38509
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",HD الدوري الايطالي
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/41463
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - YAHALA HD ◉
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14163
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - YAHALA OULA HD ◉
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14164
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - YAHALA CINEMA HD ◉
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14165
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - ACTION HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14166
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - MOVIES HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14167
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - MOVIES FIRST HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14168
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - MOVIES DISNEY HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14169
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - ENIGMA HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14170
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - KIDS HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14171
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - SERIES FIRST HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14172
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - SERIES COMEDY HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14173
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - STAR MOVIES HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14174
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - STAR WORLD HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14175
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - TLC HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14176
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - CRIME INVESTIGATION HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14177
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - COMEDY CENTRAL HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14178
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - E HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14179
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - LIVING HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14180
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - Meezze HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14181
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - FANN HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14182
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - ALFA ALSAFWA HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14183
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - ALFA ALYOUM HD ◉
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14184
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - ALFA CINEMA 1 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14185
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - ALFA CINEMA 2 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14186
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - ALFA MUSALSALAT HD ◉
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14187
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - ALFA MUSIC NOW HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14188
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - H2 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14189
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - HISTORY HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14190
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - NAT GEOGRAPHIC
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14191
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - NAT GEO WILD HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14192
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - DISCOVERY HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14193
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - DISCOVERY ID HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14194
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - DISCOVERY SC HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14195
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - DISNEY JUNIOR HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14196
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - NICK JR HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14197
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - NICKELODEON HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14198
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN - DISNEY CHANNEL HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14199
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Osn Comedy
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/24176
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN Series
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/24177
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Osn Netflix
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/30424
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN HORROR
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/30425
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN ACTION 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/30426
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN KIDS
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/31197
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Osn Crime
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/31198
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN Action 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/31199
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN WOMAN { soon HD }
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/38882
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN Discovery Family HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/39085
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",OSN Movies First +2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/122915
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN MOVIES 1 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14200
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN MOVIES 2 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14201
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN MOVIES 3 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14202
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN MOVIES 4 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14203
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN AMC HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14204
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN FOX ACTION MOVIES HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14205
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN SERIES 1 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14206
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN SERIES 2 HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14207
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN DRAMA 1 HD ◉
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14208
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",FOX Rewayat
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14209
+#EXTINF:0 tvg-id="Fatafeat.qa" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN FATAFEAT
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14210
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN BARAEM HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14211
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN BEJUNIOR
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14212
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN BOOMERANG HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14213
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN CARTON NETWORK HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14214
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN DREAMWORKS
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14215
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN GOURMET HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14216
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN NAT GEO
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14217
+#EXTINF:0 tvg-id="food-network-rus" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Food Network
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14218
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN NAT WILD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/14219
+#EXTINF:0 tvg-id="BBCEarth.pl" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BBC Earth HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/37361
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Fox Life HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/37362
+#EXTINF:0 tvg-id="FoxFamilyMovies.qa" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Fox Movies HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/37363
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein jeem HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/37364
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein FX HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/37365
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Fox HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/37366
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein Discovery Ch
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/37367
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",BEIN FOX FAMILY MOVIES
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/38946
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",Bein FOX Crime
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/38948
+#EXTINF:0 tvg-id="MBC1.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC 1 Full HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/403
+#EXTINF:0 tvg-id="MBC2.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC 2 FULL HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/404
+#EXTINF:0 tvg-id="MBC3.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC 3 FULL HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/405
+#EXTINF:0 tvg-id="MBC4.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC 4 Full HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/406
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC 5 FULL HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/407
+#EXTINF:0 tvg-id="MBCAction.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Action FULL HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/426
+#EXTINF:0 tvg-id="MBCMax.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Max Full HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/412
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Drama FULL HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/409
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Drama Plus FULL HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/410
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Bollywoods FULL HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/411
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Iraq FULL HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/413
+#EXTINF:0 tvg-id="MBCAction.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Action
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/408
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Masr
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/414
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Masr 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/415
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/416
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC 1 (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/417
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/418
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC 2 (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/419
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/420
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC 3 (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/421
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/422
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC 4 (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/423
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/424
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC Action
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/425
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC b4u Aflam
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/427
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC b4u Plus
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/428
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC Bollywood
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/429
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] MBC Bollywood (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/430
+#EXTINF:0 tvg-id="MBC1.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/431
+#EXTINF:0 tvg-id="MBC2.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/432
+#EXTINF:0 tvg-id="MBC3.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC 3
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/433
+#EXTINF:0 tvg-id="MBC4.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC 4
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/434
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC 5
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/435
+#EXTINF:0 tvg-id="MBCAction.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Action
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/436
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Drama
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/437
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Drama Plus
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/438
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Bollywood
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/439
+#EXTINF:0 tvg-id="MBCMax.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Max
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/440
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Iraq
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/441
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Masr
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/442
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",MBC Masr 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/443
+#EXTINF:0 tvg-id="ARTAflam1.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ART Aflam 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/444
+#EXTINF:0 tvg-id="ARTAflam2.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ART Aflam 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/445
+#EXTINF:0 tvg-id="ARTCinema.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ART Cinema
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/446
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ARThekayat 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/448
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ARThekayat 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/449
+#EXTINF:0 tvg-id="ARTAflam1.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ART Aflam 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/450
+#EXTINF:0 tvg-id="ARTAflam2.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ART Aflam 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/451
+#EXTINF:0 tvg-id="ARTCinema.net" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ART Cinema
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/452
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ARThekayat 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/454
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",ARThekayat 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/455
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",AR:Art-Aflam-1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/456
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",AR:Art-Aflam-2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/457
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",AR:Art-Hekayat-2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/458
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",AR:Art-Hekayat
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/459
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",AR:ART_CINEMA
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/460
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",|AR.KSA|  ROTANA
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/476
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",|AR.KSA|  ROTANA MUSIC
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/477
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",|AR.KSA|  ROTANA CLIP
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/478
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",|AR.KSA|  ROTANA CLASSIC
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/479
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",|AR.KSA|  ROTANA  AFLAM
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/480
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",|AR.KSA|  ROTANA KHALIJIA
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/482
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",|AR.KSA|  ROTANA CINEMA
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/483
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana America HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/484
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Cinema 1
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/485
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Cinema 1 (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/486
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Cinema 2
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/487
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Cinema 2 (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/488
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Classic
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/489
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Classic (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/490
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Comedy
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/491
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Comedy (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/492
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Drama
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/493
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Aflam Plus
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/494
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Clip
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/495
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Khalijeya
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/496
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Khalijeya (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/497
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Kids
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/498
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana + HD
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/499
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Music
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/500
+#EXTINF:0 tvg-id="ext" group-title="☘☘☘★--- beIN SPORTS MAX SD ---★☘☘☘",[AR] Rotana Music (BK)
+http://sniperstv.vip:8080/Mohammed11/Mohammed11/501
+
+
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN 1 PREMIUM HD
 http://stariptv.org:8080/hamza2022/123456/15563
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN 2 PREMIUM HD
