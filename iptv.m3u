@@ -1,573 +1,581 @@
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MY: BEIN SPORTS 1
-http://bestsave.ltd:2052/Shamim2/123456/192528
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MY: BEIN SPORTS 2
-http://bestsave.ltd:2052/Shamim2/123456/192529
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MY: BEIN SPORTS 3
-http://bestsave.ltd:2052/Shamim2/123456/192530
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MY: BEIN SPORTS MAX 2
-http://bestsave.ltd:2052/Shamim2/123456/192531
-
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BOX OFFICE 1 FHD
-http://bestsave.ltd:2052/Shamim2/123456/165708
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BOX OFFICE 1 4K
-http://bestsave.ltd:2052/Shamim2/123456/165870
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BOX OFFICE 2 FHD
-http://bestsave.ltd:2052/Shamim2/123456/165707
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BOX OFFICE 2 4K
-http://bestsave.ltd:2052/Shamim2/123456/165869
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ DRAMA 1 HD
-http://bestsave.ltd:2052/Shamim2/123456/2064
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ DRAMA 1 ULTRA 4K
-http://bestsave.ltd:2052/Shamim2/123456/180784
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ MOVIES 1 FHD
-http://bestsave.ltd:2052/Shamim2/123456/2058
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ MOVIES 2 FHD
-http://bestsave.ltd:2052/Shamim2/123456/2061
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ MOVIES 3 FHD
-http://bestsave.ltd:2052/Shamim2/123456/67727
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ MOVIES 4 FHD
-http://bestsave.ltd:2052/Shamim2/123456/67728
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ SERIES 1 4K
-http://bestsave.ltd:2052/Shamim2/123456/2062
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ SERIES 2 4K
-http://bestsave.ltd:2052/Shamim2/123456/2063
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ GOURMET NEWS NETWORK 4K
-http://bestsave.ltd:2052/Shamim2/123456/2065
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FATAFEAT 4K
-http://bestsave.ltd:2052/Shamim2/123456/12979
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",beIN ➤ FOOD NETWORK 4K
-http://bestsave.ltd:2052/Shamim2/123456/12978
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ DREAM WORKS 4K
-http://bestsave.ltd:2052/Shamim2/123456/2066
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ STAR WORLD 4K
-http://bestsave.ltd:2052/Shamim2/123456/2067
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ STAR MOVIES 4K
-http://bestsave.ltd:2052/Shamim2/123456/2068
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FOX LIFE 4K
-http://bestsave.ltd:2052/Shamim2/123456/12977
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FOX CRIME 4K
-http://bestsave.ltd:2052/Shamim2/123456/12980
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FOX REWAYAT 4K
-http://bestsave.ltd:2052/Shamim2/123456/12981
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FOX ACTION MOVIES 4K
-http://bestsave.ltd:2052/Shamim2/123456/32097
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ JEEM TV 4K
-http://bestsave.ltd:2052/Shamim2/123456/104765
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BABY TV 4K
-http://bestsave.ltd:2052/Shamim2/123456/32105
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BARAM HD
-http://bestsave.ltd:2052/Shamim2/123456/28275
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BARAM ULTRA 4K
-http://bestsave.ltd:2052/Shamim2/123456/180787
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BOOMERANG 4K
-http://bestsave.ltd:2052/Shamim2/123456/32103
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ HGTV 4K
-http://bestsave.ltd:2052/Shamim2/123456/12988
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BBC EARTH 4K
-http://bestsave.ltd:2052/Shamim2/123456/12976
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ AMC NETWORKS 4K
-http://bestsave.ltd:2052/Shamim2/123456/32098
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FINE LIVING 4K
-http://bestsave.ltd:2052/Shamim2/123456/32102
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ OUTDOOR 4K
-http://bestsave.ltd:2052/Shamim2/123456/12982
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ TRAVEL 4K
-http://bestsave.ltd:2052/Shamim2/123456/32101
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ ANIMAL PLANET 4K
-http://bestsave.ltd:2052/Shamim2/123456/12987
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ NAT GEOGRAPHIC 4K
-http://bestsave.ltd:2052/Shamim2/123456/12984
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ NAT GEO PEOPLE 4K
-http://bestsave.ltd:2052/Shamim2/123456/12985
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ NATIONAL GEOGRAPHIC WILD 4K
-http://bestsave.ltd:2052/Shamim2/123456/12986
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN ART AFLAM 1
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257286.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN ART AFLAM 2
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257287.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN ART CINEMA
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257288.ts
+#EXTINF:0 tvg-id="OSNMoviesAction.net" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN MOVIES ACTION
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257289.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN Ya Hala Cinema HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257290.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN Ya Hala  Aloula HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257291.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN Ya Hala HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257292.ts
+#EXTINF:0 tvg-id="OSNMovies.net" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN Movies HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257293.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN Action HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257294.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN Comedy HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257295.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN Enigma HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257296.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN Kids HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257297.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN Series HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257298.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN TLC HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257299.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: beiN STAR MOVIES
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257300.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: ‎beiN Star World
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257301.ts
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="AR Ⓒ ARABIA PREMIUM",AR: Nickelodeon
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257302.ts
+#EXTINF:0 tvg-id="Nicktoons.uk" group-title="AR Ⓒ ARABIA PREMIUM",AR: Nicktoons
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257303.ts
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="AR Ⓒ ARABIA PREMIUM",AR: DISNEY JR
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257304.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: DISNEY JOINUR
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257305.ts
+#EXTINF:0 tvg-id="disney" group-title="AR Ⓒ ARABIA PREMIUM",AR: DISNEY  CH
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257306.ts
+#EXTINF:0 tvg-id="id-extra" group-title="AR Ⓒ ARABIA PREMIUM",AR: Discovery IDX
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257307.ts
+#EXTINF:0 tvg-id="discov_rus" group-title="AR Ⓒ ARABIA PREMIUM",AR: Discovery
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257308.ts
+#EXTINF:0 tvg-id="discov_sci" group-title="AR Ⓒ ARABIA PREMIUM",AR: Discovery Science
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257309.ts
+#EXTINF:0 tvg-id="fox-hd" group-title="AR Ⓒ ARABIA PREMIUM",AR: FOX HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257310.ts
+#EXTINF:0 tvg-id="outdoor" group-title="AR Ⓒ ARABIA PREMIUM",AR: OUTDOOR
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257311.ts
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="AR Ⓒ ARABIA PREMIUM",AR: Cbeebies
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257312.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: beiN DRAMA HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257313.ts
+#EXTINF:0 tvg-id="AMC.uk" group-title="AR Ⓒ ARABIA PREMIUM",AR: AMC HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257314.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: beiN FX
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257315.ts
+#EXTINF:0 tvg-id="CBSReality.ru" group-title="AR Ⓒ ARABIA PREMIUM",AR: CBS REALITY
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257316.ts
+#EXTINF:0 tvg-id="Fatafeat.qa" group-title="AR Ⓒ ARABIA PREMIUM",AR: beiN FATAFEAT
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257317.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: NAT GEO PEOPEL
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257318.ts
+#EXTINF:0 tvg-id="natgeowild" group-title="AR Ⓒ ARABIA PREMIUM",AR: NAT GEO WILD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257319.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: Nat GEO GRAPHIC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257320.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: Jeem europa
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257321.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: FOX Family Movies HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257322.ts
+#EXTINF:0 tvg-id="FoxMovies.pt" group-title="AR Ⓒ ARABIA PREMIUM",AR: FOX MOVIES
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257323.ts
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ YAHALA 4K
-http://bestsave.ltd:2052/Shamim2/123456/133531
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ YAHALA FHD
-http://bestsave.ltd:2052/Shamim2/123456/151456
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ YAHALA 1 FHD
-http://bestsave.ltd:2052/Shamim2/123456/151455
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ YAHALA OULA 4K
-http://bestsave.ltd:2052/Shamim2/123456/133530
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ YAHALA CINEMA 4K
-http://bestsave.ltd:2052/Shamim2/123456/151454
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ YAHALA CINEMA FHD
-http://bestsave.ltd:2052/Shamim2/123456/133529
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA MUSALSALAT 4K
-http://bestsave.ltd:2052/Shamim2/123456/151448
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA MUSALSALAT FHD
-http://bestsave.ltd:2052/Shamim2/123456/133523
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA ALYOUM 4K
-http://bestsave.ltd:2052/Shamim2/123456/133526
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA CINEMA 1 FHD
-http://bestsave.ltd:2052/Shamim2/123456/133525
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA CINEMA 2 FHD
-http://bestsave.ltd:2052/Shamim2/123456/133524
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA ALFANN 4K
-http://bestsave.ltd:2052/Shamim2/123456/133528
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ACTION 4K
-http://bestsave.ltd:2052/Shamim2/123456/133537
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ MOVIES 4K
-http://bestsave.ltd:2052/Shamim2/123456/151436
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ MOVIES FHD
-http://bestsave.ltd:2052/Shamim2/123456/133536
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ MOVIES FIRST FHD
-http://bestsave.ltd:2052/Shamim2/123456/133535
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ MOVIES FIRST +2 4K
-http://bestsave.ltd:2052/Shamim2/123456/133534
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ SERIES FIRST 4K
-http://bestsave.ltd:2052/Shamim2/123456/133539
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ SERIES 4K
-http://bestsave.ltd:2052/Shamim2/123456/133540
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ SERIES 2 4K
-http://bestsave.ltd:2052/Shamim2/123456/133538
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ STAR MOVIES 4K
-http://bestsave.ltd:2052/Shamim2/123456/133542
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ STAR WORLD 4K
-http://bestsave.ltd:2052/Shamim2/123456/133541
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NEWS 4K
-http://bestsave.ltd:2052/Shamim2/123456/133557
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ MEEZZE 4K
-http://bestsave.ltd:2052/Shamim2/123456/133556
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ HISTORY 4K
-http://bestsave.ltd:2052/Shamim2/123456/133553
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NAT GEO 4K
-http://bestsave.ltd:2052/Shamim2/123456/133552
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NAT PEOPLE 4K
-http://bestsave.ltd:2052/Shamim2/123456/133551
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NAT GEO WILD 4K
-http://bestsave.ltd:2052/Shamim2/123456/133550
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ DISCOVERY 4K
-http://bestsave.ltd:2052/Shamim2/123456/133549
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ DISCOVERY ID 4K
-http://bestsave.ltd:2052/Shamim2/123456/133548
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ DISCOVERY SC 4K
-http://bestsave.ltd:2052/Shamim2/123456/133547
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ TLC 4K
-http://bestsave.ltd:2052/Shamim2/123456/133546
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ CRIME 4K
-http://bestsave.ltd:2052/Shamim2/123456/133545
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ LIVING 4K
-http://bestsave.ltd:2052/Shamim2/123456/133543
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA AL SAFWA FHD
-http://bestsave.ltd:2052/Shamim2/123456/133527
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤  MUSIC NOW 4K
-http://bestsave.ltd:2052/Shamim2/123456/133521
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ KIDS FHD
-http://bestsave.ltd:2052/Shamim2/123456/133520
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ DISNEY 4K
-http://bestsave.ltd:2052/Shamim2/123456/133519
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ DISNEY JUNIOR 4K
-http://bestsave.ltd:2052/Shamim2/123456/133518
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NICK JR 4K
-http://bestsave.ltd:2052/Shamim2/123456/133517
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NICK TOON 4K
-http://bestsave.ltd:2052/Shamim2/123456/133516
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ KIDS ZONE 4K
-http://bestsave.ltd:2052/Shamim2/123456/133515
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NICKELODEON 4K
-http://bestsave.ltd:2052/Shamim2/123456/133514
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ART AFLAM 1 FHD
-http://bestsave.ltd:2052/Shamim2/123456/133513
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ART AFLAM 2 FHD
-http://bestsave.ltd:2052/Shamim2/123456/133512
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ART HEKAYAT 1 FHD
-http://bestsave.ltd:2052/Shamim2/123456/133511
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ART HEKAYAT 2 FHD
-http://bestsave.ltd:2052/Shamim2/123456/133510
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ MOVIES COMEDY 4K
-http://bestsave.ltd:2052/Shamim2/123456/151430
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ FAMILY 4K
-http://bestsave.ltd:2052/Shamim2/123456/151431
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ON DEMAND 4K
-http://bestsave.ltd:2052/Shamim2/123456/151433
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ E! FHD
-http://bestsave.ltd:2052/Shamim2/123456/133532
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ENIGMA 4K
-http://bestsave.ltd:2052/Shamim2/123456/151434
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ MOVIES FIRST 4K
-http://bestsave.ltd:2052/Shamim2/123456/151435
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ART CINEMA 4K
-http://bestsave.ltd:2052/Shamim2/123456/151445
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ART CINEMA FHD
-http://bestsave.ltd:2052/Shamim2/123456/133509
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ART HEKAYAT 1 4K
-http://bestsave.ltd:2052/Shamim2/123456/151444
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ART HEKAYAT 2 4K
-http://bestsave.ltd:2052/Shamim2/123456/151443
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ART AFLAM 1 4K
-http://bestsave.ltd:2052/Shamim2/123456/151447
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ART AFLAM 2 4K
-http://bestsave.ltd:2052/Shamim2/123456/151446
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA AL YOUM 4K
-http://bestsave.ltd:2052/Shamim2/123456/151452
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA AL SAFWA 4K
-http://bestsave.ltd:2052/Shamim2/123456/151451
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA CINEMA 1 4K
-http://bestsave.ltd:2052/Shamim2/123456/151450
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ALFA CINEMA 2 4K
-http://bestsave.ltd:2052/Shamim2/123456/151449
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ ZEE ALWAN 4K
-http://bestsave.ltd:2052/Shamim2/123456/151453
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ OSCARS HITS 4K
-http://bestsave.ltd:2052/Shamim2/123456/151471
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ HBO 1 HITS 4K
-http://bestsave.ltd:2052/Shamim2/123456/151473
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ HBO 2 HITS 4K
-http://bestsave.ltd:2052/Shamim2/123456/151472
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ PLAY CINEMA 1 4K
-http://bestsave.ltd:2052/Shamim2/123456/151442
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ PLAY CINEMA 2 4K
-http://bestsave.ltd:2052/Shamim2/123456/151441
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ PLAY CINEMA 3 4K
-http://bestsave.ltd:2052/Shamim2/123456/151440
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ PLAY CINEMA 4 4K
-http://bestsave.ltd:2052/Shamim2/123456/151439
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NOVA CINEMA 1 4K
-http://bestsave.ltd:2052/Shamim2/123456/151463
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NOVA CINEMA 2 4K
-http://bestsave.ltd:2052/Shamim2/123456/151462
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NOVA CINEMA 3 4K
-http://bestsave.ltd:2052/Shamim2/123456/151461
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ NOVA CINEMA 4 4K
-http://bestsave.ltd:2052/Shamim2/123456/151460
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ SHOWTIME MUSIC EN 4K
-http://bestsave.ltd:2052/Shamim2/123456/151464
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ SHOWTIME CINEMA 1 4K
-http://bestsave.ltd:2052/Shamim2/123456/151470
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ SHOWTIME CINEMA 2 4K
-http://bestsave.ltd:2052/Shamim2/123456/151469
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ SHOWTIME CINEMA 3 4K
-http://bestsave.ltd:2052/Shamim2/123456/151468
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ SHOWTIME CINEMA 4 4K
-http://bestsave.ltd:2052/Shamim2/123456/151467
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ SHOWTIME CINEMA 5 4K
-http://bestsave.ltd:2052/Shamim2/123456/151466
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ➤ SHOWTIME CINEMA 6 4K
-http://bestsave.ltd:2052/Shamim2/123456/151465
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS PREMIUM 1 AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278433.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS PREMIUM 2 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278434.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS PREMIUM 3 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278435.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS 1 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278436.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS 2 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278437.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS 3 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278438.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS 4 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278439.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS 5 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278440.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS 6 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278441.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS 7 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278442.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS 1 EN (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278443.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS 2 EN (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278444.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS M*X 1 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278445.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS M*X 2 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278446.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS M*X 3 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278447.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS M*X 4 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278448.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTST M*X 5 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278449.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: b**N SP0RTS MAX 6 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278450.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: RMC SPORT 1 (FR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278451.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: RMC SPORT 2 (FR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278452.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: RMC SPORT 3 (FR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278453.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: RMC SPORT 4 (FR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278454.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: LALIGA TV BAR (ES)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278455.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: Arena Sport 1 HD (EX-YU)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278456.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: Arena Sport 2 HD (EX-YU)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278457.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: Arena Sport 3 HD (EX-YU)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278458.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: Arena Sport 4 HD (EX-YU)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278459.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: Arena Sport 5 HD (EX-YU)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278460.ts
 
 
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: SSC 1 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278499.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: SSC 2 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278500.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: SSC 3 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278501.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: SSC 4 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278502.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: SSC 5 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278503.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: SSC 6 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278504.ts
+#EXTINF:0 tvg-id="ext" group-title="WS Ⓒ WORLD SPORTS ⚽",VIP SPORT: SSC 7 (AR)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/278505.ts
+
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: ##### |AR| MOROCCO #####
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262247.ts
+#EXTINF:0 tvg-id="AlAoula.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: Al Aoula Inter FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262248.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: AL OULA HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262249.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Al Oula TV FHD hevc
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262250.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: AL OULA INTER
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262251.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Al aula Laayoun
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262252.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Laayoune TV FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262253.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Laayoune TV HEVC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262254.ts
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: 2M MAROC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262255.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: 2M NATIONAL
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262256.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: ARRYADIA HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262257.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Arryadia  FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262258.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Arriadia TV FHD hevc
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262259.ts
+#EXTINF:0 tvg-id="Arrabiaa.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: ARRABIA HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262260.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Arrabiaa FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262261.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Arrabiaa HEVC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262262.ts
+#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: AL MAGHRIBIA HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262263.ts
+#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: Al Maghribia FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262264.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Al Maghribia HD hevc
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262265.ts
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: ASSADISSA HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262266.ts
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: Assadissa FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262267.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Assadissa TV FHD hevc
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262268.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: AFLAM 7 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262269.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| ASSABIA TNT Hevc
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262270.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: TAMAZIGHT HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262271.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Tamazight FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262272.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Tamazight TV FHD hevc
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262273.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: MEDI 1 TV
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262274.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Medi1 TV FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262275.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Medi1 TV HD hevc
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262276.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: MEDI 1 TV Afrique
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262277.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: TELE MAROC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262278.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: M24 MAROC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262279.ts
+#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: CHADA TV
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262280.ts
 
 
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ DOKU",###### FR Doku ######
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243089.ts
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="FR Ⓒ DOKU",FR: NATIONAL GEO WILD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243090.ts
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="FR Ⓒ DOKU",FR: NATIONAL GEOGRAPHIC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243091.ts
+#EXTINF:0 tvg-id="Discovery.fr" group-title="FR Ⓒ DOKU",FR: DISCOVERY HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243092.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ DOKU",FR: DISCOVERY INVESTIGATION HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243093.ts
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FR Ⓒ DOKU",FR: DISCOVERY SCIENCE
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243094.ts
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="FR Ⓒ DOKU",FR: PLANETE
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243095.ts
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="FR Ⓒ DOKU",FR: PLANETE  CI
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243096.ts
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="FR Ⓒ DOKU",FR: PLANETE A&E
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243097.ts
+#EXTINF:0 tvg-id="Animaux.fr" group-title="FR Ⓒ DOKU",FR: ANIMAUX
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243098.ts
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FR Ⓒ DOKU",FR: CHASSE ET PECHE
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243099.ts
+#EXTINF:0 tvg-id="Eentertainment.fr" group-title="FR Ⓒ DOKU",FR: E! ENTERTAINMENT
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243100.ts
+#EXTINF:0 tvg-id="Histoire.fr" group-title="FR Ⓒ DOKU",FR: HISTOIRE HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243101.ts
+#EXTINF:0 tvg-id="RougeTV.fr" group-title="FR Ⓒ DOKU",FR: ROUGE TV
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243102.ts
+#EXTINF:0 tvg-id="Seasons.fr" group-title="FR Ⓒ DOKU",FR: SEASON
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243103.ts
+#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="FR Ⓒ DOKU",FR: TOUTE L HISTOIRE HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243104.ts
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FR Ⓒ DOKU",FR: Ushuaia TV HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243105.ts
+#EXTINF:0 tvg-id="Voyage.fr" group-title="FR Ⓒ DOKU",FR: VOYAGE
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243106.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 1
-http://bestsave.ltd:2052/Shamim2/123456/127002
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 2
-http://bestsave.ltd:2052/Shamim2/123456/127001
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 3
-http://bestsave.ltd:2052/Shamim2/123456/126994
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 4
-http://bestsave.ltd:2052/Shamim2/123456/126993
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 5
-http://bestsave.ltd:2052/Shamim2/123456/126991
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 6
-http://bestsave.ltd:2052/Shamim2/123456/126989
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 7
-http://bestsave.ltd:2052/Shamim2/123456/126988
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 8
-http://bestsave.ltd:2052/Shamim2/123456/126992
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 9
-http://bestsave.ltd:2052/Shamim2/123456/89101
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 10
-http://bestsave.ltd:2052/Shamim2/123456/89099
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ ACTION 11
-http://bestsave.ltd:2052/Shamim2/123456/89098
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ COMEDY 1
-http://bestsave.ltd:2052/Shamim2/123456/89095
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ COMEDY 2
-http://bestsave.ltd:2052/Shamim2/123456/89094
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ COMEDY 3
-http://bestsave.ltd:2052/Shamim2/123456/89092
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ DRAMA 1
-http://bestsave.ltd:2052/Shamim2/123456/89090
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ DRAMA 2
-http://bestsave.ltd:2052/Shamim2/123456/89088
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ DRAMA 3
-http://bestsave.ltd:2052/Shamim2/123456/89087
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ DRAMA 4
-http://bestsave.ltd:2052/Shamim2/123456/89085
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ HORROR 1
-http://bestsave.ltd:2052/Shamim2/123456/89084
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ HORROR 2
-http://bestsave.ltd:2052/Shamim2/123456/89082
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ HORROR 3
-http://bestsave.ltd:2052/Shamim2/123456/89079
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ HORROR 4
-http://bestsave.ltd:2052/Shamim2/123456/89073
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ HORROR 5
-http://bestsave.ltd:2052/Shamim2/123456/89063
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- NETFLIX+ HORROR 6
-http://bestsave.ltd:2052/Shamim2/123456/89062
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- TELECOM ACTION 2
-http://bestsave.ltd:2052/Shamim2/123456/89093
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- PLATINUM DRAMA
-http://bestsave.ltd:2052/Shamim2/123456/89083
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- TELECOM COMEDY 2
-http://bestsave.ltd:2052/Shamim2/123456/89078
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- TELECOM MASRAH
-http://bestsave.ltd:2052/Shamim2/123456/89074
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- PLATINUM HINDI
-http://bestsave.ltd:2052/Shamim2/123456/89064
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- PLATINUM ARABIC FILM
-http://bestsave.ltd:2052/Shamim2/123456/89061
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- TELECOM ARABIC
-http://bestsave.ltd:2052/Shamim2/123456/89060
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- TELECOM ADEEL EMAM
-http://bestsave.ltd:2052/Shamim2/123456/89059
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- TELECOM MARVEL
-http://bestsave.ltd:2052/Shamim2/123456/89058
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- TELECOM SCI-FI
-http://bestsave.ltd:2052/Shamim2/123456/89057
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- TELECOM BOX OFFICE
-http://bestsave.ltd:2052/Shamim2/123456/89056
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- INDONESIA MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89044
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- FILIPINO MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89043
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- KOREA MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89042
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- CHINA MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89041
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- INDIA MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89040
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- KUNG FU MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89038
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- JEAN-CLAUDE VAN DAMME
-http://bestsave.ltd:2052/Shamim2/123456/89037
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- SYLVESTER STALLONE
-http://bestsave.ltd:2052/Shamim2/123456/89036
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- WILL SMITH
-http://bestsave.ltd:2052/Shamim2/123456/89035
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- JASON STATHAM
-http://bestsave.ltd:2052/Shamim2/123456/89034
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- ARNOLD SCHWARZENEGGER
-http://bestsave.ltd:2052/Shamim2/123456/89033
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- HORROR TOP
-http://bestsave.ltd:2052/Shamim2/123456/89032
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- VIN DISEL
-http://bestsave.ltd:2052/Shamim2/123456/89031
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- GERMANY MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89030
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- FRANCE MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89029
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- SPAIN MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89028
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- ITALIA MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89027
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- ENGLAND MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89026
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- GERMANY LIVE
-http://bestsave.ltd:2052/Shamim2/123456/89025
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- LATIN MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89024
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- TURKISH MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89021
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- MEXICAN MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89023
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NET- RUSSIA MOVIES
-http://bestsave.ltd:2052/Shamim2/123456/89022
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ CINEMA",##### FR Cinema #####
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243107.ts
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="FR Ⓒ CINEMA",FR: CANAL  DECALE HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243108.ts
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="FR Ⓒ CINEMA",FR: CANAL  FAMILY HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243109.ts
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="FR Ⓒ CINEMA",FR: CANAL+ HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243110.ts
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FR Ⓒ CINEMA",FR: CANAL SERIES HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243111.ts
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FR Ⓒ CINEMA",FR: CINE  CLUB
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243112.ts
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FR Ⓒ CINEMA",FR: CINE  EMOTION HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243113.ts
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FR Ⓒ CINEMA",FR: CINE  FAMIZ HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243114.ts
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FR Ⓒ CINEMA",FR: CINE  FRISSON HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243115.ts
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FR Ⓒ CINEMA",FR: CINE  PREMIER HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243116.ts
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FR Ⓒ CINEMA",FR: CINE CLASSIC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243117.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ CINEMA",TF1 SERIES & FILMS
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249363.ts
+#EXTINF:0 tvg-id="CanalPlus.es" group-title="FR Ⓒ CINEMA",CANAL+
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249364.ts
+#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="FR Ⓒ CINEMA",CANAL+ DECALE
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249365.ts
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FR Ⓒ CINEMA",CANAL+ CINEMA
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249366.ts
+#EXTINF:0 tvg-id="CanalplusFamily.pl" group-title="FR Ⓒ CINEMA",CANAL+ FAMILY
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249367.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ CINEMA",CANAL+ SERIE
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249368.ts
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FR Ⓒ CINEMA",CANAL+ SPORT
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249369.ts
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FR Ⓒ CINEMA",CINE+ PREMIER
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249370.ts
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FR Ⓒ CINEMA",CINE+ FRISSON
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249371.ts
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FR Ⓒ CINEMA",CINE+ EMOTION
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249372.ts
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FR Ⓒ CINEMA",CINE+ FAMIZ
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249373.ts
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FR Ⓒ CINEMA",CINE+ CLASSIC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249374.ts
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FR Ⓒ CINEMA",CINE+ CLUB
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249375.ts
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FR Ⓒ CINEMA",CINE CLUB
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249376.ts
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FR Ⓒ CINEMA",CINE PREMIER
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249377.ts
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FR Ⓒ CINEMA",CINE FRISSON
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249378.ts
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FR Ⓒ CINEMA",CINE+ EMOTION
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249379.ts
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FR Ⓒ CINEMA",CINE+ FAMIZ
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249380.ts
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FR Ⓒ CINEMA",CINE+ CLASSIC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249381.ts
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FR Ⓒ CINEMA",CINE+ CLUB
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249382.ts
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FR Ⓒ CINEMA",CINE CLUB
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249383.ts
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FR Ⓒ CINEMA",CINE PREMIER
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249384.ts
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FR Ⓒ CINEMA",CINE FRISSON
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249385.ts
+#EXTINF:0 tvg-id="TCM.uk" group-title="FR Ⓒ CINEMA",TMC
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249386.ts
+#EXTINF:0 tvg-id="TFX.fr" group-title="FR Ⓒ CINEMA",TFX
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249387.ts
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="FR Ⓒ CINEMA",OCS GEANTS
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249388.ts
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FR Ⓒ CINEMA",OCS CITY
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249389.ts
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="FR Ⓒ CINEMA",OCS MAX
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249390.ts
+#EXTINF:0 tvg-id="tv1000-action" group-title="FR Ⓒ CINEMA",ACTION
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249391.ts
+#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="FR Ⓒ CINEMA",ALTICE STUDIO
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249392.ts
+#EXTINF:0 tvg-id="TCM.fr" group-title="FR Ⓒ CINEMA",TCM CINEMA
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249393.ts
+#EXTINF:0 tvg-id="PolarPlus.fr" group-title="FR Ⓒ CINEMA",POLAR+
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249394.ts
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="FR Ⓒ CINEMA",WARNER
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249395.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ CINEMA",NOVELAS
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249396.ts
+#EXTINF:0 tvg-id="AB1.fr" group-title="FR Ⓒ CINEMA",AB1
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249397.ts
+#EXTINF:0 tvg-id="AB3.be" group-title="FR Ⓒ CINEMA",AB3
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/249398.ts
+
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",###### FR Sports ######
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243136.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | CANAL+ SPORT HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265159.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | RMC SPORT 1 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265160.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | RMC SPORT 2 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265161.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | RMC SPORT 3 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265162.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | RMC SPORT 4 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265163.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | BEIN SPORTS 1 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265164.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | BEIN SPORTS 2 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265165.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | BEIN SPORTS 3 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265166.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | BEIN SPORTS MAX4 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265167.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | BEIN SPORTS MAX5 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265168.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | BEIN SPORTS MAX6 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265169.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | BEIN SPORTS MAX7 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265170.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | BEIN SPORTS MAX8 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265171.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | BEIN SPORTS MAX9 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265172.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | BEIN SPORTS MAX10 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265173.ts
+#EXTINF:0 tvg-id="MULTISPORTS1.fr" group-title="FR Ⓒ SPORTS ⚽",MULTISPORTS 1
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265174.ts
+#EXTINF:0 tvg-id="MULTISPORTS2.fr" group-title="FR Ⓒ SPORTS ⚽",MULTISPORTS 2
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265175.ts
+#EXTINF:0 tvg-id="MULTISPORTS3.fr" group-title="FR Ⓒ SPORTS ⚽",MULTISPORTS 3
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265176.ts
+#EXTINF:0 tvg-id="MULTISPORTS4.fr" group-title="FR Ⓒ SPORTS ⚽",MULTISPORTS 4
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265177.ts
+#EXTINF:0 tvg-id="MULTISPORTS5.fr" group-title="FR Ⓒ SPORTS ⚽",MULTISPORTS 5
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265178.ts
+#EXTINF:0 tvg-id="MULTISPORTS6.fr" group-title="FR Ⓒ SPORTS ⚽",MULTISPORTS 6
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265179.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR | Canal+ Ligue Premier HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265180.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",AMAZON PRIME MULTIPLEX
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265181.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",AMAZON PRIME 1
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265182.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",AMAZON PRIME 2
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265183.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",AMAZON PRIME 3
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265184.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",AMAZON PRIME 4
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265185.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",AMAZON PRIME 5
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265186.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",AMAZON PRIME 6
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265187.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",AMAZON PRIME 7
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265188.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",AMAZON PRIME 8
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/265189.ts
+
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT 1 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243137.ts
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT 2 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243138.ts
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT 3 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243139.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 4 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243140.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 5 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243141.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 6 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243142.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 7 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243143.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 8 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243144.ts
+#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 9 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243145.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FR Ⓒ SPORTS ⚽",FR: RMC SPORT 1
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243146.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FR Ⓒ SPORTS ⚽",FR: RMC SPORT 2
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243147.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="FR Ⓒ SPORTS ⚽",FR: RMC SPORT 3
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243148.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="FR Ⓒ SPORTS ⚽",FR: RMC SPORT 4
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243149.ts
 
 
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SARAN S SPORTS  ⚽",TR| SARAN SPOR HD +1
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277898.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SARAN S SPORTS  ⚽",TR| S-SPORT 1 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277908.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SARAN S SPORTS  ⚽",TR| S-SPORT 2 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277909.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CINEMA 1
-http://bestsave.ltd:2052/Shamim2/123456/125288
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CINEMA 2
-http://bestsave.ltd:2052/Shamim2/123456/125287
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CINEMA 3
-http://bestsave.ltd:2052/Shamim2/123456/125286
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX AFLAM 1
-http://bestsave.ltd:2052/Shamim2/123456/125285
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX AFLAM 2
-http://bestsave.ltd:2052/Shamim2/123456/125284
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX AFLAM 3
-http://bestsave.ltd:2052/Shamim2/123456/125283
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX MOVIES ARABIC 1
-http://bestsave.ltd:2052/Shamim2/123456/125282
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX ARABIC COMEDY 1
-http://bestsave.ltd:2052/Shamim2/123456/125281
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX ARABIC COMEDY 2
-http://bestsave.ltd:2052/Shamim2/123456/125280
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX ARABIC COMEDY 3
-http://bestsave.ltd:2052/Shamim2/123456/125279
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX ARABIC COMEDY 4
-http://bestsave.ltd:2052/Shamim2/123456/125278
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX ACTION 1
-http://bestsave.ltd:2052/Shamim2/123456/125275
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX ACTION 2
-http://bestsave.ltd:2052/Shamim2/123456/125274
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX ACTION 3
-http://bestsave.ltd:2052/Shamim2/123456/125273
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX MIX
-http://bestsave.ltd:2052/Shamim2/123456/125272
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CRIME 1
-http://bestsave.ltd:2052/Shamim2/123456/125271
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CRIME 2
-http://bestsave.ltd:2052/Shamim2/123456/125270
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CRIME 3
-http://bestsave.ltd:2052/Shamim2/123456/125269
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX COMEDY 1
-http://bestsave.ltd:2052/Shamim2/123456/125268
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX COMEDY 2
-http://bestsave.ltd:2052/Shamim2/123456/125267
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX COMEDY 3
-http://bestsave.ltd:2052/Shamim2/123456/125266
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX POP UP 1
-http://bestsave.ltd:2052/Shamim2/123456/125265
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX POP UP 2
-http://bestsave.ltd:2052/Shamim2/123456/125264
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX POP UP 3
-http://bestsave.ltd:2052/Shamim2/123456/125263
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CLASSIC 1
-http://bestsave.ltd:2052/Shamim2/123456/125262
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CLASSIC 2
-http://bestsave.ltd:2052/Shamim2/123456/125261
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CLASSIC 3
-http://bestsave.ltd:2052/Shamim2/123456/125260
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CLASSIC 4
-http://bestsave.ltd:2052/Shamim2/123456/125259
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CLASSIC 5
-http://bestsave.ltd:2052/Shamim2/123456/125258
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HBO ➤ MAX CLASSIC 6
-http://bestsave.ltd:2052/Shamim2/123456/125257
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UHD- ❤ BOLLYWOOD LOVE
-http://bestsave.ltd:2052/Shamim2/123456/159371
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UHD- ❤ BOLLYWOOD COMEDY 1
-http://bestsave.ltd:2052/Shamim2/123456/159369
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UHD- ❤ BOLLYWOOD COMEDY 2
-http://bestsave.ltd:2052/Shamim2/123456/159370
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | SPOR SMART FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76320.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR: SPOR SMART 1 []   maçta açık
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277010.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | SPOR SMART HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76321.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | SPOR SMART 2 HD+
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/95150.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | SPOR SMART 2 HD+
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76312.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",)
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277011.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | TIVIBUSPOR 1 FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76306.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | TIVIBUSPOR 1 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76307.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | TIVIBUSPOR 2 FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76308.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | TIVIBUSPOR 2 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76309.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | TIVIBUSPOR 3 FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76310.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | TIVIBUSPOR 3 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76311.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR | TIVIBUSPOR 4 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/95859.ts
+#EXTINF:0 tvg-id="ASpor.tr" group-title="TR Ⓒ SPORS ⚽",A SPOR HD+
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259367.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR: NBA TV HD+
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259368.ts
+#EXTINF:0 tvg-id="NBATV.tr" group-title="TR Ⓒ SPORS ⚽",TR: NBA TV HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259369.ts
+#EXTINF:0 tvg-id="TRT3.tr" group-title="TR Ⓒ SPORS ⚽",TR: TRT SPOR HD+
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259371.ts
+#EXTINF:0 tvg-id="TRT3.tr" group-title="TR Ⓒ SPORS ⚽",TR: TRT SPOR HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259372.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR: TRT SPOR YILDIZ HD+
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259373.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR: TRT SPOR YILDIZ HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259374.ts
+#EXTINF:0 tvg-id="TRT3.tr" group-title="TR Ⓒ SPORS ⚽",TR: TRT 3 SPOR
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259375.ts
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="TR Ⓒ SPORS ⚽",TR: EUROSPORT 1 HD+
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259376.ts
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="TR Ⓒ SPORS ⚽",TR: EUROSPORT 2 HD+
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259377.ts
+#EXTINF:0 tvg-id="FBTV.tr" group-title="TR Ⓒ SPORS ⚽",TR: FB TV HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259378.ts
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="TR Ⓒ SPORS ⚽",TR: GS TV HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259379.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR: TJK TV HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259380.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR| SARDAN SPOR HD +2
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277899.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR| EURO SPORT 1 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277903.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR| EURO SPORT 2 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277904.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR| SPORT SMART 1 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277905.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR| TRT SPOR 1 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277910.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR| TRT SPOR 2 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277911.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ SPORS ⚽",TR| TRT SPOR YILDIZ HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277912.ts
+#EXTINF:0 tvg-id="ASpor.tr" group-title="TR Ⓒ SPORS ⚽",TR| A SPOR HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277913.ts
+#EXTINF:0 tvg-id="FBTV.tr" group-title="TR Ⓒ SPORS ⚽",TR| FB TV HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/277914.ts
 
-
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤ AL MAJD QURAN vip
-http://bestsave.ltd:2052/Shamim2/123456/117
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤ AL MAJD NATURAL vip
-http://bestsave.ltd:2052/Shamim2/123456/111
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤ AL MAJD SCIENTIFIC vip
-http://bestsave.ltd:2052/Shamim2/123456/113
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤ AL MAJD DOCUMENTARY vip
-http://bestsave.ltd:2052/Shamim2/123456/114
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤  AL MAJD HADITH vip
-http://bestsave.ltd:2052/Shamim2/123456/115
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤ AL MAJD GENERAL vip
-http://bestsave.ltd:2052/Shamim2/123456/116
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤ AL MAJD RAWDA vip
-http://bestsave.ltd:2052/Shamim2/123456/41995
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤ AL MAJD BASMA vip
-http://bestsave.ltd:2052/Shamim2/123456/41996
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤ AL MAJD KIDS vip
-http://bestsave.ltd:2052/Shamim2/123456/41997
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤ AL MAJD MASA vip
-http://bestsave.ltd:2052/Shamim2/123456/41998
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MAJD ➤ AL MAJD TAGHAREED
-http://bestsave.ltd:2052/Shamim2/123456/41994
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",GOBOX➤ VARIETY HD
-http://bestsave.ltd:2052/Shamim2/123456/167157
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",GOBOX➤ REEL PX UNLIMITED HD
-http://bestsave.ltd:2052/Shamim2/123456/167152
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",GOBOX➤ REEL PX COMEDY HD
-http://bestsave.ltd:2052/Shamim2/123456/167151
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",GOBOX➤ REEL PX FAMILY HD
-http://bestsave.ltd:2052/Shamim2/123456/167150
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",GOBOX➤ REEL PX ACTION HD
-http://bestsave.ltd:2052/Shamim2/123456/167149
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",GOBOX➤ REEL PX CINEMA HD
-http://bestsave.ltd:2052/Shamim2/123456/167148
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ AD SPORT PREMIUM 1 HD
-http://bestsave.ltd:2052/Shamim2/123456/178748
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ AD SPORT PREMIUM 2 HD
-http://bestsave.ltd:2052/Shamim2/123456/178749
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 1 4K
-http://bestsave.ltd:2052/Shamim2/123456/136048
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 1 HD
-http://bestsave.ltd:2052/Shamim2/123456/157122
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 2 4K
-http://bestsave.ltd:2052/Shamim2/123456/136047
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 2 HD
-http://bestsave.ltd:2052/Shamim2/123456/157123
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 3 4K
-http://bestsave.ltd:2052/Shamim2/123456/136046
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 3 HD
-http://bestsave.ltd:2052/Shamim2/123456/157124
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC HD 3
-http://bestsave.ltd:2052/Shamim2/123456/136266
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 4 4K
-http://bestsave.ltd:2052/Shamim2/123456/136045
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 4 HD
-http://bestsave.ltd:2052/Shamim2/123456/157125
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC HD 4
-http://bestsave.ltd:2052/Shamim2/123456/136265
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 5 4K
-http://bestsave.ltd:2052/Shamim2/123456/136044
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 5 HD
-http://bestsave.ltd:2052/Shamim2/123456/157126
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 6 4K
-http://bestsave.ltd:2052/Shamim2/123456/136043
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 6 HD
-http://bestsave.ltd:2052/Shamim2/123456/157127
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 7 HD
-http://bestsave.ltd:2052/Shamim2/123456/157128
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC HD 7
-http://bestsave.ltd:2052/Shamim2/123456/136262
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC 7 4K
-http://bestsave.ltd:2052/Shamim2/123456/136042
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",VIP ➤ SSC  8 HD
-http://bestsave.ltd:2052/Shamim2/123456/182576
-
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ القران الكريم
-http://bestsave.ltd:2052/Shamim2/123456/139969
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ سعيد الغامدي
-http://bestsave.ltd:2052/Shamim2/123456/139966
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ سورة يس كريم فؤاد
-http://bestsave.ltd:2052/Shamim2/123456/139960
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ سورة الكهف نوران الاكرم
-http://bestsave.ltd:2052/Shamim2/123456/139961
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ سورة يوسف بيشه‌وا قادر الكردى
-http://bestsave.ltd:2052/Shamim2/123456/139958
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ سورة يوسف القارئ اسلام صبحي
-http://bestsave.ltd:2052/Shamim2/123456/139959
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ سورة الكهف القارئ اسلام صبحي
-http://bestsave.ltd:2052/Shamim2/123456/139962
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ سورة البقرة للقارئ بيشة و قادر الكردى
-http://bestsave.ltd:2052/Shamim2/123456/139963
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ سورة البقرة للقارئ  رعد الكردي
-http://bestsave.ltd:2052/Shamim2/123456/139964
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ سورة البقرة  للقارئ اسلام صبحى
-http://bestsave.ltd:2052/Shamim2/123456/139965
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ تلاوة جميلة و رائعة جداً وهادئة تنسيك الدنيا وهمها
-http://bestsave.ltd:2052/Shamim2/123456/139967
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ تلاوة تقشعر لها الأبدان: الشيخ منصور السالمي
-http://bestsave.ltd:2052/Shamim2/123456/139968
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ اذكار الصباح العفاسي
-http://bestsave.ltd:2052/Shamim2/123456/139970
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ اجمل تلاوات الشيخ منصور السالمي
-http://bestsave.ltd:2052/Shamim2/123456/139971
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ أذكار الصباح كاملة بصوت العفاسي
-http://bestsave.ltd:2052/Shamim2/123456/139973
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ أذكار الصباح الشيخ غسان الشوربجي
-http://bestsave.ltd:2052/Shamim2/123456/139974
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ أذكار الصباح  د.محمد خير الشعال
-http://bestsave.ltd:2052/Shamim2/123456/139975
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ أجمل صوت قرآن مؤثر
-http://bestsave.ltd:2052/Shamim2/123456/139976
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤  ياسر الدوسري
-http://bestsave.ltd:2052/Shamim2/123456/139977
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ أذكار الصباح بيشه وا قادر الكردي
-http://bestsave.ltd:2052/Shamim2/123456/139979
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ عبدالرحمن مسعد
-http://bestsave.ltd:2052/Shamim2/123456/170956
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Quran TV➤ منصور السالمي
-http://bestsave.ltd:2052/Shamim2/123456/170947
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",4k Quran Karim 1
-http://bestsave.ltd:2052/Shamim2/123456/152445
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",4k Quran Karim 2
-http://bestsave.ltd:2052/Shamim2/123456/152444
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",4k Quran Karim 3
-http://bestsave.ltd:2052/Shamim2/123456/152443
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",✪✪✪✪✪ TURK HABER ✪✪✪✪✪
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/97389.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | A HABER FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/75988.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | A HABER HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/75989.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | A PARA HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/75993.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | CNN TURK FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/75994.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | CNN TURK HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/75995.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | GLOBAL HABER FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/75996.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | GLOBAL HABER HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/75997.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | HABER TURK FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/75998.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | HABER TURK HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/75999.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | NTV FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76000.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | NTV HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76001.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | TRT HABER FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76002.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | TRT HABER HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76003.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | TELE 1 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/106783.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | TELE 1 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76004.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | TV100 FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76005.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | HALK TV FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76006.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | HALK TV HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/106784.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | Bloomberg HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76007.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | KANAL 24 HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76008.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | KRT TV FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76009.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | TGRT HABER HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76010.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | ULKETV HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76011.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | UZAY HABER HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/76012.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR | A NEWS FHD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/75990.ts
+#EXTINF:0 tvg-id="ext" group-title="TR Ⓒ HABER ",TR: ULUSAL KANAL HD
+http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/259819.ts
