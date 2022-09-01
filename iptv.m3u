@@ -170,6 +170,46 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/20890
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/162
 
 
+
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/1259
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Action
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/2860
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Box Office 1
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/43903
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Box Office 2
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/3701
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Box Office 3
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/3702
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Comedy
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/2859
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Drama
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/22109
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Enigma
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/2856
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Kids
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/3694
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Kidz Zone
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/13828
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Living
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/22478
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Mezze
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/122553
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies Disney
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/13666
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies First +2
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/16917
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies Hollywood
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/71110
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN MX
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/283287
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Pop Up
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/283286
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Premiere
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/22118
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Woman
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",AR: Amazon Prime Thriller
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/283232
 #EXTINF:0 tvg-id="ext" group-title="Channels",AR: Amazon Prime War
@@ -354,74 +394,40 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/284445
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: ##### |AR| MOROCCO #####
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262247.ts
-#EXTINF:0 tvg-id="AlAoula.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: Al Aoula Inter FHD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262248.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: AL OULA HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262249.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Al Oula TV FHD hevc
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262250.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: AL OULA INTER
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262251.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Al aula Laayoun
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262252.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Laayoune TV FHD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262253.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Laayoune TV HEVC
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262254.ts
-#EXTINF:0 tvg-id="2MMaroc.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: 2M MAROC
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262255.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: 2M NATIONAL
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262256.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: ARRYADIA HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262257.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Arryadia  FHD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262258.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Arriadia TV FHD hevc
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262259.ts
-#EXTINF:0 tvg-id="Arrabiaa.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: ARRABIA HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262260.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Arrabiaa FHD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262261.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Arrabiaa HEVC
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262262.ts
-#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: AL MAGHRIBIA HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262263.ts
-#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: Al Maghribia FHD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262264.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Al Maghribia HD hevc
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262265.ts
-#EXTINF:0 tvg-id="Assadissa.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: ASSADISSA HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262266.ts
-#EXTINF:0 tvg-id="Assadissa.ma" group-title="AR Ⓒ ARABIA MOROCCO",AR: Assadissa FHD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262267.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Assadissa TV FHD hevc
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262268.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: AFLAM 7 HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262269.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| ASSABIA TNT Hevc
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262270.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: TAMAZIGHT HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262271.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Tamazight FHD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262272.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Tamazight TV FHD hevc
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262273.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: MEDI 1 TV
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262274.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: Medi1 TV FHD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262275.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: |MA| Medi1 TV HD hevc
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262276.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: MEDI 1 TV Afrique
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262277.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: TELE MAROC
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262278.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: M24 MAROC
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262279.ts
-#EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA MOROCCO",AR: CHADA TV
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/262280.ts
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: 2M Monde
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/225137
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Aflam TV
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/226057
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Al Aoula
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/1292
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Al Maghribia
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/1285
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Al Ons TV
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/11163
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Arryadia
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/11173
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Assadissa
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/1274
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Athaqafia
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/268950
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Chada TV
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/18246
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: El Medina TV
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/296537
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Laayoune
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/296534
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: M24 TV
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/165430
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Medi 1 TV Afrique
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/269424
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Medi 1 TV Arabic
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/1237
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Medi 1 TV Maghreb
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/269458
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Tamazight
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/1213
+#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Tele Maroc
+http://kuchini.site:8080/livetvchannel2021/fe326fcc/225140
 
 
 #EXTINF:0 tvg-id="ext" group-title="FR Ⓒ DOKU",###### FR Doku ######
