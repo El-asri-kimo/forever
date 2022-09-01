@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ViX", Love Nature
-http://bgapp.live/play/viix-835.php?c=390&pid=390&token=BlackGhost
+
 
 #EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN ART AFLAM 1
 http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257286.ts
