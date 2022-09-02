@@ -5,7 +5,7 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports Xtra
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.xtra.us.m3u8?checkedby:iptvcat.com
 
-EXTINF:0 tvg-id="Algeria Tv" group-title="Undefined",algeria tv
+#EXTINF:0 tvg-id="Algeria Tv" group-title="Undefined",algeria tv
 https://freedemo1.xyz/live/u7JewhWwuWkS/BRBRyWDNUEr6/119.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN ART AFLAM 1
