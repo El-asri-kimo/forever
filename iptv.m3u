@@ -6,6 +6,16 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.xtra.us.m3u8?checkedby:iptvcat.com
 
 
+#EXTINF:0 tvg-id="ext" group-title="GOBX",MyHD: Reel PX Unlimited HD
+http://darkteam.vip:25461/Arabicfulltest/T67899uvvcddr46/15285
+#EXTINF:0 tvg-id="ext" group-title="GOBX",MyHD: Reel PX Comedy HD
+http://darkteam.vip:25461/Arabicfulltest/T67899uvvcddr46/15286
+#EXTINF:0 tvg-id="ext" group-title="GOBX",MyHD: Reel PX Family HD
+http://darkteam.vip:25461/Arabicfulltest/T67899uvvcddr46/15287
+#EXTINF:0 tvg-id="ext" group-title="GOBX",MyHD: Reel PX Action HD
+http://darkteam.vip:25461/Arabicfulltest/T67899uvvcddr46/15288
+#EXTINF:0 tvg-id="ext" group-title="GOBX",MyHD: Reel PX Cinema HD
+
 #EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN ART AFLAM 1
 http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257286.ts
 #EXTINF:0 tvg-id="ext" group-title="AR Ⓒ ARABIA PREMIUM",AR: OSN ART AFLAM 2
