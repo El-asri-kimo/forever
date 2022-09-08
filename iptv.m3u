@@ -436,42 +436,21 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/3704
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/1259
 
 
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1259
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Action
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/2860
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Box Office 1
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/43903
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Box Office 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/3701
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Box Office 3
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/3702
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Comedy
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/2859
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Drama
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/22109
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Enigma
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/2856
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Kids
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/3694
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Kidz Zone
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/13828
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Living
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/22478
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Mezze
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/122553
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies Disney
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/13666
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies First +2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/16917
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies Hollywood
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/71110
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN MX
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/283287
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Pop Up
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/283286
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Premiere
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/22118
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Woman
+http:#EXTINF:0 tvg-id="ext" group-title="|AR| UAE",|AR| AD SPORT PREMIUM 1 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/250228
+#EXTINF:0 tvg-id="ext" group-title="|AR| UAE",|AR| AD SPORT PREMIUM 2 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/250229
+#EXTINF:0 tvg-id="ext" group-title="|AR| UAE",|AR| ABU DHABI SPORTS 2 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1859
+#EXTINF:0 tvg-id="ext" group-title="|AR| UAE",|AR| STARZ PLAY SPORTS HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/250230
+#EXTINF:0 tvg-id="ext" group-title="|AR| UAE",|AR| ABU DHABI SPORTS 1 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/3883
+#EXTINF:0 tvg-id="ext" group-title="|AR| UAE",|AR| ABU DHABI SPORTS 3 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/125802
+#EXTINF:0 tvg-id="ext" group-title="|AR| UAE",|AR| ABU DHABI SPORTS 4 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/125803
+
 
 
 
