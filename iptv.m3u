@@ -4,6 +4,98 @@
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_Sports_News
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2296
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_NBA_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49691
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_01_SD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3244
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_02_SD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3245
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_03_SD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3246
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_04_SD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3247
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_05_SD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49383
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_06_SD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49384
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_07_SD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49385
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_01_PREMIUM_SD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49685
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_02_PREMIUM_SD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49386
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_03_PREMIUM_SD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49686
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_premiere
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/17
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_Action
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/18
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_Drama
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/19
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_family
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1791
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Movies
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49494
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_FOX_Family_Movies_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51393
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Drama_Arabic
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49495
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Baraem
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3564
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Series_1
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4114
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Series_2
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50439
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_JEEM
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3563
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_BE_Junior
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49868
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_GOURMET
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4113
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fatafeat
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50063
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_AMC
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48776
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_DREAMWORKS
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4577
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Boomerang
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48858
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_DMAX
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48892
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_Outdoor
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49491
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_DTX
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49496
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeiN_HGTV
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52009
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Life_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52773
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Discovery_Kids_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52774
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Cartoon_Network_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52775
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_BBC_Earth_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52786
+#EXTINF:0 tvg-id="ext" group-title="Channels",BeiN_Baby_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52811
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Crime_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53023
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Action_Movies_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53024
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Box_Office_1
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53060
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Box_Office_2
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53061
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Box_Office_3
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53395
+#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_Discovery_Life
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53944
+#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Animal_Planet_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54362
+
+
 #EXTINF:0 tvg-id="ext" group-title="CYFROWY POLSAT",BG: REEL PX ACTION
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54581
 #EXTINF:0 tvg-id="ext" group-title="CYFROWY POLSAT",BG: REEL PX unlimited
@@ -168,65 +260,6 @@ http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257322.ts
 http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/257323.ts
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Movies Action 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1270
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Movies Drama 3
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/3735
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Movies Family 4
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1268
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Movies Premiere 1
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/267063
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Movies Premiere 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1267
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Series 1
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/2833
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Series 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/7619
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/280725
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports 1
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/100
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/101
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports 3
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/102
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports 4
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/103
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports 5
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/104
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports 6
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/105
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports 7
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/106
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports AFC
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/296113
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports AFC 1
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/296116
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports AFC 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/296115
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports AFC 3
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/296119
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports English 1
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/110
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports English 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/111
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports English 3
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/267769
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports NBA
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/15962
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports News
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1266
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports Premium 1
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/109
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports Premium 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/280145
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports Premium 3
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/280249
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports Xtra 1
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/290037
-#EXTINF:0 tvg-id="ext" group-title="Channels",QA: beIN Sports Xtra 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/283294
 
 
 #EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",##### |FR|HD| SPORT #####
