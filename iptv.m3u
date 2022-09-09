@@ -703,25 +703,21 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/1207
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 1
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/280132
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/280137
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 3
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/280134
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 4
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/280133
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 5
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/280135
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 6
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/280136
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 7
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/281462
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Action Waleed
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/284444
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Action Waleed Extra
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/284445
 
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 1
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54301
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 2
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54302
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 3
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54303
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 4
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54304
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 5
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54305
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 6
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54306
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 7
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54307
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",MA: 2M Monde
