@@ -2,8 +2,6 @@
 
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="Undefined",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-id="ext" group-title="Sport",Bein Sports Xtra
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/bein.sports.xtra.us.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-id="ext" group-title="GOBX",MyHD: Reel PX Unlimited HD
@@ -155,89 +153,57 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/290037
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/283294
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC 1 SPORT FHD
-http://wlash.dimapro.xyz:8080/3030/6060/4949
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC 2 SPORT FHD
-http://wlash.dimapro.xyz:8080/3030/6060/4950
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",CANAL  SPORT FHD
-http://wlash.dimapro.xyz:8080/3030/6060/2397
-#EXTINF:0 tvg-id="esp-hd" group-title="Channels",EUROSPORT FHD
-http://wlash.dimapro.xyz:8080/3030/6060/2394
-#EXTINF:0 tvg-id="esp2" group-title="Channels",EUROSPORT 2 FHD
-http://wlash.dimapro.xyz:8080/3030/6060/2393
-#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",INFOSPORT FHD
-http://wlash.dimapro.xyz:8080/3030/6060/2396
-#EXTINF:0 tvg-id="CStar.fr" group-title="Channels",C STAR FHD
-http://wlash.dimapro.xyz:8080/3030/6060/2460
-#EXTINF:0 tvg-id="EquipeTV.fr" group-title="Channels",L'EQUIPE 21 FHD
-http://wlash.dimapro.xyz:8080/3030/6060/2395
-#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",EQUIDIA LIVE FHD
-http://wlash.dimapro.xyz:8080/3030/6060/2392
-#EXTINF:0 tvg-id="ext" group-title="Channels",FOOT  24/24 FHD
-http://wlash.dimapro.xyz:8080/3030/6060/2390
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",##### |FR|HD| SPORT #####
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/5337
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="|FR|HD| SPORT",|FR| BEIN SPORT 1 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1419
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="|FR|HD| SPORT",|FR| BEIN SPORT 2 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1420
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="|FR|HD| SPORT",|FR| BEIN SPORT 3 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1421
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 4 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19820
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 5 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19819
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 6 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19818
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 7 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19817
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 8 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19816
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 9 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19815
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 10 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19814
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="|FR|HD| SPORT",|FR| EUROSPORT 1 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1418
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="|FR|HD| SPORT",|FR| EUROSPORT 2 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/144
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT 1 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/46763
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT 2 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/46764
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 3 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/245300
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 4 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/245301
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 5 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95503
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 6 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95502
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 7 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95501
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 8 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95500
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 9 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95499
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 10 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95488
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 11 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95493
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 12 HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95505
 
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",BEINSPORT 1 FR
-http://wlash.dimapro.xyz:8080/3030/6060/544
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",BEINSPORT 2 FR
-http://wlash.dimapro.xyz:8080/3030/6060/543
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",BEINSPORT 3 FR
-http://wlash.dimapro.xyz:8080/3030/6060/542
-#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="Channels",Bein Sport Max 4
-http://wlash.dimapro.xyz:8080/3030/6060/3187
-#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Channels",Bein Sport Max 5
-http://wlash.dimapro.xyz:8080/3030/6060/3186
-#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="Channels",Bein Sport Max 6
-http://wlash.dimapro.xyz:8080/3030/6060/3185
-#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="Channels",Bein Sport Max 7
-http://wlash.dimapro.xyz:8080/3030/6060/3184
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 8
-http://wlash.dimapro.xyz:8080/3030/6060/3183
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 9
-http://wlash.dimapro.xyz:8080/3030/6060/3182
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sport Max 10
-http://wlash.dimapro.xyz:8080/3030/6060/3181
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Channels",RMC SPORT 1
-http://wlash.dimapro.xyz:8080/3030/6060/541
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Channels",RMC SPORT 2
-http://wlash.dimapro.xyz:8080/3030/6060/540
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Channels",RMC SPORT 3
-http://wlash.dimapro.xyz:8080/3030/6060/539
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMCSPORT4
-http://wlash.dimapro.xyz:8080/3030/6060/538
-#EXTINF:0 tvg-id="ext" group-title="Channels",RMC SPORT 5 HD
-http://wlash.dimapro.xyz:8080/3030/6060/3215
-#EXTINF:0 tvg-id="ext" group-title="Channels",EUROSPORT  2 FR
-http://wlash.dimapro.xyz:8080/3030/6060/537
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",EUROSPORT 1 FR
-http://wlash.dimapro.xyz:8080/3030/6060/536
-#EXTINF:0 tvg-id="extreme-sports" group-title="Channels",EXTREME SPORTS
-http://wlash.dimapro.xyz:8080/3030/6060/535
-#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",INFOSPORT
-http://wlash.dimapro.xyz:8080/3030/6060/534
-#EXTINF:0 tvg-id="EquipeTV.fr" group-title="Channels",L'EQUIPE 21
-http://wlash.dimapro.xyz:8080/3030/6060/533
-#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",EQUIDIA LIVE
-http://wlash.dimapro.xyz:8080/3030/6060/531
-#EXTINF:0 tvg-id="Golfplus.fr" group-title="Channels",GOLF+
-http://wlash.dimapro.xyz:8080/3030/6060/530
-#EXTINF:0 tvg-id="GolfChannel.us" group-title="Channels",GOLF CHANNEL HD
-http://wlash.dimapro.xyz:8080/3030/6060/76680
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIGUE 1 AMAZON PRIME 1
-http://wlash.dimapro.xyz:8080/3030/6060/90109
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIGUE 1 AMAZON PRIME 2
-http://wlash.dimapro.xyz:8080/3030/6060/90110
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIGUE 1 AMAZON PRIME 3
-http://wlash.dimapro.xyz:8080/3030/6060/90111
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIGUE 1 AMAZON PRIME 4 FHD
-http://wlash.dimapro.xyz:8080/3030/6060/69763
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIGUE 1 AMAZON PRIME 5 FHD
-http://wlash.dimapro.xyz:8080/3030/6060/69764
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIGUE 1 AMAZON PRIME 6 FHD
-http://wlash.dimapro.xyz:8080/3030/6060/69765
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIGUE 1 AMAZON PRIME 7 FHD
-http://wlash.dimapro.xyz:8080/3030/6060/69766
-#EXTINF:0 tvg-id="ext" group-title="Channels",LIGUE 1AMAZON PRIME 8 FHD
-http://wlash.dimapro.xyz:8080/3030/6060/69767
 
 
 #EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="Channels",FR: RMC Decouverte
@@ -269,38 +235,51 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/20890
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: RMC Story
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/162
 
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",NATIONAL GEO HD
-http://wlash.dimapro.xyz:8080/3030/6060/528
-#EXTINF:0 tvg-id="wild-hd" group-title="Channels",NATIONAL GEO WILD HD
-http://wlash.dimapro.xyz:8080/3030/6060/527
-#EXTINF:0 tvg-id="ext" group-title="Channels",DISCOVERY FR
-http://wlash.dimapro.xyz:8080/3030/6060/526
-#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="Channels",DISCOVERY SCIENCE FR
-http://wlash.dimapro.xyz:8080/3030/6060/525
-#EXTINF:0 tvg-id="id-extra" group-title="Channels",DISCOVERY INVESTIGATION
-http://wlash.dimapro.xyz:8080/3030/6060/524
-#EXTINF:0 tvg-id="ext" group-title="Channels",Disc Family HD
-http://wlash.dimapro.xyz:8080/3030/6060/3189
-#EXTINF:0 tvg-id="Animaux.fr" group-title="Channels",ANIMAUX
-http://wlash.dimapro.xyz:8080/3030/6060/522
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="Channels",RMC DECOUVERTE
-http://wlash.dimapro.xyz:8080/3030/6060/521
-#EXTINF:0 tvg-id="PLANETE.pl" group-title="Channels",PLANETE
-http://wlash.dimapro.xyz:8080/3030/6060/520
-#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",PLANETE AE
-http://wlash.dimapro.xyz:8080/3030/6060/519
-#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",PLANETE CI
-http://wlash.dimapro.xyz:8080/3030/6060/518
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="Channels",CRIME DISTRICT
-http://wlash.dimapro.xyz:8080/3030/6060/517
-#EXTINF:0 tvg-id="ScienceVie.fr" group-title="Channels",SCIENCES & VIE
-http://wlash.dimapro.xyz:8080/3030/6060/516
-#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="Channels",USHUAIA TV
-http://wlash.dimapro.xyz:8080/3030/6060/515
-#EXTINF:0 tvg-id="Histoire.fr" group-title="Channels",HISTOIRE
-http://wlash.dimapro.xyz:8080/3030/6060/513
-#EXTINF:0 tvg-id="Seasons.fr" group-title="Channels",SEASON
-http://wlash.dimapro.xyz:8080/3030/6060/512
+
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",##### |FR|HD| DECOUVERTE #####
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/5335
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| TOUTE L
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/72781
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="|FR|HD| DECOUVERTE",|FR| PLANETE+ HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/132
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| PLANET A&E HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/123
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="|FR|HD| DECOUVERTE",|FR| PLANETE+ CI HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/133
+#EXTINF:0 tvg-id="Discovery.fr" group-title="|FR|HD| DECOUVERTE",|FR| DISCOVERY HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1422
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="|FR|HD| DECOUVERTE",|FR| DISCOVERY SCIENCE HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/135
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| DISCOVERY ID HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95478
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| DISCOVERY INVESTIGATION HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19839
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| NGC HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1423
+#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| NGC WILD HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/134
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="|FR|HD| DECOUVERTE",|FR| USHUAIA HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/136
+#EXTINF:0 tvg-id="Histoire.fr" group-title="|FR|HD| DECOUVERTE",|FR| HISTOIRE HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/126
+#EXTINF:0 tvg-id="Animaux.fr" group-title="|FR|HD| DECOUVERTE",|FR| ANIMAUX HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/138
+#EXTINF:0 tvg-id="Trek.fr" group-title="|FR|HD| DECOUVERTE",|FR| TREK HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/3027
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="|FR|HD| DECOUVERTE",|FR| CHASSE ET PECHE HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19836
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="|FR|HD| DECOUVERTE",|FR| SCIENCE ET VIE HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/140
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="|FR|HD| DECOUVERTE",|FR| RMC DECOUVERTE HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19838
+#EXTINF:0 tvg-id="Seasons.fr" group-title="|FR|HD| DECOUVERTE",|FR| SEASONS HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/3028
+#EXTINF:0 tvg-id="Gulli.fr" group-title="|FR|HD| DECOUVERTE",|FR| GULLI HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1388
+#EXTINF:0 tvg-id="TCM.fr" group-title="|FR|HD| DECOUVERTE",|FR| TCM CINEMA HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/3022
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="|FR|HD| DECOUVERTE",|FR| CRIME DISTRICT HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19834
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",AE: Abu Dhabi TV
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/1294
@@ -399,41 +378,70 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/43841
 #EXTINF:0 tvg-id="ext" group-title="Channels",AE: Majid TV
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/217284
 #EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1248
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC 2
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1247
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC 3
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1246
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC 4
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1245
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC 5
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/33044
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Action
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1244
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Bollywood
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1243
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Drama
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1242
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Drama+
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/3689
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC FM
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/283292
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Iraq
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/225136
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Maser
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1238
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Max
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1240
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: MBC Variety+
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1239
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: Music Now
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/11952
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: NAT GEO Abu Dhabi
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/217285
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: NAT GEO Wild
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/3704
-#EXTINF:0 tvg-id="ext" group-title="Channels",AE: Noor Dubai
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1259
+
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",##### |AR| MBC GROUP #####
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/3584
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC 1
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/945
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC 2
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/946
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC 3
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/947
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC 4
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/948
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC 5
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/99772
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC ACTION
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/951
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC MAX
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/950
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC DRAMA
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/949
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC BOLLYWOOD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/952
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC IRAQ HD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/72490
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| B4U AFLAM
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1056
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| B4U PLUS
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1057
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| ZEE ALWAN
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1053
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| ZEE AFLAM
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1054
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC MASR 2
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/110147
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC MASR
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/110148
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC 1 UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147975
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC 2 UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147976
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC 3 UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147977
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC 4 UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147978
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC 5 UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147979
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC ACTION UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147980
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC DRAMA UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147981
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC MASR UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147982
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC MASR 2 UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147983
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC BOLLYWOOD UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147984
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC MAX UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147985
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC IRAQ UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147986
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC DRAMA PLUS UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147987
+#EXTINF:0 tvg-id="ext" group-title="|AR| MBC GROUP",|AR| MBC ELIFE UHD
+http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/249452
+
 
 
 http:#EXTINF:0 tvg-id="ext" group-title="|AR| UAE",|AR| AD SPORT PREMIUM 1 HD
