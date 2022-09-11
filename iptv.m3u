@@ -893,34 +893,6 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/20890
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/162
 
 
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT 1 HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243137.ts
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT 2 HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243138.ts
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT 3 HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243139.ts
-#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 4 HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243140.ts
-#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 5 HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243141.ts
-#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 6 HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243142.ts
-#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 7 HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243143.ts
-#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 8 HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243144.ts
-#EXTINF:0 tvg-id="ext" group-title="FR Ⓒ SPORTS ⚽",FR: BEIN SPORT MAX 9 HD
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243145.ts
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FR Ⓒ SPORTS ⚽",FR: RMC SPORT 1
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243146.ts
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FR Ⓒ SPORTS ⚽",FR: RMC SPORT 2
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243147.ts
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="FR Ⓒ SPORTS ⚽",FR: RMC SPORT 3
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243148.ts
-#EXTINF:0 tvg-id="RMCSport4.fr" group-title="FR Ⓒ SPORTS ⚽",FR: RMC SPORT 4
-http://ch.bosstv.live:8080/live/HKjT3Lzz5b/4RPsHEzKws/243149.ts
-
-
 
 
 #EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_HD
