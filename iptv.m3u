@@ -5,11 +5,9 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_Sports_News
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2296
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_NBA_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49691
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_01_SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3244
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2296 
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BeIN_SPORTS_1_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3682
 #EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_02_SD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3245
 #EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_03_SD
