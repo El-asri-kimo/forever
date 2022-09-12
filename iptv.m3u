@@ -3,6 +3,38 @@
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="Undefined",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS PREMIUM 1 4k
+http://revteam4.offshorerev.cc:80/SPIDER_mIflSY/Z5KBYrXJUy/86614
+
+#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS PREMIUM 2 4K
+http://revteam4.offshorerev.cc:80/SPIDER_mIflSY/Z5KBYrXJUy/86612
+
+#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS PREMIUM 3 4k
+http://revteam4.offshorerev.cc:80/SPIDER_mIflSY/Z5KBYrXJUy/86610
+
+#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 1 4K
+http://revteam4.offshorerev.cc:80/SPIDER_mIflSY/Z5KBYrXJUy/86608
+
+#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 2 4k
+http://revteam4.offshorerev.cc:80/SPIDER_mIflSY/Z5KBYrXJUy/86605
+
+#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 3 4K
+http://revteam4.offshorerev.cc:80/SPIDER_mIflSY/Z5KBYrXJUy/86602
+
+#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 4 4K
+http://revteam4.offshorerev.cc:80/SPIDER_mIflSY/Z5KBYrXJUy/86600
+
+#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 5 4K
+http://revteam4.offshorerev.cc:80/SPIDER_mIflSY/Z5KBYrXJUy/86598
+
+#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 6 4K
+http://revteam4.offshorerev.cc:80/SPIDER_mIflSY/Z5KBYrXJUy/86596
+
+#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 7 4K
+http://revteam4.offshorerev.cc:80/SPIDER_mIflSY/Z5KBYrXJUy/86594
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR ➤ BEIN SPORTS 1 4K
 http://bestsave.ltd:2052/993311/113399/149444
