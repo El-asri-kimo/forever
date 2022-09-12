@@ -891,7 +891,24 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/1213
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/225140
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",•●★----| Chaîne Algerienne |----★●•
+direct
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV1
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/305
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV2
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46162
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV3
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/299
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV4
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3746
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV5
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53383
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV6
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53385
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV7
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53384
+#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV8
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53382
 
 
 
