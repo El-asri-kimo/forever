@@ -1305,28 +1305,7 @@ http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374889
 http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374888
 #EXTINF:0 tvg-id="LazioStyleChannel.it" group-title="Ungrouped",lazio channel fhd
 http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374887
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HELBIZ LIVE 01
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/373082
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",[HELBIZ] HELBIZ LIVE 1
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/376370
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",[HELBIZ] HELBIZ LIVE 2
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/376368
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",[HELBIZ] HELBIZ LIVE 3
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/376367
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",[HELBIZ] HELBIZ LIVE 4
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/376366
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",[HELBIZ] HELBIZ LIVE 5
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/376365
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",[HELBIZ] HELBIZ LIVE 6
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/376364
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",[HELBIZ] HELBIZ LIVE 7
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/376363
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",[HELBIZ] HELBIZ LIVE 8
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/376362
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",[HELBIZ] HELBIZ LIVE 9
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/376361
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",[HELBIZ] HELBIZ LIVE 10
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/376369
+
 #EXTINF:0 tvg-id="SKYSport24.it" group-title="Ungrouped",SKY SPORT 24 FULL HD
 http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374332
 #EXTINF:0 tvg-id="SKYSport24.it" group-title="Ungrouped",SKY SPORT 24 HD
