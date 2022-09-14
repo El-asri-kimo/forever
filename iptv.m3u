@@ -95,26 +95,193 @@ http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5651
 #EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 2 FHD
 http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5650
 #EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 3 FHD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5649
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 1 FHD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5658
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 2 FHD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/37619
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 3 FHD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5656
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 4 FHD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5655
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 5 FHD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5654
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 6 FHD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5653
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 7 FHD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5652
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 1 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73638
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 2 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73639
+82364
 
+#EXTINF:0 tvg-id="100NLTV.nl" group-title="|AR| BEIN SPORTS HD/FHD",---------- BEIN 720P ----------
+http://comag.rip:8000/50150052612341/62584853415782/67864
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="|AR| BEIN SPORTS HD/FHD",BEINSPORTS NEWS
+http://comag.rip:8000/50150052612341/62584853415782/16394
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",BEINSPORTS HD
+http://comag.rip:8000/50150052612341/62584853415782/3882
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 01 PREMIUM HD
+http://comag.rip:8000/50150052612341/62584853415782/156468
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 02 PREMIUM HD
+http://comag.rip:8000/50150052612341/62584853415782/156466
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 03 PREMIUM HD
+http://comag.rip:8000/50150052612341/62584853415782/156464
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 01 HD
+http://comag.rip:8000/50150052612341/62584853415782/156462
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 02 HD
+http://comag.rip:8000/50150052612341/62584853415782/156460
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 03 HD
+http://comag.rip:8000/50150052612341/62584853415782/156458
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 04 HD
+http://comag.rip:8000/50150052612341/62584853415782/156456
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 05 HD
+http://comag.rip:8000/50150052612341/62584853415782/156454
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 06 HD
+http://comag.rip:8000/50150052612341/62584853415782/156452
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 07 HD
+http://comag.rip:8000/50150052612341/62584853415782/156450
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 1 EN HD
+http://comag.rip:8000/50150052612341/62584853415782/156448
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 2 EN HD
+http://comag.rip:8000/50150052612341/62584853415782/156446
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 3 EN HD
+http://comag.rip:8000/50150052612341/62584853415782/158822
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 1 FR HD
+http://comag.rip:8000/50150052612341/62584853415782/158825
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 2 FR HD
+http://comag.rip:8000/50150052612341/62584853415782/158824
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 3 FR HD
+http://comag.rip:8000/50150052612341/62584853415782/158823
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS XTRA 1 HD
+http://comag.rip:8000/50150052612341/62584853415782/161970
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS XTRA 2 HD
+http://comag.rip:8000/50150052612341/62584853415782/161969
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS PREMIUM 1
+http://comag.rip:8000/50150052612341/62584853415782/156445
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS PREMIUM  2
+http://comag.rip:8000/50150052612341/62584853415782/156444
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS PREMIUM  3
+http://comag.rip:8000/50150052612341/62584853415782/156443
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS 1
+http://comag.rip:8000/50150052612341/62584853415782/156442
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS 2
+http://comag.rip:8000/50150052612341/62584853415782/156441
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS 3
+http://comag.rip:8000/50150052612341/62584853415782/156440
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS 4
+http://comag.rip:8000/50150052612341/62584853415782/156439
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS 5
+http://comag.rip:8000/50150052612341/62584853415782/156438
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS 6
+http://comag.rip:8000/50150052612341/62584853415782/156437
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS 7
+http://comag.rip:8000/50150052612341/62584853415782/156436
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS 1 FR
+http://comag.rip:8000/50150052612341/62584853415782/156435
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS 2 FR
+http://comag.rip:8000/50150052612341/62584853415782/156434
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beINSPORTS 3 FR
+http://comag.rip:8000/50150052612341/62584853415782/156433
+#EXTINF:0 tvg-id="100NLTV.nl" group-title="|AR| BEIN SPORTS HD/FHD",---------- BEIN 1080P ----------
+http://comag.rip:8000/50150052612341/62584853415782/67865
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 01 PREMIUM FHD
+http://comag.rip:8000/50150052612341/62584853415782/156469
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 02 PREMIUM FHD
+http://comag.rip:8000/50150052612341/62584853415782/156467
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 03 PREMIUM FHD
+http://comag.rip:8000/50150052612341/62584853415782/156465
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 01 FHD
+http://comag.rip:8000/50150052612341/62584853415782/156463
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 02 FHD
+http://comag.rip:8000/50150052612341/62584853415782/156461
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 03 FHD
+http://comag.rip:8000/50150052612341/62584853415782/156459
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 04 FHD
+http://comag.rip:8000/50150052612341/62584853415782/156457
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 05 FHD
+http://comag.rip:8000/50150052612341/62584853415782/156455
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 06 FHD
+http://comag.rip:8000/50150052612341/62584853415782/156453
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 07 FHD
+http://comag.rip:8000/50150052612341/62584853415782/156451
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 1 EN FHD
+http://comag.rip:8000/50150052612341/62584853415782/156449
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 2 EN FHD
+http://comag.rip:8000/50150052612341/62584853415782/156447
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 3 EN FHD
+http://comag.rip:8000/50150052612341/62584853415782/158821
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 1 FR FHD
+http://comag.rip:8000/50150052612341/62584853415782/158828
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 2 FR FHD
+http://comag.rip:8000/50150052612341/62584853415782/158827
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS 3 FR FHD
+http://comag.rip:8000/50150052612341/62584853415782/158826
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS XTRA 1 FHD
+http://comag.rip:8000/50150052612341/62584853415782/161968
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS XTRA 2 FHD
+http://comag.rip:8000/50150052612341/62584853415782/161967
+#EXTINF:0 tvg-id="100NLTV.nl" group-title="|AR| BEIN SPORTS HD/FHD",---------- BEIN HEVC ----------
+http://comag.rip:8000/50150052612341/62584853415782/67866
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN 4k UHD
+http://comag.rip:8000/50150052612341/62584853415782/191761
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX  1 HD
+http://comag.rip:8000/50150052612341/62584853415782/176199
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 2 HD
+http://comag.rip:8000/50150052612341/62584853415782/176198
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 3 HD
+http://comag.rip:8000/50150052612341/62584853415782/176197
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 4 HD
+http://comag.rip:8000/50150052612341/62584853415782/176196
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 5 HD
+http://comag.rip:8000/50150052612341/62584853415782/176195
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 6 HD
+http://comag.rip:8000/50150052612341/62584853415782/176194
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 1 FHD
+http://comag.rip:8000/50150052612341/62584853415782/176193
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 3 FHD
+http://comag.rip:8000/50150052612341/62584853415782/176191
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 4 FHD
+http://comag.rip:8000/50150052612341/62584853415782/176190
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 5 FHD
+http://comag.rip:8000/50150052612341/62584853415782/176189
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 6 FHD
+http://comag.rip:8000/50150052612341/62584853415782/176188
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 1 4k
+http://comag.rip:8000/50150052612341/62584853415782/176187
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 2 4K
+http://comag.rip:8000/50150052612341/62584853415782/176186
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 3 4K
+http://comag.rip:8000/50150052612341/62584853415782/176185
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 4 4K
+http://comag.rip:8000/50150052612341/62584853415782/176184
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 5 4k
+http://comag.rip:8000/50150052612341/62584853415782/176183
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN SPORTS MAX 6 4k
+http://comag.rip:8000/50150052612341/62584853415782/176182
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN Sports AFC
+http://comag.rip:8000/50150052612341/62584853415782/201429
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN Sports AFC 1
+http://comag.rip:8000/50150052612341/62584853415782/201427
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN Sports AFC 2
+http://comag.rip:8000/50150052612341/62584853415782/201425
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS HD/FHD",beIN Sports AFC 3
+http://comag.rip:8000/50150052612341/62584853415782/201424
+
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="|AR| BEIN SPORTS SD",BEIN NEWS SD
+http://comag.rip:8000/50150052612341/62584853415782/31928
+#EXTINF:0 tvg-id="beINSPORTS.us" group-title="|AR| BEIN SPORTS SD",BEIN SPORTS SD
+http://comag.rip:8000/50150052612341/62584853415782/31927
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS SD",beIN SPORTS 1 PREMIUM SD
+http://comag.rip:8000/50150052612341/62584853415782/156428
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS SD",beIN SPORTS 2 PREMIUM SD
+http://comag.rip:8000/50150052612341/62584853415782/189746
+#EXTINF:0 tvg-id="ext" group-title="|AR| BEIN SPORTS SD",beIN SPORTS 3 PREMIUM SD
+http://comag.rip:8000/50150052612341/62584853415782/156426
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="|AR| BEIN SPORTS SD",beIN SPORTS 1 SD
+http://comag.rip:8000/50150052612341/62584853415782/156425
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="|AR| BEIN SPORTS SD",beIN SPORTS 2 SD
+http://comag.rip:8000/50150052612341/62584853415782/156424
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="|AR| BEIN SPORTS SD",beIN SPORTS 3 SD
+http://comag.rip:8000/50150052612341/62584853415782/156423
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="|AR| BEIN SPORTS SD",beIN SPORTS 4 SD
+http://comag.rip:8000/50150052612341/62584853415782/156422
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="|AR| BEIN SPORTS SD",beIN SPORTS 5 SD
+http://comag.rip:8000/50150052612341/62584853415782/156421
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="|AR| BEIN SPORTS SD",beIN SPORTS 6 SD
+http://comag.rip:8000/50150052612341/62584853415782/156420
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="|AR| BEIN SPORTS SD",beIN SPORTS 7 SD
+http://comag.rip:8000/50150052612341/62584853415782/156419
+#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="|AR| BEIN SPORTS SD",beIN SPORTS MAX 1 SD
+http://comag.rip:8000/50150052612341/62584853415782/176203
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="|AR| BEIN SPORTS SD",beIN SPORTS MAX 2 SD
+http://comag.rip:8000/50150052612341/62584853415782/176202
+#EXTINF:0 tvg-id="BeINSportsMAX3.es" group-title="|AR| BEIN SPORTS SD",beIN SPORTS MAX 3 SD
+http://comag.rip:8000/50150052612341/62584853415782/176201
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="|AR| BEIN SPORTS SD",beIN SPORTS MAX 4 SD
+http://comag.rip:8000/50150052612341/62584853415782/176200
 
 
 
