@@ -3,6 +3,56 @@
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="Undefined",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
+
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_04_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_05_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/5
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_06_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/6
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_07_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/7
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_PREMIUM_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/9
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_PREMIUM_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/8
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_03_PREMIUM_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/11
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_XTRA_01
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/10
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_XTRA_02
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53670
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEIN_Sport_01_Hevc50
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52269
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEIN_Sport_02_Hevc50
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48878
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEIN_Sport_03_Hevc50
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48879
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_07_Hevc50
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49433
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_05_Hevc50
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49605
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_04_Hevc50
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49606
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_06_Hevc50
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49621
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_PREMIUM_Hevc50
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49622
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_PREMIUM_Hevc50
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51018
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Bein_sport_03_PREMIUM_Hevc50
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52271
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_French_HD
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54473
+#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",MY:  ANIMAL PLANET
+http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52847
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS PREMIUM 1 4k
 http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86614
 
@@ -983,52 +1033,6 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/162
 
 
 
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_04_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_05_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/5
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_06_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/6
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_07_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/7
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_PREMIUM_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/9
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_PREMIUM_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/8
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_03_PREMIUM_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/11
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_XTRA_01
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/10
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_XTRA_02
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53670
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEIN_Sport_01_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52269
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEIN_Sport_02_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48878
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEIN_Sport_03_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48879
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_07_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49433
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_05_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49605
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_04_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49606
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_06_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49621
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_PREMIUM_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49622
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_PREMIUM_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51018
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Bein_sport_03_PREMIUM_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52271
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_French_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54473
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",MY:  ANIMAL PLANET
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52847
 
 
 #EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",•●★----| Chaîne OSN & ART |----★●•
