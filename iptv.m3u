@@ -3,6 +3,123 @@
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="Undefined",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
+            ####### 2nd Source ########
+            ###########################
+
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS  News HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/1884
+#EXTINF:0 tvg-id="BeINSports.es" group-title="||EU| MUSIC LIVE |",BEIN SPORTS HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/1885
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 1 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/669
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 2 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/667
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 3 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/665
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD1
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/682
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD2
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/1711
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD3
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/679
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD4
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/677
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD5
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/675
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD6
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/673
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD7
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/671
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 1 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73634
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 2 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73635
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="||EU| MUSIC LIVE |",BEIN SPORTS NBA HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63912
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS ENGLISH 1 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63916
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS ENGLISH 2 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63914
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS ENGLISH 3 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63915
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS FRENCH 1 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63917
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS FRENCH 2 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63918
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 1
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/668
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 2
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/666
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 3
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/664
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 1
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/681
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 2
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/680
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 3
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/678
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 4
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/676
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 5
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/674
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 6
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/672
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 7
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/670
+#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 1
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73636
+#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 2
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73637
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 1 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58417
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 2 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58418
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 3 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58419
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 1 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58410
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 2 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58411
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 3 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58412
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 4 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58413
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 5 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58414
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 6 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58415
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 7 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58416
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 1 FHD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5651
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 2 FHD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5650
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 3 FHD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5649
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 1 FHD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5658
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 2 FHD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/37619
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 3 FHD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5656
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 4 FHD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5655
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 5 FHD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5654
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 6 FHD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5653
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORT 7 FHD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5652
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 1 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73638
+#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 2 H265
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73639
+
+
+
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_HD
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1
@@ -928,21 +1045,20 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/1207
 
 
 
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54301
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54302
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 3
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54303
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 4
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54304
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 5
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54305
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 6
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54306
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AR: SSC SPORTS 7
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54307
-
+#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC1 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72522
+#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC2 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72523
+#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC3 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/76184
+#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC4 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72524
+#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC5 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72525
+#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC6 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72526
+#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC7 HD
+http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72527
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",MA: 2M Monde
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/225137
