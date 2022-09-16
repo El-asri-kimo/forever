@@ -3,6 +3,27 @@
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="Undefined",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-id="ext" group-title="Live: African",VIP AF: Canal+ Sport 1 FHD
+http://basic-iptvesun.com:8080/m9xSsFMr/dqaaH6B8/50956
+#EXTINF:0 tvg-id="ext" group-title="Live: African",VIP AF: Canal+ Sport 1 HD
+http://basic-iptvesun.com:8080/m9xSsFMr/dqaaH6B8/83851
+#EXTINF:0 tvg-id="ext" group-title="Live: African",VIP AF: Canal+ Sport 2 FHD
+http://basic-iptvesun.com:8080/m9xSsFMr/dqaaH6B8/50957
+#EXTINF:0 tvg-id="ext" group-title="Live: African",VIP AF: Canal+ Sport 2 HD
+http://basic-iptvesun.com:8080/m9xSsFMr/dqaaH6B8/83852
+#EXTINF:0 tvg-id="ext" group-title="Live: African",VIP AF: Canal+ Sport 3 FHD
+http://basic-iptvesun.com:8080/m9xSsFMr/dqaaH6B8/50958
+#EXTINF:0 tvg-id="ext" group-title="Live: African",VIP AF: Canal+ Sport 3 HD
+http://basic-iptvesun.com:8080/m9xSsFMr/dqaaH6B8/83853
+#EXTINF:0 tvg-id="ext" group-title="Live: African",VIP AF: Canal+ Sport 4 FHD
+http://basic-iptvesun.com:8080/m9xSsFMr/dqaaH6B8/50959
+#EXTINF:0 tvg-id="ext" group-title="Live: African",VIP AF: Canal+ Sport 4 HD
+http://basic-iptvesun.com:8080/m9xSsFMr/dqaaH6B8/83854
+#EXTINF:0 tvg-id="ext" group-title="Live: African",VIP AF: Canal+ Sport 5 FHD
+http://basic-iptvesun.com:8080/m9xSsFMr/dqaaH6B8/50960
+#EXTINF:0 tvg-id="ext" group-title="Live: African",VIP AF: Canal+ Sport 5 HD
+http://basic-iptvesun.com:8080/m9xSsFMr/dqaaH6B8/83855
+
             ####### 2nd Source ########
             ###########################
 
