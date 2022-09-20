@@ -1212,20 +1212,6 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/1207
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC1 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72522
-#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC2 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72523
-#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC3 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/76184
-#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC4 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72524
-#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC5 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72525
-#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC6 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72526
-#EXTINF:0 tvg-id="ext" group-title="||AR| Saudi sports |",SSC7 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/72527
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",MA: 2M Monde
 http://kuchini.site:8080/livetvchannel2021/fe326fcc/225137
