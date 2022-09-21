@@ -3,6 +3,8 @@
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="Undefined",Love Nature
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
+#EXTINF:0 tvg-id="ext" group-title="[---FRANCE---]",ULTRA NATURE 4K | UHD
+http://comag.rip:8000/00159101576765/61790209632447/133421
 
             ####### 2nd Source ########
             ###########################
