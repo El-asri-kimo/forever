@@ -9,6 +9,44 @@ http://comag.rip:8000/live/00159101576765/61790209632447/133421.ts
             ####### 2nd Source ########
             ###########################
 
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 1 HD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19279
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 2 HD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19280
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 3 HD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19281
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 4 HD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19282
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 5 HD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19283
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 6 HD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19284
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 7 HD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19285
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 1 SD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19286
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 2 SD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19287
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 3 SD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19288
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 4 SD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19289
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 5 SD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19290
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 6 SD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19291
+#EXTINF:0 tvg-id="ext" group-title="Arabic Sport TV Ch",SSC 7 SD
+http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19292
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS  News HD
 http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/1884
 #EXTINF:0 tvg-id="BeINSports.es" group-title="||EU| MUSIC LIVE |",BEIN SPORTS HD
