@@ -1068,13 +1068,14 @@ http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/147987
 http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/249452
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="Starz Play",Starz Play SPORT 01
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/51362
-#EXTINF:0 tvg-id="ext" group-title="Starz Play",Starz Play SPORT 02
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/51363
-#EXTINF:0 tvg-id="ext" group-title="Starz Play",Starz Play SPORT 03
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/51364
+#EXTINF:0 tvg-id="ADSports1.net" group-title="ARABIC",AR: Ad Sports 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/32802
+#EXTINF:0 tvg-id="ADSports2.net" group-title="ARABIC",AR: Ad Sports 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/32800
+#EXTINF:0 tvg-id="ext" group-title="ARABIC",AR: Ad Sport 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/32711
+#EXTINF:0 tvg-id="ext" group-title="ARABIC",AR: Ad Sport 4 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/32712
 #EXTINF:0 tvg-id="ext" group-title="Starz Play",AD Sport 01 Premieum
 http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/52244
 #EXTINF:0 tvg-id="ext" group-title="Starz Play",AD Sport 02 Premieum
