@@ -5693,299 +5693,974 @@ http://aldahya.us:80/movie/703230754614/224049535496/174118.mp4
 http://aldahya.us:80/movie/703230754614/224049535496/179636.mp4
 
 
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",|FR| TF1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9211
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",|FR| TF1 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15121
+#EXTINF:0 tvg-id="TF1.fr" group-title="Channels",|FR| TF1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9210
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TF1 4K
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62897
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TF1+1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51178
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TF1+1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51179
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="Channels",|FR| TF1 SERIES FILMS
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51148
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TF1 SERIES FILMS HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51169
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TF1 SERIES FILMS FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51172
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",|FR| FRANCE 2
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9277
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",|FR| FRANCE 2 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15226
+#EXTINF:0 tvg-id="France2.fr" group-title="Channels",|FR| FRANCE 2 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9546
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",|FR| FRANCE 3
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9276
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",|FR| FRANCE 3 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15169
+#EXTINF:0 tvg-id="France3.fr" group-title="Channels",|FR| FRANCE 3 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9545
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| FRANCE 3 FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51177
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",|FR| FRANCE 4
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9274
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",|FR| FRANCE 4 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15168
+#EXTINF:0 tvg-id="France4.fr" group-title="Channels",|FR| FRANCE 4 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9544
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| FRANCE 4 FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51176
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",|FR| FRANCE 5
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9273
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",|FR| FRANCE 5 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15167
+#EXTINF:0 tvg-id="France5.fr" group-title="Channels",|FR| FRANCE 5 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9543
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| FRANCE 5 FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51175
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",|FR| M6
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9260
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",|FR| M6 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15154
+#EXTINF:0 tvg-id="M6.fr" group-title="Channels",|FR| M6 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9531
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| M6 FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51174
+#EXTINF:0 tvg-id="ARTE.fr" group-title="Channels",|FR| ARTE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9354
+#EXTINF:0 tvg-id="ARTE.fr" group-title="Channels",|FR| ARTE HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15212
+#EXTINF:0 tvg-id="ARTE.fr" group-title="Channels",|FR| ARTE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9590
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",|FR| C8
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9293
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",|FR| C8 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15232
+#EXTINF:0 tvg-id="C8.fr" group-title="Channels",|FR| C8 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9574
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| C8 FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51171
+#EXTINF:0 tvg-id="W9.fr" group-title="Channels",|FR| W9
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9372
+#EXTINF:0 tvg-id="W9.fr" group-title="Channels",|FR| W9 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15111
+#EXTINF:0 tvg-id="W9.fr" group-title="Channels",|FR| W9 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9488
+#EXTINF:0 tvg-id="TFX.fr" group-title="Channels",|FR| TFX
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/50639
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TFX HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/50640
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TFX FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/50641
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TFX FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51168
+#EXTINF:0 tvg-id="CStar.fr" group-title="Channels",|FR| CSTAR
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15182
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CSTAR HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9561
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CSTAR FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51151
+#EXTINF:0 tvg-id="FranceO.fr" group-title="Channels",|FR| FRANCE O
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9272
+#EXTINF:0 tvg-id="FranceO.fr" group-title="Channels",|FR| FRANCE O HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15165
+#EXTINF:0 tvg-id="FranceO.fr" group-title="Channels",|FR| FRANCE O FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9542
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",|FR| 6TER
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9364
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",|FR| 6TER HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15216
+#EXTINF:0 tvg-id="6ter.fr" group-title="Channels",|FR| 6TER FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9595
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="Channels",|FR| CHERIE 25
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9313
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="Channels",|FR| CHERIE 25 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15188
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="Channels",|FR| CHERIE 25 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9572
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| PARIS PREMIERE FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51129
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| ARTE FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51154
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Channels",|FR| NRJ12
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15142
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Channels",|FR|  NRJ12 HD.
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9366
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="Channels",|FR| NRJ12 FULL HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9521
+#EXTINF:0 tvg-id="TV5MondeFBS.fr" group-title="Channels",|FR| TV5 MONDE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51170
+#EXTINF:0 tvg-id="Teva.fr" group-title="Channels",|FR| TEVA FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9212
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="Channels",|FR| PARIS PREMIERE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15137
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="Channels",|FR| PARIS PREMIERE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9238
+#EXTINF:0 tvg-id="RTL9.fr" group-title="Channels",|FR| RTL9
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9374
+#EXTINF:0 tvg-id="RTL9.fr" group-title="Channels",|FR| RTL9 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15130
+#EXTINF:0 tvg-id="RTL9.fr" group-title="Channels",|FR| RTL9 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9507
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",|FR| TV BREIZH
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9206
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",|FR| TV BREIZH HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15116
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="Channels",|FR| TV BREIZH FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9491
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TV BREIZH FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51119
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BET ETOILE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51153
+#EXTINF:0 tvg-id="AB1.fr" group-title="Channels",|FR| AB1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15233
+#EXTINF:0 tvg-id="AB1.fr" group-title="Channels",|FR| AB1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9594
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AB3
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9357
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AB3 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15215
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AB3 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9593
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="Channels",|FR| SERIE CLUB HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9226
+#EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",|FR| 13EME RUE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9365
+#EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",|FR| 13EME RUE HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15217
+#EXTINF:0 tvg-id="13RUE.fr" group-title="Channels",|FR| 13EME RUE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9596
+#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",|FR| SYFY
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9214
+#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",|FR| SYFY HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15123
+#EXTINF:0 tvg-id="Syfy.fr" group-title="Channels",|FR| SYFY FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9498
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| SYFY FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9213
+#EXTINF:0 tvg-id="Eentertainment.fr" group-title="Channels",|FR| E! ENTERTAINMENT
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15175
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| E! ENTERTAINMENT HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9285
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| E! ENTERTAINMENT FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9553
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MY CUISINE HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/30818
+#EXTINF:0 tvg-id="Comedie.fr" group-title="Channels",|FR| COMEDIE PLUS
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9297
+#EXTINF:0 tvg-id="Comedie.fr" group-title="Channels",|FR| COMEDIE PLUS HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15183
+#EXTINF:0 tvg-id="Comedie.fr" group-title="Channels",|FR| COMEDIE PLUS FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9563
+#EXTINF:0 tvg-id="Teva.fr" group-title="Channels",|FR| TEVA
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/49805
+#EXTINF:0 tvg-id="Teva.fr" group-title="Channels",|FR| TEVA FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/49804
+#EXTINF:0 tvg-id="Warnertv.fr" group-title="Channels",|FR| WARNER TV
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9268
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| WARNER TV FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9267
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MELODY TV
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/48042
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MELODY TV FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62227
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MY CUISINE HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/57358
+#EXTINF:0 tvg-id="NovelasTV.fr" group-title="Channels",|FR| NOVELAS TV
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62893
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MY COMEDY TV FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62914
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| FASHION TV UHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62918
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RTS DEUX FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9506
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| KTO TV
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/63011
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| ONE TV HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/69203
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| W9 FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51173
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROCHANNEL
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108053
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="Channels",|FR| SERIE CLUB FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51123
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",|FR| CANAL+ SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/32155
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",|FR| CANAL+ HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9324
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="Channels",|FR| CANAL+ FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9579
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ FHD H265
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51165
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",|FR| CANAL CINEMA
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9332
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",|FR| CANAL CINEMA HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15195
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="Channels",|FR| CANAL CINEMA FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9582
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL GRAND ECRAN HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/131807
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="Channels",|FR| CANAL FAMILY HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15193
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="Channels",|FR| CANAL FAMILY FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9580
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL SERIE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9328
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="Channels",|FR| CANAL SERIE HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15192
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="Channels",|FR| CANAL SERIE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9578
+#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="Channels",|FR| ALTICE STUDIO
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40882
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| ALTICE STUDIO HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40881
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| ALTICE STUDIO FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40880
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="Channels",|FR| OCS CHOC
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9247
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="Channels",|FR| OCS CHOC HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15140
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="Channels",|FR| OCS CHOC FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9518
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="Channels",|FR| OCS CITY
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9246
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="Channels",|FR| OCS CITY HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15223
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="Channels",|FR| OCS CITY FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9517
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="Channels",|FR| OCS GEANT
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9245
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="Channels",|FR| OCS GEANTS HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15139
+#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="Channels",|FR| OCS GEANTS FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9516
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="Channels",|FR| OCS MAX
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9244
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="Channels",|FR| OCS MAX HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15222
+#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="Channels",|FR| OCS MAX FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9515
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL PLAY 7
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9316
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",|FR| CINE CLASSIC
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9311
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",|FR| CINE CLASSIC HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15187
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",|FR| CINE CLASSIC FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9570
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="Channels",|FR| CINE EMOTION
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9309
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="Channels",|FR| CINE EMOTION HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15186
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="Channels",|FR| CINE EMOTION FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9568
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="Channels",|FR| CINE FAMIZ
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9307
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="Channels",|FR| CINE FAMIZ HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9306
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="Channels",|FR| CINE FAMIZ FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9567
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="Channels",|FR| CINE FRISSON
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9304
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="Channels",|FR| CINE FRISSON HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15185
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="Channels",|FR| CINE FRISSON FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9303
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CINE FRISSON FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9566
+#EXTINF:0 tvg-id="CinePolar.fr" group-title="Channels",|FR| CINE POLAR
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9301
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| POLAR + HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9564
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="Channels",|FR| CINE PREMIER
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9300
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="Channels",|FR| CINE PREMIER HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15230
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="Channels",|FR| CINE PREMIER FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9571
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CINE PREMIER FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9299
+#EXTINF:0 tvg-id="Action.fr" group-title="Channels",|FR| ACTION
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9356
+#EXTINF:0 tvg-id="Action.fr" group-title="Channels",|FR| ACTION HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15214
+#EXTINF:0 tvg-id="Action.fr" group-title="Channels",|FR| ACTION FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9592
+#EXTINF:0 tvg-id="TMC.fr" group-title="Channels",|FR| TMC
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9194
+#EXTINF:0 tvg-id="TMC.fr" group-title="Channels",|FR| TMC FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15119
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TMC+1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9494
+#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",|FR| TCM CINEMA
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/59874
+#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",|FR| TCM CINEMA HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126952
+#EXTINF:0 tvg-id="TCM.fr" group-title="Channels",|FR| TCM CINEMA FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9195
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",|FR| PARAMOUNT CHANNEL
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9240
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",|FR| PARAMOUNT CHANNEL HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15138
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="Channels",|FR| PARAMOUNT CHANNEL FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9514
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| ORANGE CINE 1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15247
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| ORANGE CINE 2
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15246
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| ORANGE CINE 3
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15245
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| ORANGE CINE 4
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15244
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| ORANGE CINE 5
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15243
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A LA CARTE 2
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9242
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A LA CARTE 1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9201
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A LA CARTE 3
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9200
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A LA CARTE 4
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9199
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A LA CARTE 5
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9203
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A LA CARTE 6
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9202
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A LA CARTE 7
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9362
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A LA CARTE 8
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9361
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A LA CARTE 9
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9360
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| A LA CARTE 10
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9363
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="Channels",|FR| CINE CLASSIC FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/50886
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ HD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15196
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CINE CLUB FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/50883
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CINE CLUB FULL HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9569
+#EXTINF:0 tvg-id="BabyTV.fr" group-title="Channels",|FR| BABY TV
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62903
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="Channels",|FR| DISNEY CHANNEL
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9290
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="Channels",|FR| DISNEY CHANNEL HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15178
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="Channels",|FR| DISNEY CHANNEL FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9557
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| DISNEY CHANNEL +1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62898
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="Channels",|FR| DISNEY JUNIOR
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9369
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="Channels",|FR| DISNEY JUNIOR HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15177
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="Channels",|FR| DISNEY JUNIOR FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9287
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| DISNEY JUNIOR FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9555
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="Channels",|FR| DISNEY CINEMA
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9288
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="Channels",|FR| DISNEY CINEMA HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15229
+#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="Channels",|FR| DISNEY CINEMA FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9556
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="Channels",|FR| DISNEY XD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9286
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="Channels",|FR| DISNEY XD HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15176
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="Channels",|FR| NICKELODEON
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9251
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="Channels",|FR| NICKELODEON HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15143
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="Channels",|FR| NICKELODEON FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9522
+#EXTINF:0 tvg-id="NickJr.fr" group-title="Channels",|FR| NICKELODEON JUNIOR
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9250
+#EXTINF:0 tvg-id="NickJr.fr" group-title="Channels",|FR| NICKELODEON JUNIOR HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9252
+#EXTINF:0 tvg-id="NickJr.fr" group-title="Channels",|FR| NICKELODEON JUNIOR FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15225
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| NICKELODEON 4 TEEN
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/49802
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| NICKELODEON 4 TEEN FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/49801
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="Channels",|FR| TELETOON +
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9373
+#EXTINF:0 tvg-id="TeleTOON.fr" group-title="Channels",|FR| TELETOON + FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9496
+#EXTINF:0 tvg-id="PIWI.fr" group-title="Channels",|FR| PIWI
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9237
+#EXTINF:0 tvg-id="PIWI.fr" group-title="Channels",|FR| PIWI HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15136
+#EXTINF:0 tvg-id="PIWI.fr" group-title="Channels",|FR| PIWI FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9513
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="Channels",|FR| CANAL J
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9323
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="Channels",|FR| CANAL J HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15231
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="Channels",|FR| CANAL J FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9576
+#EXTINF:0 tvg-id="Tiji.fr" group-title="Channels",|FR| TIJI
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9209
+#EXTINF:0 tvg-id="Tiji.fr" group-title="Channels",|FR| TIJI HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15120
+#EXTINF:0 tvg-id="Tiji.fr" group-title="Channels",|FR| TIJI FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9495
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="Channels",|FR| BOOMERANG
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9334
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="Channels",|FR| BOOMERANG HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15198
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="Channels",|FR| BOOMERANG FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9583
+#EXTINF:0 tvg-id="Boing.fr" group-title="Channels",|FR| BOING
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9335
+#EXTINF:0 tvg-id="Boing.fr" group-title="Channels",|FR| BOING HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15199
+#EXTINF:0 tvg-id="Boing.fr" group-title="Channels",|FR| BOING FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9584
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="Channels",|FR| CARTOON NETWORK
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9315
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="Channels",|FR| CARTOON NETWORK HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9371
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="Channels",|FR| CARTOON NETWORK FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15190
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CARTOON NETWORK FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9573
+#EXTINF:0 tvg-id="GameOne.fr" group-title="Channels",|FR| GAME ONE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9271
+#EXTINF:0 tvg-id="GameOne.fr" group-title="Channels",|FR| GAME ONE HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15163
+#EXTINF:0 tvg-id="GameOne.fr" group-title="Channels",|FR| GAME ONE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9541
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Channels",|FR| GULLI
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9269
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Channels",|FR| GULLI HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15160
+#EXTINF:0 tvg-id="Gulli.fr" group-title="Channels",|FR| GULLI FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9538
+#EXTINF:0 tvg-id="Mangas.fr" group-title="Channels",|FR| MANGAS
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9257
+#EXTINF:0 tvg-id="Mangas.fr" group-title="Channels",|FR| MANGAS HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15152
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MANGA FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9530
+#EXTINF:0 tvg-id="Mangas.fr" group-title="Channels",|FR| MANGAS HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51137
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| J ONE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/30600
+#EXTINF:0 tvg-id="Toonami.fr" group-title="Channels",|FR| TOONAMI
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/46532
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TOONAMI FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/50674
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| GAME ONE +1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62910
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| LIVE FRANKLIN HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62907
+#EXTINF:0 tvg-id="DisneyXD.fr" group-title="Channels",|FR| DISNEY XD FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9554
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",|FR| CANAL+ SPORT
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/39203
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",|FR| CANAL+ SPORT HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15191
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",|FR| CANAL+ SPORT FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51166
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ FOOT
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/136367
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ FOOT HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/136368
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ FOOT FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/136369
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ SPORT 360
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/136372
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ SPORT 360 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/136371
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ SPORT 360 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/136370
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ LIGUE 1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108268
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ PREMIER LEAGUE HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/125118
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ PREMIER LEAGUE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/115017
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ TOP14 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108537
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ FORMULA1 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/125119
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ FORMULA1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108538
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ MOTO GP FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15147
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME MULTIPLEX SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126666
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR|D AMAZON PRIME MULTIPLEX HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126667
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME MULTIPLEX FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124796
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 1 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108558
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 1 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108559
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108560
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 2 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124486
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 2 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124485
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 2 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124484
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 3 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124489
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 3 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124488
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 3 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124487
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 4 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124492
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 4 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124491
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 4 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124490
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 5 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124495
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 5 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124494
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 5 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124493
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 6 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124520
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 6 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124523
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 6 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124524
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 7 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124521
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 7 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124525
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 7 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124526
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 8 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124522
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 8 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124527
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 8 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124528
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 9 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124559
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LIVE 9 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124560
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE 1 LiVE 9 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/124561
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",|FR| BEIN SPORT 1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15204
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",|FR| BEIN SPORT 1 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9340
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT 1 HD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9345
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",|FR| BEIN SPORT 1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51102
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",|FR| BEIN SPORT 2
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15203
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",|FR| BEIN SPORT 2 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9339
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT 2 HD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9344
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Channels",|FR| BEIN SPORT 2 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9588
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT 2 FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51101
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",|FR| BEIN SPORT 3
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15202
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",|FR|  BEIN SPORT 3 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9341
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT 3 HD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9343
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Channels",|FR| BEIN SPORT 3 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9587
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT 3 FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51100
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT NEWS FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40481
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 4K
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108552
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 1 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15127
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 1 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9218
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9502
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 2 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15126
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 2 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9217
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 2 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9501
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 3 SD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/50978
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 3 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/50979
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 3 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/50980
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 4
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15124
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 4 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9215
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 4 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9499
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126960
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139104
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 2
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126961
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 2 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139105
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 3
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126962
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 3 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139106
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 4
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126963
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 4 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139107
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 5
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126964
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 5 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139108
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 6
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126965
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 6 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139109
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 7
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126966
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 7 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139110
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 8
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126967
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AMAZON PRIME LIGUE DEUX LIVE 8 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139111
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTISPORTS 1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108540
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTISPORTS 2 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108541
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTISPORTS 3 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108542
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTISPORTS 4 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108543
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTISPORTS 6 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108545
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MULTISPORTS 5 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108544
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 4 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15210
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 5 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15209
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 6 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15208
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 7 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15207
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 8 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15206
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BEIN SPORT MAX 9 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15205
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="Channels",|FR| BEIN SPORT MAX 10 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15211
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 5 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40480
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 6 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40479
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 7 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40478
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 8 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40477
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 9 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40476
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 10 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40475
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 11 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40474
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 12 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40473
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 13 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40472
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 14 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40471
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT LIVE 15 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40470
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT ACCESS 1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40484
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT ACCESS 2
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/40483
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/108539
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",|FR| EUROSPORT 1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15172
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",|FR| EUROSPORT 1 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9281
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",|FR| EUROSPORT 1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9549
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 1 FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51105
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Channels",|FR| EUROSPORT 2
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9279
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Channels",|FR| EUROSPORT 2 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9280
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Channels",|FR| EUROSPORT 2 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9548
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 2 FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51106
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139080
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 1 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139081
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 1 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139082
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 2
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139083
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 2 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139084
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 2 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139085
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 3
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139086
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 3 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139087
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 3 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139088
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 4
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139089
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 4 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139090
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 4 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139091
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 5
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139092
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 5 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139093
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 5 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139094
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 6
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139095
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 6 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139096
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 6 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139097
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 7
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139098
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 7 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139099
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 7 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139100
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 8
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139101
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 8 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139102
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EUROSPORT 360 8 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/139103
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",|FR| INFOSPORT+
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9265
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",|FR| INFOSPORT HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15156
+#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",|FR| INFOSPORT FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9534
+#EXTINF:0 tvg-id="Foot24.fr" group-title="Channels",|FR| FOOT+ 24/24
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/32819
+#EXTINF:0 tvg-id="Foot24.fr" group-title="Channels",|FR| FOOT+ 24/24 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51104
+#EXTINF:0 tvg-id="Equipe21.fr" group-title="Channels",|FR| LEQUIPE 21
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9264
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="Channels",|FR| LEQUIPE 21 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15155
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="Channels",|FR| LEQUIPE 21 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9533
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="Channels",|FR| GOLF+
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9270
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="Channels",|FR| GOLF+
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15161
+#EXTINF:0 tvg-id="Golfplus.fr" group-title="Channels",|FR| GOLF+
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/43446
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",|FR| GOLF+ FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9540
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",|FR| GOLF+ FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51107
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",|FR| GOLF CHANNEL
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9378
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",|FR| GOLF CHANNEL HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15162
+#EXTINF:0 tvg-id="Golf.fr" group-title="Channels",|FR| GOLF CHANNEL FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9539
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| GOLF CHANNEL FHD BKP
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51103
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",|FR| CANAL+ SPORT HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9326
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",|FR| EQUIDIA LIVE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9282
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",|FR| EQUIDIA LIVE HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15173
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="Channels",|FR| EQUIDIA LIVE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9550
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EXTREME SPORTS HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15227
+#EXTINF:0 tvg-id="Automoto.fr" group-title="Channels",|FR| AB MOTEUR
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9359
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| AUTOMOTO LA CHAINE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62915
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| MOTORSPORT TV FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9526
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EXTREME SPORTS FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/62916
+#EXTINF:0 tvg-id="OLTV.fr" group-title="Channels",|FR| OLTV
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/30599
+#EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="Channels",|FR| TV5 MONDE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9192
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EURONEWS
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9376
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| EURONEWS FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51147
+#EXTINF:0 tvg-id="France24.fr" group-title="Channels",|FR| FRANCE 24
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9197
+#EXTINF:0 tvg-id="France24fr.fr" group-title="Channels",|FR| FRANCE 24 FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15164
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="Channels",|FR| FRANCE INFO
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15166
+#EXTINF:0 tvg-id="Franceinfo.fr" group-title="Channels",|FR| FRANCE INFO FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/43444
+#EXTINF:0 tvg-id="i24News.fr" group-title="Channels",|FR| I24 NEWS
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/97583
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| I24 NEWS HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9535
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="Channels",|FR| BFM TV
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9336
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="Channels",|FR| BFM TV HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15201
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="Channels",|FR| BFM TV FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9585
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Channels",|FR| BFM BUSINESS
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9338
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Channels",|FR| BFM BUSINESS HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15200
+#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="Channels",|FR| BFM BUSINESS FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9586
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",|FR| LCI HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9261
+#EXTINF:0 tvg-id="LCI.fr" group-title="Channels",|FR| LCI FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9532
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| LCP ASSEMBLEE NATIONALE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51139
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",|FR| C NEWS FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15197
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",|FR| C NEWS
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9575
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BFM PARIS
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/115444
+#EXTINF:0 tvg-id="ext" group-title="Channels",|.FR.| I24 NEWS HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/117707
+#EXTINF:0 tvg-id="CNews.fr" group-title="Channels",|FR| C NEWS HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/117910
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| IDF 1
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/117962
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BFM DiCi ALPES Full HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126642
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BFM DiCi HAUTE PROVENCE Full HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126643
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BFM NICE Full HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126644
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BFM MARSEILLE Full HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126645
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| BFM TOULON Full HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126646
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TOP SANTE TV HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126648
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| 01 TV
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126650
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| T
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126652
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| T
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126653
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| VIA MIRABELLE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126657
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR|D TV MOZAIK
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126658
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR|D TVT
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126659
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TV78 HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126660
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TV8 MOSELLE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126661
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| TV8 Mont Blanc  HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/126662
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| CANAL+ Docs FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/142288
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| PLANETE HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15135
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| PLANETE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9512
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",|FR| PLANETE A&E
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9235
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",|FR| PLANETE A&E HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15134
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="Channels",|FR| PLANETE A&E FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9511
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",|FR| PLANETE CI
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9234
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",|FR| PLANETE CI HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15133
+#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="Channels",|FR| PLANETE CI FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9510
+#EXTINF:0 tvg-id="DiscoveryInvestigation.fr" group-title="Channels",|FR| DISCOVERY INVESTIGATION
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51141
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| DISCOVERY INVESTIGATION HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9559
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| DISCOVERY INVESTIGATION FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51142
+#EXTINF:0 tvg-id="Discovery.fr" group-title="Channels",|FR| DISCOVERY
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9292
+#EXTINF:0 tvg-id="Discovery.fr" group-title="Channels",|FR| DISCOVERY HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15180
+#EXTINF:0 tvg-id="Discovery.fr" group-title="Channels",|FR| DISCOVERY FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9560
+#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="Channels",|FR| DISCOVERY FAMILY
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51144
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| DISCOVERY FAMILY HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/30662
+#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| DISCOVERY FAMILY FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/51143
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="Channels",|FR| DISCOVERY SCIENCE
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9291
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="Channels",|FR| DISCOVERY SCIENCE HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15179
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="Channels",|FR| DISCOVERY SCIENCE FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9558
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="Channels",|FR|  NATIONAL GEOGRAPHIC
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9368
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="Channels",|FR| NATIONAL GEOGRAPHIC HD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/15144
+#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="Channels",|FR| NATIONAL GEOGRAPHIC FHD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9523
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="Channels",|FR| NATIONAL GEO WILD
+http://vip.tvxvip.com:25443/V578HLKQ67bh/Y2VGScCbdo/9367
 
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",PARAMOUNT CHANNEL (FR)
-http://aldahya.us:80/703230754614/224049535496/176883
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",PARIS PREMIERE (FR)
-http://aldahya.us:80/703230754614/224049535496/176846
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",PIWI+ (FR)
-http://aldahya.us:80/703230754614/224049535496/176953
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",PLANETE+ (FR)
-http://aldahya.us:80/703230754614/224049535496/176893
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",POLAR+ (FR)
-http://aldahya.us:80/703230754614/224049535496/176884
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",PROVENCE AZUR TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176934
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",RMC DECOUVERTE (FR)
-http://aldahya.us:80/703230754614/224049535496/176900
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",RMC STORY (FR)
-http://aldahya.us:80/703230754614/224049535496/176923
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",RT (FR)
-http://aldahya.us:80/703230754614/224049535496/176949
-#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE TV",RTL9 (FR)
-http://aldahya.us:80/703230754614/224049535496/176917
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",SCIENCE ET VIE (FR)
-http://aldahya.us:80/703230754614/224049535496/176899
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",SEASONS (FR)
-http://aldahya.us:80/703230754614/224049535496/176895
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",SERIE CLUB (FR)
-http://aldahya.us:80/703230754614/224049535496/176911
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",SÉRIES ET DIVERTISSEMENT (FR)
-http://aldahya.us:80/703230754614/224049535496/176903
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",SYFY UNIVERSAL (FR)
-http://aldahya.us:80/703230754614/224049535496/176918
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TCM CINEMA (FR)
-http://aldahya.us:80/703230754614/224049535496/176882
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TÉBÉO (FR)
-http://aldahya.us:80/703230754614/224049535496/176862
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TÉLÉ GRENOBLE (FR)
-http://aldahya.us:80/703230754614/224049535496/176858
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TÉLÉ NANTES (FR)
-http://aldahya.us:80/703230754614/224049535496/176863
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TELETOON+ (FR)
-http://aldahya.us:80/703230754614/224049535496/176954
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TEVA (FR)
-http://aldahya.us:80/703230754614/224049535496/176921
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TV",TF1 (FR)
-http://aldahya.us:80/703230754614/224049535496/176840
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TF1 SERIES FILMS (FR)
-http://aldahya.us:80/703230754614/224049535496/176916
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TFX (FR)
-http://aldahya.us:80/703230754614/224049535496/176850
-#EXTINF:0 tvg-id="Tiji.fr" group-title="FRANCE TV",TIJI (FR)
-http://aldahya.us:80/703230754614/224049535496/176967
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TL7 (FR)
-http://aldahya.us:80/703230754614/224049535496/176861
-#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE TV",TMC (FR)
-http://aldahya.us:80/703230754614/224049535496/176922
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TOONAMI (FR)
-http://aldahya.us:80/703230754614/224049535496/176966
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TOUTE L\'HISTOIRE (FR)
-http://aldahya.us:80/703230754614/224049535496/176898
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TRACE AFRICA (FR)
-http://aldahya.us:80/703230754614/224049535496/176979
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TRACE LATINA (FR)
-http://aldahya.us:80/703230754614/224049535496/176928
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TRACE TROPICAL (FR)
-http://aldahya.us:80/703230754614/224049535496/176978
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TRACE URBAN (FR)
-http://aldahya.us:80/703230754614/224049535496/176977
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TREK (FR)
-http://aldahya.us:80/703230754614/224049535496/176896
-#EXTINF:0 tvg-id="TVBreizh.fr" group-title="FRANCE TV",TV BREIZH (FR)
-http://aldahya.us:80/703230754614/224049535496/176852
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TV7 (FR)
-http://aldahya.us:80/703230754614/224049535496/176864
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TVM3 (FR)
-http://aldahya.us:80/703230754614/224049535496/176982
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",TVPI (FR)
-http://aldahya.us:80/703230754614/224049535496/176855
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",USHUAIA TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176894
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",VIÀVOSGES TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176936
-#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE TV",W9 (FR)
-http://aldahya.us:80/703230754614/224049535496/176912
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",WARNER TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176907
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",13ÈME RUE (FR)
-http://aldahya.us:80/703230754614/224049535496/176904
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",2 (FR)
-http://aldahya.us:80/703230754614/224049535496/176842
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",24 (FR)
-http://aldahya.us:80/703230754614/224049535496/176948
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",3 (FR)
-http://aldahya.us:80/703230754614/224049535496/176843
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",4 (FR)
-http://aldahya.us:80/703230754614/224049535496/176844
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",5 (FR)
-http://aldahya.us:80/703230754614/224049535496/176845
-#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE TV",6TER (FR)
-http://aldahya.us:80/703230754614/224049535496/176847
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",AB1 (FR)
-http://aldahya.us:80/703230754614/224049535496/176913
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",AB3 (FR)
-http://aldahya.us:80/703230754614/224049535496/176914
-#EXTINF:0 tvg-id="Action.fr" group-title="FRANCE TV",ACTION (FR)
-http://aldahya.us:80/703230754614/224049535496/176925
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",ALTICE STUDIO (FR)
-http://aldahya.us:80/703230754614/224049535496/176929
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",ANIMAUX (FR)
-http://aldahya.us:80/703230754614/224049535496/176901
-#EXTINF:0 tvg-id="Arte.fr" group-title="FRANCE TV",ARTE (FR)
-http://aldahya.us:80/703230754614/224049535496/176848
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",BET (FR)
-http://aldahya.us:80/703230754614/224049535496/176926
-#EXTINF:0 tvg-id="BFMBusiness.fr" group-title="FRANCE TV",BFM BUSINESS (FR)
-http://aldahya.us:80/703230754614/224049535496/176942
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",BFM LYON (FR)
-http://aldahya.us:80/703230754614/224049535496/176944
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",BFM PARIS (FR)
-http://aldahya.us:80/703230754614/224049535496/176943
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",BFM TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176941
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",BIP TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176859
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",BOING (FR)
-http://aldahya.us:80/703230754614/224049535496/176968
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",BOOMERANG (FR)
-http://aldahya.us:80/703230754614/224049535496/176956
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",BRAVA (FR)
-http://aldahya.us:80/703230754614/224049535496/176975
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",C STAR (FR)
-http://aldahya.us:80/703230754614/224049535496/176906
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",C8 (FR)
-http://aldahya.us:80/703230754614/224049535496/176905
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CANAL J (FR)
-http://aldahya.us:80/703230754614/224049535496/176965
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="FRANCE TV",CANAL+ (FR)
-http://aldahya.us:80/703230754614/224049535496/176866
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CANAL+ CINEMA (FR)
-http://aldahya.us:80/703230754614/224049535496/176867
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CANAL+ DECALE (FR)
-http://aldahya.us:80/703230754614/224049535496/176868
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CANAL+ FAMILY (FR)
-http://aldahya.us:80/703230754614/224049535496/176869
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE TV",CANAL+ SERIES (FR)
-http://aldahya.us:80/703230754614/224049535496/176870
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CARTOON NETWORK (FR)
-http://aldahya.us:80/703230754614/224049535496/176955
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CGTN (FR)
-http://aldahya.us:80/703230754614/224049535496/176951
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CHASSE ET PECHE (FR)
-http://aldahya.us:80/703230754614/224049535496/176902
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE TV",CHERIE 25 (FR)
-http://aldahya.us:80/703230754614/224049535496/176915
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CINE POLAR (FR)
-http://aldahya.us:80/703230754614/224049535496/176877
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CINE+ CLASSIC (FR)
-http://aldahya.us:80/703230754614/224049535496/176872
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CINE+ CLUB (FR)
-http://aldahya.us:80/703230754614/224049535496/176876
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CINE+ EMOTION (FR)
-http://aldahya.us:80/703230754614/224049535496/176873
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CINE+ FAMIZ (FR)
-http://aldahya.us:80/703230754614/224049535496/176874
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CINE+ FRISSON (FR)
-http://aldahya.us:80/703230754614/224049535496/176875
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CINE+ PREMIER (FR)
-http://aldahya.us:80/703230754614/224049535496/176871
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CINEMA (FR)
-http://aldahya.us:80/703230754614/224049535496/176865
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CLIQUE TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176920
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CNEWS (FR)
-http://aldahya.us:80/703230754614/224049535496/176940
-#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE TV",COMEDIE+ (FR)
-http://aldahya.us:80/703230754614/224049535496/176909
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",COMEDY CENTRAL (FR)
-http://aldahya.us:80/703230754614/224049535496/176908
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",COMEDY TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176910
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CRIME DISTRICT (FR)
-http://aldahya.us:80/703230754614/224049535496/176933
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CUISINE (FR)
-http://aldahya.us:80/703230754614/224049535496/176930
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",CULTURE ET DÉCOUVERTE (FR)
-http://aldahya.us:80/703230754614/224049535496/176885
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",D5TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176983
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",DISCOVERY (FR)
-http://aldahya.us:80/703230754614/224049535496/176888
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",DISCOVERY CHANNEL (FR)
-http://aldahya.us:80/703230754614/224049535496/176889
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",DISCOVERY FAMILY (FR)
-http://aldahya.us:80/703230754614/224049535496/176891
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",DISCOVERY INVESTIGATION (FR)
-http://aldahya.us:80/703230754614/224049535496/176892
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",DISCOVERY SCIENCE (FR)
-http://aldahya.us:80/703230754614/224049535496/176890
-#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="FRANCE TV",DISNEY CHANNEL (FR)
-http://aldahya.us:80/703230754614/224049535496/176963
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",DISNEY CHANNEL +1 (FR)
-http://aldahya.us:80/703230754614/224049535496/176964
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",DJAZZ TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176974
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",E! ENTERTAINMENT (FR)
-http://aldahya.us:80/703230754614/224049535496/176919
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",ENFANTS (FR)
-http://aldahya.us:80/703230754614/224049535496/176952
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",EURONEWS (FR)
-http://aldahya.us:80/703230754614/224049535496/176946
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",FRANCOPHONIE 24 (FR)
-http://aldahya.us:80/703230754614/224049535496/176856
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",GAME ONE (FR)
-http://aldahya.us:80/703230754614/224049535496/176924
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",GRAND LILLE TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176857
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",GULLI (FR)
-http://aldahya.us:80/703230754614/224049535496/176961
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",HISTOIRE (FR)
-http://aldahya.us:80/703230754614/224049535496/176897
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",I24 NEWS (FR)
-http://aldahya.us:80/703230754614/224049535496/176950
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",IDF 1 (FR)
-http://aldahya.us:80/703230754614/224049535496/176935
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",INFO (FR)
-http://aldahya.us:80/703230754614/224049535496/176947
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",INFORMATION (FR)
-http://aldahya.us:80/703230754614/224049535496/176939
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",J ONE (FR)
-http://aldahya.us:80/703230754614/224049535496/176927
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",KTO (FR)
-http://aldahya.us:80/703230754614/224049535496/176851
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",LCP (FR)
-http://aldahya.us:80/703230754614/224049535496/176945
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",LMTV (FR)
-http://aldahya.us:80/703230754614/224049535496/176860
-#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE TV",M6 (FR)
-http://aldahya.us:80/703230754614/224049535496/176841
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",M6 BOUTIQUE (FR)
-http://aldahya.us:80/703230754614/224049535496/176931
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",M6 MUSIC HITS (FR)
-http://aldahya.us:80/703230754614/224049535496/176981
-#EXTINF:0 tvg-id="Mangas.fr" group-title="FRANCE TV",MANGAS (FR)
-http://aldahya.us:80/703230754614/224049535496/176962
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",MCM (FR)
-http://aldahya.us:80/703230754614/224049535496/176971
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",MCM TOP (FR)
-http://aldahya.us:80/703230754614/224049535496/176972
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",MDL TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176937
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",MEZZO (FR)
-http://aldahya.us:80/703230754614/224049535496/176976
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",MIRABELLE TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176853
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",MOUV’ TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176938
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",MTV (FR)
-http://aldahya.us:80/703230754614/224049535496/176970
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",MUSIQUE (FR)
-http://aldahya.us:80/703230754614/224049535496/176969
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",NATGEO (FR)
-http://aldahya.us:80/703230754614/224049535496/176886
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",NATGEO WILD (FR)
-http://aldahya.us:80/703230754614/224049535496/176887
-#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FRANCE TV",NICKELODEON (FR)
-http://aldahya.us:80/703230754614/224049535496/176957
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",NICKELODEON +1 (FR)
-http://aldahya.us:80/703230754614/224049535496/176958
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",NICKELODEON 4TEEN (FR)
-http://aldahya.us:80/703230754614/224049535496/176960
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",NICKELODEON JUNIOR (FR)
-http://aldahya.us:80/703230754614/224049535496/176959
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",NOTELE (FR)
-http://aldahya.us:80/703230754614/224049535496/176854
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",NOVELAS TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176932
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE TV",NRJ 12 (FR)
-http://aldahya.us:80/703230754614/224049535496/176849
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",NRJ HITS (FR)
-http://aldahya.us:80/703230754614/224049535496/176980
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",OCS CHOC (FR)
-http://aldahya.us:80/703230754614/224049535496/176878
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",OCS CITY (FR)
-http://aldahya.us:80/703230754614/224049535496/176879
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",OCS GEANT (FR)
-http://aldahya.us:80/703230754614/224049535496/176880
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",OCS MAX (FR)
-http://aldahya.us:80/703230754614/224049535496/176881
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TV",ONE TV (FR)
-http://aldahya.us:80/703230754614/224049535496/176973
-
-#EXTINF:0 tvg-id="avi" group-title="Jackie Chan - Films",The Knight Of Shadows: Between Yin And Yang
-http://aldahya.us:80/movie/703230754614/224049535496/37812.mp4
-#EXTINF:0 tvg-id="avi" group-title="Jackie Chan - Films",A Deadly Place
-http://aldahya.us:80/movie/703230754614/224049535496/93516.mkv
-#EXTINF:0 tvg-id="avi" group-title="Jackie Chan - Films",Drunken Master 1978
-http://aldahya.us:80/movie/703230754614/224049535496/125097.mp4
