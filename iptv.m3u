@@ -684,42 +684,90 @@ http://saw.duplex-ott.net:2052/338595772530/338595772530/32
 #EXTINF:0 tvg-id="ext" group-title="Ungrouped",ENNAHAR TV
 http://saw.duplex-ott.net:2052/338595772530/338595772530/14527
 
-##EXTINF:0 tvg-id="ext" group-title="Sinema", YESILCAM 1
+
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Yeşilçam 1
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/9019
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM 2
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Yeşilçam 2
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/8648
-#EXTINF:0 tvg-id="ext" group-title="Sinema",Cinebox YESILCAM
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Yesilcam
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/8654
+
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Cinebox Yeşilçam HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/26498
-#EXTINF:0 tvg-id="ext" group-title="Sinema",Cinebox
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Cinebox Macera HD
 http://jadetv.de:80/eagleiptv/SsFAljPDDi/26499
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM FILIZ AKIN
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78251
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM HULYA KOCYIGIT
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78252
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM ILYAS SALMAN
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78253
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM KADIR INANIR
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78254
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM KARISIK
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78255
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM KAZIM KARTAL
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78256
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM KEMAL SUNAL
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78257
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM KEMAL SUNAL 2
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78258
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM MUNIR OZKUL
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78259
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM SENER SEN
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78260
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM TARIK AKAN
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78261
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM TURKAN SORAY
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78262
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM YILMAZ GUNEY
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78263
-#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM ZEKI METIN
-http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78264
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Cinebox Aksiyon HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/26500
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Cinebox Korku HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/26501
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Cinebox Komedi HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/26502
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Cinebox Bilimkurgu HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/26503
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Cinebox Dram HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/26504
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Cinebox Animasyon HD
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/26505
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Yerli
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/8655
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Bilimkurgu
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/8903
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Action
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/8646
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Drama
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/8650
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Fantastic
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/8651
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Comedy
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/8652
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Horror
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/8653
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Family
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/8649
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon INFO
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58176
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 1
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58177
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 2
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58178
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 3
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58179
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 4
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58180
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 5
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58181
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 6
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58182
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 7
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58183
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 8
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58184
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 9
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58185
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 10
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58186
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 11
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58187
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 12
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58188
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 13
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58189
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 14
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58190
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 15
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58191
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 16
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58192
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 17
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58193
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 18
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58194
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 19
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58195
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR: Filmbox Sinevizyon 20
+http://jadetv.de:80/eagleiptv/SsFAljPDDi/58196
+
+
 #EXTINF:0 tvg-id="RMCSport1.fr" group-title="FRANCE",FR: RMC SPORT 1
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/4455
 #EXTINF:0 tvg-id="RMCSport2.fr" group-title="FRANCE",FR: RMC SPORT 2
