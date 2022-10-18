@@ -4,6 +4,273 @@
 http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
 
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BEIN_Sports_News
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2296
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_NBA_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49691
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_01_SD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3244
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_02_SD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3245
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_03_SD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3246
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_04_SD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3247
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_05_SD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49383
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_06_SD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49384
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_07_SD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49385
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_01_PREMIUM_SD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49685
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_02_PREMIUM_SD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49386
+#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_03_PREMIUM_SD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49686
+
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Movies_premiere
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/17
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Movies_Action
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/18
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Movies_Drama
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/19
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Movies_family
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1791
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Fox_Movies
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49494
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BEIN_FOX_Family_Movies_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51393
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Drama_Arabic
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49495
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Baraem
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3564
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Series_1
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4114
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Series_2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50439
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_JEEM
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3563
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_BE_Junior
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49868
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_GOURMET
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4113
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Fatafeat
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50063
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_AMC
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48776
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_DREAMWORKS
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4577
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Boomerang
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48858
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_DMAX
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48892
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BEIN_Outdoor
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49491
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_DTX
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49496
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeiN_HGTV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52009
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Fox_Life_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52773
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Discovery_Kids_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52774
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Cartoon_Network_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52775
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_BBC_Earth_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52786
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeiN_Baby_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52811
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Fox_Crime_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53023
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Fox_Action_Movies_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53024
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Box_Office_1
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53060
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Box_Office_2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53061
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Box_Office_3
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53395
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BEIN_Discovery_Life
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53944
+#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Animal_Planet_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54362
+
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",•●★----| Chaîne OSN & ART |----★●•
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50004
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ALPHA_CINEMA_1
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/37
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ALPHA_CINEMA_2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/38
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Alpha_Musalsat
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50896
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_AL_Youm_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1618
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Animal_Planet_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50853
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ART_Aflam_1
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/31
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ART_Aflam_2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/32
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ART_Cinema
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/33
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ART_Hekayat_1
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/34
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ART_Hekayat_2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/35
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Boomberg
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51458
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_BOX_Office_01
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_BOX_Office_02
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_BOX_Office_03
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Comedy
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2284
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Discovery_Channel_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50852
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Discovery_Family_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50851
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Discovery_IDX_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50850
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Discovery_Science_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50849
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Disney_Channel_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50848
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Discovery_Life_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48860
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Food_Network_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50838
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_History_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50837
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Movies_Action
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Movies_First+2_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51606
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Movies_premiere_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3917
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Movies_Bollywood_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/43
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Movies_W_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48758
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Series_Prime_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50583
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Star_Movies
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1765
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Star_World
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1768
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Family_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51465
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Thriller_2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51466
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_TLC_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51138
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Yahala_Bil_Araby
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/39
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_YAHALA_Aflam
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1860
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_YAHALA_HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51464
+#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN WWE
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3923
+
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",•●★----| Chaîne Tunisienne |----★●•
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50003
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",•●★----| Chaîne Algerienne |----★●•
+direct
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV1
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/305
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46162
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV3
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/299
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV4
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3746
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV5
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53383
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV6
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53385
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV7
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53384
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV8
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53382
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Bahia TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4116
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: El Bilad
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1250
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ENTV Algerie
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/303
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Ennahar Algerie
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/304
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: El Heddaf
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1135
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Echourouk TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/308
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Echourouk plus
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51172
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Echourouk News HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/307
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Dzair News
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46163
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Beur TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/698
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: TV CORAN
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46310
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: AL Magharibia 1
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51082
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Al Magharibia 2
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4072
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Samira TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/311
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Al Anis TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46305
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE 24 NEWS
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54375
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",•●★----| Chaine Maracaine |----★●•
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50002
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Al Aoula Inter HD
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46382
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: 2M Monde
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/293
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Medi1TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/292
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Tamazight TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/295
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Assadissa
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/298
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Arriadia
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/296
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Arrabiaa
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/297
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Tele maroc
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46214
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: 7 AFLAM TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49623
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Numidia TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/300
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Chada TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49399
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: CANAL ATLAS
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49994
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR:  Al Ons TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52144
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: LAAYOUN TV
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53379
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Al Aoula HD TNT
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54661
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: 2M TNT
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54662
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: ARRYADIA TNT
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54663
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Arrabiaa TNT
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54664
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Assadissa TNT
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54665
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: MEDI 1 TV TNT
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54666
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Tamazight TNT
+http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54667
 
 #EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein News
 http://iptv.ndasat.com:88/221546763164904/221546763164904/68
