@@ -684,15 +684,42 @@ http://saw.duplex-ott.net:2052/338595772530/338595772530/32
 #EXTINF:0 tvg-id="ext" group-title="Ungrouped",ENNAHAR TV
 http://saw.duplex-ott.net:2052/338595772530/338595772530/14527
 
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BOSS YESILCAM 1
-http://saw.duplex-ott.net:2052/338595772530/338595772530/94029
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BOSS YESILCAM 2
-http://saw.duplex-ott.net:2052/338595772530/338595772530/94030
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BOSS YESILCAM 3
-http://saw.duplex-ott.net:2052/338595772530/338595772530/94031
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BOSS YESiLCAM KLASiKLERi
-http://saw.duplex-ott.net:2052/338595772530/338595772530/94032
-
+##EXTINF:0 tvg-id="ext" group-title="Sinema",DINAMIK YESILCAM
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78245
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM AYHAN ISIK
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78248
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM CUNEYT ARKIN
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78249
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM EROL TAS
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78250
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM FILIZ AKIN
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78251
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM HULYA KOCYIGIT
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78252
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM ILYAS SALMAN
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78253
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM KADIR INANIR
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78254
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM KARISIK
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78255
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM KAZIM KARTAL
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78256
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM KEMAL SUNAL
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78257
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM KEMAL SUNAL 2
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78258
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM MUNIR OZKUL
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78259
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM SENER SEN
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78260
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM TARIK AKAN
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78261
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM TURKAN SORAY
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78262
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM YILMAZ GUNEY
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78263
+#EXTINF:0 tvg-id="ext" group-title="Sinema",YESILCAM ZEKI METIN
+http://4kiptv.pro:15000/5UfQvAtjaR/AGbT2dW0xA/78264
 #EXTINF:0 tvg-id="RMCSport1.fr" group-title="FRANCE",FR: RMC SPORT 1
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/4455
 #EXTINF:0 tvg-id="RMCSport2.fr" group-title="FRANCE",FR: RMC SPORT 2
