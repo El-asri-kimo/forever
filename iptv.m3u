@@ -684,7 +684,14 @@ http://saw.duplex-ott.net:2052/338595772530/338595772530/32
 #EXTINF:0 tvg-id="ext" group-title="Ungrouped",ENNAHAR TV
 http://saw.duplex-ott.net:2052/338595772530/338595772530/14527
 
-
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BOSS YESILCAM 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94029
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BOSS YESILCAM 2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94030
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BOSS YESILCAM 3
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94031
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BOSS YESiLCAM KLASiKLERi
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94032
 
 #EXTINF:0 tvg-id="RMCSport1.fr" group-title="FRANCE",FR: RMC SPORT 1
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/4455
