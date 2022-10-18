@@ -8,539 +8,356 @@ http://comag.rip:8000/live/00159101576765/61790209632447/133421.ts
 
             ####### 2nd Source ########
 
-#EXTINF:0 tvg-id="Salon1.tr" group-title="beIN Package",TR: BEIN BOX OFFICE 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25976
-#EXTINF:0 tvg-id="Salon2.tr" group-title="beIN Package",TR: BEIN BOX OFFICE 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25977
-#EXTINF:0 tvg-id="Salon3.tr" group-title="beIN Package",TR: BEIN BOX OFFICE 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25978
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",TR: BEIN BOX OFFICE TURK
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/77727
-#EXTINF:0 tvg-id="TurkmaxGurme.tr" group-title="beIN Package",TR: BEIN GURME
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/5301
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",TR: BEIN IZ TV
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/38930
-#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="beIN Package",TR: BEIN MOVIES ACTION
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25337
-#EXTINF:0 tvg-id="MoviemaxAction2.tr" group-title="beIN Package",TR: BEIN MOVIES ACTION 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25968
-#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="beIN Package",TR: BEIN MOVIES FAMILY
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25336
-#EXTINF:0 tvg-id="MoviemaxPremier.tr" group-title="beIN Package",TR: BEIN MOVIES PREMIER
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25335
-#EXTINF:0 tvg-id="MoviemaxPremier2.tr" group-title="beIN Package",TR: BEIN MOVIES PREMIER 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25334
-#EXTINF:0 tvg-id="MoviemaxStars.tr" group-title="beIN Package",TR: BEIN MOVIES STARS
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/5276
-#EXTINF:0 tvg-id="MoviemaxTurk.tr" group-title="beIN Package",TR: BEIN MOVIES TURK
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/61671
-#EXTINF:0 tvg-id="DizimaxComedy.tr" group-title="beIN Package",TR: BEIN SERIES COMEDY
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25331
-#EXTINF:0 tvg-id="DizimaxDrama.tr" group-title="beIN Package",TR: BEIN SERIES DRAMA
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/74313
-#EXTINF:0 tvg-id="DizimaxSci-fi.tr" group-title="beIN Package",TR: BEIN SERIES SCI-FI
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25970
-#EXTINF:0 tvg-id="DizimaxVice.tr" group-title="beIN Package",TR: BEIN SERIES VICE
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/36123
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",TR: BEIN SPORTS 1 VIP
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/301967
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",TR: BEIN SPORTS 3 VIP
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/301964
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",TR: BEIN SPORTS 4 VIP
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/301965
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",TR: BEIN SPORTS HABER
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/5359
-#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="beIN Package",TR: BEIN SPORTS MAX 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25821
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",TR: BEIN SPORTS MAX 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25823
-#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="beIN Package",FR: BEIN SPORT MAX 4
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25735
-#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="beIN Package",FR: BEIN SPORT MAX 5
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25736
-#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="beIN Package",FR: BEIN SPORT MAX 6
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25737
-#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="beIN Package",FR: BEIN SPORT MAX 7
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25738
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORT MAX 8
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/169716
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORT MAX 9
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25740
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORT MAX 10
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/25734
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS 2 VIP
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/301962
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX9 (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372278
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX9 HD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372277
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX9 FHD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372276
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX8 (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372275
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX8 HD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372274
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX8 FHD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372273
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX7 (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372272
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX7 HD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372271
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX7 FHD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372270
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX6 (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372269
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX6 HD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372268
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX6 FHD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372267
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX5 (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372266
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX5 HD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372265
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX5 FHD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372264
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX4 (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372263
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX4 HD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372262
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX4 FHD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372261
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX10 (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372260
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX10 HD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372259
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",FR: BEIN SPORTS MAX10 FHD (EVENT ONLY)
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372258
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN JEEM
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/41014
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN BARAEM
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/6184
-#EXTINF:0 tvg-id="beINDrama.qa" group-title="beIN Package",AR: BEIN DRAMA
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/141829
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN DREAMWORKS
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/141830
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN DTX
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/141831
-#EXTINF:0 tvg-id="beINGourmet.qa" group-title="beIN Package",AR: BEIN GOURMET
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46395
-#EXTINF:0 tvg-id="beJunior.qa" group-title="beIN Package",AR: BEIN JUNIOR
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/41010
-#EXTINF:0 tvg-id="beINMovies1Premiere.qa" group-title="beIN Package",AR: BEIN MOVIES 1 PREMIERE
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17815
-#EXTINF:0 tvg-id="beINMovies2Action.qa" group-title="beIN Package",AR: BEIN MOVIES 2 ACTION
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17816
-#EXTINF:0 tvg-id="beINMovies3Drama.qa" group-title="beIN Package",AR: BEIN MOVIES 3 DRAMA
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17817
-#EXTINF:0 tvg-id="beINMovies4Family.qa" group-title="beIN Package",AR: BEIN MOVIES 4 FAMILY
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17818
-#EXTINF:0 tvg-id="beINSeries1.qa" group-title="beIN Package",AR: BEIN SERIES 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/12938
-#EXTINF:0 tvg-id="beINSeries2.qa" group-title="beIN Package",AR: BEIN SERIES 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17824
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN Package",AR: BEIN SPORTS 5
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/22882
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN Package",AR: BEIN SPORTS 6
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170909
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN Package",AR: BEIN SPORTS 7
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170911
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN SPORTS ENG 1 4K
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/260908
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN SPORTS ENG 2 4K
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/260909
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN SPORTS ENG 3 4K
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/260910
-#EXTINF:0 tvg-id="beinsportsnba.jsc" group-title="beIN Package",AR: BEIN SPORTS NBA
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/301956
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="beIN Package",AR: BEIN SPORTS NEWS
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17750
-#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="beIN Package",AR: BEIN SPORTS PREMIUM 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/18376
-#EXTINF:0 tvg-id="beINSportsPremium2.qa" group-title="beIN Package",AR: BEIN SPORTS PREMIUM 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/74131
-#EXTINF:0 tvg-id="beINSportsPremium3.qa" group-title="beIN Package",AR: BEIN SPORTS PREMIUM 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26215
-#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="beIN Package",AR: BEIN SPORTS XTRA 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17756
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN BOOMERANG
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/41011
-#EXTINF:0 tvg-id="Fatafeat.qa" group-title="beIN Package",AR: BEIN FATAFEAT
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/41097
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN FOX MOVIE
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17786
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN FOX LIFE
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/38789
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN FOX REWAYAT
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/38792
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN TRAVEL
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372350
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN SPORTS AFC 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372192
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN SPORTS AFC 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/343579
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN SPORTS AFC 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/343575
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN SPORTS AFC
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/372197
-#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="beIN Package",AR: BEIN SPORTS XTRA 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/344316
-#EXTINF:0 tvg-id="beINSportsFrench1.qa" group-title="beIN Package",AR: BEIN SPORTS FRENCH 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/344250
-#EXTINF:0 tvg-id="ext" group-title="beIN Package",AR: BEIN FOX ACTION
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/344246
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT NEWS HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/507
+#EXTINF:0 tvg-id="beinsports.jsc" group-title="Ungrouped",BEINSPORT HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/508
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/523
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/525
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 3 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/527
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 1 HD 2Mega
+http://saw.duplex-ott.net:2052/338595772530/338595772530/154675
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 2 HD 2Mega
+http://saw.duplex-ott.net:2052/338595772530/338595772530/154676
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 3 HD 2Mega
+http://saw.duplex-ott.net:2052/338595772530/338595772530/154731
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Ungrouped",BEINSPORT 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/509
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Ungrouped",BEINSPORT 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/56216
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Ungrouped",BEINSPORT 3 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/513
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Ungrouped",BEINSPORT 4 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/515
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Ungrouped",BEINSPORT 5 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/517
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Ungrouped",BEINSPORT 6 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/519
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Ungrouped",BEINSPORT 7 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/521
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS EXTRA 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38145
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS EXTRA 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/55583
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS ENGLISH 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38146
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS ENGLISH 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38147
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS ENGLISH 3 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38148
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS FRENSH 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38149
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS FRENSH 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38150
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="Ungrouped",BEIN SPORTS NBA HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38151
+
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 1 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/524
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 2 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/526
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 3 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/528
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Ungrouped",BEINSPORT 1 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/510
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Ungrouped",BEINSPORT 2 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/512
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Ungrouped",BEINSPORT 3 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/514
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT 4 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/516
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT 5 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/518
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT 6 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/520
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Ungrouped",BEINSPORT 7 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/522
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS EXTRA 1 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38133
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS EXTRA 2 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/55582
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="Ungrouped",BEIN SPORTS ENGLISH 1 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38134
+#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="Ungrouped",BEIN SPORTS ENGLISH 2 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38135
+#EXTINF:0 tvg-id="beINSportsEnglish3.qa" group-title="Ungrouped",BEIN SPORTS ENGLISH 3 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38136
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS FRENSH 1 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38137
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS FRENSH 2 SD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38138
+#EXTINF:0 tvg-id="beinsportsnba.jsc" group-title="Ungrouped",BEIN SPORTS NBA
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38139
+
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALKASS 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38152
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALKASS 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38153
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALKASS 3 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38154
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALKASS 4 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38155
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALKASS 5 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38156
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT AFC GLOBAL HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/79609
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT AFC 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/79610
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT AFC 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/79611
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT AFC 3 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/79612
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABUDABI SPORT PR 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/132373
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABUDABI SPORT PR 1 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/132374
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABUDABI SPORT PR 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/132375
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABUDABI SPORT PR 2 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/132376
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABU DHABI 3 SERIES A HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/131410
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABU DHABI 3 SERIES A FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/131411
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABU DHABI 4 SERIES A HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/131412
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABU DHABI 4 SERIES A FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/131413
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABU DHABI 5 SERIES A HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/131414
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ABU DHABI 5 SERIES A FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/131415
 
 
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: YESILCAM
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/22964
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: YESILCAM BOX 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/77923
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: YESILCAM BOX 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/77924
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: YESILCAM BOX 4
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/77925
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: YESILCAM BOX 5
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/77926
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: YESILCAM BOX 6
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/77927
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: YESILCAM BOX 9
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/77930
-#EXTINF:0 tvg-id="ext" group-title="TURKEY",TR: YESILCAM BOX 10
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/77931
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN MOVIES 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/411
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN MOVIES 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/412
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN MOVIES 3 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/413
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN MOVIES 4 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/414
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN DRAMA HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/415
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SERIES 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/416
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SERIES 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/417
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN HGTV HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/418
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN JUNIOR HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/434
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN DREAMWORK HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/433
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN JEEM HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/435
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN BARAEM HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/436
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",GULLI ARABIA HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/437
+#EXTINF:0 tvg-id="NatGeoPeople.it" group-title="Ungrouped",NAT GEO PEOPLE HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/442
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NAT GEO AR HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/445
+#EXTINF:0 tvg-id="discov_rus-hd" group-title="Ungrouped",DISCOVERY HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/447
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DISCOVERY SCIENCE AR HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/448
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN MOVIES 1 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46799
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN MOVIES 2 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46800
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN MOVIES 3 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46801
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN MOVIES 4 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46802
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SERIES 1 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46803
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SERIES 2 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46804
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN BARAEAM UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46805
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN JEEM UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46806
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN BBC EARTH UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46808
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN FATAFEAT UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46809
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN FOX CRIME UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46810
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN FOX LIFE UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46811
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN FOX MOV ACTION UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46812
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN FOX MOVIES UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46813
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN FOX REWAYAT UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46814
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN GORMENT UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46815
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN DRAMA UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/46816
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 1 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/117734
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 2 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/5998
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN PREMUIM 3 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/5999
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT 1 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/5990
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT 2 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/5991
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT 3 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/5992
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT 4 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/5993
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT 5 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/5994
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT 6 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/5995
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEINSPORT 7 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/5996
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS EXTRA UHD 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38121
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS EXTRA UHD 2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/55584
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS ENGLISH UHD 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38122
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS ENGLISH UHD 2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38123
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS ENGLISH UHD 3
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38124
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS FRENSH UHD 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38125
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS FRENSH UHD 2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38126
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS NBA UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38127
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALKASS 1 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38128
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALKASS 2 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38129
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALKASS 3 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38130
 
 
+saw.duplex-ott.net:2052/338595772530/338595772530/79616
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN YAHALA UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13095
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN YAHALA OULA UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13096
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN YAHALA CINEMA UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13097
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES DISNEY UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13098
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES FIRST UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13099
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES FIRST +2 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13100
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN ENIGMA UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13101
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES KIDS UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13102
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13103
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN SERIES COMEDY UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13104
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MOVIES ACTION UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13105
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN SERIES FIRST UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13106
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN TLC UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13107
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN STAR WORLD UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13109
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN SERIES UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13110
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN STAR MOVIES UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13111
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN COMEDY CENTRAL UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13112
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISCOVERY SC UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13113
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISNEY UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13114
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISNEY XD UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13115
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISNEY JOUNER UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13116
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN HISTORY UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13117
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISCOVERY UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13119
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN DISCOVERY IDX UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13120
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN HISTORY 2 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13121
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NICKELODEON UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13122
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN LIVING UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13123
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MEZZEE UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13124
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN E! UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13125
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN BABY TV UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13126
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN KIDS ZONE UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13127
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NEWS UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13128
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN POP UP UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13129
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NAT GEO UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13130
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NAT GEO PEOPLE UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13131
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NAT GEO WILD UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13132
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NICK JR UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13133
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN AL SAFWA UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13134
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN AL YAWM UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13135
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN CINEMA 1 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13136
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN CINEMA 2 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13137
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN FANN UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13138
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MUSIC NOW UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13139
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN SERIES 1 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13140
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN SERIES 2 UHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/13141
 
-
-            ###########################
-
-#EXTINF:0 tvg-id="ext" group-title="ARAB",AR: SSC SPORT 1
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175074
-#EXTINF:0 tvg-id="ext" group-title="ARAB",AR: SSC SPORT 2
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175075
-#EXTINF:0 tvg-id="ext" group-title="ARAB",AR: SSC SPORT 3
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175076
-#EXTINF:0 tvg-id="ext" group-title="ARAB",AR: SSC SPORT 4
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175077
-#EXTINF:0 tvg-id="ext" group-title="ARAB",AR: SSC SPORT 5
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175078
-#EXTINF:0 tvg-id="ext" group-title="ARAB",AR: SSC SPORT 6
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175079
-#EXTINF:0 tvg-id="ext" group-title="ARAB",AR: SSC SPORT 7
-http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/175080
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS  News HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/1884
-#EXTINF:0 tvg-id="BeINSports.es" group-title="||EU| MUSIC LIVE |",BEIN SPORTS HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/1885
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 1 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/669
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 2 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/667
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 3 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/665
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD1
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/682
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD2
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/1711
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD3
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/679
-#EXTINF:0 tvg-id="LIGTV4.tr" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD4
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/677
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD5
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/675
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD6
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/673
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",beIN SPORTS HD7
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/671
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 1 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73634
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 2 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73635
-#EXTINF:0 tvg-id="NBAtv.sport" group-title="||EU| MUSIC LIVE |",BEIN SPORTS NBA HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63912
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS ENGLISH 1 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63916
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS ENGLISH 2 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63914
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS ENGLISH 3 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63915
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS FRENCH 1 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63917
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN SPORTS FRENCH 2 HD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/63918
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 1
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/668
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 2
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/666
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 3
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/664
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 1
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/681
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 2
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/680
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 3
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/678
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 4
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/676
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 5
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/674
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 6
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/672
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="||EU| MUSIC LIVE |",BEIN SPORTS 7
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/670
-#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 1
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73636
-#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="||EU| MUSIC LIVE |",BEIN SPORTS XTRA 2
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/73637
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 1 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58417
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 2 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58418
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 3 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58419
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 1 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58410
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 2 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58411
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 3 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58412
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 4 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58413
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 5 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58414
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 6 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58415
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BIENSPORT 7 H265
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/58416
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 1 FHD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5651
-#EXTINF:0 tvg-id="ext" group-title="||EU| MUSIC LIVE |",BEIN PREMUIM 2 FHD
-http://sx.offshorededi.cz:8080/actuve/tqmxbzeg/5650
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_04_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_05_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/5
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_06_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/6
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_07_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/7
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_PREMIUM_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/9
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_PREMIUM_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/8
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_03_PREMIUM_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/11
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_XTRA_01
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/10
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_XTRA_02
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53670
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEIN_Sport_01_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52269
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEIN_Sport_02_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48878
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEIN_Sport_03_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48879
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_07_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49433
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_05_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49605
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_04_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49606
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_06_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49621
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_01_PREMIUM_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49622
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_PREMIUM_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51018
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Bein_sport_03_PREMIUM_Hevc50
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52271
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BeIN_Sport_02_French_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54473
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",MY:  ANIMAL PLANET
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52847
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS PREMIUM 1 4k
-http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86614
-
-#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS PREMIUM 2 4K
-http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86612
-
-#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS PREMIUM 3 4k
-http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86610
-
-#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 1 4K
-http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86608
-
-#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 2 4k
-http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86605
-
-#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 3 4K
-http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86602
-
-#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 4 4K
-http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86600
-
-#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 5 4K
-http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86598
-
-#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 6 4K
-http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86596
-
-#EXTINF:0 tvg-id="ext" group-title="Bein 4k",BEIN SPORTS 7 4K
-http://revteam4.offshorerev.cc:80/SPIDER_boilEC/5ooeiceSQ6/86594
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS NEWS SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86576
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86575
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS PREMIUM 1 SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86574
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS PREMIUM 2 SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86573
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS PREMIUM 3 SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86572
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS 1 SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86571
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS 1 SD EN
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86570
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS 2 SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86569
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS 2 SD EN
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86568
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS 3 SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86567
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS 4 SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86566
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS 5 SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86565
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS 6 SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86564
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN SPORTS 7 SD
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86563
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN Sport French SD1
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86557
-#EXTINF:0 tvg-id="ext" group-title="Bein SD",BEIN Sport French SD2
-http://dontuse.offshorerev.cc:80/SPIDER_xNjExX/eUDq0M0KNG/86556
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TR ➤ BEIN SPORTS 1 4K
-http://bestsave.ltd:2052/993311/113399/149444
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_Sports_News
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2296 
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BeIN_SPORTS_1_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3682
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_02_SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3245
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_03_SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3246
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_04_SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3247
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_05_SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49383
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_06_SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49384
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_07_SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49385
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_01_PREMIUM_SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49685
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_02_PREMIUM_SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49386
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Sport_03_PREMIUM_SD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49686
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_premiere
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/17
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_Action
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/18
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_Drama
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/19
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Movies_family
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1791
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Movies
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49494
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_FOX_Family_Movies_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51393
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Drama_Arabic
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49495
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Baraem
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3564
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Series_1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4114
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Series_2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50439
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_JEEM
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3563
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_BE_Junior
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49868
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_GOURMET
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4113
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fatafeat
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50063
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_AMC
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48776
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_DREAMWORKS
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4577
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN_Boomerang
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48858
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_DMAX
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48892
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_Outdoor
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49491
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_DTX
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49496
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeiN_HGTV
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52009
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Life_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52773
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Discovery_Kids_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52774
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Cartoon_Network_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52775
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_BBC_Earth_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52786
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeiN_Baby_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52811
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Crime_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53023
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Fox_Action_Movies_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53024
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Box_Office_1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53060
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Box_Office_2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53061
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Box_Office_3
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53395
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEIN_Discovery_Life
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53944
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein_Animal_Planet_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54362
-
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BEINSPORTS HABER FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94056
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BEINSPORTS 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94057
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BEINSPORTS 1 HD *
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94058
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BEINSPORTS 2 HD TR
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94059
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BEINSPORTS 2 HD TR YEDEK
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94060
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BEINSPORTS 3 HD TR
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94061
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BEINSPORTS 3 HD TR YEDEK
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94062
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BEINSPORTS 4 HD TR
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94063
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="Ungrouped",|TR| BEIN SPORTS MAX 1 HD TR
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94064
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",|TR| BEIN SPORTS MAX 2 HD TR
+http://saw.duplex-ott.net:2052/338595772530/338595772530/94065
+#######################
+######################
 
 #EXTINF:0 tvg-id="ext" group-title="CYFROWY POLSAT",BG: REEL PX ACTION
 http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54581
@@ -559,450 +376,6 @@ http://red.ipfox.org:8080/osama2022/osama2023/47298
 #EXTINF:0 tvg-id="ext" group-title="| JAWWY Channels |",|JAW| ReelPX Ultimate
 http://red.ipfox.org:8080/osama2022/osama2023/47297
 
-
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",•●★----| Chaîne OSN & ART |----★●•
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50004
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ALPHA_CINEMA_1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/37
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ALPHA_CINEMA_2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/38
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Alpha_Musalsat
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50896
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_AL_Youm_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1618
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Animal_Planet_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50853
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Aflam_1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/31
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Aflam_2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/32
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Cinema
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/33
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Hekayat_1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/34
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Hekayat_2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/35
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Boomberg
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51458
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_BOX_Office_01
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_BOX_Office_02
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_BOX_Office_03
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Comedy
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2284
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Channel_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50852
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Family_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50851
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_IDX_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50850
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Science_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50849
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Disney_Channel_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50848
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Life_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48860
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Food_Network_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50838
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_History_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50837
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_Action
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_First+2_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51606
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_First_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3917
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/43
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_Disney_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48758
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Series_Prime_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50583
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Star_Movies
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1765
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Star_World
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1768
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Family_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51465
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Thriller_2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51466
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_TLC_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51138
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Yahala_Bil_Araby
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/39
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_YAHALA_Aflam
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1860
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_YAHALA_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51464
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN WWE
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3923
-
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BOX OFFICE 1 FHD
-http://bestsave.ltd:2052/993311/113399/165708
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BOX OFFICE 1 4K
-http://bestsave.ltd:2052/993311/113399/165870
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BOX OFFICE 2 FHD
-http://bestsave.ltd:2052/993311/113399/165707
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BOX OFFICE 2 4K
-http://bestsave.ltd:2052/993311/113399/165869
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ DRAMA 1 HD
-http://bestsave.ltd:2052/993311/113399/2064
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ DRAMA 1 ULTRA 4K
-http://bestsave.ltd:2052/993311/113399/180784
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ MOVIES 1 FHD
-http://bestsave.ltd:2052/993311/113399/2058
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ MOVIES 2 FHD
-http://bestsave.ltd:2052/993311/113399/2061
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ MOVIES 3 FHD
-http://bestsave.ltd:2052/993311/113399/67727
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ MOVIES 4 FHD
-http://bestsave.ltd:2052/993311/113399/67728
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ SERIES 1 4K
-http://bestsave.ltd:2052/993311/113399/2062
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ SERIES 2 4K
-http://bestsave.ltd:2052/993311/113399/2063
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ GOURMET NEWS NETWORK 4K
-http://bestsave.ltd:2052/993311/113399/2065
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FATAFEAT 4K
-http://bestsave.ltd:2052/993311/113399/12979
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",beIN ➤ FOOD NETWORK 4K
-http://bestsave.ltd:2052/993311/113399/12978
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ DREAM WORKS 4K
-http://bestsave.ltd:2052/993311/113399/2066
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ STAR WORLD 4K
-http://bestsave.ltd:2052/993311/113399/2067
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ STAR MOVIES 4K
-http://bestsave.ltd:2052/993311/113399/2068
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FOX LIFE 4K
-http://bestsave.ltd:2052/993311/113399/12977
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FOX CRIME 4K
-http://bestsave.ltd:2052/993311/113399/12980
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FOX REWAYAT 4K
-http://bestsave.ltd:2052/993311/113399/12981
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FOX ACTION MOVIES 4K
-http://bestsave.ltd:2052/993311/113399/32097
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ JEEM TV 4K
-http://bestsave.ltd:2052/993311/113399/104765
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BABY TV 4K
-http://bestsave.ltd:2052/993311/113399/32105
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BARAM HD
-http://bestsave.ltd:2052/993311/113399/28275
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BARAM ULTRA 4K
-http://bestsave.ltd:2052/993311/113399/180787
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BOOMERANG 4K
-http://bestsave.ltd:2052/993311/113399/32103
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ HGTV 4K
-http://bestsave.ltd:2052/993311/113399/12988
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ BBC EARTH 4K
-http://bestsave.ltd:2052/993311/113399/12976
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ AMC NETWORKS 4K
-http://bestsave.ltd:2052/993311/113399/32098
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ FINE LIVING 4K
-http://bestsave.ltd:2052/993311/113399/32102
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ OUTDOOR 4K
-http://bestsave.ltd:2052/993311/113399/12982
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ TRAVEL 4K
-http://bestsave.ltd:2052/993311/113399/32101
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ ANIMAL PLANET 4K
-http://bestsave.ltd:2052/993311/113399/12987
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ NAT GEOGRAPHIC 4K
-http://bestsave.ltd:2052/993311/113399/12984
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ NAT GEO PEOPLE 4K
-http://bestsave.ltd:2052/993311/113399/12985
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN ➤ NATIONAL GEOGRAPHIC WILD 4K
-http://bestsave.ltd:2052/993311/113399/12986
-
-
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",##### |FR|HD| SPORT #####
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/5337
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="|FR|HD| SPORT",|FR| BEIN SPORT 1 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1419
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="|FR|HD| SPORT",|FR| BEIN SPORT 2 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1420
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="|FR|HD| SPORT",|FR| BEIN SPORT 3 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1421
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 4 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19820
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 5 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19819
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 6 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19818
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 7 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19817
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 8 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19816
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 9 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19815
-#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="|FR|HD| SPORT",|FR| BEIN SPORT MAX 10 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19814
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="|FR|HD| SPORT",|FR| EUROSPORT 1 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1418
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="|FR|HD| SPORT",|FR| EUROSPORT 2 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/144
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT 1 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/46763
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT 2 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/46764
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 3 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/245300
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 4 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/245301
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 5 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95503
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 6 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95502
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 7 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95501
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 8 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95500
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 9 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95499
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 10 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95488
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 11 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95493
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| SPORT",|FR| RMC SPORT LIVE 12 HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95505
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_A_LA_CARTE_01
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/65
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_A_LA_CARTE_02
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/66
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_A_LA_CARTE_03
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/67
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_A_LA_CARTE_04
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/68
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_A_LA_CARTE_05
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/69
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_A_LA_CARTE_06
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/70
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_A_LA_CARTE_07
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/71
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_A_LA_CARTE_08
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/72
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_SUSPENSE
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2331
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_CINEMA
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2332
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_JEUNESSE
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2333
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",AMAZON PRIME FANTASTIQUE HD FR
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2334
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",AMAZON PRIME DRAMA HD FR
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2335
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",AMAZON PRIME COMEDIE HD FR
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54625
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",AMAZON PRIME ACTION HD FR
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54626
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_01
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_02
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_03
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_04
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_05
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_06
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/55
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_07
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/56
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_08
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/57
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_09
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/58
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_10
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/59
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_ACTION
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/60
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_COMEDIE
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/61
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_EMOTION
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/62
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_POLICIER
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/63
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_CANAL_PLAY_HORREUR
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/64
-
-
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BeIN_SPORTS_1_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3682
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BeIN_SPORTS_2_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47302
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BeIN_SPORTS_3_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3680
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_03_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46712
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_EUROSPORT_1_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51512
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_EUROSPORT_2_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51513
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_01_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3720
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_L_EQUIPE_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52719
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_DISCOVERY_FAMILY_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52741
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_02_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46711
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_Euronews_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52821
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Story_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47752
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_HISTOIRE_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53376
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_TV_Pitchoun_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54461
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",Sport en France
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54462
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_Comedy_Central_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54463
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BET_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54464
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_Djazz_TV_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/4665
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_IDF_1_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54526
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_DEMAIN_!_IDF_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54527
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MUSEUM_TV_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54528
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_OL_TV_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54529
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_LN24_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54596
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_PROXIMUS_1_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54597
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_01_FullHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2252
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_02_FHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2103
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_03_FullHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2279
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Sport_04_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50383
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_04_FullHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50384
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_ACCESS_SPORT_01_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51267
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_ACCESS_SPORT_02_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51268
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 5
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51276
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 6
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51275
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 7
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51274
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 8
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51273
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 9
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51272
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 10
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51271
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 11
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51270
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_SPORT_LIVE 12
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51269
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: TELEFOOT HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52916
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Story_H265
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52784
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_RMC_Decouverte_FullHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52783
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_07
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49617
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_08
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49616
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_09
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49615
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_05
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49619
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_04
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49620
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_06
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49618
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_BEIN_SPORT_MAX_10
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49614
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_01_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53639
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_02_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53640
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_03_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53641
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_04_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53642
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_05_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53643
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR_MULTISPORT_06_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53644
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 1 FHD [Match Time]
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53927
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 2 FHD [Match Time]
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53928
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 3 FHD [Match Time]
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53929
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 4 FHD [Match Time]
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53930
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 5 FHD [Match Time]
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53931
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 6 FHD [Match Time]
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53932
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 7 FHD [Match Time]
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53933
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",FR: Amazon Prime 8 FHD [Match Time]
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53934
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",##### |FR|HD| DECOUVERTE #####
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/5335
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| TOUTE L
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/72781
-#EXTINF:0 tvg-id="PLANETE.fr" group-title="|FR|HD| DECOUVERTE",|FR| PLANETE+ HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/132
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| PLANET A&E HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/123
-#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="|FR|HD| DECOUVERTE",|FR| PLANETE+ CI HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/133
-#EXTINF:0 tvg-id="Discovery.fr" group-title="|FR|HD| DECOUVERTE",|FR| DISCOVERY HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1422
-#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="|FR|HD| DECOUVERTE",|FR| DISCOVERY SCIENCE HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/135
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| DISCOVERY ID HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/95478
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| DISCOVERY INVESTIGATION HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19839
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| NGC HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1423
-#EXTINF:0 tvg-id="ext" group-title="|FR|HD| DECOUVERTE",|FR| NGC WILD HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/134
-#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="|FR|HD| DECOUVERTE",|FR| USHUAIA HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/136
-#EXTINF:0 tvg-id="Histoire.fr" group-title="|FR|HD| DECOUVERTE",|FR| HISTOIRE HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/126
-#EXTINF:0 tvg-id="Animaux.fr" group-title="|FR|HD| DECOUVERTE",|FR| ANIMAUX HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/138
-#EXTINF:0 tvg-id="Trek.fr" group-title="|FR|HD| DECOUVERTE",|FR| TREK HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/3027
-#EXTINF:0 tvg-id="ChassePeche.fr" group-title="|FR|HD| DECOUVERTE",|FR| CHASSE ET PECHE HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19836
-#EXTINF:0 tvg-id="ScienceVie.fr" group-title="|FR|HD| DECOUVERTE",|FR| SCIENCE ET VIE HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/140
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="|FR|HD| DECOUVERTE",|FR| RMC DECOUVERTE HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19838
-#EXTINF:0 tvg-id="Seasons.fr" group-title="|FR|HD| DECOUVERTE",|FR| SEASONS HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/3028
-#EXTINF:0 tvg-id="Gulli.fr" group-title="|FR|HD| DECOUVERTE",|FR| GULLI HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/1388
-#EXTINF:0 tvg-id="TCM.fr" group-title="|FR|HD| DECOUVERTE",|FR| TCM CINEMA HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/3022
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="|FR|HD| DECOUVERTE",|FR| CRIME DISTRICT HD
-http://main.maincore.net:80/bossiptv/ejhfgkjfknfkj/19834
 
 
 
@@ -1251,64 +624,67 @@ http://kuchini.site:8080/livetvchannel2021/fe326fcc/1207
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: 2M Monde
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/225137
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Aflam TV
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/226057
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Al Aoula
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1292
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Al Maghribia
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1285
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Al Ons TV
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/11163
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Arryadia
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/11173
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Assadissa
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1274
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Athaqafia
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/268950
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Chada TV
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/18246
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: El Medina TV
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/296537
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Laayoune
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/296534
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: M24 TV
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/165430
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Medi 1 TV Afrique
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/269424
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Medi 1 TV Arabic
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1237
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Medi 1 TV Maghreb
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/269458
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Tamazight
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/1213
-#EXTINF:0 tvg-id="ext" group-title="Channels",MA: Tele Maroc
-http://kuchini.site:8080/livetvchannel2021/fe326fcc/225140
-
-
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",•●★----| Chaîne Algerienne |----★●•
-direct
-#EXTINF:0 tvg-id="ext" group-title="Algeria TV Ch",Canal Algerie HD
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19752
-#EXTINF:0 tvg-id="CanalAlgerie.dz" group-title="Algeria TV Ch",CANAL ALGERIE
-http://4kfhd.xyz:80/myhd@iptv/tD9oLigm2n/19753
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/305
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46162
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV3
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/299
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV4
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3746
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV5
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53383
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV6
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53385
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV7
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53384
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne Algerienne |",ALG: ALGERIE TV8
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53382
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",TAMAZIGHT FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/152769
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MEDI1 TV FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/152770
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="Ungrouped",ASSADISSA FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/152768
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ARRYADIA  FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/152767
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR: ARRABIAA FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/152766
+#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="Ungrouped",AL MAGHRIBIA FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/152765
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",LAAYOUNE TV FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/152764
+#EXTINF:0 tvg-id="AlAoula.ma" group-title="Ungrouped",AL AOULA INTER FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/152763
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALGERIE 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/8362
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALGERIE 2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/15078
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALGERIE 3
+http://saw.duplex-ott.net:2052/338595772530/338595772530/8363
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALGERIE 4
+http://saw.duplex-ott.net:2052/338595772530/338595772530/8364
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALGERIE 5
+http://saw.duplex-ott.net:2052/338595772530/338595772530/15079
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALGERIE 6
+http://saw.duplex-ott.net:2052/338595772530/338595772530/74886
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ENNAHAR ALGERIE TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/24
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CHOUROUK TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/25
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CHOUROUK NEWS TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/26
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ELDJAZAIRIA
+http://saw.duplex-ott.net:2052/338595772530/338595772530/15080
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL BADIL TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/15082
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL FAJER TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/44
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AL HAYAT TV ALGERIE
+http://saw.duplex-ott.net:2052/338595772530/338595772530/15081
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",HADDEF ALGERIE TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/38
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SAMIRA TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/23
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",EL BILAD TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/36
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BAHIA TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/45
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEUR TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/37
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BERBERER TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/42
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",DZAIR TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/34
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",CANAL 3
+http://saw.duplex-ott.net:2052/338595772530/338595772530/32
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ENNAHAR TV
+http://saw.duplex-ott.net:2052/338595772530/338595772530/14527
 
 
 
@@ -1418,243 +794,57 @@ http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/302709
 http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/302710
 
 
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",•●★----| Chaîne OSN & ART |----★●•
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50004
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ALPHA_CINEMA_1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/37
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ALPHA_CINEMA_2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/38
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Alpha_Musalsat
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50896
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_AL_Youm_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1618
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Animal_Planet_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50853
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Aflam_1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/31
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Aflam_2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/32
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Cinema
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/33
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Hekayat_1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/34
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_ART_Hekayat_2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/35
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Boomberg
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51458
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_BOX_Office_01
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/47
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_BOX_Office_02
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_BOX_Office_03
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/49
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Comedy
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/2284
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Channel_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50852
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Family_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50851
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_IDX_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50850
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Science_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50849
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Disney_Channel_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50848
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Discovery_Life_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48860
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Food_Network_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50838
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_History_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50837
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_Action
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/46
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_First+2_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51606
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_First_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3917
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/43
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Movies_Disney_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/48758
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Series_Prime_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/50583
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Star_Movies
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1765
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Star_World
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1768
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Family_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51465
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Thriller_2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51466
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_TLC_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51138
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_Yahala_Bil_Araby
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/39
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_YAHALA_Aflam
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/1860
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN_YAHALA_HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51464
-#EXTINF:0 tvg-id="ext" group-title="| Chaîne OSN & ART |",OSN WWE
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/3923
+###############################
+
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 1 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/52453
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 2 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/52454
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 3 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/52455
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 4 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/52456
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 5 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/52457
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 6 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/52458
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 7 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/52459
+
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX BOX OFFICE 1 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/128552
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX BOX OFFICE 2 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/128553
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX BOX OFFICE 3 HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/128554
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 1 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/39532
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 2 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/39533
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 3 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/39534
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 4 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/39536
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 5 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/39537
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 6 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/39538
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ACTION 7 FHD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/39539
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ANIME HD 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/134324
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ANIME HD 2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/134325
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NETFLIX ANIME HD 3
+http://saw.duplex-ott.net:2052/338595772530/338595772530/134326
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SHAHID BOX OFFICCE HD1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/65724
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SHAHID BOX OFFICCE HD2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/65725
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SHAHID BOX OFFICCE HD3
+http://saw.duplex-ott.net:2052/338595772530/338595772530/65726
 
 
-
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Action 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52341
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Action 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53153
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Aflam 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52160
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Aflam 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52159
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Horror
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53163
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA Kids
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53168
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA masr7yat
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52158
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",AXA ZaMaN
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52899
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",BEOUT ACTION 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53156
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",DRaGoN Action 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/51552
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",DE: EB Netflix Cinema 6
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52640
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",DE:  EB Netflix Cinema
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52641
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",DE: EB Netflix Cinema 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52642
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",DE:  EB Netflix Cinema 3
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52643
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",DE: EB Netflix Cinema 4
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52645
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",DE:  EB Netflix Cinema 5
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52647
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",FR: NETFLIX 1 HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/54365
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Action 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52156
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Arabia
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53887
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Arabic BoxOffice 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52342
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Arabic BoxOffice 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52343
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Cinema
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53857
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Cinema 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52829
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Cinema 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53171
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Classic
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53856
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Hollywood BoxOffice 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52345
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Hollywood BoxOffice 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52344
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Horror 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52157
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Kids 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53890
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Kids 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53853
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Kids 3
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53854
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Music
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53264
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Netflix 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53850
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Netflix 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53859
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Netflix 3
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53858
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Majestic Quran
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53265
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Master Cinema Kids1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52625
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Master Cinema Kids2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52626
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",MAX ACTION
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52902
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFILIX Action 3
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53161
-
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Action 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52163
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Action 3
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52192
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Action 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52882
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Adel-Imam
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52825
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX ARABIC 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52628
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX ARABIC 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53154
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX BOLLYOOD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52639
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Comedy +2 FullHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52194
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Comedy FullHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52193
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Drama +2 FullHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52195
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix Horror 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52198
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix KIDS +2 FullHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52199
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Netflix KIDS FullHD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52200
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX MOVIES
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52891
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX sci-fi
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52191
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX THRILLER
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52887
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",NETFLIX THRILLER 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52884
-
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID  Sci-Fi 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53107
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Action
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52747
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID Action 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53101
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID ADVENTURE 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53096
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Aflam
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52797
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Bollywood 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52745
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID Bollywood 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53109
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Comedy 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52796
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID COMEDY 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53094
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID Doc 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53105
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Animation
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52744
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID DRAMA 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53111
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID FAMILY 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53108
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID FAMILY 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53106
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid ADEL EMAM HD
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52742
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Horror
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52746
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",Shahid Horror 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/52799
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",shahid movies 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53266
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID ADVENTURE 1
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53103
-#EXTINF:0 tvg-id="ext" group-title=" Norway Channel ",SHAHID  Sci-Fi 2
-http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53104
 
 
 
@@ -1662,173 +852,102 @@ http://server.sibfungold.info:8080/naimnaim/kamalnaimQX/53104
 ##################################################
 
 
-#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Ungrouped",sky sport motogp sd
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374909
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",sportitalia SI
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374897
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",rai sport+ fhd
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374895
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",rai sport + sd
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374894
-#EXTINF:0 tvg-id="esp-hd" group-title="Ungrouped",Eurosport 1 FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374927
-#EXTINF:0 tvg-id="esp-hd" group-title="Ungrouped",Eurosport 1 Hd
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374926
-#EXTINF:0 tvg-id="esp2" group-title="Ungrouped",Eurosport 2 FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374925
-#EXTINF:0 tvg-id="esp2" group-title="Ungrouped",Eurosport 2 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374924
-#EXTINF:0 tvg-id="ACISport.it" group-title="Ungrouped",aci sport TV
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374893
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",top calcio 24 hd
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374892
-#EXTINF:0 tvg-id="MotorTrend.it" group-title="Ungrouped",motortrend hd
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374891
-#EXTINF:0 tvg-id="HorseAndCountry.uk" group-title="Ungrouped",horseTV
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374890
-#EXTINF:0 tvg-id="BikeChannel.uk" group-title="Ungrouped",bike channel
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374889
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",equTV
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374888
-#EXTINF:0 tvg-id="LazioStyleChannel.it" group-title="Ungrouped",lazio channel fhd
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374887
-
-#EXTINF:0 tvg-id="SKYSport24.it" group-title="Ungrouped",SKY SPORT 24 FULL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374332
-#EXTINF:0 tvg-id="SKYSport24.it" group-title="Ungrouped",SKY SPORT 24 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374331
-#EXTINF:0 tvg-id="SkySport24.it" group-title="Ungrouped",SKY SPORT 24 SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374330
-#EXTINF:0 tvg-id="SkySportUno.it" group-title="Ungrouped",SKY SPORT UNO FULL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374335
-#EXTINF:0 tvg-id="SkySportUno.it" group-title="Ungrouped",SKY SPORT UNO HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374334
-#EXTINF:0 tvg-id="SkySportUno.it" group-title="Ungrouped",SKY SPORT UNO SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374333
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY SPORT FOOTBAL FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374356
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY SPORT FOOTBAL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374355
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY SPORT FOOTNAL SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374354
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Ungrouped",SKY SPORT ACTION FULL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374353
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Ungrouped",SKY SPORT ACTION HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374352
-#EXTINF:0 tvg-id="SkySportAction.it" group-title="Ungrouped",SKY SPORT ACTION SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374351
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Ungrouped",SKY SPORT ARENA FULL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374350
-#EXTINF:0 tvg-id="SkySpArena.uk" group-title="Ungrouped",SKY SPORT ARENA HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374349
-#EXTINF:0 tvg-id="SkySportArena.it" group-title="Ungrouped",SKY SPORT ARENA SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374348
-#EXTINF:0 tvg-id="SkySportNBA.it" group-title="Ungrouped",SKY SPORT NBA FULL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374338
-#EXTINF:0 tvg-id="SkySportNBA.it" group-title="Ungrouped",SKY SPORT NBA HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374337
-#EXTINF:0 tvg-id="SkySportNBA.it" group-title="Ungrouped",SKY SPORT NBA SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374336
-#EXTINF:0 tvg-id="SkySportTennis.it" group-title="Ungrouped",SKY SPORT TENNIS FULL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374347
-#EXTINF:0 tvg-id="SkySportTennis.it" group-title="Ungrouped",SKY SPORT TENNIS HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374346
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY SPORT TENNIS SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374345
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Ungrouped",SKY SPORT F1 FULL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374344
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Ungrouped",SKY SPORT F1 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374343
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Ungrouped",SKY SPORT F1 SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374342
-#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Ungrouped",SKY SPORT MOTOGP FULL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374341
-#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Ungrouped",SKY SPORT MOTOGP HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374340
-#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="Ungrouped",SKY SPORT MOTO GP SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374339
-
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/375001
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 251 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/375000
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",sky calcio 251 sd
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374987
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 252 FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374999
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 252 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374998
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 253 FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374997
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 253 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374996
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 254 FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374995
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 254 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374994
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 255 FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374993
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 255 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374992
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 256 FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374991
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 256 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374990
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 257 FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374989
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Sport 257 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374988
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Kiss Kiss Napoli tv
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/375317
-#EXTINF:0 tvg-id="SkySportCalcio.it" group-title="Ungrouped",SKY SPORT CALCIO FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374406
-#EXTINF:0 tvg-id="SkySportCalcio.it" group-title="Ungrouped",SKY SPORT CALCIO HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374405
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY SPORT CALCIO SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374404
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY CALCIO 251 FULL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374427
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY CALCIO 251 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374407
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY CALCIO 251 SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374408
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY CALCIO 252 FULL HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374409
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY CALCIO 252 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374410
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SKY CALCIO 252 SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374411
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 253 Full HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374412
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 253 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374413
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 253 SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374414
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 254 Full HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374415
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 254 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374416
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 254 SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374417
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 255 Full HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374418
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 255 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374419
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 255 SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374420
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 256 FHD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374421
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 256 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374422
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 256 SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374423
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 257 Full HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374424
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 257 HD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374425
-#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sky Calcio 257 SD
-http://extra-iptv-stream.com:80/0302amicogigi/0302vincenzo/374426
-
-
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y MOVIES PREMIER
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146568
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y MOVIES ACTION & ADVENTURE
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146569
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y MOVIES THRILLER
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146570
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y MOVIES COMEDY
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146571
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y MOVIES SCI-FI & HORROR
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146572
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y MOVIES DRAMA & ROMANCE
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146573
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y MOVIES DISNEY
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146574
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y MOVIES FAMILY
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146575
+#EXTINF:0 tvg-id="SkyBrits.uk" group-title="Ungrouped",UK: SKY MOVIES MODERN-GEANT
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146576
+#EXTINF:0 tvg-id="SkyMoviesIndie.uk" group-title="Ungrouped",UK: SKY MOVIES SELECT
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146577
+#EXTINF:0 tvg-id="SkyShowcase.uk" group-title="Ungrouped",UK: SKY MOVIES SHOWCASE
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146578
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: WILLOW CRICKET
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146579
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="Ungrouped",UK: EUROSPORT 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146580
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="Ungrouped",UK: EUROSPORT 2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146581
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS NEWS
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146582
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS NEWS *
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146583
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS MAIN EVENT
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146584
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS MAIN EVENT *
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146585
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS PREMIER LEAGUE
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146586
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS PREMIER LEAGUE *
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146587
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS ACTION
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146588
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS ARENA
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146589
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS GOLF
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146590
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS MIX
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146591
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS CRICKET (HD)
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146592
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS CRICKET *SD*
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146593
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS F1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146594
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS F1 *
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146595
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS F1 **
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146596
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS FOOTBALL
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146597
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: S-K-Y SPORTS / GBI  RACING
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146598
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: SKY SPORT NHL HD
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146599
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: SKY WITNESS
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146600
+#EXTINF:0 tvg-id="BTSportESPN.uk" group-title="Ungrouped",UK: BT SPORT / ESPN
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146601
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Ungrouped",UK: BT SPORT 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146602
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Ungrouped",UK: BT SPORT 1 *
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146603
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Ungrouped",UK: BT SPORT 2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146604
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Ungrouped",UK: BT SPORT 2 *
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146605
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Ungrouped",UK: BT SPORT 3
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146606
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Ungrouped",UK: BT SPORT 3 *
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146607
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: BT SPORT EXTRA
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146608
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: BT SPORT EXTRA 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146609
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: BT SPORT EXTRA 2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146610
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: BT SPORT EXTRA 3
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146611
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: BT SPORT EXTRA 4
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146612
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: PREMIER SPORTS 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146613
+#EXTINF:0 tvg-id="eirSport1.ie" group-title="Ungrouped",UK: EIR SPORT 1
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146614
+#EXTINF:0 tvg-id="eirSport2.ie" group-title="Ungrouped",UK: EIR SPORT 2
+http://saw.duplex-ott.net:2052/338595772530/338595772530/146615
 
 ##################### MOVIES #####################
 ##################################################
