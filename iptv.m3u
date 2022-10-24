@@ -385,6 +385,27 @@ http://chx.pvtstream.xyz:8000/Jenmam5921/skQ16Gb/153570
 http://chx.pvtstream.xyz:8000/Jenmam5921/skQ16Gb/153571
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 1
+http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21079
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 10
+http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21088
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 2
+http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21080
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 3
+http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21081
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 4
+http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21082
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 5
+http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21083
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 6
+http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21084
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 7
+http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21085
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 8
+http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21086
+#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 9
+http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21087
+
 #EXTINF:0 tvg-id="ext" group-title="|USA|",US084:UFC Network
 http://chx.pvtstream.xyz:8000/Jenmam5921/skQ16Gb/153591
 
