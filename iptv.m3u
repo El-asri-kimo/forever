@@ -1037,3 +1037,50 @@ http://iptv.ndasat.com:88/224155831259609/224155831259609/1700
 http://iptv.ndasat.com:88/224155831259609/224155831259609/1462
 #EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Yahala First
 http://iptv.ndasat.com:88/224155831259609/224155831259609/1461
+
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC1-HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1714
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC2_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/223
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC3_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1424
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC4_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/225
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC5_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/222
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC_Iraq_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/2962
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC_Masr_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/227
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC _Masr2_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/643
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC _Bollywood_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/230
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC _Drama_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/228
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC _Max_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/229
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC _Action_HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/226
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC1_HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/13448
+#EXTINF:0 tvg-id="MBC2.net" group-title="{BOUQUET_NAME}",MBC2-HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1713
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC3-HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1712
+#EXTINF:0 tvg-id="MBC4.net" group-title="{BOUQUET_NAME}",MBC4-HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1711
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC5_HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/13449
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC_Iraq_HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/13450
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC-Max HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1708
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC+Drama
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1475
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC-Drama HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1709
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC-Action HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1710
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC_Bollywood_HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/872
