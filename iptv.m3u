@@ -971,3 +971,69 @@ http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207610
 http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207611
 #EXTINF:0 tvg-id="Ten.es" group-title="Spain",ES: TEN
 http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207613
+
+
+###############
+###############
+###############
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Disney
+http://iptv.ndasat.com:88/224155831259609/224155831259609/2393
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Mezze
+http://iptv.ndasat.com:88/224155831259609/224155831259609/2396
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN: OSN News
+http://iptv.ndasat.com:88/224155831259609/224155831259609/2411
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Disney
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1690
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Discovery ID
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1691
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Cinema2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1694
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Cinema1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1695
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN: Musalsalat
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1697
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Fann
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1702
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN: Planet Earth
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1703
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:History
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1607
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:History2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1606
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Discovery
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1608
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Enigma
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1467
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Kids
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1471
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Premiere
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1466
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Comedy
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1469
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN: Series Showcase
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1465
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN: Movies Action
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1464
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Premium +2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1472
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Discovery Sc HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1474
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Mosalsalat +2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1704
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",T-Kassak_ya_Watan
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1688
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Syfy HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1684
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Star World
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1685
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Star Movies
+http://iptv.ndasat.com:88/224155831259609/224155831259609/2392
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Yahala Cinema
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1700
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Yahala
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1462
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Yahala First
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1461
