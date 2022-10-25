@@ -978,6 +978,108 @@ http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207613
 ###############
 
 
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein News
+http://iptv.ndasat.com:88/224155831259609/224155831259609/68
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Sports
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1223
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Sports 4K
+http://iptv.ndasat.com:88/224155831259609/224155831259609/17045
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 1HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5192
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 1SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1072
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 1HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5195
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 1FHD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/716
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 2HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5193
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 2SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1073
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 2HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5196
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 2FHD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/717
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 3HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5194
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 3SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1074
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 3HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5197
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 3FHD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/718
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 1 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1602
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 1 SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1070
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 1 HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3464
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 1 FHD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5143
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 2 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1603
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 2 SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1071
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 2 HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3463
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 2 FHD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5144
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 3 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1604
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 3 SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/77
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 3 HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3462
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 3 FHD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5145
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 4 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1605
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 4 SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/78
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 4 HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3476
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 4 FHD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/8535
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 5 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/79
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 5 SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5146
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 5 HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3477
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 5 FHD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/13790
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 6 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/80
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 6 SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5147
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 6 HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3478
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 6 FHD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/565
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 7 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/81
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 7 SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/5148
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 7 HQ
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3479
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 7 FHD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/13791
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein ENG1 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/82
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein ENG2 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/83
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein FRA1 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/13793
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein FRA2 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/13794
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein FRA3 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/13795
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Xtra1 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/21275
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Xtra2 HD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/21276
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 1SD
+http://iptv.ndasat.com:88/224155831259609/224155831259609/33914
 
 #EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Disney
 http://iptv.ndasat.com:88/224155831259609/224155831259609/2393
@@ -1084,3 +1186,148 @@ http://iptv.ndasat.com:88/224155831259609/224155831259609/1709
 http://iptv.ndasat.com:88/224155831259609/224155831259609/1710
 #EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC_Bollywood_HD
 http://iptv.ndasat.com:88/224155831259609/224155831259609/872
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Action1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3940
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Action2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/13818
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Action3
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20622
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Drama1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3173
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Drama2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1718
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Comedy1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3216
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Comedy2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1717
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Adventure1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/7262
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Adventure2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20623
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Bollywood1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3260
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Bollywood2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/421
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Thriller1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3325
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Thriller2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20564
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Crime1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20565
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Crime2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20566
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Horror 1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20570
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Horror 2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20571
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Horror3
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20621
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Sci-Fi 1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20568
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Sci-Fi 2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20569
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Scifi3
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20620
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Family1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3212
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Family2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3211
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Kids1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/4864
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Kids 2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20573
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Kids3
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20619
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Kids4
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20618
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Cartoon
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20572
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Documentary 1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20567
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Documentary 2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20576
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Cinema
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1693
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Cinema Ar
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20617
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Aflam
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20616
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Zaman
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20563
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Movies1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/7263
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Action
+http://iptv.ndasat.com:88/224155831259609/224155831259609/6362
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Action2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1987
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Thriller
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3334
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Thriller2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3951
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix  Horror
+http://iptv.ndasat.com:88/224155831259609/224155831259609/787
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Horror2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1723
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Scifi
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1883
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Scifi2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/7034
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Bollywood
+http://iptv.ndasat.com:88/224155831259609/224155831259609/2114
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Bollywood2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20615
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Turkish
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3206
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Turkish2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/16322
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Comedy
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3338
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Comedy2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3208
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Drama
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3335
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Drama2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20614
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Classic
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3205
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix WWE
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20562
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Anim
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3259
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Boxoffice1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3018
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Boxoffice2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20575
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Boxoffice3
+http://iptv.ndasat.com:88/224155831259609/224155831259609/1490
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Boxoffice4
+http://iptv.ndasat.com:88/224155831259609/224155831259609/20574
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",Skyflix Boxoffice5
+http://iptv.ndasat.com:88/224155831259609/224155831259609/16331
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Aflam
+http://iptv.ndasat.com:88/224155831259609/224155831259609/2103
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shoofmax1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/4791
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shoofmax2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3174
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shoofmax3
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3387
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shoofmax4
+http://iptv.ndasat.com:88/224155831259609/224155831259609/590
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Akoam Comedy1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3957
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Akoam Action 1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3948
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Akoam Cinema1
+http://iptv.ndasat.com:88/224155831259609/224155831259609/7264
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Akoam Comedy2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3004
+#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Akoam Cinema2
+http://iptv.ndasat.com:88/224155831259609/224155831259609/3010
