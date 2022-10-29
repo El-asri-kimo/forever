@@ -5,6 +5,19 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
 ################
 
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="world cup",BEIN SPORTS MAX 1 HD
+http://saw.duplex-ott.net:2052/332952307965/198262895012740/169686
+#EXTINF:0 tvg-id="ext" group-title="world cup",BEIN SPORTS MAX 2 HD
+http://saw.duplex-ott.net:2052/332952307965/198262895012740/169687
+#EXTINF:0 tvg-id="ext" group-title="world cup",BEIN SPORTS MAX 3 HD
+http://saw.duplex-ott.net:2052/332952307965/198262895012740/169688
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="world cup",BEIN SPORTS MAX 4 HD
+http://saw.duplex-ott.net:2052/332952307965/198262895012740/169689
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="world cup",BEIN SPORTS MAX 5 HD
+http://saw.duplex-ott.net:2052/332952307965/198262895012740/169690
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="world cup",BEIN SPORTS MAX 6 HD
+http://saw.duplex-ott.net:2052/332952307965/198262895012740/169691
+
 
 ################
 #EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BEIN_Sports_News
