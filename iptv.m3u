@@ -5,1298 +5,1281 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
 ################
 
-#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="world cup",BEIN SPORTS MAX 1 HD
-http://saw.duplex-ott.net:2052/332952307965/198262895012740/169686
-#EXTINF:0 tvg-id="ext" group-title="world cup",BEIN SPORTS MAX 2 HD
-http://saw.duplex-ott.net:2052/332952307965/198262895012740/169687
-#EXTINF:0 tvg-id="ext" group-title="world cup",BEIN SPORTS MAX 3 HD
-http://saw.duplex-ott.net:2052/332952307965/198262895012740/169688
-#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="world cup",BEIN SPORTS MAX 4 HD
-http://saw.duplex-ott.net:2052/332952307965/198262895012740/169689
-#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="world cup",BEIN SPORTS MAX 5 HD
-http://saw.duplex-ott.net:2052/332952307965/198262895012740/169690
-#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="world cup",BEIN SPORTS MAX 6 HD
-http://saw.duplex-ott.net:2052/332952307965/198262895012740/169691
-
-
-################
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BEIN_Sports_News
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2296
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_NBA_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49691
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_01_SD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3244
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_02_SD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3245
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_03_SD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3246
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_04_SD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3247
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_05_SD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49383
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_06_SD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49384
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_07_SD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49385
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_01_PREMIUM_SD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49685
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_02_PREMIUM_SD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49386
-#EXTINF:0 tvg-id="ext" group-title="Bein Sport Arabic",BeIN_Sport_03_PREMIUM_SD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49686
-
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Movies_premiere
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/17
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Movies_Action
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/18
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Movies_Drama
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/19
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Movies_family
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1791
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Fox_Movies
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49494
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BEIN_FOX_Family_Movies_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51393
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Drama_Arabic
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49495
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Baraem
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3564
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Series_1
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4114
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Series_2
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50439
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_JEEM
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3563
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_BE_Junior
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49868
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_GOURMET
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4113
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Fatafeat
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50063
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_AMC
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48776
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_DREAMWORKS
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4577
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeIN_Boomerang
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48858
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_DMAX
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48892
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BEIN_Outdoor
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49491
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_DTX
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49496
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeiN_HGTV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52009
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Fox_Life_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52773
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Discovery_Kids_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52774
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Cartoon_Network_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52775
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_BBC_Earth_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52786
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BeiN_Baby_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52811
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Fox_Crime_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53023
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Fox_Action_Movies_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53024
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Box_Office_1
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53060
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Box_Office_2
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53061
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Box_Office_3
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53395
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",BEIN_Discovery_Life
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53944
-#EXTINF:0 tvg-id="ext" group-title="Bein Channel",Bein_Animal_Planet_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54362
-
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",•●★----| Chaîne OSN & ART |----★●•
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50004
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ALPHA_CINEMA_1
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/37
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ALPHA_CINEMA_2
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/38
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Alpha_Musalsat
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50896
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_AL_Youm_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1618
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Animal_Planet_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50853
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ART_Aflam_1
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/31
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ART_Aflam_2
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/32
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ART_Cinema
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/33
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ART_Hekayat_1
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/34
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_ART_Hekayat_2
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/35
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Boomberg
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51458
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_BOX_Office_01
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/47
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_BOX_Office_02
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_BOX_Office_03
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Comedy
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2284
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Discovery_Channel_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50852
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Discovery_Family_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50851
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Discovery_IDX_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50850
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Discovery_Science_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50849
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Disney_Channel_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50848
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Discovery_Life_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48860
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Food_Network_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50838
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_History_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50837
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Movies_Action
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Movies_First+2_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51606
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Movies_premiere_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3917
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Movies_Bollywood_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/43
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Movies_W_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/48758
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Series_Prime_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50583
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Star_Movies
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1765
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Star_World
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1768
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Family_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51465
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Thriller_2
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51466
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_TLC_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51138
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_Yahala_Bil_Araby
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/39
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_YAHALA_Aflam
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1860
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN_YAHALA_HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51464
-#EXTINF:0 tvg-id="ext" group-title="ART & OSN",OSN WWE
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3923
-
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",•●★----| Chaîne Tunisienne |----★●•
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50003
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",•●★----| Chaîne Algerienne |----★●•
-direct
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV1
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/305
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV2
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46162
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV3
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/299
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV4
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/3746
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV5
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53383
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV6
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53385
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV7
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53384
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE TV8
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53382
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Bahia TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4116
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: El Bilad
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1250
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ENTV Algerie
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/303
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Ennahar Algerie
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/304
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: El Heddaf
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/1135
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Echourouk TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/308
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Echourouk plus
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51172
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Echourouk News HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/307
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Dzair News
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46163
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Beur TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/698
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: TV CORAN
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46310
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: AL Magharibia 1
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51082
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Al Magharibia 2
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/4072
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Samira TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/311
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: Al Anis TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46305
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",ALG: ALGERIE 24 NEWS
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54375
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",•●★----| Chaine Maracaine |----★●•
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50002
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Al Aoula Inter HD
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46382
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: 2M Monde
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/293
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Medi1TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/292
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Tamazight TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/295
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Assadissa
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/298
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Arriadia
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/296
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Arrabiaa
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/297
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Tele maroc
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/46214
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: 7 AFLAM TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49623
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Numidia TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/300
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Chada TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49399
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: CANAL ATLAS
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/49994
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR:  Al Ons TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52144
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: LAAYOUN TV
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53379
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Al Aoula HD TNT
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54661
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: 2M TNT
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54662
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: ARRYADIA TNT
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54663
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Arrabiaa TNT
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54664
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Assadissa TNT
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54665
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: MEDI 1 TV TNT
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54666
-#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",MAR: Tamazight TNT
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54667
-
-
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_A_LA_CARTE_01
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/65
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_A_LA_CARTE_02
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/66
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_A_LA_CARTE_03
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/67
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_A_LA_CARTE_04
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/68
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_A_LA_CARTE_05
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/69
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_A_LA_CARTE_06
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/70
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_A_LA_CARTE_07
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/71
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_A_LA_CARTE_08
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/72
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_SUSPENSE
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2331
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_CINEMA
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2332
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_JEUNESSE
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2333
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",AMAZON PRIME FANTASTIQUE HD FR
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2334
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",AMAZON PRIME DRAMA HD FR
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/2335
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",AMAZON PRIME COMEDIE HD FR
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54625
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",AMAZON PRIME ACTION HD FR
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54626
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_01
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/50
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_02
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/51
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_03
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/52
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_04
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/53
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_05
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/54
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_06
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/55
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_07
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/56
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_08
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/57
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_09
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/58
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_10
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/59
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_ACTION
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/60
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_COMEDIE
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/61
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_EMOTION
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/62
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_POLICIER
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/63
-#EXTINF:0 tvg-id="ext" group-title="A la carte + Canal play",FR_CANAL_PLAY_HORREUR
-http://server.sibfungold.info:8080/afreddoss/dWGKMeLALi/64
-
-#################
-#################
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21079
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 10
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21088
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21080
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21081
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 4
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21082
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 5
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21083
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 6
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21084
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 7
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21085
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 8
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21086
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: CANALPLAY 9
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21087
-
-
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: WARNER BROS HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43946
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21064
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 10
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21073
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21065
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21066
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 4
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21067
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 5
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21068
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 6
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21069
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 7
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21070
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 8
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21071
-#EXTINF:0 tvg-id="ext" group-title="Channels",FR: BOX OFFICE 9
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21072
-
-
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="Channels",ES: LALIGA TV BAR
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135958
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LANCELOT TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207600
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LEVANTE TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207601
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA CAMPEONES
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135970
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135971
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 10
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207571
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 11
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207572
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 12
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207573
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 13
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207574
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 14
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207575
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 15
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207576
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 16
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207577
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135972
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135973
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 4
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135974
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 6
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207553
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 7
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207554
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 8
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207555
-#EXTINF:0 tvg-id="ext" group-title="Channels",ES: LIGA DE CAMPEONES 9
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207570
-
-#EXTINF:0 tvg-id="ext" group-title="|USA|",US084:UFC Network
-http://chx.pvtstream.xyz:8000/Jenmam5921/skQ16Gb/153591
-
-
-#################
-#################
-#################
-#################
-
-
-#EXTINF:0 tvg-id="6ter.fr" group-title="France",FR: 6TER
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/44372
-#EXTINF:0 tvg-id="AB1.fr" group-title="France",FR: AB1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20896
-#EXTINF:0 tvg-id="ext" group-title="France",FR: AB3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20911
-#EXTINF:0 tvg-id="Action.fr" group-title="France",FR: ACTION
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20912
-#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="France",FR: ALTICE STUDIO
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20918
-#EXTINF:0 tvg-id="Animaux.fr" group-title="France",FR: ANIMAUX
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20898
-#EXTINF:0 tvg-id="ext" group-title="France",FR: AUTOMOTO HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20897
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="France",FR: BEIN SPORTS 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20831
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="France",FR: BEIN SPORTS 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20832
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="France",FR: BEIN SPORTS 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20833
-#EXTINF:0 tvg-id="BFMTV.fr" group-title="France",FR: BFM TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20901
-#EXTINF:0 tvg-id="Boing.fr" group-title="France",FR: BOING
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/81192
-#EXTINF:0 tvg-id="Boomerang.fr" group-title="France",FR: BOOMERANG
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20928
-#EXTINF:0 tvg-id="CNews.fr" group-title="France",FR: C NEWS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20934
-#EXTINF:0 tvg-id="C8.fr" group-title="France",FR: C8
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20908
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="France",FR: CANAL J
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43945
-#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="France",FR: CANAL+ CINEMA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20883
-#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="France",FR: CANAL+ DECALE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20884
-#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="France",FR: CANAL+ FAMILY
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20885
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="France",FR: CANAL+ HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/28334
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="France",FR: CANAL+ SERIES
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20887
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="France",FR: CANAL+ SPORT
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20886
-#EXTINF:0 tvg-id="ext" group-title="France",FR: CANALPLAY 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21079
-#EXTINF:0 tvg-id="ext" group-title="France",FR: CANALPLAY 10
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21088
-#EXTINF:0 tvg-id="ext" group-title="France",FR: CANALPLAY 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21080
-#EXTINF:0 tvg-id="ext" group-title="France",FR: CANALPLAY 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21081
-#EXTINF:0 tvg-id="ext" group-title="France",FR: CANALPLAY 4
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21082
-#EXTINF:0 tvg-id="ext" group-title="France",FR: CANALPLAY 5
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21083
-#EXTINF:0 tvg-id="ext" group-title="France",FR: CANALPLAY 6
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21084
-#EXTINF:0 tvg-id="ext" group-title="France",FR: CANALPLAY 7
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21085
-#EXTINF:0 tvg-id="ext" group-title="France",FR: CANALPLAY 8
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21086
-#EXTINF:0 tvg-id="ext" group-title="France",FR: CANALPLAY 9
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21087
-#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="France",FR: CARTOON NETWORK
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20930
-#EXTINF:0 tvg-id="ChassePeche.fr" group-title="France",FR: CHASSE ET PECHE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/44451
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="France",FR: CHERIE 25
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43947
-#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="France",FR: CINE+ CLASSIC
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20888
-#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="France",FR: CINE+ CLUB
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20889
-#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="France",FR: CINE+ EMOTION
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43948
-#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="France",FR: CINE+ FAMIZ
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20890
-#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="France",FR: CINE+ PREMIER
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20892
-#EXTINF:0 tvg-id="Comedie.fr" group-title="France",FR: COMEDIE+
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20935
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="France",FR: CRIME DISTRICT
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20936
-#EXTINF:0 tvg-id="CStar.fr" group-title="France",FR: CSTAR
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/80932
-#EXTINF:0 tvg-id="Discovery.fr" group-title="France",FR: DISCOVERY CHANNEL
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20940
-#EXTINF:0 tvg-id="ext" group-title="France",FR: DISCOVERY INVESTIGATION
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43952
-#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="France",FR: DISCOVERY SCIENCE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/80940
-#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="France",FR: DISNEY CHANNEL
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20988
-#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="France",FR: DISNEY CINEMA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20990
-#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="France",FR: DISNEY JUNIOR
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20991
-#EXTINF:0 tvg-id="ext" group-title="France",FR: EURONEWS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20948
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="France",FR: EUROSPORT 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43954
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="France",FR: EUROSPORT 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43956
-#EXTINF:0 tvg-id="Foot24.fr" group-title="France",FR: FOOT 24
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20951
-#EXTINF:0 tvg-id="France2.fr" group-title="France",FR: FRANCE 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20875
-#EXTINF:0 tvg-id="France24.fr" group-title="France",FR: FRANCE 24
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20876
-#EXTINF:0 tvg-id="France3.fr" group-title="France",FR: FRANCE 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20877
-#EXTINF:0 tvg-id="France4.fr" group-title="France",FR: FRANCE 4
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20878
-#EXTINF:0 tvg-id="France5.fr" group-title="France",FR: FRANCE 5
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20879
-#EXTINF:0 tvg-id="Franceinfo.fr" group-title="France",FR: FRANCE INFO HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/29132
-#EXTINF:0 tvg-id="GameOne.fr" group-title="France",FR: GAMEONE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20952
-#EXTINF:0 tvg-id="Golf.fr" group-title="France",FR: GOLF+ HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20955
-#EXTINF:0 tvg-id="Gulli.fr" group-title="France",FR: GULLI
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20956
-#EXTINF:0 tvg-id="Histoire.fr" group-title="France",FR: HISTOIRE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20957
-#EXTINF:0 tvg-id="Infosport.fr" group-title="France",FR: INFOSPORT
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20959
-#EXTINF:0 tvg-id="ext" group-title="France",FR: J ONE HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43967
-#EXTINF:0 tvg-id="ext" group-title="France",FR: L'EQUIPE 21
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43961
-#EXTINF:0 tvg-id="LCI.fr" group-title="France",FR: LCI HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43962
-#EXTINF:0 tvg-id="ext" group-title="France",FR: LCP HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/81054
-#EXTINF:0 tvg-id="M6.fr" group-title="France",FR: M6
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/42842
-#EXTINF:0 tvg-id="Mangas.fr" group-title="France",FR: MANGAS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43963
-#EXTINF:0 tvg-id="MCM.fr" group-title="France",FR: MCM
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20974
-#EXTINF:0 tvg-id="Mezzo.fr" group-title="France",FR: MEZZO HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20976
-#EXTINF:0 tvg-id="MTV.fr" group-title="France",FR: MTV FRANCE HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20980
-#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="France",FR: NAT GEO
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20986
-#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="France",FR: NAT GEO WILD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20985
-#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="France",FR: NICKELODEON
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20993
-#EXTINF:0 tvg-id="ext" group-title="France",FR: NICKELODEON TEEN
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/80971
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="France",FR: NRJ 12
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/44473
-#EXTINF:0 tvg-id="NRJHits.fr" group-title="France",FR: NRJ HITS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/80979
-#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="France",FR: OCS CHOC
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21003
-#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="France",FR: OCS CITY
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21004
-#EXTINF:0 tvg-id="OrangeCineGeants.fr" group-title="France",FR: OCS GEANTS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21005
-#EXTINF:0 tvg-id="OrangeCinemax.fr" group-title="France",FR: OCS MAX
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21006
-#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="France",FR: PARIS PREMIERE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21010
-#EXTINF:0 tvg-id="PIWI.fr" group-title="France",FR: PIWI+
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21012
-#EXTINF:0 tvg-id="PLANETE.fr" group-title="France",FR: PLANETE+
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21015
-#EXTINF:0 tvg-id="ext" group-title="France",FR: PLANETE+ ADVENTURE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21013
-#EXTINF:0 tvg-id="PLANETEJustice.fr" group-title="France",FR: PLANETE+ CI
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21014
-#EXTINF:0 tvg-id="ext" group-title="France",FR: RFM HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21017
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="France",FR: RMC DECOUVERTE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20841
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="France",FR: RMC SPORT 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20851
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="France",FR: RMC SPORT 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20852
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="France",FR: RMC SPORT 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20853
-#EXTINF:0 tvg-id="ext" group-title="France",FR: RMC SPORT NEWS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/142407
-#EXTINF:0 tvg-id="RTL9.fr" group-title="France",FR: RTL9
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20899
-#EXTINF:0 tvg-id="Seasons.fr" group-title="France",FR: SEASONS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21018
-#EXTINF:0 tvg-id="Syfy.fr" group-title="France",FR: SYFY
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/143498
-#EXTINF:0 tvg-id="TCM.fr" group-title="France",FR: TCM CINEMA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21028
-#EXTINF:0 tvg-id="TeleTOON.fr" group-title="France",FR: TELETOON
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21029
-#EXTINF:0 tvg-id="Teva.fr" group-title="France",FR: TEVA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21030
-#EXTINF:0 tvg-id="TF1.fr" group-title="France",FR: TF1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21031
-#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="France",FR: TF1 SERIES FILMS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43975
-#EXTINF:0 tvg-id="TFX.fr" group-title="France",FR: TFX
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/44474
-#EXTINF:0 tvg-id="Tiji.fr" group-title="France",FR: TIJI HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21034
-#EXTINF:0 tvg-id="TMC.fr" group-title="France",FR: TMC
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20900
-#EXTINF:0 tvg-id="Toonami.fr" group-title="France",FR: TOONAMI
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21035
-#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="France",FR: TOUTE L'HISTOIRE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/20903
-#EXTINF:0 tvg-id="TVBreizh.fr" group-title="France",FR: TV BREIZH
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43979
-#EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="France",FR: TV5 MONDE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21048
-#EXTINF:0 tvg-id="ext" group-title="France",FR: TV5 MONDE STYLE HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/30850
-#EXTINF:0 tvg-id="W9.fr" group-title="France",FR: W9
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21055
-#EXTINF:0 tvg-id="ext" group-title="France",FR: WARNER BROS HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/43946
-#EXTINF:0 tvg-id="ext" group-title="France",FR: BOX OFFICE 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21064
-#EXTINF:0 tvg-id="ext" group-title="France",FR: BOX OFFICE 10
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21073
-#EXTINF:0 tvg-id="ext" group-title="France",FR: BOX OFFICE 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21065
-#EXTINF:0 tvg-id="ext" group-title="France",FR: BOX OFFICE 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21066
-#EXTINF:0 tvg-id="ext" group-title="France",FR: BOX OFFICE 4
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21067
-#EXTINF:0 tvg-id="ext" group-title="France",FR: BOX OFFICE 5
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21068
-#EXTINF:0 tvg-id="ext" group-title="France",FR: BOX OFFICE 6
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21069
-#EXTINF:0 tvg-id="ext" group-title="France",FR: BOX OFFICE 7
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21070
-#EXTINF:0 tvg-id="ext" group-title="France",FR: BOX OFFICE 8
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21071
-#EXTINF:0 tvg-id="ext" group-title="France",FR: BOX OFFICE 9
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/21072
-
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="Spain",ES: #0
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136051
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: #VAMOS HD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136122
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: 7 MURCIA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207578
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: A3 SERIES
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136062
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: ALCARRIA TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207579
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: ALTERNATIVA TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207580
-#EXTINF:0 tvg-id="AMC.es" group-title="Spain",ES: AMC
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136052
-#EXTINF:0 tvg-id="Antena3.es" group-title="Spain",ES: ANTENA 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136021
-#EXTINF:0 tvg-id="AragonTVsat.sp" group-title="Spain",ES: ARAGON TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207581
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: AVATAR
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207582
-#EXTINF:0 tvg-id="AXNhd.es" group-title="Spain",ES: AXN
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136053
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="Spain",ES: AXN WHITE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136054
-#EXTINF:0 tvg-id="BEMAD.es" group-title="Spain",ES: BE MAD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/139690
-#EXTINF:0 tvg-id="Boing.es" group-title="Spain",ES: BOING
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136092
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: C33 MADRID
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207583
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: CADENA ELITE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207584
-#EXTINF:0 tvg-id="24Horas.sp" group-title="Spain",ES: CANAL 24 HORAS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136025
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: CANAL BARCA TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136011
-#EXTINF:0 tvg-id="Cocina.es" group-title="Spain",ES: CANAL COCINA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136045
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: CANAL DONA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207586
-#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="Spain",ES: CANAL EXTREMADURA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207587
-#EXTINF:0 tvg-id="Historia.es" group-title="Spain",ES: CANAL HISTORIA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136038
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: CANAL MALAGA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207588
-#EXTINF:0 tvg-id="Panda.es" group-title="Spain",ES: CANAL PANDA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136096
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="Spain",ES: CAZA Y PESCA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136059
-#EXTINF:0 tvg-id="Cazavision.es" group-title="Spain",ES: CAZAVISION
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207590
-#EXTINF:0 tvg-id="ClanTVE.es" group-title="Spain",ES: CLAN
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136093
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Spain",ES: COMEDY CENTRAL
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136043
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="Spain",ES: COSMO
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136046
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: COSTADELSOL TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207591
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: CRIMEN AND INVESTIGACION
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207592
-#EXTINF:0 tvg-id="Cuatro.es" group-title="Spain",ES: CUATRO
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136022
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: CURRO JIMEZ
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207593
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: DARK RED
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207594
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: DECASA TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136044
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: DISCOVERY CHANNELS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136037
-#EXTINF:0 tvg-id="DisneyChannel.es" group-title="Spain",ES: DISNEY CHANNEL
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136089
-#EXTINF:0 tvg-id="DisneyJr.es" group-title="Spain",ES: DISNEY JUNIOR
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136090
-#EXTINF:0 tvg-id="Divinity.es" group-title="Spain",ES: DIVINITY
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136091
-#EXTINF:0 tvg-id="DKISS.es" group-title="Spain",ES: DKISS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207092
-#EXTINF:0 tvg-id="DMAX.es" group-title="Spain",ES: DMAX
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207595
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: DREAMWORKS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207565
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: EL TORO TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207094
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: EMPES A LO BESTIA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207596
-#EXTINF:0 tvg-id="Eurosport1.es" group-title="Spain",ES: EUROSPORT 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136008
-#EXTINF:0 tvg-id="Eurosport2.es" group-title="Spain",ES: EUROSPORT 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136009
-#EXTINF:0 tvg-id="FDF.es" group-title="Spain",ES: FDF
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136034
-#EXTINF:0 tvg-id="Fox.es" group-title="Spain",ES: FOX
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136057
-#EXTINF:0 tvg-id="FoxLife.es" group-title="Spain",ES: FOX LIFE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136058
-#EXTINF:0 tvg-id="GOL.es" group-title="Spain",ES: GOL TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136002
-#EXTINF:0 tvg-id="Hollywood.es" group-title="Spain",ES: HOLLYWOOD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136064
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: INTERALMERIA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207597
-#EXTINF:0 tvg-id="LA1.es" group-title="Spain",ES: LA 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136018
-#EXTINF:0 tvg-id="LA2.es" group-title="Spain",ES: LA 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136019
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LA RESISTENCIA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207599
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="Spain",ES: LA SEXTA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136024
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="Spain",ES: LALIGA TV BAR
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135958
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LANCELOT TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207600
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LEVANTE TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207601
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA CAMPEONES
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135970
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135971
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 10
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207571
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 11
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207572
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 12
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207573
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 13
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207574
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 14
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207575
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 15
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207576
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 16
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207577
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135972
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135973
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 4
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135974
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 6
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207553
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 7
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207554
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 8
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207555
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: LIGA DE CAMPEONES 9
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207570
-#EXTINF:0 tvg-id="Mega.es" group-title="Spain",ES: MEGA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136026
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MELILLA TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207602
-#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="Spain",ES: MEZZO LIVE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136112
-#EXTINF:0 tvg-id="M.Accion.es" group-title="Spain",ES: MOVISTAR ACCION
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136065
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR CINE ESPAÑOL
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136066
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR CINEDOC AND ROLL
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136067
-#EXTINF:0 tvg-id="M.Comedia.es" group-title="Spain",ES: MOVISTAR COMEDIA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136068
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR DAZN 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135989
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR DAZN 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135990
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR DAZN 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207568
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR DAZN 4
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207566
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR DAZN FORMULA 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135991
-#EXTINF:0 tvg-id="M.Deportes.es" group-title="Spain",ES: MOVISTAR DEPORTES
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135980
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR DEPORTES 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135981
-#EXTINF:0 tvg-id="M.Deportes2.es" group-title="Spain",ES: MOVISTAR DEPORTES 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135982
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR DEPORTES 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135983
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR DEPORTES 4
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135984
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR DRAMA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136071
-#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Spain",ES: MOVISTAR ESTRENOS
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136072
-#EXTINF:0 tvg-id="Golf.es" group-title="Spain",ES: MOVISTAR GOLF
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135992
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LALIGA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135959
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LALIGA MULTI 1
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135960
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LALIGA MULTI 2
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135962
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LALIGA MULTI 3
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207550
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MOVISTAR LALIGA MULTI 4
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207551
-#EXTINF:0 tvg-id="MTVEsp.es" group-title="Spain",ES: MTV ESPAÑA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136100
-#EXTINF:0 tvg-id="Multideporte1.es" group-title="Spain",ES: MULTIDEPORTE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/135979
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MUSIC TOP
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136104
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="Spain",ES: NAT GEO
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136039
-#EXTINF:0 tvg-id="NatGeoWild.es" group-title="Spain",ES: NAT GEO WILD
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136040
-#EXTINF:0 tvg-id="Neox.es" group-title="Spain",ES: NEOX
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136035
-#EXTINF:0 tvg-id="Nickelodeon.es" group-title="Spain",ES: NICKELODEON
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136094
-#EXTINF:0 tvg-id="Nova.es" group-title="Spain",ES: NOVA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136032
-#EXTINF:0 tvg-id="Paramount.es" group-title="Spain",ES: PARAMOUNT CHANNEL
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/86436
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: RAKUTEN CINE ESPAL
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207605
-#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Spain",ES: REAL MADRID TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136010
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: RETRO MUSIC TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136114
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: RIBERA TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207606
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: SOLIDARIA TV
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207608
-#EXTINF:0 tvg-id="Sundance.es" group-title="Spain",ES: SUNDANCE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136087
-#EXTINF:0 tvg-id="Scifi.es" group-title="Spain",ES: SYFY
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136080
-#EXTINF:0 tvg-id="TCM.es" group-title="Spain",ES: TCM
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/76388
-#EXTINF:0 tvg-id="Telecinco.es" group-title="Spain",ES: TELECINCO
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136023
-#EXTINF:0 tvg-id="Teledeporte.es" group-title="Spain",ES: TELEDEPORTE
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/136003
-#EXTINF:0 tvg-id="Telemadrid.es" group-title="Spain",ES: TELEMADRID
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207609
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: TELEONUBA
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207610
-#EXTINF:0 tvg-id="ext" group-title="Spain",ES: TELESAFOR
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207611
-#EXTINF:0 tvg-id="Ten.es" group-title="Spain",ES: TEN
-http://sharkytv.com:2082/dsnrrcn/fsT3QufVY3/207613
-
-
-###############
-###############
-###############
-
-
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein News
-http://iptv.ndasat.com:88/224155831259609/224155831259609/68
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Sports
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1223
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Sports 4K
-http://iptv.ndasat.com:88/224155831259609/224155831259609/17045
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 1HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5192
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 1SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1072
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 1HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5195
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 1FHD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/716
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 2HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5193
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 2SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1073
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 2HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5196
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 2FHD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/717
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 3HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5194
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 3SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1074
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 3HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5197
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 3FHD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/718
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 1 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1602
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 1 SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1070
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 1 HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3464
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 1 FHD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5143
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 2 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1603
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 2 SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1071
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 2 HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3463
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 2 FHD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5144
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 3 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1604
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 3 SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/77
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 3 HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3462
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 3 FHD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5145
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 4 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1605
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 4 SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/78
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 4 HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3476
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 4 FHD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/8535
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 5 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/79
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 5 SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5146
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 5 HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3477
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 5 FHD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/13790
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 6 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/80
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 6 SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5147
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 6 HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3478
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 6 FHD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/565
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 7 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/81
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 7 SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/5148
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 7 HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3479
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein 7 FHD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/13791
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein ENG1 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/82
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein ENG2 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/83
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein FRA1 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/13793
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein FRA2 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/13794
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein FRA3 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/13795
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Xtra1 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/21275
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Xtra2 HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/21276
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",SP:Bein Premium 1SD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/33914
-
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Disney
-http://iptv.ndasat.com:88/224155831259609/224155831259609/2393
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Mezze
-http://iptv.ndasat.com:88/224155831259609/224155831259609/2396
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN: OSN News
-http://iptv.ndasat.com:88/224155831259609/224155831259609/2411
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Disney
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1690
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Discovery ID
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1691
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Cinema2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1694
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Cinema1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1695
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN: Musalsalat
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1697
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Fann
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1702
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN: Planet Earth
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1703
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:History
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1607
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:History2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1606
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Discovery
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1608
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Enigma
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1467
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Kids
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1471
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Premiere
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1466
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Comedy
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1469
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN: Series Showcase
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1465
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN: Movies Action
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1464
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Movies Premium +2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1472
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Discovery Sc HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1474
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Mosalsalat +2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1704
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",T-Kassak_ya_Watan
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1688
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Syfy HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1684
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Star World
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1685
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Star Movies
-http://iptv.ndasat.com:88/224155831259609/224155831259609/2392
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Yahala Cinema
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1700
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Yahala
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1462
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",OSN:Yahala First
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1461
-
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC1-HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1714
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC2_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/223
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC3_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1424
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC4_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/225
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC5_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/222
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC_Iraq_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/2962
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC_Masr_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/227
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC _Masr2_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/643
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC _Bollywood_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/230
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC _Drama_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/228
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC _Max_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/229
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC _Action_HQ
-http://iptv.ndasat.com:88/224155831259609/224155831259609/226
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC1_HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/13448
-#EXTINF:0 tvg-id="MBC2.net" group-title="{BOUQUET_NAME}",MBC2-HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1713
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC3-HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1712
-#EXTINF:0 tvg-id="MBC4.net" group-title="{BOUQUET_NAME}",MBC4-HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1711
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC5_HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/13449
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC_Iraq_HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/13450
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC-Max HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1708
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC+Drama
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1475
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC-Drama HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1709
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC-Action HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1710
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",MBC_Bollywood_HD
-http://iptv.ndasat.com:88/224155831259609/224155831259609/872
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- ✩✩✩ BEIN  HD ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130929
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS NEWS HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33274
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="Ungrouped",BEIN SPORTS NEWS HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193633
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS GLOBAL HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33275
+#EXTINF:0 tvg-id="beinsports.jsc" group-title="Ungrouped",BEIN SPORTS GLOBAL HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193634
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS XTRA 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216540
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS XTRA 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216542
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS PREMIUM  1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9494
+#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="Ungrouped",BEIN SPORTS PREMIUM 1 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33268
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS PREMIUM  2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9496
+#EXTINF:0 tvg-id="beINSportsPremium2.qa" group-title="Ungrouped",BEIN SPORTS PREMIUM 2 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33269
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS PREMIUM  3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9497
+#EXTINF:0 tvg-id="beINSportsPremium3.qa" group-title="Ungrouped",BEIN SPORTS PREMIUM 3 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33270
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Ungrouped",BEIN  SPORTS 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9480
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Ungrouped",BEIN  SPORTS 1 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33261
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Ungrouped",BEIN  SPORTS 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/13371
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Ungrouped",BEIN  SPORTS 2 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33262
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Ungrouped",BEIN  SPORTS 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9484
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Ungrouped",BEIN  SPORTS 3 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33263
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Ungrouped",BEIN  SPORTS 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9486
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Ungrouped",BEIN  SPORTS 4 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33264
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Ungrouped",BEIN  SPORTS 5 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9488
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Ungrouped",BEIN  SPORTS 5 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33265
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Ungrouped",BEIN  SPORTS 6 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9490
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Ungrouped",BEIN  SPORTS 6 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33266
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Ungrouped",BEIN  SPORTS 7 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9492
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Ungrouped",BEIN  SPORTS 7 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33267
+#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="Ungrouped",BEIN  SPORTS XTRA 1 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33271
+#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="Ungrouped",BEIN  SPORTS XTRA 2 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/33272
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="Ungrouped",BEIN  SPORTS 1 HD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132019
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 1 HD+ EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150538
+#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="Ungrouped",BEIN  SPORTS 2 HD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132020
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 2 HD+  EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150539
+#EXTINF:0 tvg-id="beINSportsEnglish3.qa" group-title="Ungrouped",BEIN SPORTS  3 HD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132021
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 3 HD+ EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150540
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Ungrouped",BEIN  SPORTS 1 HD FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132022
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="Ungrouped",BEIN  SPORTS 1 HD+ FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150541
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Ungrouped",BEIN  SPORTS 2 HD FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193629
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="Ungrouped",BEIN  SPORTS 2 HD+ FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193631
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Ungrouped",BEIN  SPORTS 3 HD FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193630
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="Ungrouped",BEIN  SPORTS 3 HD+ FR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193632
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- ✩✩✩ BEIN  SD ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130928
+#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="Ungrouped",BEIN  SPORTS PREMIUM 1 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127191
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREMIUM 1 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161721
+#EXTINF:0 tvg-id="beINSportsPremium2.qa" group-title="Ungrouped",BEIN  SPORTS PREMIUM 2 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127192
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREMIUM 2 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161722
+#EXTINF:0 tvg-id="beINSportsPremium3.qa" group-title="Ungrouped",BEIN  SPORTS PREMIUM 3 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127193
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREMIUM 3 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161723
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Ungrouped",BEIN  SPORTS 1  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127184
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 1 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161714
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Ungrouped",BEIN  SPORTS 2  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127185
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 2 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161715
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Ungrouped",BEIN  SPORTS 3  SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127186
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 3 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161716
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Ungrouped",BEIN  SPORTS 4 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127187
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 4 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161717
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Ungrouped",BEIN  SPORTS 5 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127188
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 5 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161718
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Ungrouped",BEIN  SPORTS 6 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127189
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 6 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161719
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Ungrouped",BEIN  SPORTS 7 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127190
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 7 SD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161720
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 1 SD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127194
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 1 SD+ EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161724
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 2 SD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127195
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 2 SD+ EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/161725
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- ✩✩✩ BEIN FHD ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130930
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS XTRA 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216544
+#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="Ungrouped",BEIN SPORTS XTRA 1 FHD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216545
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS XTRA 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216546
+#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="Ungrouped",BEIN SPORTS XTRA 2 FHD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/216547
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREIMUM 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/97378
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREIMUM 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83621
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREIMUM 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83620
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Ungrouped",BEIN  SPORTS 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83628
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Ungrouped",BEIN  SPORTS 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83627
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Ungrouped",BEIN  SPORTS 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83626
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Ungrouped",BEIN  SPORTS 4 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83625
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Ungrouped",BEIN  SPORTS 5 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83624
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Ungrouped",BEIN  SPORTS 6 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83623
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Ungrouped",BEIN  SPORTS 7 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83622
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="Ungrouped",BEIN  SPORTS 1 FHD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83619
+#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="Ungrouped",BEIN  SPORTS 2 FHD EN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83618
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",FR- ✩✩✩  BEIN 4K  ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193635
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREIMUM 1 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193642
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREIMUM 2 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193643
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREIMUM 3 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193644
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 1 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192818
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 2 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193636
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 3 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193637
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 4 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193638
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 5 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193639
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 6 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193640
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS 7 4K
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/193641
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- ✩✩✩ BEIN  HEVC ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130931
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREIMUM 1 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/121347
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREIMUM 2 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83608
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS PREIMUM 3 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83607
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 1 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83616
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 2 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83615
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 3 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83614
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 4 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83613
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 5 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83612
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 6 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83611
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SPORTS 7 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83610
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 1 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291774
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 2 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291773
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291787
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291784
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291782
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291786
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 3 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291772
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291777
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291778
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 1 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291781
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 2 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291779
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC 3 HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291776
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291775
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291783
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291785
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN SPORTS AFC HEVC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/291780
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",✩ ✩ ✩ ✩  SSC ✩ ✩ ✩ ✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217859
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217848
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217849
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217850
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217851
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217852
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC 5 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217853
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC 5 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217854
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC 6 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217855
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC 6 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217856
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC7 SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217857
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",SSC7 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/217858
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Abu Dhabi Sports Asia 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/219654
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Abu Dhabi Sports  Asia 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/219655
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",✩✩✩ ON TIME SPORTS ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189559
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",On Time Sports 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189560
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",On Time Sports 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189561
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",On Time Sports 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189562
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",On Time Sports 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50385
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",On Time Sports 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/85659
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",On Time Sports 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/189558
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- ✩✩✩ ALKASS SPORTS ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130933
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Al Kass Sport 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18747
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Al Kass Sport 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18746
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Al Kass Sport 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18745
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Al Kass Sport 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18744
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- ✩✩✩ KSA SPORTS ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130934
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KSA SPORTS 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50397
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KSA SPORTS 2 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50394
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KSA SPORTS 1 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50395
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KSA SPORTS 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50396
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KSA SPORTS  3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/97209
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KSA SPORTS  4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/97210
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Dubai Sport 1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50390
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Dubai Sport 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50388
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Dubai Sport 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/85472
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Al Shabab Sport HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/219657
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sharjah Sports SD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/219656
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Neelain Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50382
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Nile Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50386
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Al Ahly TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173916
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Zamalek Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173917
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Jordan Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50381
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Sudan Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50383
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Iraqiya Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50387
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Dmc Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50391
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BAHRAIN SPORT 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50392
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Yas Sport HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173919
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Bahrian Sport 1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173920
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Kuwait Sport
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/173921
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- ✩✩✩ AD SPORTS ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130932
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AD Sports PREMIEUM 1 SERIA A FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/231223
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AD Sports PREMIEUM 2 SERIA A FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/231224
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AD Sports premium 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/231225
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AD Sports premium 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/231226
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- AD SPORT 1 ASIA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/257235
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- AD SPORT 2 ASIA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/257236
+#EXTINF:0 tvg-id="ADSports2.net" group-title="Ungrouped",AD Sports 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18286
+#EXTINF:0 tvg-id="ADSports1.net" group-title="Ungrouped",AD Sports 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18287
+#EXTINF:0 tvg-id="ADSports3.net" group-title="Ungrouped",AD Sports 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18285
+#EXTINF:0 tvg-id="ADSports4.net" group-title="Ungrouped",AD Sports 4 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18284
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",✩✩✩ BEIN  ENTER ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/132571
+#EXTINF:0 tvg-id="MoviemaxPremier.tr" group-title="Ungrouped",BEIN  MOVIES PREMIERE HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8606
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  MOVIES PREMIERE HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53418
+#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="Ungrouped",BEIN  MOVIES ACTION HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8607
+#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="Ungrouped",BEIN  MOVIES ACTION HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53422
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  MOVIES DRAMA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8608
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  MOVIES DRAMA HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53420
+#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="Ungrouped",BEIN  MOVIES FAMILY HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8609
+#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="Ungrouped",BEIN  MOVIES FAMILY HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53423
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SERIES 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/16048
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  DRAMA 1 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53414
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  SERIES 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/16049
+#EXTINF:0 tvg-id="beINSeries2.qa" group-title="Ungrouped",BEIN  SERIES 2 HD+
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150997
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN BBC EARTH
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192822
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  NAT GEO WILD HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150990
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  NAT GEO PEOPLE HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150991
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  NATIONAL GEOGRAPHIC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150989
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN FX HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192825
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  FOX HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150973
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  FOX CRIME
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150972
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  FOX LIFE HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150971
+#EXTINF:0 tvg-id="FoxFamilyMovies.qa" group-title="Ungrouped",BEIN  FOX MOVIES HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150974
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  FOX FAMILY MOVIES HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150975
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN FOX REWAYAT
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192824
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN CARTOON NETWORK
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192823
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  DRAMA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/16047
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  GOURMET HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/16050
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  AMC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/16589
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  BARAEM HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53413
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  STAR WORLD HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150976
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  STAR MOVIES HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150977
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  FATAFEAT HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150979
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  FOOD NETWORK HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150980
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  OUTDOOR HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150982
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  DISCOVERY FAMILY HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150985
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  FINE LIVING HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150987
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  ANIMAL PLANET HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150988
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  DREAM WORK HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150992
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  CARTOON NETWORK HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150993
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  BOOMERANG HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150994
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN -   JUNIOR HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150995
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",BEIN  BABY HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150996
+#EXTINF:0 tvg-id="ComedyCentral.uk" group-title="Ungrouped",Comedy Central HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/172210
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Bloomberg
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359155
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Moonbug Kids
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359156
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MTV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359157
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Ginx eSports
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359158
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Comedy
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359159
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN POP UP
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359160
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MTV Live FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359161
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Sky News FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359162
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN TFC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359163
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN TLC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359164
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Movies hollywood
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359165
+#EXTINF:0 tvg-id="OSNMoviesPremiere.net" group-title="Ungrouped",OSN Movies Premiere
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359166
+#EXTINF:0 tvg-id="OSNMovies.net" group-title="Ungrouped",OSN Movies
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359167
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Action FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359168
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Osn-Movies Disney HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359169
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Movies Kids FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359170
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Star Movies FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359171
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Yahala Bil Arabi
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359172
+#EXTINF:0 tvg-id="rtgtv" group-title="Ungrouped",OSN Yahala FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359173
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Yahala AfLam FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359174
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Musalsalat FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359175
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Musalsalat +2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359176
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Alyoum FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359177
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Al Safwa FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359178
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Al Fann FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359179
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Cinema 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359180
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Cinema 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359181
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Art Hekayat 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359182
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Art Hekayat 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359183
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Art Aflam 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359184
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Art Aflam 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359185
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Art Cinema FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359186
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN showcase
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359187
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Series prime
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359188
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Comedy
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359189
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Star World FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359190
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN E! FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359191
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Living FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359192
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Disney Channel FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359193
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Disney Junior FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359194
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Nickelodeon FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359195
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Nick Jr FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359196
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Kids Zone FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359197
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NickToon FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359198
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Baby FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359199
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN News FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359200
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Discovery FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359201
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Discovery SC FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359202
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Discovery IDX FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359203
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Crime Investigation FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359204
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN History FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359205
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN History 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359206
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN National Geographic FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359207
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN National Geographic Wild FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359208
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN National Geographic People FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359209
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MEZZE
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359210
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN W
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359211
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Family
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359212
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- ✩✩✩ MBC ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/12767
+#EXTINF:0 tvg-id="MBC1.net" group-title="Ungrouped",MBC 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2428
+#EXTINF:0 tvg-id="MBC2.net" group-title="Ungrouped",MBC 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2429
+#EXTINF:0 tvg-id="MBC3.net" group-title="Ungrouped",MBC 3 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2430
+#EXTINF:0 tvg-id="MBC4.net" group-title="Ungrouped",MBC 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/112491
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC 5 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/112535
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC IRAQ HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/54971
+#EXTINF:0 tvg-id="MBCMax.net" group-title="Ungrouped",MBC MAX HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2432
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC MASR HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2433
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC MASR 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2434
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="Ungrouped",MBC DRAMA HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2437
+#EXTINF:0 tvg-id="MBCAction.net" group-title="Ungrouped",MBC ACTION HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2438
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Ungrouped",MBC BOLLYWOOD HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2439
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC 5 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2431
+#EXTINF:0 tvg-id="MBC1.net" group-title="Ungrouped",MBC 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8441
+#EXTINF:0 tvg-id="MBC2.net" group-title="Ungrouped",MBC 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8442
+#EXTINF:0 tvg-id="MBC3.net" group-title="Ungrouped",MBC 3 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8802
+#EXTINF:0 tvg-id="MBC4.net" group-title="Ungrouped",MBC 4 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8443
+#EXTINF:0 tvg-id="MBCMax.net" group-title="Ungrouped",MBC MAX FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8444
+#EXTINF:0 tvg-id="MBCAction.net" group-title="Ungrouped",MBC ACTION FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8445
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="Ungrouped",MBC DRAMA FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8446
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC VARIETY FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8466
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC DRAMA+ FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/10722
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Group -7H- MBC 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/250423
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Group -7H- MBC 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/250424
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Group -7H- MBC 4 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/250425
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Group -7H- MBC Action HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/250430
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Group -7H- MBC MAX HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/250429
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Group -7H- MBC Bollywood HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/250428
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Group -7H- MBC Iraq HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/250427
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Group -7H- MBC Maser HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/250426
+#EXTINF:0 tvg-id="B4UAflam.net" group-title="Ungrouped",B4U Aflam
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2440
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",B4U Aflam HD UK
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/83520
+#EXTINF:0 tvg-id="ZeeAlwan.net" group-title="Ungrouped",Zee  Alwan
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2900
+#EXTINF:0 tvg-id="ZeeAflam.net" group-title="Ungrouped",Zee Aflam
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2924
+#EXTINF:0 tvg-id="Fatafeat.qa" group-title="Ungrouped",FATAFEAT
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/16051
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- ✩✩✩ ART ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/12789
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ART AFLAM 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2442
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ART AFLAM 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2443
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ART HIKAYAT 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2445
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ART HEKAYAT 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2446
+#EXTINF:0 tvg-id="ARTCinema.net" group-title="Ungrouped",ART CINEMA
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8796
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MBC DRAMA PLUS HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/195500
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  DocuBox HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285157
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Documentary HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285152
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  FIGHT Network HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285154
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  FilmBox Arthouse HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285156
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  FILM BOX  HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285161
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Fix & Foxi
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285164
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Gulli Bil Arabic HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285163
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD- Gulli Bil Arabic HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285166
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Laab wa Jad HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285162
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD- Laab wa Jad HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285165
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD- Planet Earth HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285151
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Reel PX Cinema HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285153
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Reel PX Family HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285160
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Reel PX Unlimited HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285155
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Trace Sport HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285158
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  TRACE URBAN
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285159
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",AR- ✩✩✩ ARAB NEWS ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130935
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Jazeera News FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2417
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Jazeera News HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/66801
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Jazeera Doc
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2418
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Jazeera Mubasher
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/3280
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",EN: Al Jazeera English HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/281723
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Euronews Arabic
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/3090
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- France 24 (arabic)
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2929
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- France 24 (en Franis)
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192428
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- France 24 (in English)
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192429
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- SKY News Arabic
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2882
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- DW Arabia HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192430
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- RT Arabic
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/3252
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- i24 News Arabic
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/179728
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Arabia News
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2441
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- BBC Arabic
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/3095
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Mayadeen TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/179729
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- alyum news HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2409
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Sharquia News
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2411
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Hurra  Iraq
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2415
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Arabiya Al Hadath
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2881
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Echorouq  News
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2928
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- El Mehwar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/3295
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Sharqiya News HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8448
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- El Sharq HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/114626
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Sharq News TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/179730
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Nabaa
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8451
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Aalam
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8746
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Hadath
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8747
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Araby TV  HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8762
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- CNBC  Arabia
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8800
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- TRT Arabia
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8801
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Hiwar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/67593
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",NEWS- Al Mustakilla
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/67594
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- ✩✩✩ ARAB KIDS ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130949
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Toyour Al Jannah
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2423
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Toyour baby
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8649
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Hodhood
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8774
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Spacetooon
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2792
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Nickelodeon HD (AR)
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156274
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Disney Junior HD (AR)
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156271
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Disney XD HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156272
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Nick Jr HD (AR)
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156273
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Tom and Jerry 1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156275
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Majid Kids TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156276
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- BEIN  JUNIOR
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/16593
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- BARAEM
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2926
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Baraem 2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18851
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- JEEM
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8775
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Nat Geo Kids
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18855
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Karame h Kids
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2425
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- CN Arabia
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2927
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Koky Kids  TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/3293
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Mickey  Channel
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/3985
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Mody Kids
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8754
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Ajyal
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2925
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Atfal Mawaheb
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8752
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Taha
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18849
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Tom And Jery
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18852
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS-  Teletubbi
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18853
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Shaun The sheep
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/18854
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Marah TV FM
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/146368
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Sanafir
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156266
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Oggy 1 TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156267
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Oggy 2 TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156268
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Shaun the Sheep 1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156269
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Shun The Sheep 2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156270
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",KIDS- Atfal & mawaheb  HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/156277
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  ✩✩✩ MAROC ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130922
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Al Aoula HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/8437
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Al Aoula L HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2373
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  2M Maroc HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2375
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Al Maghribia HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2376
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  TV5 MAGHREB HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/150998
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Arrabia HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2378
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA- Arriadia HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/307415
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Arriadia HD (tnt)
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2377
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Tamazight HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2847
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  M24 MAROC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/97925
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Assadissa HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2391
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  MBC 5 MAROC HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/119234
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Medi 1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/131299
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Medi1 TV HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2848
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Téle  Maroc
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9883
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Chada  TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/19176
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  AFLAM 7 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/50491
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  ✩✩✩ MAROC FHD ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/131322
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Al Aoula FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/6161
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  2M Maroc FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53012
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Medi1 TV FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/9644
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Arrabia FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/89858
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Al Maghribia FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/89857
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  MBC 5 FHD Maroc
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/131287
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Arriadia FHD (tnt)
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/89859
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Assadissa FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/89860
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Medi1tv Afrique
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/127196
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Al Ons TV Maroc
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53369
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Tamazight FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/99009
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MA-  Canal  Atlas
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/19212
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- ✩✩✩ ALGERIE ✩✩✩
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/130923
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- Canal Algerie 1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53026
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- Canal Algerie 2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2381
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- Canal Algerie 3
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2910
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- Canal Algerie 4
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53024
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- Canal Algerie 5
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/53025
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- Canal Algerie 6
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/194083
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- AL MAGHARIBIA
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/203249
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- Programme National HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/172204
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- Canal Algerie HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192612
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- JANNAH TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192615
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- AGGAR TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192619
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- Dzair Jannah
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192622
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- AL HAYAT TV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/192624
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ALG- Canal Algerie N1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/2379
 
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Action1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3940
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Action2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/13818
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Action3
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20622
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Drama1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3173
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Drama2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1718
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Comedy1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3216
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Comedy2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1717
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Adventure1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/7262
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Adventure2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20623
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Bollywood1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3260
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Bollywood2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/421
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Thriller1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3325
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Thriller2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20564
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Crime1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20565
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Crime2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20566
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Horror 1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20570
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Horror 2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20571
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Horror3
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20621
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Sci-Fi 1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20568
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Sci-Fi 2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20569
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Scifi3
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20620
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Family1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3212
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Family2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3211
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Kids1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/4864
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Kids 2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20573
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Kids3
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20619
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Kids4
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20618
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Cartoon
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20572
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Documentary 1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20567
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Documentary 2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20576
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Cinema
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1693
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Cinema Ar
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20617
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Aflam
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20616
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Zaman
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20563
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shahid Movies1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/7263
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Bloomberg
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359155
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Moonbug Kids
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359156
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MTV
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359157
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Ginx eSports
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359158
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Comedy
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359159
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN POP UP
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359160
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MTV Live FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359161
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Sky News FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359162
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN TFC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359163
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN TLC
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359164
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Movies hollywood
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359165
+#EXTINF:0 tvg-id="OSNMoviesPremiere.net" group-title="Ungrouped",OSN Movies Premiere
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359166
+#EXTINF:0 tvg-id="OSNMovies.net" group-title="Ungrouped",OSN Movies
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359167
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Action FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359168
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Osn-Movies Disney HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359169
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Movies Kids FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359170
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Star Movies FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359171
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Yahala Bil Arabi
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359172
+#EXTINF:0 tvg-id="rtgtv" group-title="Ungrouped",OSN Yahala FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359173
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Yahala AfLam FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359174
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Musalsalat FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359175
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Musalsalat +2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359176
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Alyoum FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359177
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Al Safwa FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359178
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Al Fann FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359179
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Cinema 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359180
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Alfa Cinema 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359181
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Art Hekayat 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359182
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Art Hekayat 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359183
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Art Aflam 1 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359184
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Art Aflam 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359185
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Art Cinema FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359186
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN showcase
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359187
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Series prime
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359188
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Comedy
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359189
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Star World FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359190
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN E! FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359191
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Living FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359192
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Disney Channel FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359193
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Disney Junior FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359194
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Nickelodeon FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359195
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Nick Jr FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359196
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Kids Zone FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359197
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN NickToon FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359198
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Baby FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359199
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN News FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359200
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Discovery FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359201
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Discovery SC FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359202
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Discovery IDX FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359203
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN Crime Investigation FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359204
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN History FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359205
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN History 2 FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359206
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN National Geographic FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359207
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN National Geographic Wild FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359208
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN National Geographic People FHD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359209
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN MEZZE
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359210
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",OSN W
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/359211
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Action
-http://iptv.ndasat.com:88/224155831259609/224155831259609/6362
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Action2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1987
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Thriller
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3334
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Thriller2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3951
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix  Horror
-http://iptv.ndasat.com:88/224155831259609/224155831259609/787
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Horror2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1723
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Scifi
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1883
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Scifi2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/7034
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Bollywood
-http://iptv.ndasat.com:88/224155831259609/224155831259609/2114
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Bollywood2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20615
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Turkish
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3206
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Turkish2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/16322
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Comedy
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3338
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Comedy2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3208
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Drama
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3335
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Drama2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20614
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix Classic
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3205
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Netflix WWE
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20562
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Anim
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3259
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Boxoffice1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3018
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Boxoffice2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20575
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Boxoffice3
-http://iptv.ndasat.com:88/224155831259609/224155831259609/1490
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Boxoffice4
-http://iptv.ndasat.com:88/224155831259609/224155831259609/20574
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",Skyflix Boxoffice5
-http://iptv.ndasat.com:88/224155831259609/224155831259609/16331
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Skyflix Aflam
-http://iptv.ndasat.com:88/224155831259609/224155831259609/2103
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shoofmax1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/4791
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shoofmax2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3174
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shoofmax3
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3387
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Shoofmax4
-http://iptv.ndasat.com:88/224155831259609/224155831259609/590
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Akoam Comedy1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3957
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Akoam Action 1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3948
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Akoam Cinema1
-http://iptv.ndasat.com:88/224155831259609/224155831259609/7264
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Akoam Comedy2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3004
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",AV:Akoam Cinema2
-http://iptv.ndasat.com:88/224155831259609/224155831259609/3010
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  DocuBox HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285157
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Documentary HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285152
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  FIGHT Network HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285154
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  FilmBox Arthouse HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285156
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  FILM BOX  HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285161
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Fix & Foxi
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285164
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Gulli Bil Arabic HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285163
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD- Gulli Bil Arabic HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285166
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Laab wa Jad HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285162
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD- Laab wa Jad HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285165
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD- Planet Earth HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285151
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Reel PX Cinema HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285153
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Reel PX Family HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285160
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",MYHD-  Reel PX Unlimited HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/285155
+
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Action HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227231
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Action 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227232
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Anime HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227233
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Anime HD2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227234
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Horror HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227235
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Drama HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227236
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Family HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227237
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Arabic 1 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227238
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Arabic 2 HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227239
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Arabic HD3
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227240
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Arabic HD4
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227241
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Fast And Furious HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227242
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Fast And Furious 2HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227243
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix James Bond 007
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227244
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Lord Of The Rings HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227245
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix Mission Impossible HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227246
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix The Hobbit HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227247
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD1 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227248
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD2 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227249
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD3 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227250
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD4 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227251
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD5 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227252
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD6 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227253
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD7 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227254
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD8 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227255
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD9 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227256
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD10 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227257
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD11 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227258
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD12 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227259
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD13 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227260
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD14 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227261
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Netflix HD15 Ar
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227262
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227337
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227338
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD3
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227339
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD4
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227340
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD5
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227341
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD6
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227342
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD7
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227343
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD8
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227344
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD9
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227345
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD10
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227346
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD11
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227347
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD12
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227348
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD13
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227349
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD24
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227350
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD23
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227351
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD22
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227352
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD21
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227353
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD20
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227354
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD19
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227355
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD18
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227356
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD17
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227357
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD16
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227358
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD15
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227359
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofDrama- HD14
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227360
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Ramadan HD1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227361
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Ramadan HD2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227362
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Ramadan HD3
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227363
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Ramadan HD4
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227364
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Ramadan HD5
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227365
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Ramadan HD6
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227366
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Action HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227367
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Classic HD1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227368
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Classic HD2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227369
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Comedy HD1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227370
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Comedy HD2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227371
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Drama HD1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227372
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Drama HD2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227373
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Mohamed Henedy HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227374
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- Adel Imam HD
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227375
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD1
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227376
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD2
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227377
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD3
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227378
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD4
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227379
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD5
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227380
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD6
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227381
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD7
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227382
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD9
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227383
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD8
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227384
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD10
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227385
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD11
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227386
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD12
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227387
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD13
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227388
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD14
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227389
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD15
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227390
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD16
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227391
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD17
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227392
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD18
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227393
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD19
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227394
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD20
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227395
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD21
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227396
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD22
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227397
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD23
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227398
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD24
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227399
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD25
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227400
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD26
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227401
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD27
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227402
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD28
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227403
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD29
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227404
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD30
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227405
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD31
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227406
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD31
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227407
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD32
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227408
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD33
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227409
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",ShoofMax- HD34
+http://nettv-premium.com:8000/auu65bvjog/hvsq6kw0go/227410
