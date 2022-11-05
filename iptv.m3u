@@ -5,1086 +5,695 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8?checkedby:iptvcat.com
 
 ################
 
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- ######PLAY CINEMA######
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420712
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Harry Potter
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420714
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- James Bond
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420715
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Taxi
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420716
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Fast & Furious
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420717
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Batman
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420718
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Retour vers le futur
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420719
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Star Wars
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420720
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Spider-Man
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420721
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Les Visiteurs
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420772
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Les Inconnus
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420773
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- La vérité si je mens
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420774
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Les Tuche
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420775
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Rocky
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420776
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Le Transporteur
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420777
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- FR- FILMS MAFIA
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420778
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- 90' Enquêtes
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420779
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- ####PLAY ENQUÊTES####
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420780
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Faites entrer l'accusé
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420781
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Instincts Criminels
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420782
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Enquête exclusive
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420783
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- ####PLAY SERIE CULTE####
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420826
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- La Vie de Famille
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420827
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Code Quantum
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420828
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Arnold et Willy
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420829
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Mr Bean
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420859
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- H
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420860
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Malcolm
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420861
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- ####PLAY SÉRIE####
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420862
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- VALIDER
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420863
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- La casa de papel
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420864
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Les Anneaux de Pouvoir
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420865
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Snowfall
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420866
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Les Lascars
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420867
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- NCIS New Orleans
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/420868
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- New York police judiciaire
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/421203
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",CINE PLAY- Le Convoi de l'extrême
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/421204
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",####PLAY MUSIQUE####
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422810
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",MUSIC PLAY- Variété française
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422811
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",MUSIC PLAY- Soolking
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422812
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",MUSIC PLAY- Rohff
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422813
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",MUSIC PLAY- Rim'K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422814
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",MUSIC PLAY- Lacrim
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422815
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",MUSIC PLAY- Jul
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422816
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",MUSIC PLAY- Fianso
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422817
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",MUSIC PLAY- Booba
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422818
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",MUSIC PLAY- 3robi
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422819
-#EXTINF:0 tvg-id="ext" group-title="FR- FRANCE PLAY",MUSIC PLAY- Heuss l'Enfoirés
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/422820
 
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- ✩✩✩ AMAZON PRIME ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217454
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217232
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/218274
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON PRIME LIGUE 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/256947
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE  1 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/235073
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime MULTIPLEX HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217455
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime MULTIPLEX  FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/218276
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime MULTIPLEX HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/235080
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217456
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 3 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/218278
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE  3 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/235074
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 4 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217457
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 4 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/218280
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE  4 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/235075
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 5 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217458
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 5 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/218282
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE  5 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/235076
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 6 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217459
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 6 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/218284
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE  6 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/235077
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 7 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217460
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 7 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/218286
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE  7 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/235078
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 8 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217461
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE 8 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/218288
-#EXTINF:0 tvg-id="ext" group-title="EU- FR- Amazon Prime",FR- AMAZON Prime LIGUE  8 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/235079
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",##### WORLD CUP 2022 QA #####
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036598
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 1 4K
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049176
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 1 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049175
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 1 HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049174
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 1 SD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049173
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 2 4K
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049172
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 2 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049171
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 2 HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049170
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 2 SD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049169
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 3 4K
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049168
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 3 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049167
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 3 HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049166
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 3 SD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049165
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 4 4K
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049161
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 4 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049163
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 4 HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049164
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS MAX 4 SD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1049162
+#EXTINF:0 tvg-id="BBCOneHD.uk" group-title="WORLD CUP 2022 QA",UK| BBC 1 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036597
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",UK| ITV 1 HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036596
+#EXTINF:0 tvg-id="WNYWNewYorkFOXHDEast.us" group-title="WORLD CUP 2022 QA",US| FOX HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036594
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",CA| CTV HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036592
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",FR| TF1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036590
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="WORLD CUP 2022 QA",FR| BEIN SPORTS 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036589
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",NL| NPO1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036587
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",BE| LA UNE HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036585
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",BE| EEN HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036584
+#EXTINF:0 tvg-id="ZDF.de" group-title="WORLD CUP 2022 QA",DE| ZDF FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036582
+#EXTINF:0 tvg-id="ARD-alpha.de" group-title="WORLD CUP 2022 QA",DE| ARD HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036581
+#EXTINF:0 tvg-id="TVP1.pl" group-title="WORLD CUP 2022 QA",PL| TVP 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036579
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AUS| ORF 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036577
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AUS| SERVUS TV HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036576
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",SW| SRF 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036574
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",ES| LA 1 HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036572
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",PT| RTP 1 HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036570
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",IT| RAI 1 HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036568
+#EXTINF:0 tvg-id="TRT1.tr" group-title="WORLD CUP 2022 QA",TR| TRT 1 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036566
+#EXTINF:0 tvg-id="ext" group-title="WORLD CUP 2022 QA",AR| BEIN SPORTS 1 PREMIUM HEVC
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1036564
 
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- ✩✩✩ CANAL+ SPORT ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/225034
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- CANAL+ Sport 360 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/416075
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- CANAL+ Sport 360 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/416074
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- CANAL+ FOOT FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/416073
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- CANAL+ FOOT HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/416072
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- CANAL+ FOOT SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/416071
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- Canal+  Sport HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65606
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR-   Canal+ Sport 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/225024
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR-   Canal+ Sport 2
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/225025
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR-   Canal+ Sport 3
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/225026
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR-   Canal+ Sport 4
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/225027
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR-   Canal+ Sport 5
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/225028
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR-   Canal+ Formule 1
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/225029
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR-   Canal+ Ligue 1
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/225030
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR-   Canal+ Moto GP
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/225031
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR-   Canal+ Top 14
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/225033
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- FOOT  24/24 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65573
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- GOLF+ HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65564
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EQUIDIA LIVE HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65578
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- L'EQUIPE HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65556
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- MOTORSPORT TV HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65548
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- INFOSPORT HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65558
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- ✩✩✩ RMC SPORT HD ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130781
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS 1 HD (fr)
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65653
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS 2 HD (fr)
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65652
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS 3 HD (fr)
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65651
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS MAX 4 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65650
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS MAX 5 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65649
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS MAX 6 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65648
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS MAX 7 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65647
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS MAX 8 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65646
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN SPORTS MAX 9 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/402311
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS MAX 10 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/402312
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65639
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65638
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65637
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC Sport  4 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65636
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC Sport  Live 5 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65635
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC Sport Live 6 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65634
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC Sport Live 7 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65633
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC Sport Live 8 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65632
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC Sport Live 9 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65631
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC Sport Live 10 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65630
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 11
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/134653
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 12
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/134654
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 13
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/134655
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT ACCESS 1
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/90184
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT ACCESS 2
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/90185
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT ACCESS 3
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/90186
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EUROSPORT  1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65575
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EUROSPORT  2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/65574
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- ✩✩✩ FR SPORT FHD ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130783
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52862
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52861
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS 3 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52860
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC Decouverte HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52870
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52863
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52864
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 3 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52865
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 4 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52866
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- CANAL+ SPORT FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52829
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EUROSPORT 1 FHD (fr)
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52871
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EUROSPORT 2 FHD (fr)
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52872
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- INFOSPORT FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52873
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- GOLF CHANNEL FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52876
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- L'EQUIPE FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52874
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EQUIDIA LIVE FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52878
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- GOLF+ FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52875
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- Auto Moto La Chaine FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/52879
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- AUTOMOTOR FullHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/132239
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- ✩✩✩ FR SPORT SD ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130778
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- CANAL+ SPORT SD (fr)
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121392
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN SPORT 1 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121403
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN SPORT 2 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121404
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN SPORT 3 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121405
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 1 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121406
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 2 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121407
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 3 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121408
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT 4 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121409
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT NEWS SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121410
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- TELECLUB ZOOM SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121411
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EUROSPORT 1 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121412
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EUROSPORT 2 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121413
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- INFOSPORT SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121414
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- L'EQUIPE 21 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121415
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- GOLF  PLUS SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121416
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- GOLF CHANNEL SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121417
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EQUIDIA LIVE SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121418
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- AUTOMOTOR SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121419
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EXTREME SPORTS SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121420
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BET SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121454
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- ✩✩✩ FR SPORT HEVC ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130784
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS 1 HEVC FR
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130543
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS 2 HEVC FR
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130544
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- BEIN  SPORTS 3 HEVC FR
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130545
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SP 1 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130539
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT  3 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130541
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- RMC SPORT  4 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130542
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- CANAL+ SPORT HEVC (fr)
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130502
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EQUIDIA HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130537
-#EXTINF:0 tvg-id="ext" group-title="EU- FR SPORTS",FR- EUROSPORT HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130538
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN 4k UHD
+http://venomtt.com:8000/kdcxxD1U/543545/191761
+#EXTINF:0 tvg-id="ext" group-title="USA",BEIN SPORTS 1 4K | UHD (EVENT ONLY)
+http://venomtt.com:8000/kdcxxD1U/543545/189095
+#EXTINF:0 tvg-id="ext" group-title="USA",BEIN SPORT MAX 10
+http://venomtt.com:8000/kdcxxD1U/543545/89365
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="USA",beIN SPORTS 01 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156463
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="USA",beIN SPORTS 01 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156462
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS 01 PREMIUM FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156469
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS 01 PREMIUM HD
+http://venomtt.com:8000/kdcxxD1U/543545/156468
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="USA",beIN SPORTS 02 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156461
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="USA",beIN SPORTS 02 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156460
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS 02 PREMIUM FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156467
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS 02 PREMIUM HD
+http://venomtt.com:8000/kdcxxD1U/543545/156466
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="USA",beIN SPORTS 03 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156459
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="USA",beIN SPORTS 03 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156458
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS 03 PREMIUM FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156465
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS 03 PREMIUM HD
+http://venomtt.com:8000/kdcxxD1U/543545/156464
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="USA",beIN SPORTS 04 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156457
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="USA",beIN SPORTS 04 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156456
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="USA",beIN SPORTS 05 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156455
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="USA",beIN SPORTS 05 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156454
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="USA",beIN SPORTS 06 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156453
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="USA",beIN SPORTS 06 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156452
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="USA",beIN SPORTS 07 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/156451
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="USA",beIN SPORTS 07 HD
+http://venomtt.com:8000/kdcxxD1U/543545/156450
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS 1 PREMIUM SD
+http://venomtt.com:8000/kdcxxD1U/543545/156428
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="USA",beIN SPORTS 1 SD
+http://venomtt.com:8000/kdcxxD1U/543545/156425
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS 2 PREMIUM SD
+http://venomtt.com:8000/kdcxxD1U/543545/189746
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="USA",beIN SPORTS 2 SD
+http://venomtt.com:8000/kdcxxD1U/543545/156424
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS 3 PREMIUM SD
+http://venomtt.com:8000/kdcxxD1U/543545/156426
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="USA",beIN SPORTS 3 SD
+http://venomtt.com:8000/kdcxxD1U/543545/156423
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="USA",beIN SPORTS 4 SD
+http://venomtt.com:8000/kdcxxD1U/543545/156422
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="USA",beIN SPORTS 5 SD
+http://venomtt.com:8000/kdcxxD1U/543545/156421
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="USA",beIN SPORTS 6 SD
+http://venomtt.com:8000/kdcxxD1U/543545/156420
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="USA",beIN SPORTS 7 SD
+http://venomtt.com:8000/kdcxxD1U/543545/156419
+#EXTINF:0 tvg-id="ext" group-title="USA",BEIN NEWS HEVC
+http://venomtt.com:8000/kdcxxD1U/543545/75814
+#EXTINF:0 tvg-id="ext" group-title="USA",BEIN SPORTS HEVC
+http://venomtt.com:8000/kdcxxD1U/543545/75813
+#EXTINF:0 tvg-id="ext" group-title="USA",beINSPORTS PREMIUM 1
+http://venomtt.com:8000/kdcxxD1U/543545/156445
+#EXTINF:0 tvg-id="ext" group-title="USA",beINSPORTS PREMIUM  2
+http://venomtt.com:8000/kdcxxD1U/543545/156444
+#EXTINF:0 tvg-id="ext" group-title="USA",beINSPORTS PREMIUM  3
+http://venomtt.com:8000/kdcxxD1U/543545/156443
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS XTRA 1 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/161968
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS XTRA 1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/161970
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS XTRA 2 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/161967
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS XTRA 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/161969
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 1 4k
+http://venomtt.com:8000/kdcxxD1U/543545/176187
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="USA",beIN SPORTS MAX 1 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/176193
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="USA",beIN SPORTS MAX  1 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176199
+#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="USA",beIN SPORTS MAX 1 SD
+http://venomtt.com:8000/kdcxxD1U/543545/176203
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 2 4K
+http://venomtt.com:8000/kdcxxD1U/543545/176186
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 2 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176198
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="USA",beIN SPORTS MAX 2 SD
+http://venomtt.com:8000/kdcxxD1U/543545/176202
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 3 4K
+http://venomtt.com:8000/kdcxxD1U/543545/176185
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 3 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/176191
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 3 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176197
+#EXTINF:0 tvg-id="BeINSportsMAX3.es" group-title="USA",beIN SPORTS MAX 3 SD
+http://venomtt.com:8000/kdcxxD1U/543545/176201
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 4 4K
+http://venomtt.com:8000/kdcxxD1U/543545/176184
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="USA",beIN SPORTS MAX 4 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/176190
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="USA",beIN SPORTS MAX 4 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176196
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 4 LDC HD
+http://venomtt.com:8000/kdcxxD1U/543545/190949
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="USA",beIN SPORTS MAX 4 SD
+http://venomtt.com:8000/kdcxxD1U/543545/176200
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 5 4k
+http://venomtt.com:8000/kdcxxD1U/543545/176183
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="USA",beIN SPORTS MAX 5 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/176189
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="USA",beIN SPORTS MAX 5 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176195
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 5 LDC HD
+http://venomtt.com:8000/kdcxxD1U/543545/190948
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 6 4k
+http://venomtt.com:8000/kdcxxD1U/543545/176182
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="USA",beIN SPORTS MAX 6 FHD
+http://venomtt.com:8000/kdcxxD1U/543545/176188
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="USA",beIN SPORTS MAX 6 HD
+http://venomtt.com:8000/kdcxxD1U/543545/176194
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 6 LDC HD
+http://venomtt.com:8000/kdcxxD1U/543545/190947
+#EXTINF:0 tvg-id="ext" group-title="USA",beIN SPORTS MAX 7 LDC HD
+http://venomtt.com:8000/kdcxxD1U/543545/190946
 
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- ✩✩✩ BEIN CINEMA ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/160394
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   BOX OFFICE 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/14590
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   BOX OFFICE 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/14589
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   BOX OFFICE 3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/14588
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   BOX OFFICE Turk HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/14587
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   MOVIES FAMILY HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/14591
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   SERIES VICE HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18882
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   SERIES SCI FI HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18883
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   SERIES DRAMA HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18884
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   MOVIES FAMLY 4 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18888
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   MOVIES ACTION 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18890
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR- BEIN   MOVIE PREMIERE HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18892
-#EXTINF:0 tvg-id="ext" group-title="TR-  BEIN",TR BeIN Movi  Turk HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18893
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",###### OSN VIP ######
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/705148
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| JAWWY TV FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/865082
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| YAHALA FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925304
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| YAHALA AFLAM FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925303
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| YAHALA BIL ARABI FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925302
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| MUSALSALAT 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925301
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| MUSALSALAT 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925300
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| ALYAWM FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925299
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| SAFWAH FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925298
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| FAN FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925297
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| CINEMA 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925296
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| CINEMA 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925295
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| ART HEKAYAT 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925294
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| ART HEKAYAT 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925293
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| ART AFLAM 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925292
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| ART AFLAM 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925291
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| ART CINEMA FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925290
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| BLOOMBERG FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925288
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| COMDEY FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925287
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| DISCOVERY ID FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925286
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| DISCOVERY SCIENCE FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925285
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| DISCOVERY FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925284
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| DISNEY CHANNEL FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925283
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| DISNEY JUNIOR FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925282
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| E! FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925281
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| FAMILY FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925280
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| GINX ESPORTS FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925278
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| HISTORY 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925277
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| HISTORY FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925276
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| KID ZONE TV FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925275
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| KIDS FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925274
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| LIVING FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925273
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| MEZZE FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925272
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| MOONBUG KIDS FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925271
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| MOVIES ACTION FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925270
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| MOVIES HOLLYWOOD FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925269
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| MOVIES PREMIERE FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925268
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| NAT.GEO.WILD FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925267
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| NAT.GEOGRAPHIC FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925266
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| NEWS FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925265
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| NICK JR. FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925264
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| NICKELODEON FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925263
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| NICKTOONS FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925262
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| SERIES PRIME FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925261
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| SHOWCASE FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925260
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| STAR MOVIES FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925259
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| STAR WORLD FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925258
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| TFC FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925257
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| TLC FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925256
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| VH FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925255
+#EXTINF:0 tvg-id="ext" group-title="OSN VIP",OSN| W FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/925254
 
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",AR- ✩✩✩ BEIN  HD ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130929
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS NEWS HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33274
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="AR- BEIN SPORTS",BEIN SPORTS NEWS HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193633
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS GLOBAL HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33275
-#EXTINF:0 tvg-id="beinsports.jsc" group-title="AR- BEIN SPORTS",BEIN SPORTS GLOBAL HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193634
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS XTRA 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/216540
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS XTRA 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/216542
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS PREMIUM  1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/9494
-#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="AR- BEIN SPORTS",BEIN SPORTS PREMIUM 1 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33268
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS PREMIUM  2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/9496
-#EXTINF:0 tvg-id="beINSportsPremium2.qa" group-title="AR- BEIN SPORTS",BEIN SPORTS PREMIUM 2 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33269
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS PREMIUM  3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/9497
-#EXTINF:0 tvg-id="beINSportsPremium3.qa" group-title="AR- BEIN SPORTS",BEIN SPORTS PREMIUM 3 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33270
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/9480
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33261
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/13371
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33262
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/9484
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 3 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33263
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 4 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/9486
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 4 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33264
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 5 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/9488
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 5 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33265
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 6 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/9490
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 6 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33266
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 7 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/9492
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 7 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33267
-#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="AR- BEIN SPORTS",BEIN  SPORTS XTRA 1 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33271
-#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="AR- BEIN SPORTS",BEIN  SPORTS XTRA 2 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/33272
-#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 HD EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/132019
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 HD+ EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150538
-#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 HD EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/132020
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 HD+  EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150539
-#EXTINF:0 tvg-id="beINSportsEnglish3.qa" group-title="AR- BEIN SPORTS",BEIN SPORTS  3 HD EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/132021
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 3 HD+ EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150540
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 HD FR
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/132022
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 HD+ FR
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150541
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 HD FR
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193629
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 HD+ FR
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193631
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="AR- BEIN SPORTS",BEIN  SPORTS 3 HD FR
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193630
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="AR- BEIN SPORTS",BEIN  SPORTS 3 HD+ FR
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193632
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",AR- ✩✩✩ BEIN  SD ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130928
-#EXTINF:0 tvg-id="beINSportsPremium1.qa" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREMIUM 1 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127191
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREMIUM 1 SD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161721
-#EXTINF:0 tvg-id="beINSportsPremium2.qa" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREMIUM 2 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127192
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREMIUM 2 SD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161722
-#EXTINF:0 tvg-id="beINSportsPremium3.qa" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREMIUM 3 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127193
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREMIUM 3 SD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161723
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1  SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127184
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 SD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161714
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2  SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127185
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 SD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161715
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 3  SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127186
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 3 SD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161716
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 4 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127187
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 4 SD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161717
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 5 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127188
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 5 SD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161718
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 6 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127189
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 6 SD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161719
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 7 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127190
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 7 SD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161720
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 SD EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127194
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 SD+ EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161724
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 SD EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/127195
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 SD+ EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/161725
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",AR- ✩✩✩ BEIN FHD ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130930
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS XTRA 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/216544
-#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="AR- BEIN SPORTS",BEIN SPORTS XTRA 1 FHD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/216545
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS XTRA 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/216546
-#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="AR- BEIN SPORTS",BEIN SPORTS XTRA 2 FHD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/216547
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREIMUM 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/97378
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREIMUM 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83621
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREIMUM 3 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83620
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83628
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83627
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 3 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83626
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 4 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83625
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 5 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83624
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 6 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83623
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="AR- BEIN SPORTS",BEIN  SPORTS 7 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83622
-#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 FHD EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83619
-#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 FHD EN
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83618
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",FR- ✩✩✩  BEIN 4K  ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193635
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREIMUM 1 4K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193642
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREIMUM 2 4K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193643
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREIMUM 3 4K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193644
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 4K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/192818
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 4K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193636
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 3 4K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193637
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS 4 4K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193638
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS 5 4K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193639
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS 6 4K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193640
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS 7 4K
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/193641
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",AR- ✩✩✩ BEIN  HEVC ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130931
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREIMUM 1 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/121347
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREIMUM 2 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83608
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS PREIMUM 3 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83607
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 1 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83616
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 2 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83615
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 3 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83614
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 4 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83613
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 5 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83612
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 6 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83611
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN  SPORTS 7 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/83610
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 1 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291774
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 2 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291773
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291787
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291784
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291782
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291786
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 3 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291772
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291777
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 3 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291778
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 1 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291781
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 2 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291779
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC 3 HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291776
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291775
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291783
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291785
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BEIN SPORTS AFC HEVC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/291780
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",✩ ✩ ✩ ✩  SSC ✩ ✩ ✩ ✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217859
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217848
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217849
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217850
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC 3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217851
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC 4 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217852
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC 5 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217853
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC 5 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217854
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC 6 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217855
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC 6 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217856
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC7 SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217857
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",SSC7 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/217858
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Abu Dhabi Sports Asia 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/219654
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Abu Dhabi Sports  Asia 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/219655
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",✩✩✩ ON TIME SPORTS ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/189559
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",On Time Sports 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/189560
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",On Time Sports 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/189561
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",On Time Sports 3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/189562
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",On Time Sports 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50385
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",On Time Sports 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/85659
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",On Time Sports 3 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/189558
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",AR- ✩✩✩ ALKASS SPORTS ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130933
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Al Kass Sport 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18747
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Al Kass Sport 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18746
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Al Kass Sport 3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18745
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Al Kass Sport 4 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18744
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",AR- ✩✩✩ KSA SPORTS ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130934
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",KSA SPORTS 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50397
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",KSA SPORTS 2 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50394
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",KSA SPORTS 1 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50395
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",KSA SPORTS 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50396
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",KSA SPORTS  3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/97209
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",KSA SPORTS  4 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/97210
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Dubai Sport 1
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50390
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Dubai Sport 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50388
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Dubai Sport 3 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/85472
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Al Shabab Sport HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/219657
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Sharjah Sports SD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/219656
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Neelain Sport
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50382
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Nile Sport
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50386
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Al Ahly TV
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/173916
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Zamalek Sport
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/173917
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Jordan Sport
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50381
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Sudan Sport
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50383
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Iraqiya Sport
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50387
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Dmc Sport
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50391
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",BAHRAIN SPORT 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/50392
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Yas Sport HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/173919
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Bahrian Sport 1
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/173920
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN SPORTS",Kuwait Sport
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/173921
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",###### GOBX GROUP ######
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695038
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695037
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC 1 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695036
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695035
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC 2 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695034
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC 3 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695033
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC 3 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695032
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC 4 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695031
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC 4 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695030
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC 5 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695029
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC 5 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695028
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC DRAMA FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695027
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC DRAMA HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695026
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC ACTION FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695025
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC ACTION HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695024
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC MASR 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695023
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC MASR 1 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695022
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC MASR 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695021
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC MASR 2 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695020
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC IRAQ FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695019
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC IRAQ HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695018
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC DRAMA+ FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695017
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC DRAMA+ HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695016
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC VARIETY FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695015
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC VARIETY HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695014
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| MBC MAX HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695013
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| TIJI HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695012
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| PLANET EARTH HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695011
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| REEL PX ACTION HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695010
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| REEL PX CINEMA HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695009
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| REEL PX FAMILY HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695008
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| REEL PX UNLIMITED HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695007
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| REEL PX COMEDY HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695006
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| REEL PX CRIM FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/788027
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| DOCUMENTARY BIL ARABIE HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695005
+#EXTINF:0 tvg-id="ext" group-title="GOBX GROUP",GOBX| FIX FOXI HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/695004
 
-#EXTINF:0 tvg-id="ext" group-title="AR- AD SPORTS",AR- ✩✩✩ AD SPORTS ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/130932
-#EXTINF:0 tvg-id="ext" group-title="AR- AD SPORTS",AD Sports PREMIEUM 1 SERIA A FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/231223
-#EXTINF:0 tvg-id="ext" group-title="AR- AD SPORTS",AD Sports PREMIEUM 2 SERIA A FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/231224
-#EXTINF:0 tvg-id="ext" group-title="AR- AD SPORTS",AD Sports premium 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/231225
-#EXTINF:0 tvg-id="ext" group-title="AR- AD SPORTS",AD Sports premium 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/231226
-#EXTINF:0 tvg-id="ext" group-title="AR- AD SPORTS",AR- AD SPORT 1 ASIA HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/257235
-#EXTINF:0 tvg-id="ext" group-title="AR- AD SPORTS",AR- AD SPORT 2 ASIA HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/257236
-#EXTINF:0 tvg-id="ADSports2.net" group-title="AR- AD SPORTS",AD Sports 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18286
-#EXTINF:0 tvg-id="ADSports1.net" group-title="AR- AD SPORTS",AD Sports 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18287
-#EXTINF:0 tvg-id="ADSports3.net" group-title="AR- AD SPORTS",AD Sports 3 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18285
-#EXTINF:0 tvg-id="ADSports4.net" group-title="AR- AD SPORTS",AD Sports 4 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/18284
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX 4K",##### NETFLIX 4K #####
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642120
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX 4K",AR| NETFLIX MOVIES 1 4K
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642119
 
-#EXTINF:0 tvg-id="ext" group-title="World Cup Qatar 2022",Qatar2022- Bein Sport 1 Max
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/425234
-#EXTINF:0 tvg-id="ext" group-title="World Cup Qatar 2022",Qatar2022- Bein Sport 2 Max
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/425235
-#EXTINF:0 tvg-id="ext" group-title="World Cup Qatar 2022",Qatar2022- Bein Sport 3 Max
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/425236
-#EXTINF:0 tvg-id="ext" group-title="World Cup Qatar 2022",Qatar2022- Bein Sport 4 Max
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/425237
-#EXTINF:0 tvg-id="ext" group-title="World Cup Qatar 2022",Qatar2022- Bein Sport 5 Max
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/425238
-#EXTINF:0 tvg-id="ext" group-title="World Cup Qatar 2022",Qatar2022- Bein Sport 6 Max
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/425239
-#EXTINF:0 tvg-id="ext" group-title="World Cup Qatar 2022",Qatar2022- Bein Sport 4k
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/425240
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",###### NETFLIX FHD ######
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642118
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",AR| NETFLIX MOVIES 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642117
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",AR| NETFLIX MOVIES 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642116
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",AR| NETFLIX MOVIES 3 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642115
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",AR| NETFLIX MOVIES 4 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642114
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",AR| NETFLIX MOVIES 5 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642113
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",AR| NETFLIX MOVIES 6 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642112
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",AR| NETFLIX MOVIES 7 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642111
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",AR| NETFLIX MOVIES 8 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642110
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",AR| NETFLIX MOVIES 9 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642109
+#EXTINF:0 tvg-id="ext" group-title="NETFLIX FHD",AR| NETFLIX MOVIES 10 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/642108
 
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",✩✩✩ BEIN  ENTER ✩✩✩
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/132571
-#EXTINF:0 tvg-id="MoviemaxPremier.tr" group-title="AR- BEIN ENTERTAINMENT",BEIN  MOVIES PREMIERE HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/8606
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  MOVIES PREMIERE HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/53418
-#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="AR- BEIN ENTERTAINMENT",BEIN  MOVIES ACTION HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/8607
-#EXTINF:0 tvg-id="MoviemaxAction.tr" group-title="AR- BEIN ENTERTAINMENT",BEIN  MOVIES ACTION HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/53422
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  MOVIES DRAMA HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/8608
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  MOVIES DRAMA HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/53420
-#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="AR- BEIN ENTERTAINMENT",BEIN  MOVIES FAMILY HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/8609
-#EXTINF:0 tvg-id="MoviemaxFamily.tr" group-title="AR- BEIN ENTERTAINMENT",BEIN  MOVIES FAMILY HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/53423
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  DRAMA 1 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/53414
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  SERIES 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/16049
-#EXTINF:0 tvg-id="beINSeries2.qa" group-title="AR- BEIN ENTERTAINMENT",BEIN  SERIES 2 HD+
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150997
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN BBC EARTH
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/192822
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  NAT GEO WILD HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150990
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  NAT GEO PEOPLE HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150991
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  NATIONAL GEOGRAPHIC HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150989
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN FX HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/192825
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  FOX HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150973
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  FOX CRIME
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150972
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  FOX LIFE HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150971
-#EXTINF:0 tvg-id="FoxFamilyMovies.qa" group-title="AR- BEIN ENTERTAINMENT",BEIN  FOX MOVIES HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150974
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  FOX FAMILY MOVIES HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150975
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN FOX REWAYAT
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/192824
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN CARTOON NETWORK
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/192823
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  DRAMA HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/16047
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  GOURMET HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/16050
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  AMC HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/16589
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  BARAEM HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/53413
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  STAR WORLD HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150976
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  STAR MOVIES HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150977
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  FATAFEAT HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150979
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  FOOD NETWORK HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150980
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  OUTDOOR HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150982
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  DISCOVERY FAMILY HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150985
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  FINE LIVING HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150987
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  ANIMAL PLANET HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150988
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  DREAM WORK HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150992
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  CARTOON NETWORK HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150993
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  BOOMERANG HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150994
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN -   JUNIOR HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150995
-#EXTINF:0 tvg-id="ext" group-title="AR- BEIN ENTERTAINMENT",BEIN  BABY HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/150996
-
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Bloomberg
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359155
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Moonbug Kids
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359156
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN MTV
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359157
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Ginx eSports
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359158
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Comedy
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359159
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN POP UP
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359160
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN MTV Live FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359161
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Sky News FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359162
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN TFC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359163
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN TLC
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359164
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Movies hollywood
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359165
-#EXTINF:0 tvg-id="OSNMoviesPremiere.net" group-title="AR- OSN",OSN Movies Premiere
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359166
-#EXTINF:0 tvg-id="OSNMovies.net" group-title="AR- OSN",OSN Movies
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359167
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Action FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359168
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",Osn-Movies Disney HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359169
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Movies Kids FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359170
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Star Movies FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359171
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Yahala Bil Arabi
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359172
-#EXTINF:0 tvg-id="rtgtv" group-title="AR- OSN",OSN Yahala FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359173
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Yahala AfLam FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359174
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Alfa Musalsalat FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359175
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Alfa Musalsalat +2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359176
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Alfa Alyoum FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359177
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Alfa Al Safwa FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359178
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Alfa Al Fann FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359179
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Alfa Cinema 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359180
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Alfa Cinema 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359181
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Art Hekayat 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359182
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Art Hekayat 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359183
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Art Aflam 1 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359184
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Art Aflam 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359185
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Art Cinema FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359186
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN showcase
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359187
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Series prime
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359188
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Comedy
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359189
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Star World FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359190
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN E! FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359191
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Living FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359192
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Disney Channel FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359193
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Disney Junior FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359194
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Nickelodeon FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359195
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Nick Jr FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359196
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Kids Zone FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359197
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN NickToon FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359198
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Baby FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359199
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN News FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359200
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Discovery FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359201
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Discovery SC FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359202
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Discovery IDX FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359203
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Crime Investigation FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359204
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN History FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359205
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN History 2 FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359206
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN National Geographic FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359207
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN National Geographic Wild FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359208
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN National Geographic People FHD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359209
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN MEZZE
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359210
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN W
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359211
-#EXTINF:0 tvg-id="ext" group-title="AR- OSN",OSN Family
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/359212
-
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Action HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227231
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Action 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227232
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Anime HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227233
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Anime HD2
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227234
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Horror HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227235
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Drama HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227236
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Family HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227237
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Arabic 1 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227238
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Arabic 2 HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227239
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Arabic HD3
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227240
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Arabic HD4
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227241
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Fast And Furious HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227242
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Fast And Furious 2HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227243
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix James Bond 007
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227244
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Lord Of The Rings HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227245
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix Mission Impossible HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227246
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix The Hobbit HD
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227247
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD1 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227248
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD2 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227249
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD3 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227250
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD4 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227251
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD5 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227252
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD6 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227253
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD7 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227254
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD8 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227255
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD9 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227256
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD10 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227257
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD11 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227258
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD12 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227259
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD13 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227260
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD14 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227261
-#EXTINF:0 tvg-id="ext" group-title="AR- NETFLIX",Netflix HD15 Ar
-http://premiumip.tv:8000/u5l04cavw4/comyx6eboz/227262
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",#### SHAHID CINEMA ####
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596722
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596721
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596720
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 3 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596719
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 4 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596718
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 5 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596717
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 6 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596716
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 7 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596715
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 8 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596714
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 9 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596713
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 10 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596712
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 11 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596711
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 12 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596710
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 13 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596709
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 14 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596708
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 15 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596707
+#EXTINF:0 tvg-id="ext" group-title="SHAHID CINEMA",AR| SHAHID CINEMA 16 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/596706
 
 
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",### BOX OFFICE ###
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421647
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421646
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421645
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 3 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421644
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 4 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421643
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 5 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421642
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 6 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421641
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 7 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421640
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 8 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421639
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 9 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421638
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 10 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421637
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 11 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421636
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 12 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421635
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 13 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421634
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 14 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421633
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 15 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421632
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 16 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421631
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 17 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421630
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 18 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421629
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 19 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421628
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 20 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421627
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 21 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421626
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 22 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421625
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 23 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421624
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 24 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421623
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 25 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421622
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 26 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421621
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 27 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421620
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 28 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421619
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 29 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421618
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 30 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421617
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 31 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421616
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 32 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421615
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 33 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421614
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 34 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421613
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 35 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421612
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 36 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421611
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 37 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421610
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 38 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421609
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 39 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421608
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 40 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421607
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 41 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421606
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 42 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421605
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 43 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421604
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 44 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421603
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 45 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421602
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 46 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421601
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 47 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421600
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 48 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421599
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 49 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421598
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE",AR| BOX OFFICE 50 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/421597
 
-################
-################
-################
 
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 1
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/311
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 2
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/312
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 3
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/313
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 4
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/314
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 5
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/315
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 6
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/316
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 7
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/317
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 8
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/318
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 9
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/319
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 10
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/320
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX ARABIC 11
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/321
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 1
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/322
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 2
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/323
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 3
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/324
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 4
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/325
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 5
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/326
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 6
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/327
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 7
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/328
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 8
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/329
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 9
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/330
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 10
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/331
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX EINGLISH 11
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/332
-#EXTINF:0 tvg-id="ext" group-title="Netflix / Shahid",NETFLIX BOLLYWOOD
-http://sniperstv.vip:8080/egymummy_Azqdlqsd/skypeexchange_IKHDQ/333
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",###### BEIN OD #######
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671293
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD MOVIES 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1010765
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD MOVIES 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1010764
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD MOVIES 3 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1010763
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD MOVIES  4 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/1010762
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 5 MOVIES FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671288
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 6 MOVIES FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671287
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 7 MOVIES FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671286
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 8 MOVIES FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671285
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 9 MOVIES FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671292
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 10 MOVIES FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671291
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 11 MOVIES FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671290
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 12 MOVIES FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671289
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 1 KIDS FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671284
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 2 KIDS FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671283
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN OD 3 KIDS FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671282
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN BOX OFFICE 1 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671276
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN BOX OFFICE 1 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671275
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN BOX OFFICE 2 FHD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671273
+#EXTINF:0 tvg-id="ext" group-title="BEIN OD",AR| BEIN BOX OFFICE 2 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/671272
 
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| ### BEIN ENTERTAINMENT HD ###
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504992
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN MOVIES HD1
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504991
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN MOVIES HD2
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504990
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN MOVIES HD3
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504989
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN MOVIES HD4
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504988
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN SERIES HD1
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504987
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN SERIES HD2
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504986
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN DRAMA HD1
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504985
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN FOX MOVIES HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504984
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN FOX ACTION MOVIES HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504983
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN GOURMET HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504982
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN JEEM HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504981
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN BARAEM HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504980
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN FATAFEAT
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504979
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN BABY HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504978
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN FOX LIFE HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504977
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN FOX REWAYAT HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504976
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN FOX CRIME HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504975
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN NAT GEO HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504974
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN NAT GEO WILD HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504973
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN STAR WORLD HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504968
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN STAR MOVIES HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504967
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN OUTDOOR HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504965
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN FOOD NETWORK HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504964
+#EXTINF:0 tvg-id="ext" group-title="AR| ### BEIN ENTERTAINMENT HD",AR| BEIN BBC EARTH HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/504963
+
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPOR",##### TR BEIN SPOR #####
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913462
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPOR",TR| BEIN SPORTS HABER HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913461
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 1
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913460
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 1 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913459
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPOR",TR| BEIN SPORTS 1 4K
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913458
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 1 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913457
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 2 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913456
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 2
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913455
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 3 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913454
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 4 HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913453
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS MAX 1 HD 720
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913452
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPOR",TR| BEIN SPORTS MAX 2 HD 720
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913451
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPOR",TR| BEIN SPORTS 1 UHD ULTRA
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913448
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPOR",TR| BEIN SPORTS 1 FHD FEED
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913447
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 1 HD 1080
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913446
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 2 HD 1080
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913445
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 3 HD 1080
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913444
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS 4 HD 1080
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913443
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="TR BEIN SPOR",TR| BEIN SPORTS MAX 1 HD 1080
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913442
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPOR",TR| BEIN SPORTS MAX 2 HD 1080
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913441
+#EXTINF:0 tvg-id="ext" group-title="TR BEIN SPOR",TR| BEIN SPORTS HABER HD
+http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913440
 
 #EXTINF:0 tvg-id="ext" group-title="TR| SINEMA KANALLARI",TR| PLUS YESILCAM HD
 http://line.protv.cc:80/jkdeGKK3uw/W7296Cdnya/913254
