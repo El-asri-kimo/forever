@@ -653,6 +653,18 @@ http://gbox.goldeniptv.com:25461/live/123321/123321/147272.ts
 #EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",STARZ PLAY SPORT 3 HD
 http://gbox.goldeniptv.com:25461/live/123321/123321/147273.ts
 
+
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",الفجر HD1
+http://gbox.goldeniptv.com:25461/live/123321/123321/136397.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",الفجر HD2
+http://gbox.goldeniptv.com:25461/live/123321/123321/136396.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",الفجر HD3
+http://gbox.goldeniptv.com:25461/live/123321/123321/136395.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",الفجر HD4
+http://gbox.goldeniptv.com:25461/live/123321/123321/136394.ts
+#EXTINF:0 tvg-id="ext" group-title="Z-O-M-B-I-E-S 3 (2022)",الفجر HD5
+http://gbox.goldeniptv.com:25461/live/123321/123321/136393.ts
+
 ##################
 
 #EXTINF:0 tvg-id="ext" group-title="OSN VIP",###### OSN VIP ######
