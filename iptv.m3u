@@ -1149,92 +1149,678 @@ http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/54573
 
 #####################
 
+############### Server Temporaire #################
+
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="AR : MOROCCO FHD",MR: TAMAZIGHT FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152769
+#EXTINF:0 tvg-id="ext" group-title="AR : MOROCCO FHD",MR: MEDI1 TV FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152770
+#EXTINF:0 tvg-id="ext" group-title="AR : MOROCCO FHD",MR: ASSADISSA FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152768
+#EXTINF:0 tvg-id="ext" group-title="AR : MOROCCO FHD",MR: ARRYADIA  FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152767
+#EXTINF:0 tvg-id="ext" group-title="AR : MOROCCO FHD",MR: ARRABIAA FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152766
+#EXTINF:0 tvg-id="ext" group-title="AR : MOROCCO FHD",MR: AL MAGHRIBIA FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152765
+#EXTINF:0 tvg-id="ext" group-title="AR : MOROCCO FHD",MR: LAAYOUNE TV FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152764
+#EXTINF:0 tvg-id="ext" group-title="AR : MOROCCO FHD",MR: AL AOULA INTER FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152763
+
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Reel PX Cinema HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152771
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Reel PX Unlimited HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152772
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Reel PX Action HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152773
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Reel PX Family HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152774
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Reel PX Comedy HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152775
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Amazon Prime Video UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152776
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Prime Video 1 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152777
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Prime Video 2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152778
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Prime Video 3 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152779
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Prime Video 4 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152780
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",WATCH iT!  1 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152781
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",WATCH iT!  2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152782
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",WATCH iT!  3 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152783
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",WATCH iT!  4 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152784
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",IFLIX TV AFLAM UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152785
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",IFLIX TV Cinema UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152786
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Box Office
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152787
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Movies
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152788
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Action
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152789
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Horror
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152790
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Thriller
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152791
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX عربي
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152792
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Bollywood
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152793
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Turkish 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152794
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Turkish 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152795
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Germany
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152796
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Classics
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152797
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Drama
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152798
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Comedy
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152799
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Series
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152800
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Series Arabic
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152801
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Plays
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152802
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Series 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152803
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Series 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152804
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Series 3
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152805
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Series 4
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152806
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Series 5
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152807
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Series 6
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152808
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX Kids
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152809
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX  Discovery
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152810
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",NETFLIX WWE
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152811
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Bueno Action Movies
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152812
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Arabic
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152813
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Arabic UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152814
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Action
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152815
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Horror
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152816
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Adventure
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152817
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Sky Flix Bollywood
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152818
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Drama
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152819
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Family
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152820
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Comedy
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152821
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Animation
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152822
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Animation 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152823
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",STARZ PLAY Crime
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152824
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Majestic MOVIES 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152825
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Majestic MOVIES 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152826
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Majestic MOVIES 3
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152827
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHOWTIME MARVEL
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152828
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHOWTIME SERIES
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152829
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHOWTIME DOCUMENTARY
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152830
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Majestic ACTION
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152831
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID CINEMA HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152832
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",MAX AFLAM 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152833
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID ACTION 1 FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152834
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID ACTION 2 FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152835
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID HORROR HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152836
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",GO  MOVIES 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152837
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",GO  HORROR
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152838
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",GO  HENDY
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152839
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",GO  CLASSIC
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152840
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID ARABIC 01 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152841
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID ARABIC 2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152842
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID ZAMAN HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152843
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID MASRAHIAT HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152844
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",GO  KIDS
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152845
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID ZAMAN UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152846
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",GO  MOVIES 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152847
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID HOLLYWOOD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152848
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",GO  ACTION
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152849
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",GO  INDIAN
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152850
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID DOCUMENTARY HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152851
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHAHID  SERIES 01 FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152852
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",MAX CINEMA 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152853
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",MAX CINEMA 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152854
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",MAX ACTION
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152855
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHOWTIME ARABIC
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152856
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHOWTIME MASRH
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152857
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHOWTIME TURKISH
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152858
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",SHOWTIME FANTAISA
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152859
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",OXN MOVIES 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152860
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",OXN CINEMA 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152861
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",OXN CINEMA 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152862
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",OXN INDIA
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152863
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",OXN MOVIES 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152864
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Sky Flix Boxoffice 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152865
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Sky Flix Action
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152866
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Sky Flix Aflam 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152867
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Sky Flix Aflam 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152868
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Sky Flix Comedy
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152869
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Sky Flix Drama
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152870
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Sky Flix Boxoffice 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152871
+#EXTINF:0 tvg-id="ext" group-title="AR : ARABIC ONDMAND",Sky Flix Horror
+http://saw.duplex-ott.net:2052/001465520525/001465520525/152872
+
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 1 PREMIUM FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56220
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 2 PREMIUM FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56221
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 3 PREMIUM FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56222
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 1 PREMIUM  FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56229
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 1 FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56223
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 2 FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56224
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 3 FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56225
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 4 FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56226
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 5 FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56227
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 6  FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56230
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BS : BEIN SPORTS FULL HD",beIN SPORTS 7 FULL HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56228
+
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 1 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/169686
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 2 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/169687
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 3 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/169688
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 4 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/169689
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 5 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/169690
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 6 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/169691
+#EXTINF:0 tvg-id="BeINSportsMAX1.es" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 1 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/221605
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 2 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/221606
+#EXTINF:0 tvg-id="beINSPORTSMAX.tr" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 1 FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/169692
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 2 FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/169693
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 3 FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/169694
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 4 FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/169695
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 1 4K
+http://saw.duplex-ott.net:2052/001465520525/001465520525/221601
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 2 4K
+http://saw.duplex-ott.net:2052/001465520525/001465520525/221602
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 3 4K
+http://saw.duplex-ott.net:2052/001465520525/001465520525/221603
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS WORLD CUP",BEIN SPORTS MAX 4 4K
+http://saw.duplex-ott.net:2052/001465520525/001465520525/221604
+
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEINSPORT NEWS HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/507
+#EXTINF:0 tvg-id="beinsports.jsc" group-title="BS : BEIN SPORTS HD",BEINSPORT HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/508
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEIN PREMUIM 1 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/523
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEIN PREMUIM 2 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/525
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEIN PREMUIM 3 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/527
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BS : BEIN SPORTS HD",BEINSPORT 1 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/509
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BS : BEIN SPORTS HD",BEINSPORT 2 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56216
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BS : BEIN SPORTS HD",BEINSPORT 3 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/513
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BS : BEIN SPORTS HD",BEINSPORT 4 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/515
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BS : BEIN SPORTS HD",BEINSPORT 5 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/517
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BS : BEIN SPORTS HD",BEINSPORT 6 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/519
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BS : BEIN SPORTS HD",BEINSPORT 7 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/521
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEIN SPORTS EXTRA 1 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38145
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEIN SPORTS EXTRA 2 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/55583
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEIN SPORTS ENGLISH 1 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38146
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEIN SPORTS ENGLISH 2 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38147
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEIN SPORTS ENGLISH 3 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38148
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEIN SPORTS FRENSH 1 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38149
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",BEIN SPORTS FRENSH 2 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38150
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="BS : BEIN SPORTS HD",BEIN SPORTS NBA HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38151
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",ALKASS 1 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38152
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",ALKASS 2 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38153
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",ALKASS 3 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38154
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",ALKASS 4 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38155
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS HD",ALKASS 5 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38156
+
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD SPORT PREMUIM 1 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/132373
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD SPORT PREMUIM 1 FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/132374
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD SPORT PREMUIM 2 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/132375
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD SPORT PREMUIM 1 FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/132376
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD 3 SERIES A HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/131410
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD 3 SERIES A FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/131411
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD 4 SERIES A HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/131412
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD 4 SERIES A FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/131413
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD 5 SERIES A HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/131414
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD 5 SERIES A FHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/131415
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD CRICLIFE 1 HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/139575
+#EXTINF:0 tvg-id="ext" group-title="AR: STAR PLAY SPORT ",AD GOLF TV HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/139577
+
+#EXTINF:0 tvg-id="ext" group-title="EU: GLORY UFC FHD/HD",HARI vs OVEREEM
+http://saw.duplex-ott.net:2052/001465520525/001465520525/139095
+
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",BEIN PREMUIM 1 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/524
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",BEIN PREMUIM 2 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/526
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",BEIN PREMUIM 3 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/528
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="BE : BEIN SPORTS SD ",BEINSPORT 1 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/510
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BE : BEIN SPORTS SD ",BEINSPORT 2 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/512
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="BE : BEIN SPORTS SD ",BEINSPORT 3 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/514
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",BEINSPORT 4 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/516
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",BEINSPORT 5 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/518
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",BEINSPORT 6 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/520
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BE : BEIN SPORTS SD ",BEINSPORT 7 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/522
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",BEIN SPORTS EXTRA 1 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38133
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",BEIN SPORTS EXTRA 2 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/55582
+#EXTINF:0 tvg-id="beINSportsEnglish1.qa" group-title="BE : BEIN SPORTS SD ",BEIN SPORTS ENGLISH 1 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38134
+#EXTINF:0 tvg-id="beINSportsEnglish2.qa" group-title="BE : BEIN SPORTS SD ",BEIN SPORTS ENGLISH 2 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38135
+#EXTINF:0 tvg-id="beINSportsEnglish3.qa" group-title="BE : BEIN SPORTS SD ",BEIN SPORTS ENGLISH 3 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38136
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",BEIN SPORTS FRENSH 1 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38137
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",BEIN SPORTS FRENSH 2 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38138
+#EXTINF:0 tvg-id="beinsportsnba.jsc" group-title="BE : BEIN SPORTS SD ",BEIN SPORTS NBA
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38139
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",ALKASS 1 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38140
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",ALKASS 2 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38141
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",ALKASS 3 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38142
+#EXTINF:0 tvg-id="ext" group-title="BE : BEIN SPORTS SD ",ALKASS 4 SD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38143
+
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN PREMUIM 1 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/117734
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN PREMUIM 2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/5998
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN PREMUIM 3 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/5999
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEINSPORT 1 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/5990
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEINSPORT 2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/5991
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEINSPORT 3 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/5992
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEINSPORT 4 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/5993
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEINSPORT 5 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/5994
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEINSPORT 6 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/5995
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEINSPORT 7 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/5996
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN SPORTS EXTRA UHD 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38121
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN SPORTS EXTRA UHD 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/55584
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN SPORTS ENGLISH UHD 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38122
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN SPORTS ENGLISH UHD 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38123
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN SPORTS ENGLISH UHD 3
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38124
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN SPORTS FRENSH UHD 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38125
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN SPORTS FRENSH UHD 2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38126
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEIN SPORTS NBA UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/38127
+#EXTINF:0 tvg-id="ext" group-title="BS : BEIN SPORTS  UHD ",BEINSPORT AFC 3 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/79616
+
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN YAHALA UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13095
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN YAHALA OULA UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13096
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN YAHALA CINEMA UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13097
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN MOVIES DISNEY UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13098
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN MOVIES FIRST UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13099
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN MOVIES FIRST +2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13100
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN ENIGMA UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13101
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN MOVIES KIDS UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13102
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN MOVIES UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13103
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN SERIES COMEDY UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13104
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN MOVIES ACTION UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13105
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN SERIES FIRST UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13106
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN TLC UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13107
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN STAR WORLD UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13109
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN SERIES UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13110
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN STAR MOVIES UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13111
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN COMEDY CENTRAL UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13112
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN DISCOVERY SC UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13113
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN DISNEY UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13114
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN DISNEY XD UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13115
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN DISNEY JOUNER UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13116
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN HISTORY UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13117
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN DISCOVERY UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13119
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN DISCOVERY IDX UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13120
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN HISTORY 2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13121
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN NICKELODEON UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13122
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN LIVING UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13123
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN MEZZEE UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13124
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN E! UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13125
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN BABY TV UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13126
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN KIDS ZONE UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13127
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN NEWS UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13128
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN POP UP UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13129
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN NAT GEO UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13130
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN NAT GEO PEOPLE UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13131
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN NAT GEO WILD UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13132
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN NICK JR UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13133
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN AL SAFWA UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13134
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN AL YAWM UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13135
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN CINEMA 1 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13136
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN CINEMA 2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13137
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN FANN UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13138
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN MUSIC NOW UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13139
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN SERIES 1 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13140
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",OSN SERIES 2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13141
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC 1 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13142
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC 2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13143
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC 4 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13144
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC 3 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13145
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC 5 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13146
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC MAX UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13147
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC ACTION UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13148
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC IRAQ UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13149
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC DRAMA UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13150
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC DRAMA+ UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13151
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC BOLLYWOOD UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13152
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC MISRI 1 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13153
+#EXTINF:0 tvg-id="ext" group-title=" AR : OSN UHD",MBC MISRI 2 UHD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/13154
+#EXTINF:0 tvg-id="Fightbox.cz" group-title=" AR : OSN UHD",FIGHT BOX HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/56217
+
+######################### Rusia #####################
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:RUSTAVI-2
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3171
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",UKR:PERSHIY-UKRAINE
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3141
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:PARAMOUNT-COMEDY
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3039
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:PARAMOUNT-CHANNEL
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3040
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:OTV
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3136
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:Nickelodeon
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3139
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:NICK JR.
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3085
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",DE:VOD-Select2
-http://iptv.ndasat.com:88/229046869134696/229046869134696/556
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:Nat-Geo
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3156
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:NAT-GEO-WILD
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3155
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",UKR:Music-Box-UA
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3101
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:MTV-LIVE-HD
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3042
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",DE:VOD-Select3
-http://iptv.ndasat.com:88/229046869134696/229046869134696/555
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",UKR:M2
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3161
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",UKR:M1
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3160
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",UKR:K1
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3163
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:JIMJAM
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3055
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",UKR:ICTV
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3149
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:HD-Life
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3152
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:Gulli
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3148
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:FOX-LIFE
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3056
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:FOX
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3057
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",UKR:FOOTBALL-2
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3103
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",UKR:FOOTBALL-1
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3104
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:Food-Network
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3147
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",DE:VOD-select4
-http://iptv.ndasat.com:88/229046869134696/229046869134696/554
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:EUROSPORT
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3060
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:Euronews
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3100
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:EUREKA-HD
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3146
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",UKR:ENTER-FILM
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3110
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",DE:VOD-Select5
-http://iptv.ndasat.com:88/229046869134696/229046869134696/553
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:EDA-TV
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3061
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:DTX-HD
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3062
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:Disney
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3159
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:DISCOVERY-SCIENCE
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3164
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:DISCOVERY-ID
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3076
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:Discovery-HD
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3154
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:Da-Vinci-Learning
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3153
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:Cartoon-Network
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3150
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:BollyWOOD-TV
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3079
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:ANIMAL-PLANET
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3157
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:Animal-Family-HD
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3158
-#EXTINF:0 tvg-id="ext" group-title="{BOUQUET_NAME}",RU:ANI
-http://iptv.ndasat.com:88/229046869134696/229046869134696/3142
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_ROSSIYA 1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95390
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_ROSSIYA 24
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95391
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_DA VINCI LEARNING HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95392
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_KANAL 5
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95393
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_MAMA
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95394
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_Match! Arena HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95395
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_Match! Boxe TV
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95396
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_PERVIY KANAL
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95397
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_REN TV
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95398
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_BRIDGE TV
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95399
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_2x2
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95400
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_ANIMAL PLANET HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95401
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_Perviy Kanal Первый канал
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95402
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_NICKELODEON
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95403
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_FOX HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95404
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_CTC
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95405
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_DISCOVERY HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95406
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_EURONEWS
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95407
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_DISNEY HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95408
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_HTB HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95409
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_VIP MEGAHIT
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95410
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_Kinosvidanie (Киносвидание)
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95411
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_RTG TV
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95412
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_VIP PREMIERE
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95413
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_Индийское Кино
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95414
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_ANIMAL PLANETA HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95415
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_TNT MUSIC HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95416
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_VIASAT NATURE
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95417
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_MTV HITS HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95418
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_AMEDIA PREMIUM
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95419
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_GULLI
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95420
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_AMEDIA TV
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95421
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_Мужское Кино
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95422
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_ROSSIYA KULTUR
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95423
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_CARTOON NETWORK
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95424
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_VIASAT EXPLORER
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95425
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_RU TV
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95426
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_TB3
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95427
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_TNT
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95428
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_TNT 4
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95429
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_TLC
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95430
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_Кино ТВ HD
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95431
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_TV1000 RU
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95432
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_NICK JUNIOR
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95433
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_Sony SciFi
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95434
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_TV1000
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95435
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_TV1000 ACTION
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95436
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_Match!
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95437
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_365 TB
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95438
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_KINO HIT
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95439
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_JIM JAM
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95440
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_VH1
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95441
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_FOX Life
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95442
+#EXTINF:0 tvg-id="ext" group-title=" RU : RUSSIA",[RU]_VIASAT HISTORY
+http://saw.duplex-ott.net:2052/001465520525/001465520525/95443
