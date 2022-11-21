@@ -1152,27 +1152,90 @@ http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/54573
 ############### Server Temporaire #################
 
 
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 1 PREMIUM FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56220
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 2 PREMIUM FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56221
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 3 PREMIUM FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56222
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 1 PREMIUM FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56229
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 1 FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56223
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 2 FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56224
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 3 FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56225
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 4 FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56226
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 5 FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56227
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 6 FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56230
-#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS FHD",AR| beIN SPORTS 7 FULL HD ♧
-http://saw.duplex-ott.net:2052/001465520525/001465520525/56228
 
-
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",BEIN 4K Ultra 3840×2160p
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/119044
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP::BEIN_SPORTS_MAX1HD(1080i)
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124373
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP:BEIN_SPORTS_MAX1HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124374
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP:BEIN_SPORTS_MAX1SD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124375
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP::BEIN_SPORTS_MAX2HD(1080i)
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124376
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP:BEIN_SPORTS_MAX2HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124377
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP:BEIN_SPORTS_MAX2SD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124378
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP::BEIN_SPORTS_MAX3HD(1080i)
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124379
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP:BEIN_SPORTS_MAX3HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124380
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP:BEIN_SPORTS_MAX3SD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124381
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP::BEIN_SPORTS_MAX4HD(1080i)
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124382
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP:BEIN_SPORTS_MAX4HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124383
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",VIP:BEIN_SPORTS_MAX4SD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124384
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 1 FHD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124385
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",Bein Sport Max 1 FULL HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124386
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 2 FHD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124387
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",Bein Sport Max 2 FULL HD 
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124388
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 3 FHD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124389
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 4 FHD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124390
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 5 FHD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124391
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 6 FHD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124392
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 1 HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124393
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 2 HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124394
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 3 HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124395
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 4 HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124396
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS 5 MAX HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124397
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS 6 MAX HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124398
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 1 SD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124399
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 2 SD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124400
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 3 SD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124401
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 4 SD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124402
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 1 4K
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124403
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 2 4K
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124404
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 3 4K
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124405
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 4 4K
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124406
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 5 4k
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124407
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",LO beIN SPORTS MAX 6 4k
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124408
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",MY LOCAL beIN SPORTS MAX 1 HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124409
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",MY LOCAL beIN SPORTS MAX 2 HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124410
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",MY LOCAL beIN SPORTS MAX 3 HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124411
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",MY LOCAL beIN SPORTS MAX 4 HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124412
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",MY LOCAL beIN SPORTS 5 MAX HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124413
+#EXTINF:0 tvg-id="ext" group-title="United Arab Emirates tv",MY LOCAL beIN SPORTS 6 MAX HD
+http://sniperstv.vip:8080/Androidtv33/XM8nMHS538/124414
