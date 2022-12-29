@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-id="LoveNature.uk" group-title="Undefined",Love Nature
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+http://45.161.115.26:50000/play/a01e/index.m3u8
 
 ################
 
