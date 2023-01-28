@@ -3988,8 +3988,87 @@ http://mo3ad.xyz:25461/mo3adT88dS/mo3adT88dS/347
 
 
 
-################### MOVIES ######################
+################### UK ######################
 #################################################
 
 
-
+#EXTINF:0 tvg-id="TravelChannel.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",|UK| TRAVEL CHANNEL
+http://11121314.fr:8000/dede/112233445566778899dede/432046
+#EXTINF:0 tvg-id="BBC2.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: BBC Two
+http://11121314.fr:8000/dede/112233445566778899dede/441936
+#EXTINF:0 tvg-id="CBSReality.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: CBS Reality
+http://11121314.fr:8000/dede/112233445566778899dede/441937
+#EXTINF:0 tvg-id="Channel4.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: Channel 4
+http://11121314.fr:8000/dede/112233445566778899dede/441938
+#EXTINF:0 tvg-id="E4.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: E4
+http://11121314.fr:8000/dede/112233445566778899dede/441939
+#EXTINF:0 tvg-id="GOLD.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: Gold
+http://11121314.fr:8000/dede/112233445566778899dede/441940
+#EXTINF:0 tvg-id="MTVBase.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: MTV Base
+http://11121314.fr:8000/dede/112233445566778899dede/441941
+#EXTINF:0 tvg-id="MTVClassic.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: MTV Classic
+http://11121314.fr:8000/dede/112233445566778899dede/441942
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: MTV Club
+http://11121314.fr:8000/dede/112233445566778899dede/441943
+#EXTINF:0 tvg-id="MTVDance.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: MTV Dance
+http://11121314.fr:8000/dede/112233445566778899dede/441944
+#EXTINF:0 tvg-id="MTVHits.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: MTV Hits
+http://11121314.fr:8000/dede/112233445566778899dede/441945
+#EXTINF:0 tvg-id="MTVMusic.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: MTV Music
+http://11121314.fr:8000/dede/112233445566778899dede/441946
+#EXTINF:0 tvg-id="More4.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: More4
+http://11121314.fr:8000/dede/112233445566778899dede/441947
+#EXTINF:0 tvg-id="FiveUSA.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: 5 USA
+http://11121314.fr:8000/dede/112233445566778899dede/441948
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK_Sky_Sports_news HD
+http://11121314.fr:8000/dede/112233445566778899dede/428634
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK SKY SPORTS FOOTBALL HD
+http://11121314.fr:8000/dede/112233445566778899dede/428635
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:SKY SPORTS MAIN EVENT HD
+http://11121314.fr:8000/dede/112233445566778899dede/428636
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:SKY SPORTS MIX HD
+http://11121314.fr:8000/dede/112233445566778899dede/428637
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:SKY SPORTS PREMIER LEAGUE HD
+http://11121314.fr:8000/dede/112233445566778899dede/428638
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:SKY SPORTS F1 HD
+http://11121314.fr:8000/dede/112233445566778899dede/428640
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:SKY SPORTS ACTION HD
+http://11121314.fr:8000/dede/112233445566778899dede/428641
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:SKY SPORTS ARENA HD
+http://11121314.fr:8000/dede/112233445566778899dede/428642
+#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: SKY SPORTS CRICKET HD
+http://11121314.fr:8000/dede/112233445566778899dede/428643
+#EXTINF:0 tvg-id="SkySpTheOpen.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:SKY SPORTS GOLF HD
+http://11121314.fr:8000/dede/112233445566778899dede/428646
+#EXTINF:0 tvg-id="PremierSports.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:PREMIER SPORTS HD
+http://11121314.fr:8000/dede/112233445566778899dede/428647
+#EXTINF:0 tvg-id="LiverpoolFCTV.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:LIVERPOOL FC TV HD
+http://11121314.fr:8000/dede/112233445566778899dede/428649
+#EXTINF:0 tvg-id="Eurosport1.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:EUROSPORT 1 HD
+http://11121314.fr:8000/dede/112233445566778899dede/428650
+#EXTINF:0 tvg-id="Eurosport2.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:EUROSPORT 2 HD
+http://11121314.fr:8000/dede/112233445566778899dede/428651
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:EIR SPORT 2
+http://11121314.fr:8000/dede/112233445566778899dede/428653
+#EXTINF:0 tvg-id="ChelseaTV.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:CHELSEA TV
+http://11121314.fr:8000/dede/112233445566778899dede/428654
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: BT SPORT 2 HD
+http://11121314.fr:8000/dede/112233445566778899dede/428656
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: BT SPORT 3 HD
+http://11121314.fr:8000/dede/112233445566778899dede/428657
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:BT SPORT EXTRA 1
+http://11121314.fr:8000/dede/112233445566778899dede/428658
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:BT SPORT EXTRA 2
+http://11121314.fr:8000/dede/112233445566778899dede/428659
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK:BT SPORT EXTRA 3
+http://11121314.fr:8000/dede/112233445566778899dede/428660
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",|UK| SKY PREMIER LEAGUE HD
+http://11121314.fr:8000/dede/112233445566778899dede/432433
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK_Eir_Sports_1
+http://11121314.fr:8000/dede/112233445566778899dede/432434
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: WWE Superslam
+http://11121314.fr:8000/dede/112233445566778899dede/438715
+#EXTINF:0 tvg-id="BoxNationHD.uk" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: Box Nation HD
+http://11121314.fr:8000/dede/112233445566778899dede/438716
+#EXTINF:0 tvg-id="ext" group-title="▼--- |ES| TAQUILLA |ES| ---▼",UK: Freesports HD
+http://11121314.fr:8000/dede/112233445566778899dede/438717
