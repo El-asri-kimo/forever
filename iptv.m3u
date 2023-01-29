@@ -1,1203 +1,591 @@
+#EXTM3U
+#################################################
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",FORCE COMEDY
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4874.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FORCE CLASSIC
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4851.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FORCE AFLAM 02
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4849.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FORCE AFLAM 01
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4848.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FORCE AFLAM 03
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4850.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 1 PREMIUM LOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/87.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 2 PREMIUM LOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/88.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 3 PREMIUM LOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/89.ts
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Channels",Bein Sports 1 LOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/90.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 2 LOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/91.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 3 LOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/92.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 4 LOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/93.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 5 LOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/94.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 6 LOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/95.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 7 LOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/96.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 1 PREMIUM SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/77.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 2 PREMIUM SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/78.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 3 PREMIUM SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/79.ts
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",Bein Sports 1 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/80.ts
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",Bein Sports 2 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/81.ts
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",Bein Sports 3 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/82.ts
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",Bein Sports 4 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/83.ts
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",Bein Sports 5 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/84.ts
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",Bein Sports 6 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/85.ts
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",Bein Sports 7 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/86.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport Extra 02
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4998.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport Extra 01
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4997.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 1 PREMIUM HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/67.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 2 PREMIUM HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/68.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 3 PREMIUM HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/69.ts
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",Bein Sports 1 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/70.ts
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",Bein Sports 2 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/71.ts
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",Bein Sports 3 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/72.ts
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",Bein Sports 4 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/73.ts
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",Bein Sports 5 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/74.ts
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",Bein Sports 6 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/75.ts
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",Bein Sports 7 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/76.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 1 PREMIUM FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/57.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 2 PREMIUM FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/58.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Sports 3 PREMIUM FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/59.ts
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Channels",Bein Sports 1 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/60.ts
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",Bein Sports 2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/61.ts
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Channels",Bein Sports 3 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/62.ts
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Channels",Bein Sports 4 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/63.ts
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",Bein Sports 5 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/64.ts
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",Bein Sports 6 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/65.ts
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",Bein Sports 7 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/66.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",StarzPlay Sport 4K
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22516.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD SPORT PREMIUM 2 4K
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22517.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD SPORT PREMIUM 1 4K
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22518.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sports PREMIEUM 2 SERIA A
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22519.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sports PREMIEUM 1 SERIA A
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22520.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD StarzPlay SPORT 3 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22521.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD StarzPlay SPORT 2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22522.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD StarzPlay SPORT 1 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22523.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS:BEIN-GLOBAL
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4264.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS:BEIN-NEWS
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4263.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS-ZAMALEK-SPORT
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4262.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS-NILE-SPORT
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4261.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS-ON-TIME-3
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4260.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS-ON-TIME-2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4259.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SPORTS-ON-TIME-1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4258.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC Sports 5 (HD)
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22879.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC Sports 5 (SD)
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22880.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC Sports 4 (HD)
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22881.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC Sports 4 (SD)
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22882.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC Sports 3 (HD)
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22883.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC Sports 3 (SD)
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22884.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC Sports 2 (HD)
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22885.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC Sports 2 (SD)
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22886.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC Sports 1 (HD)
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22887.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC Sports 1 (SD)
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22888.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC EXTRA 2 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22889.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC EXTRA 2 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22890.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC EXTRA 1 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22891.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC EXTRA 1 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/22892.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 1 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2408.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 2 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2409.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 3 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2410.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 4 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2411.ts
-#EXTINF:0 tvg-id="beINSeries1.qa" group-title="Channels",BeIN Series 1 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2412.ts
-#EXTINF:0 tvg-id="beINSeries2.qa" group-title="Channels",BeIN Series 2 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2413.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Drama 1 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2414.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Baraem SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2415.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Jeem SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2416.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Be Junior SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2417.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 1 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2418.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 2 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2419.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 3 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2420.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Movies 4 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2421.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Series 1 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2422.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Series 2 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2423.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Drama 1 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2424.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Fox Life HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2425.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Fox Crime HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2426.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Fox Rewayat HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2427.ts
-#EXTINF:0 tvg-id="FoxFamilyMovies.qa" group-title="Channels",BeIN Fox Movies HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2428.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Fox Action Movies HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2429.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Gourmet HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2430.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Fatafeat HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2431.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN BBC Earth HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2432.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Baraem HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2433.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Jeem HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2434.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Star World HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2435.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Star Movies HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2436.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Be Junior
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2437.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Nat Geo People HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2438.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Nat geo Wild HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2439.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bein Nat Geo HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2440.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN WWE SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4007.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Sky News Arabic SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4006.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN National Geographic People SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4005.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN National Geographic Wild SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4004.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN National Geographic SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4003.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN History 2 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4002.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN History SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4001.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Discovery IDX SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4000.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Discovery SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3999.ts
-#EXTINF:0 tvg-id="OSNNews.net" group-title="Channels",OSN News SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3998.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Baby SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3997.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN NickToon SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3996.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Kids Zone SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3995.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Nick Jr SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3994.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Nickelodeon SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3993.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Disney Junior SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3992.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Disney SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3991.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Living SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3990.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN E! SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3989.ts
-#EXTINF:0 tvg-id="StarWorld.in" group-title="Channels",OSN Star World SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3988.ts
-#EXTINF:0 tvg-id="OSNFirstComedy.net" group-title="Channels",OSN Series Comedy SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3987.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Series SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3986.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Series First SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3985.ts
-#EXTINF:0 tvg-id="StarMovies.in" group-title="Channels",OSN Star Movies SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3984.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Enigma SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3983.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Action SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3982.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies First  +2 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3981.ts
-#EXTINF:0 tvg-id="OSNFirst.net" group-title="Channels",OSN Movies First SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3980.ts
-#EXTINF:0 tvg-id="OSNMovies.net" group-title="Channels",OSN Movies SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3979.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Art Cinema SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3978.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Art Aflam 2 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3977.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Art Aflam 1 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3976.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Art Hekayat 2 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3975.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Art Hekayat 1 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3974.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Music Now SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3973.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Cinema 2 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3972.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Cinema 1 SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3971.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Al Fann SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3970.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Al Safwa SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3969.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Alyoum SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3968.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Musalsalat SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3967.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Yahala Cinema SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3966.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Yahala Oula SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3965.ts
-#EXTINF:0 tvg-id="OSNYahala.net" group-title="Channels",OSN Yahala SD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/3964.ts
-#EXTINF:0 tvg-id="rtgtv" group-title="Channels",OSN Yahala FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4074.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies Thriller +2h
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4073.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies Thriller
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4072.ts
-#EXTINF:0 tvg-id="OSNMoviesPremiere.net" group-title="Channels",OSN Movies Premiere HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4071.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies Premiere +2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4070.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies First +2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4069.ts
-#EXTINF:0 tvg-id="OSNFirst.net" group-title="Channels",OSN Movies First
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4068.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies Comedy +2 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4067.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies Box Office 3 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4066.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies Box Office 2 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4065.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies Box Office 1 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4064.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies Action 2 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4063.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies +2h
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4062.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN WOMEN
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4061.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN TLC
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4060.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN TFC
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4059.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN POP UP
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4058.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN GMA_Pinoy_TV
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4057.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN GMA_News_TV
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4056.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN GMA_Lfe
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4055.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN MEEZE
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4054.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN WWE FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4053.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Sky News Arabic FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4052.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN National Geographic People FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4051.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN National Geographic Wild FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4050.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN National Geographic FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4049.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN History 2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4048.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN History FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4047.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Discovery Science
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4046.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Discovery IDX FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4045.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Discovery FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4044.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN News FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4043.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Baby FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4042.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN NickToon FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4041.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Kids Zone FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4040.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Nick Jr FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4039.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Nickelodeon FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4038.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Disney Junior FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4037.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Disney FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4036.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Living FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4035.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN E! FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4034.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Star World FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4033.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Comedy
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4032.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Series Comedy FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4031.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Series FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4030.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Series First FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4029.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Star Movies FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4028.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Crime Investigation
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4027.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Enigma FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4026.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Action FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4025.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies First  +2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4024.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Movies First FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4023.ts
-#EXTINF:0 tvg-id="OSNMovies.net" group-title="Channels",OSN Movies FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4022.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Art Cinema FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4021.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Art Aflam 2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4020.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Art Aflam 1 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4019.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Art Hekayat 2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4018.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Art Hekayat 1 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4017.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Music Now FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4016.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Cinema 2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4015.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Cinema 1 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4014.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Al Fann FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4013.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Al Safwa FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4012.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Alyoum FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4011.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Alfa Musalsalat FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4010.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Yahala Cinema FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4009.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN Yahala Oula FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/4008.ts
-#EXTINF:0 tvg-id="MBC1.net" group-title="Channels",Mbc1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7760.ts
-#EXTINF:0 tvg-id="MBC2.net" group-title="Channels",Mbc2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7761.ts
-#EXTINF:0 tvg-id="MBC3.net" group-title="Channels",Mbc3
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7762.ts
-#EXTINF:0 tvg-id="MBC4.net" group-title="Channels",Mbc4
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7763.ts
-#EXTINF:0 tvg-id="MBCMax.net" group-title="Channels",Mbc Max
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7764.ts
-#EXTINF:0 tvg-id="MBCAction.net" group-title="Channels",Mbc Action
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7765.ts
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="Channels",Mbc Drama
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7766.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC DRAMA +
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7767.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc Masr
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7768.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc Masr 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7769.ts
-#EXTINF:0 tvg-id="MBC1.net" group-title="Channels",MBC 1 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7770.ts
-#EXTINF:0 tvg-id="MBC2.net" group-title="Channels",MBC 2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7771.ts
-#EXTINF:0 tvg-id="MBC3.net" group-title="Channels",MBC 3 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7772.ts
-#EXTINF:0 tvg-id="MBC4.net" group-title="Channels",MBC 4 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7773.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC 5 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7774.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC IRAQ
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7775.ts
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Channels",Mbc Bollywood
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7776.ts
-#EXTINF:0 tvg-id="MBC1.net" group-title="Channels",Mbc1 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7777.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc2 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7778.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc3 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7779.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc4 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7780.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC 5 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7781.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC Iraq HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7782.ts
-#EXTINF:0 tvg-id="MBCMax.net" group-title="Channels",Mbc Max HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7783.ts
-#EXTINF:0 tvg-id="MBCAction.net" group-title="Channels",Mbc Action HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7784.ts
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="Channels",Mbc Drama HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7785.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc + Drama HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7786.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mbc Variety HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7787.ts
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Channels",MBC Bollywood HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7788.ts
-#EXTINF:0 tvg-id="MBCMax.net" group-title="Channels",MBC Max FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7789.ts
-#EXTINF:0 tvg-id="MBCAction.net" group-title="Channels",MBC Action FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7790.ts
-#EXTINF:0 tvg-id="MBCDrama.net" group-title="Channels",MBC Drama FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7791.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC Masr FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7792.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC Masr 2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7793.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MBC Iraq FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7794.ts
-#EXTINF:0 tvg-id="MBCBollywood.net" group-title="Channels",MBC BOLLYWOOD FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7795.ts
-#EXTINF:0 tvg-id="RotanaCinema.il" group-title="Channels",Rotana Cinema
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7796.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Drama
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7797.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Khalijia FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7798.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Khalijia HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7799.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Khalijia
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7800.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Clip
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7801.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Music FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7802.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Music HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7803.ts
-#EXTINF:0 tvg-id="RotanaMusic.il" group-title="Channels",Rotana Music
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7804.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Comedy
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7805.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Drama FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7806.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Drama HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7807.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Classic FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7808.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Classic HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7809.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Classic
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7810.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana M+ HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7811.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana+ HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7812.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Aflam+ HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7813.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Aflam HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7814.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Aflam FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7815.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Cinema Ksa
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7816.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Cinema FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7817.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Rotana Cinema HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7818.ts
-#EXTINF:0 tvg-id="AlMajdGeneral.net" group-title="Channels",Al MAJD General
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7959.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Quran
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7960.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Hadith
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7961.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Documentary
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7962.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Scientific
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7963.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Natural
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7964.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Taghareed
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7965.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Rawda
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7966.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Basma
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7967.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Kids
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7968.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Masa
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7969.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD NEWS
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7970.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Safa
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7971.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Iqraa
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7972.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Azhari
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7973.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Makkah
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7974.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Wesal
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7975.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Dawah
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7976.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Nas
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7977.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Sirat
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7978.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Afasy
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7979.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Ahlulbayt
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7980.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Basira
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7981.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Maaref
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7982.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Quran TV
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7983.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Rahma
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7984.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Mahbah
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7985.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Resalah
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7986.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Qotami
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7987.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Fath
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7988.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Ahel Al Quran
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7989.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Hikmat TV
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7990.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Menhag Al Nbowa
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7991.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Fath Quran
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7992.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Majd
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7993.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al Majd Quran
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7994.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al majd Scientific
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7995.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Al majd Al hadeeth Al Nabawi
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7996.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Saudi Quran HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7997.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMC | Saudi Sunnah
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7998.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Go Cinema
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7950.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Go Aflam 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7951.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Go Aflam 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7952.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Go Masrhyat
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7953.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Go Masrh Misr
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7954.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Go Kids
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7955.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Go Action
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7956.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Go Horror
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7957.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Go Hendi
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7958.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHAHID VIP CINEMA
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2456.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHAHID VIP AFLAM 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2457.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHAHID VIP ALAM 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2458.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHAHID VIP ALAM 3
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2459.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHAHID VIP CARTTON
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2460.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHAHID VIP HORROR
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2461.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHAHID VIP ACTION 01
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2462.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHAHID VIP ACTION 02
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2463.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHAHID VIP ACTION 03
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2464.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 01
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2441.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 02
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2442.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 03
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2443.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 04
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2444.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 05
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2445.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 06
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2446.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 07
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2447.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 08
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2448.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 09
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2449.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 10
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2450.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 11
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2451.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 12
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2452.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 13
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2453.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 14
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2454.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BOX OFFICE 15
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2455.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix ARABIC 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2465.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix ARABIC 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2466.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix CINEMA 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2467.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix Action
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2468.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix Action plus
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2469.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix Action HD1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2470.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix Action HD2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2471.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix DRAMA
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2472.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix Box CINEMA 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2473.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix KIDS
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2474.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix MOVIES 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2475.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",NF: Netflix MOVIES 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2476.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 11
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2560.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 12
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2561.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 13
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2562.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 14
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2563.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 15
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2564.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 16
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2565.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAX l MOVIES
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2477.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAX l ACTION
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2478.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAX l FAMLIY
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2479.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAX l FANTSY
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2480.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAX l MARVEL
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2481.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAX l CARTOON
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2482.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAX l CLASSIC
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2483.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAX l DOCUMENTARY
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2484.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAX l NETFLIX
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2485.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",FILMAX l SERIES
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2486.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHOWTIME DOCUMENTARY
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2487.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHOWTIME ARABIC
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2488.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHOWTIME DISNEY
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2489.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHOWTIME MASRH
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2490.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHOWTIME MARVEL
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2491.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHOWTIME SERIES
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2492.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHOWTIME TURKISH
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2493.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHOWTIME FANTAISA
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2494.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SHOWTIME ACTION
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2495.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT CINEMA
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2496.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT AFLAM 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2497.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT AFLAM 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2498.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT AFLAM 3
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2499.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT AFLAM 4
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2500.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT ACTION 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2501.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT ACTION 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2502.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT MOVIES 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2503.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT MOVIES 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2504.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BEOUT KIDS
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2505.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K- CINEMA 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2506.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K- CINEMA 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2507.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K- AFLAM 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2508.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K- AFLAM 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2509.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K- AFLAM 3
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2510.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K- AFLAM 4
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2511.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K- ZAMAN
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2512.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K- HORROR
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2513.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K- HINDY
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2514.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",4K- ACTION
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2515.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAX ACTION
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2516.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAX CINEMA 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2517.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAX CINEMA 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2518.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAX AFLAM 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2519.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAX AFLAM 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2520.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAX AFLAM 3
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2521.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MAX AFLAM 4
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2522.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PANDA | ACTION
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2523.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PANDA | HORROR
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2524.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PANDA | INDIA
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2525.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PANDA | MOVIES
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2526.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PANDA | CARTOON
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2527.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PANDA | CLASSIC
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2528.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PANDA | TURKISH
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2529.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Quran TV
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2530.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ACTION Tv
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2531.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AFLAM Arabic
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2532.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aflam CLASSIC
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2533.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AFLAM Hindi
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2534.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AFLAM CARTOON
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2535.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TURKISH Tv
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2536.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",MASRH TV
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2537.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TV CLIP
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2538.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Muslsalat TV
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2539.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OXN l YA HALA CINEMA 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2540.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OXN l YA HALA CINEMA 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2541.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OXN l YA HALA ZAMAN
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2542.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OXN l YA HALA TARAB
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2543.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OXN l YA HALA MOVIES 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2544.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OXN l YA HALA  CLIP
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2545.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OXN l YA HALA INDIA
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2546.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OXN MIX
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2547.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OXN MOVIES 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2548.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OXN ISLAMIC
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2549.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2550.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2551.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 3
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2552.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 4
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2553.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 5
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2554.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 6
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2555.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 7
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2556.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 8
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2557.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 9
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2558.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",OSN PLAY 10
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/2559.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | Masr7 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7999.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | Masr7 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8000.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | MIX 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8001.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | MIX 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8002.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | ACTION 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8003.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | ACTION 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8004.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | CLASSIC 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8005.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | CLASSIC 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8006.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | AFLAM 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8007.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | AFLAM 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8008.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | CINEMA 3
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8009.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | CINEMA 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8010.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HBO | CINEMA 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/8011.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-SPORT-1 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7819.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-SPORT-2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7820.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|  YES-SPORT-3 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7821.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-SPORT-4 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7822.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-SPORT-5-STAR FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7823.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-SPORT-5-PLUS FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7824.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-SPORT-5-GOLD FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7825.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-SPORT-5 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7826.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-SPORT-5-LIVE FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7827.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES SPORT 5 PLUS HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7828.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES SPORT 5 GOLD HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7829.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES SPORT 5 SPORT HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7830.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-ONE FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7831.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-ONE2 FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7832.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES SPORT 3 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7833.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ONE2  HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7834.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ONE1  HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7835.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Comedy HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7836.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Discovery
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7837.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Docu HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7838.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Drama HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7839.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Food
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7840.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes good life
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7841.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes history
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7842.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Teennick
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7843.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Travel
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7844.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Viva PLUS
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7845.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Movies KIDS
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7846.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Movies Comedy
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7847.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Movies ACTION.
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7848.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| yes Movies DRAMA.
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7849.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ChANNEL 20
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7850.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ChANNEL 66
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7851.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ChANNEL 9
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7852.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ChANNEL 12
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7853.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ChANNEL 13
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7854.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Israel Cinema
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7855.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| FOOD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7856.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Junior
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7857.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Ch 24
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7858.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Hala Tv
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7859.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| disney joiunr
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7860.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| MUSIC 24
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7861.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Baby TV
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7862.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YAM TICHONI +
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7863.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| VH!
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7864.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| EURO SPORT 1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7865.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Disney HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7866.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Disney Jr
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7867.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ID
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7868.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Food Channel
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7869.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Food Network HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7870.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Foody
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7871.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| GoodLife
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7872.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Health Channel
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7873.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Hero
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7874.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| History Rus
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7875.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Hop
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7876.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| E CHANELL
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7877.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Kan33
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7878.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| HAGIGA MIZRAHIT
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7879.ts
-#EXTINF:0 tvg-id="natgeo_hd" group-title="Channels",Nat Geo HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7880.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| National Geo Wild
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7881.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Nick Jr
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7882.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| NickTeen
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7883.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Nickelodeon
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7884.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| TLC
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7885.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Travel HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7886.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| VIVA
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7887.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES ACTION HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7888.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ZOOM
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7889.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES SPORT 1 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7890.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES SPORT 2 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7891.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES SPORT 4 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7892.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES SPORT 5 LIVE
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7893.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES SPORT 5 STAR
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7894.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES ONE HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7895.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| -E!
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7896.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| -EUROSPORT
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7897.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| -Eurosport 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7898.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| -Goodlife Ch
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7899.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| -health tv
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7900.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| -israel ciname
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7901.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| -TURKISH DRAMA 2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7902.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| VIVA-Plus
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7903.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| -Yam Tichoni 25
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7904.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| -Yam Tichoni
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7905.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| 24
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7906.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Animal-planet
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7907.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ChANNEL 11
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7908.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Disc. Science
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7909.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| ONE 4K
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7910.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| SPORT 5 4K
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7911.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES -bollywood
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7912.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES- ch 23 HENICKETA
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7913.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES- Discovery HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7914.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-Movies Action
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7915.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-National Geographic
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7916.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-TV Action
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7917.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Yes-TV Comedy
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7918.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| YES-TV Drama
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7919.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT Kidz-cinema family
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7920.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|beIN| beIN Drama FHD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7921.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT-VIVA PREMIUM
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7922.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT 3 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7923.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT 8 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7924.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT BIDUR ISRAELI
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7925.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT BOLLYSHOW
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7926.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT Bollywood HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7927.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT Cinema 1 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7928.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT Cinema 2 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7929.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT Cinema 3 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7930.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT Cinema 4 HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7931.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT Comedy Central HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7932.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT Entertainment
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7933.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT HBO
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7934.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT KIDS
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7935.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT LULI
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7936.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT REAL
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7937.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT STARS KIDS
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7938.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT TURKISH DRAMA-1
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7939.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT TURKISH DRAMA-2
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7940.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT TURKISH DRAMA-3
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7941.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT Yam Tichoni +
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7942.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT Zone HD
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7943.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Home +
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7944.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT-Style-tv-iL
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7945.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT-Reality-iL
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7946.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT-Nofesh-tv
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7947.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos|HOT-DIY-IL
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7948.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|amos| Shopping
-http://my.forcetv.pro:8880/live/3wl0cG38ry/G92654J8qK/7949.ts
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN MOVIES 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11451
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN MOVIES 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11450
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN MOVIES 3 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11449
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN MOVIES 4 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11448
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN SERIES 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11446
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN SERIES 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11445
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN DRAMA HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11444
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN FOX MOVIES ACTION HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11442
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN BOOMERANG HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11441
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN GOURMET
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11440
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN BARAEM HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11439
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN BE JUNIOR
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11438
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN FATAFEAT
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11437
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN FOX LIFE HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11436
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN JEEM HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11435
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN NAT GEO
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11434
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN NAT GEO WILD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11432
+
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| POP BEIN SPORTS HIGHLIGHTS
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/475033
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORT HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11430
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS NEWS HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11428
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS NEWS FHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/455564
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS NBA HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11429
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN PREMIUM 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139074
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN PREMIUM 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139073
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN PREMIUM 3 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139072
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS XTRA 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/146394
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS XTRA 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/146395
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11427
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11426
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11425
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 4 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11424
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 5 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11423
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 6 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11422
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 7 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11421
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 ENGLISH HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139080
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 ENGLISH HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139079
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 ENGLISH HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139078
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 FRENCH HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139077
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 FRENCH HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139076
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 FRENCH HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139075
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343590
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343589
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343588
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 3 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343587
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN PREMIUM 1 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139083
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN PREMIUM 2 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139082
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN PREMIUM 3 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139081
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS XTRA 1 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139091
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS XTRA 2 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139090
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11406
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11405
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11404
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 4 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11403
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 5 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11402
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 6 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11401
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 7 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11400
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 ENGLISH UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139089
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 ENGLISH UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139088
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 ENGLISH UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139087
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 FRENCH UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139086
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 FRENCH UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139085
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 FRENCH UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139084
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343582
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 1 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343581
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 2 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343580
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 3 UHD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343579
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/304810
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS PREMIUM 1 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66045
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS PREMIUM 2 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66046
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS PREMIUM 3 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66047
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS XTRA 1 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66052
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS XTRA 2 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66053
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66054
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66057
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66058
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 4 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66048
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 5 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66049
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 6 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66050
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 7 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66051
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 ENGLISH 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66059
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 ENGLISH 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66060
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 ENGLISH 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66061
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR|  BEIN SPORTS 1 FRENCH
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/66062
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 FRENCH 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139059
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 FRENCH 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139060
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343594
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 1 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343593
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 2 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343592
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 3 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343591
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 PREMIUM
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305205
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 PREMIUM
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305204
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 PREMIUM
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305203
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305202
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305201
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305200
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 4
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305199
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 5
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305198
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 6
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305197
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 7
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305196
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 EN
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305195
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 EN
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305194
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 EN
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/305193
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11392
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS NEWS SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11391
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS NBA SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11390
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS PREMIUM 1 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11389
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS PREMIUM 2 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11388
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS PREMIUM 3 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11387
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS XTRA 1 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139071
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS XTRA 2 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139070
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139061
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139062
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139063
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 4 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11386
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 5 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11385
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 6 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11384
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 7 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11383
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 ENGLISH SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139069
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 ENGLISH SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139068
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 ENGLISH SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139067
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 1 FRENCH SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139066
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 2 FRENCH SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139065
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS 3 FRENCH SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/139064
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343586
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 1 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343585
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 2 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343584
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| BEIN SPORTS AFC 3 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/343583
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| ALKASS 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/484757
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| ALKASS 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/484756
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| ALKASS 3 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/500492
+#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| ALKASS 4 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/484754
+
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| STARZPLAY SPORT 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/426440
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| STARZPLAY SPORTS HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/426438
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| STARZPLAY SPORT SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/426439
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| STARZ PLAY SPORT 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/425612
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| STARZ PLAY SPORT 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/425611
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| STARZ PLAY SPORT 3 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/425610
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| STARZPLAY CRICLIFE 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/439745
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| STARZPLAY CRICLIFE 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/439749
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORT PREMIUM 1 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/426437
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORT PREMIUM 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/426436
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORT PREMIUM 1 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/426435
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORT PREMIUM 2 4K
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/426434
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORT PREMIUM 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/426433
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORT PREMIUM 2 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/426432
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS PREMIUM 1 HD*
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/434579
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS PREMIUM 1 HDR
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/434578
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS PREMIUM 1 HEVC
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/434577
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS PREMIUM 2 HD*
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/434576
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS PREMIUM 2 HDR
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/434575
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS PREMIUM 2 HEVC
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/434574
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS ASIA 1 HDR
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/434583
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS ASIA 1
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/434582
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS ASIA 1 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/478926
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS ASIA 2 HDR
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/434581
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS ASIA 2
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/434580
+#EXTINF:0 tvg-id="ext" group-title="ARAB| STARZ PLAY/AD SPORT PREMIUM",|AR| AD SPORTS ASIA 2 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/478927
+
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC NEWS
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/501047
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/501046
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/501045
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC 3 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/501044
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC 4 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/501043
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC 5 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/501042
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC 6 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/501041
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC 7 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/501040
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC EXTRA 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/501049
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC EXTRA 1 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/505274
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC EXTRA 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/501048
+#EXTINF:0 tvg-id="ext" group-title="ARAB| SSC",|AR| SSC EXTRA 2 SD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/505273
+
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| AL AOULA INTER
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11089
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| AL AOULA INTER HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11088
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| 2M MAROC
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11086
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| 2M MAROC NATIONAL
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11085
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| ARRYADIA HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11084
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| ARRABIAA HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11083
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| LAAYOUNE TV HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11087
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| AL MAGHRIBIA HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11082
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| ASSADISSA HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11081
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| AFLAM 7 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11080
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TV TAMAZIGHT HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11079
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| MEDI 1 TV
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11078
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| MEDI 1 TV ARAB HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11076
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| MEDI 1 AFRIQUE HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/436405
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TELE MAROC
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11075
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| CHADA FM
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11074
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| AL ONS TV
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11073
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| CANAL ATLAS
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11072
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| MBC 5 MAROC
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11071
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| M24 MAROC
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11070
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| AL OULA +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252071
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| AL OULA HD +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252070
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| AL OULA INTER +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252069
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| 2M MAROC +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252068
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| ARRYADIA HD +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252067
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| ARRIADIA +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252066
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| ARRABIAA +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252065
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| AL MAGHRIBIA +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252064
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| ASSADISSA HD +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252063
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| AFLAM 7 HD +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252062
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TAMAZIGHT +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252061
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| MEDI 1 TV +6H
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/252060
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT AL OULA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11064
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT AL OULA HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11063
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT AL OULA INTER
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11062
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT 2M MAROC
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11061
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT ARRYADIA HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11060
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT ARRIADIA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11059
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT ARRABIA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11058
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT AL MAGHRIBIA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11057
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT ASSADISSA HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11056
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT AFLAM 7 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11055
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT TAMAZIGHT
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11054
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| TNT MEDI 1 TV
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11053
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| WANASAH TV
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11046
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| MAZZIKA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11045
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP SERIES 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/351901
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP SERIES 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/351955
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP SERIES 3 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/351975
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP DRAMA 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/178907
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP DARMA 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/289482
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP SITCOM 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/178876
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP SITCOM 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/178874
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP SITCOM 3 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/178875
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP COMEDY 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/289512
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP COMEDY 2 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/290818
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MOVIES MOUDAWALA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/230852
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP ABDELKADER KHARRAZ
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/486293
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP HIKAYAT NIHAYA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/341426
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP EL FAD TV HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/304816
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP DOCU AMOUDDOU
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/289533
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP DOCU NATURE
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/79105
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP DOCU RELAXATION
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/229322
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP DOCU SHAHED ALA ALASR شاهد على العصر
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/369693
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP ABD LATIF ZAHID
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/338549
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP ABOU SAAD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/341371
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP AL QISA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/338580
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP AL QURAAN II
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/338593
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP AL RAHMAH
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/338594
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP AL SURAH
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/338916
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP BACHIR ISSAM
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/341404
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP HICHAM ELHERRAZ QURAN
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/339098
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP ISLAMIC 1 HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/289483
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP QURAN TV HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/289484
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP YASSINE EL AMRI
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/338601
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP COOKING CHOUMICHA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/289605
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP COOKING WORLD HD
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/289701
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP JUST FOR LAUGHS
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/232837
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS BOOBA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/229524
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS DIANA PALY
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/299730
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS FAIRY TALES
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/230382
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS FIREMAN SAM
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/289595
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS GRIZZY
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/230666
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS LEARNING
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/230259
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS MASHA AND THE BEAR
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/299733
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS OGGY
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/230857
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS RABBIDS
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/230877
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS SCOOBY DOO
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/229714
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS SHAUN THE SHEEP
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/304817
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS SPONGEBOB
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/299732
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS VLAD AND NIKI
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/229121
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP KIDS ZIG AND SHARKO
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/287621
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC ANDALUSIAN
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/492395
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC ATLAS
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480472
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC CHAABI
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480473
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC CHILL
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/302131
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC CLASSIC
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480475
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC COVER
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480477
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC DEEP HOUSE
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/492691
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC GNAWA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/492419
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC HITS
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/492684
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC HOUSE
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/492685
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC KIDS
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480469
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC LOFI
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480508
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC MIX
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480480
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC RAI
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480482
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC RAP MIX
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480483
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC RAP TV
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480484
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC RELIGIOUS
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480525
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC REMIX
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480488
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC RIF
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480485
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC SAHARA
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480486
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC SLOWED
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480489
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC SOUL DEEP
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480528
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC SOUSS
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/492511
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP MUSIC TRAP
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480487
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP COKE STUDIO
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480476
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP FESTIVAL MUSIC
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480504
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP HIT RADIO
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480470
+#EXTINF:0 tvg-id="ext" group-title="ARAB| MOROCCO المغرب",|MA| POP QANUN MUSIC
+http://line.crystal-ott.com:80/haytam/JREM4RN8HG/480620
 
 
-
-#################################################
 #################################################
 
 
