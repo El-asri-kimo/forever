@@ -1,41 +1,4 @@
 #EXTM3U
-#################################################
-
-#EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN MOVIES 1 HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11451
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN MOVIES 2 HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11450
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN MOVIES 3 HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11449
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN MOVIES 4 HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11448
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN SERIES 1 HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11446
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN SERIES 2 HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11445
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN DRAMA HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11444
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN FOX MOVIES ACTION HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11442
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN BOOMERANG HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11441
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN GOURMET
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11440
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN BARAEM HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11439
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN BE JUNIOR
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11438
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN FATAFEAT
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11437
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN FOX LIFE HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11436
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN JEEM HD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11435
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN NAT GEO
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11434
-#EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN MOVIES",|AR| BEIN NAT GEO WILD
-http://line.crystal-ott.com:80/haytam/JREM4RN8HG/11432
 
 #EXTINF:0 tvg-id="ext" group-title="ARAB| BEIN SPORTS",|AR| POP BEIN SPORTS HIGHLIGHTS
 http://line.crystal-ott.com:80/haytam/JREM4RN8HG/475033
