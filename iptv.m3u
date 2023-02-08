@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="Arabic Channel",AR: Viking 24/7
+http://ky-iptv.com/live/Tingley01/Password01/175715.ts
 #EXTINF:0 tvg-id="ext" group-title="Bein Sport Local",BeIN_Sport_NBA_HD
 http://server.sibfungold.info:8080/iptvchannels/7P1Wa27P1Wa2x4qTx4qT/49691
 #EXTINF:0 tvg-id="ext" group-title="Bein Sport Local",BeIN_Sport_01_SD
