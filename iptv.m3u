@@ -3278,3 +3278,58 @@ http://familyplus.me:8080/77889900/1122334455/300585
 http://familyplus.me:8080/77889900/1122334455/300586
 
 
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: BT Sport 1 HD
+http://familyplus.me:8080/77889900/1122334455/116083
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: BT Sport 2 HD
+http://familyplus.me:8080/77889900/1122334455/116084
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: BT Sport 3 HD
+http://familyplus.me:8080/77889900/1122334455/116085
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Ungrouped",UK: BT Sport 1 HD
+http://familyplus.me:8080/77889900/1122334455/68472
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Ungrouped",UK: BT Sport 2 HD
+http://familyplus.me:8080/77889900/1122334455/68473
+#EXTINF:0 tvg-id="BTSport1.uk" group-title="Ungrouped",UK: BT Sport 1 FHD
+http://familyplus.me:8080/77889900/1122334455/69581
+#EXTINF:0 tvg-id="BTSport2.uk" group-title="Ungrouped",UK: BT Sport 2 FHD
+http://familyplus.me:8080/77889900/1122334455/69582
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Ungrouped",UK: BT Sport 3 FHD
+http://familyplus.me:8080/77889900/1122334455/69583
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK: BT Sport 4 FHD
+http://familyplus.me:8080/77889900/1122334455/383751
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK | Sport: Box Nation HD
+http://familyplus.me:8080/77889900/1122334455/154432
+#EXTINF:0 tvg-id="BTSport3.uk" group-title="Ungrouped",UK: BT Sport 3 HD
+http://familyplus.me:8080/77889900/1122334455/68474
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",UK | IR: Eir Sports 1 FHD
+http://familyplus.me:8080/77889900/1122334455/68478
+
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: Sky Sports Action HD
+http://familyplus.me:8080/77889900/1122334455/116088
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: Sky Sports Arena HD
+http://familyplus.me:8080/77889900/1122334455/116089
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: Sky Sports Cricket HD
+http://familyplus.me:8080/77889900/1122334455/116090
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: Sky Sports F1 HD
+http://familyplus.me:8080/77889900/1122334455/116091
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: Sky Sports Football HD
+http://familyplus.me:8080/77889900/1122334455/116092
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: Sky Sports Golf HD
+http://familyplus.me:8080/77889900/1122334455/116093
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: Sky Sports Main Event HD
+http://familyplus.me:8080/77889900/1122334455/116094
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",Spt-VIP| UK: Sky Sports Premier League HD
+http://familyplus.me:8080/77889900/1122334455/116095
+
+
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",De: Sport Digital Fussball HD +
+http://familyplus.me:8080/77889900/1122334455/393139
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",De: Sky Sport Premier League FHD
+http://familyplus.me:8080/77889900/1122334455/362923
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",De: Sky Sport Premier League HD +
+http://familyplus.me:8080/77889900/1122334455/393135
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",De: Sky Sport Top Event FHD
+http://familyplus.me:8080/77889900/1122334455/362924
+#EXTINF:0 tvg-id="ext" group-title="Ungrouped",De: Sky Sport Top Event HD +
+http://familyplus.me:8080/77889900/1122334455/393136
+
+
