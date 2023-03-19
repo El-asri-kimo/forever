@@ -2440,582 +2440,1149 @@ http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64665
 #EXTINF:0 tvg-id="ext" group-title="☆ GERMANY ☆",|DE| SKY CINEMA EMOTION HD
 http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64666
 
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: CANAL+ 6TER HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64704
-#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="☆ FRANCE ☆ ",FR: CANAL+ Cinema FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64705
-#EXTINF:0 tvg-id="Comedie.fr" group-title="☆ FRANCE ☆ ",FR: CANAL+ COMEDIE
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64706
-#EXTINF:0 tvg-id="CANALplusDECALE.fr" group-title="☆ FRANCE ☆ ",FR: CANAL+ Decale FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64707
-#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="☆ FRANCE ☆ ",FR: CANAL+ Family FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64708
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="☆ FRANCE ☆ ",FR: CANAL+ FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64709
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: CANAL+ FRISSON HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64710
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: CANAL+ J HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64711
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: CANAL+ M6 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64712
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: CANAL+ Play 1 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64713
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: CANAL+ PREMIER HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64714
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="☆ FRANCE ☆ ",FR: CANAL+ Series FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64715
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="☆ FRANCE ☆ ",FR: CANAL+ Sport FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64716
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: CANAL+ TCM HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64717
-#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="☆ FRANCE ☆ ",FR: CARTOON NETWORK FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64718
-#EXTINF:0 tvg-id="ChassePeche.fr" group-title="☆ FRANCE ☆ ",FR: CHASSE ET PECHE HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64719
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="☆ FRANCE ☆ ",FR: Cherie 25 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64720
-#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="☆ FRANCE ☆ ",FR: CINE+ CLASSIC FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64721
-#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="☆ FRANCE ☆ ",FR: CINE+ CLUB FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64722
-#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="☆ FRANCE ☆ ",FR: CINE+ EMOTION FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64723
-#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="☆ FRANCE ☆ ",FR: CINE+ FAMIZ FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64724
-#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="☆ FRANCE ☆ ",FR: CINE+ FRISSON FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64725
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: CINE+ FX HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64726
-#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="☆ FRANCE ☆ ",FR: CINE+ PREMIER FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64727
-#EXTINF:0 tvg-id="Comedie.fr" group-title="☆ FRANCE ☆ ",FR: COMEDIE
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64728
-#EXTINF:0 tvg-id="Comedie.fr" group-title="☆ FRANCE ☆ ",FR: COMEDIE+ FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64729
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="☆ FRANCE ☆ ",FR: Crime DISTRICT FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64730
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: Crime+ Investigation
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64731
-#EXTINF:0 tvg-id="Discovery.fr" group-title="☆ FRANCE ☆ ",FR: Discovery Channel FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64732
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: Discovery FRANCE
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64734
-#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="☆ FRANCE ☆ ",FR: Discovery Science FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64735
-#EXTINF:0 tvg-id="France24fr.fr" group-title="☆ FRANCE ☆ ",FR: FRANCE 24 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64736
-#EXTINF:0 tvg-id="France3.fr" group-title="☆ FRANCE ☆ ",FR: FRANCE 3 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64737
-#EXTINF:0 tvg-id="France4.fr" group-title="☆ FRANCE ☆ ",FR: FRANCE 4 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64738
-#EXTINF:0 tvg-id="France5.fr" group-title="☆ FRANCE ☆ ",FR: FRANCE 5 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64739
-#EXTINF:0 tvg-id="Gulli.fr" group-title="☆ FRANCE ☆ ",FR: GULLI FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64742
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: LA UNE
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64744
-#EXTINF:0 tvg-id="LCI.fr" group-title="☆ FRANCE ☆ ",FR: LCI FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64745
-#EXTINF:0 tvg-id="MTV.fr" group-title="☆ FRANCE ☆ ",FR: MTV HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64746
-#EXTINF:0 tvg-id="NationalGeographic.fr" group-title="☆ FRANCE ☆ ",FR: NAT GEO FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64748
-#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="☆ FRANCE ☆ ",FR: nickelodeon HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64750
-#EXTINF:0 tvg-id="NickJr.fr" group-title="☆ FRANCE ☆ ",FR: nickelodeon Junior HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64751
-#EXTINF:0 tvg-id="ext" group-title="☆ FRANCE ☆ ",FR: nickelodeon Teen HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64752
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="☆ FRANCE ☆ ",FR: PARAMOUNT Channel FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/64753
-
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_CANAL+ SPORT_HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65556
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_CANAL + SPORT_SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65557
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_ RMC Sport 1 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65558
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_ RMC Sport 2 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65559
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_RMC Sport 1 bk
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65560
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_RMC Sport 2 bk
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65561
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_FOOT 24/24 FullHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65562
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_FOOT 24/24 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65563
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_Eurosport 1 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65564
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_Eurosport 2 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65565
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_INFOSPOR FullHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65566
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_INFOSPOR HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65567
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_AUTO MOTO HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65568
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_EXTREME SPORTS HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65569
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_Golf + HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65570
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_RMC SPORT LIVE 5
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65571
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_RMC SPORT LIVE 6
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65572
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_RMC SPORT LIVE 7
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65573
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_RMC SPORT LIVE 8
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65574
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_RMC SPORT LIVE 9
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65575
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_BeIN.SPORTS.MAX4
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65576
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_BeIN.SPORTS.MAX5
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65577
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_BeIN.SPORTS.MAX6
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65578
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_BeIN.SPORTS.MAX7
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65579
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_BeIN.SPORTS.MAX8
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65580
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_BeIN.SPORTS.MAX9
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65581
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_BeIN.SPORTS.MAX10
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65582
-#EXTINF:0 tvg-id="ext" group-title="** Ligue 1 (Francia) **⚽",FR_AUTO MOTO BK
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65583
-
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Espnd HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65650
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nfl Network HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65651
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nba Tv HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65652
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nba 01 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65653
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nba 02 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65654
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nba 03 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65655
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nba 04 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65656
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nba 05 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65657
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nba 06 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65658
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nba 07 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65659
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nba 08 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65660
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nba 09 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65661
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nhl Network HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65662
-#EXTINF:0 tvg-id="ext" group-title="** N.B.A. **",USA | Nhl 01 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65663
-
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Rai 1 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65672
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Rai 2 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65673
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Rai 3 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65674
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",R.A.I.  24h.
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65675
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Rai 1 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65676
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Rai Italia FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65677
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Rai Premium HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65678
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",Rai Italia HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65679
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Rai YoYo SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65680
-#EXTINF:0 tvg-id="Italia2.it" group-title="☆ ITALIA ☆",Mediaset Italia
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65681
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | 51 Radio TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65682
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | AB Channel HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65683
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Alto Adige TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65684
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Animal Planet
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65685
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Antenna 3
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65686
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Arte Network Orler
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65687
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Aurora Arte
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65688
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Automoto TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65689
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Baby TV SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65690
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | BLAZE FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65691
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Boing SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65692
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Boomerang HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65693
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Brescia Video HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65694
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | CAFE 24 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65695
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Canale 2 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65696
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Mediaset Canale 5
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65697
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Canale 7 SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65698
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Canale 8 SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65699
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Canale 10 SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65700
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Canale 21 Lazio
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65701
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Mediaset Canale 5 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65702
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Cartoon Network HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65703
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Mediaset Cartoonito SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65704
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Cielo FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65705
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Classica FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65707
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Comedy Central HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65708
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Company TV HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65709
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Sky Investigation FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65710
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | DEA Junior FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65711
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Deejay TV SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65712
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Discovery Channel SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65713
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Discovery Focus HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65714
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Discovery Food Network HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65715
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Discovery K2 SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65716
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Discovery Nove HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65717
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Discovery Real Time FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65718
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Discovery Giallo FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65719
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Disney XD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65720
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Discovery DMAX FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65721
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Discovery DMAX HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65722
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Eagle Cinema Prima Visione FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65723
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Donna TV SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65724
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Espansione TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65725
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Esperia TV 18 Calabria
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65726
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Eden 86 SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65727
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | eTV Marche HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65728
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Euronews HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65729
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Eurosport 1 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65730
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Eurosport 1 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65731
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Eurosport 2 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65732
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Eurosport 2 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65733
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Fano TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65734
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Fashion TV FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65735
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Italian Fishing TV SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65736
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | FM italia TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65737
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | FOX Comedy FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65738
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | FOX Crime HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65739
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | FOX HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65740
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Discovery Frisbee SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65741
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Gambero Rosso HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65742
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Globus TV Sicilia HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65743
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Gold TV Roma HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65744
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Granducato TV Toscana
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65745
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | History Channel HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65746
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | History LAB SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65747
-#EXTINF:0 tvg-id="ext" group-title="☆ ITALIA ☆",IT | Icaro TV HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65748
-
-#EXTINF:0 tvg-id="HBOAdria.rs" group-title="** HBO T.V. **",HBO SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65855
-#EXTINF:0 tvg-id="HBO.hu" group-title="** HBO T.V. **",HBO  FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65856
-#EXTINF:0 tvg-id="HBO.hu" group-title="** HBO T.V. **",HBO HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65857
-#EXTINF:0 tvg-id="HBO2.pl" group-title="** HBO T.V. **",HBO 2 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65858
-#EXTINF:0 tvg-id="HBO2.pl" group-title="** HBO T.V. **",HBO 2 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65860
-#EXTINF:0 tvg-id="Hbofamily.br" group-title="** HBO T.V. **",HBO Family SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65861
-#EXTINF:0 tvg-id="HBOFamilyHD.cl" group-title="** HBO T.V. **",HBO Family HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65862
-#EXTINF:0 tvg-id="Max.br" group-title="** HBO T.V. **",HBO MUNDI  HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65864
-#EXTINF:0 tvg-id="Max.br" group-title="** HBO T.V. **",HBO MUNDI HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65865
-#EXTINF:0 tvg-id="Hboplus.br" group-title="** HBO T.V. **",HBO Plus SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65866
-#EXTINF:0 tvg-id="Hboplus.br" group-title="** HBO T.V. **",HBO Plus FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65867
-#EXTINF:0 tvg-id="Hboplus.br" group-title="** HBO T.V. **",HBO Plus HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65868
-#EXTINF:0 tvg-id="ext" group-title="** HBO T.V. **",HBO POP HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65869
-#EXTINF:0 tvg-id="HBOSignature.mx" group-title="** HBO T.V. **",HBO Signature
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65870
-#EXTINF:0 tvg-id="HBOSignature.us" group-title="** HBO T.V. **",HBO Signature  FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65871
-#EXTINF:0 tvg-id="ext" group-title="** HBO T.V. **",HBO Signature HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65872
-#EXTINF:0 tvg-id="Maxprime.br" group-title="** HBO T.V. **",HBO XTREME SD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65873
-#EXTINF:0 tvg-id="Maxprime.br" group-title="** HBO T.V. **",HBO XTREME FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65874
-
-#EXTINF:0 tvg-id="AmericanHeroesChannel.us" group-title="☆ U.S.A. ☆",US: American Heroes Channel HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65875
-#EXTINF:0 tvg-id="AnimalPlanet.us" group-title="☆ U.S.A. ☆",US: ANIMAL PLANET
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65876
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: BOUNCE HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65877
-#EXTINF:0 tvg-id="Bravo.us" group-title="☆ U.S.A. ☆",US: BRAVO
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65878
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: BUZZR TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65879
-#EXTINF:0 tvg-id="CMT.us" group-title="☆ U.S.A. ☆",US: CMT
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65880
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: CONTV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65881
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: COURT TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65882
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: COZI TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65883
-#EXTINF:0 tvg-id="WDCWWashingtonDCCW.us" group-title="☆ U.S.A. ☆",US: CW FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65884
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: DABL
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65885
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: Discovery Family
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65886
-#EXTINF:0 tvg-id="DiscoveryLife.us" group-title="☆ U.S.A. ☆",US: Discovery Life
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65887
-#EXTINF:0 tvg-id="Velocity.us" group-title="☆ U.S.A. ☆",US: DISCOVERY VELOCITY
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65888
-#EXTINF:0 tvg-id="FoxBusinessNetwork.us" group-title="☆ U.S.A. ☆",US: Fox Business
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65889
-#EXTINF:0 tvg-id="FuseHD.us" group-title="☆ U.S.A. ☆",US: Fuse
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65890
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: ANIMAL PLANET WEST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65891
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: GetTV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65892
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: GRIT TV HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65893
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: HGTV EAST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65894
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: HGTV WEST FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65895
-#EXTINF:0 tvg-id="History.us" group-title="☆ U.S.A. ☆",US: History
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65896
-#EXTINF:0 tvg-id="HLN.us" group-title="☆ U.S.A. ☆",US: HLN
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65897
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: HSN
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65898
-#EXTINF:0 tvg-id="IONTelevision.us" group-title="☆ U.S.A. ☆",US: ION TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65901
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: LAFF TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65902
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: Lifetime Movie Network
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65903
-#EXTINF:0 tvg-id="MTV.us" group-title="☆ U.S.A. ☆",US: MTV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65904
-#EXTINF:0 tvg-id="MTV2.us" group-title="☆ U.S.A. ☆",US: MTV2
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65905
-#EXTINF:0 tvg-id="NationalGeographic.us" group-title="☆ U.S.A. ☆",US: NAT GEO
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65906
-#EXTINF:0 tvg-id="NatGeoWILD.us" group-title="☆ U.S.A. ☆",US: Nat Geo Wild
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65907
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: NAUTICAL CHANNEL
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65908
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: Nova
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65909
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",USA: OUTSIDE TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65910
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: PBS US
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65911
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: PURSUIT
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65912
-#EXTINF:0 tvg-id="ReelzChannelHD.us" group-title="☆ U.S.A. ☆",US: Reelz HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65913
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: SCI
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65914
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: SMITHSONIAN
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65915
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: ANIMAL PLANET EAST HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65916
-#EXTINF:0 tvg-id="Discovery.us" group-title="☆ U.S.A. ☆",US: Discovery Channel
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65917
-#EXTINF:0 tvg-id="DisneyChannelEast.us" group-title="☆ U.S.A. ☆",US: Disney Channel
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65918
-#EXTINF:0 tvg-id="DisneyJunior.us" group-title="☆ U.S.A. ☆",US: Disney Jr
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65919
-#EXTINF:0 tvg-id="DisneyXD.us" group-title="☆ U.S.A. ☆",US: Disney XD HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65920
-#EXTINF:0 tvg-id="NationalGeographic.us" group-title="☆ U.S.A. ☆",US: National Geographic
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65921
-#EXTINF:0 tvg-id="NickelodeonEast.us" group-title="☆ U.S.A. ☆",US: NICKELODEON
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65922
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",USA: GOLTV (ENGLISH)
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65923
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",USA: SPORTSNET WEST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65924
-#EXTINF:0 tvg-id="CartoonNetwork.us" group-title="☆ U.S.A. ☆",US: Cartoon Network
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65925
-#EXTINF:0 tvg-id="CartoonNetworkWest.us" group-title="☆ U.S.A. ☆",US: Cartoon Network WEST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65926
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: Disney Channel EAST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65927
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: Disney Channel WEST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65928
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: Disney Jr EAST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65929
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: Disney Jr WEST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65930
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: Disney XD EAST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65931
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: Disney XD WEST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65932
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: NICK JR EAST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65933
-#EXTINF:0 tvg-id="NickelodeonEast.us" group-title="☆ U.S.A. ☆",US: NICKELODEON EAST
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65934
-#EXTINF:0 tvg-id="NickJr.us" group-title="☆ U.S.A. ☆",US: NICK JR
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65935
-#EXTINF:0 tvg-id="Nicktoons.us" group-title="☆ U.S.A. ☆",US: NICKTOONS
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65936
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: PBS KIDS
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65937
-#EXTINF:0 tvg-id="TeenNick.us" group-title="☆ U.S.A. ☆",US: TEENNICK
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65938
-#EXTINF:0 tvg-id="NickelodeonWest.us" group-title="☆ U.S.A. ☆",US: Nickelodeon West
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65939
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: UNIVERSAL KIDS
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65940
-#EXTINF:0 tvg-id="Boomerang.us" group-title="☆ U.S.A. ☆",US: BOOMERANG FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65941
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",US: BABY TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65942
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",USA: MMA Junkie
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65943
-#EXTINF:0 tvg-id="ext" group-title="☆ U.S.A. ☆",USA: Stadium
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/65944
-
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | SRF 1
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66309
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | SRF 1 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66310
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | SRF 1 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66311
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | SRF 2 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66312
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | SRF 2 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66313
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | TV24 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66314
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | TV25 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66315
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | SRF info
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66316
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | SRF info HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66317
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | Tele Basel FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66318
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | Tele M1 HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66319
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | Tele M1 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66320
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH-Blue Sport 1
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66321
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | Blue Sport 1 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66322
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH-Blue Sport 2
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66323
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | Blue Sport 2 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66324
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH-Blue Sport Event 1
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66325
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | Blue Sport Event 1 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66326
-#EXTINF:0 tvg-id="ext" group-title="☆ SWISS ☆",CH | Blue Sport Event 2 FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66327
-
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | Cali TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66357
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | Canal Tro (L)
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66361
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | Cantinazo
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66363
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | Cantinazo HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66364
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | Caracol FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66365
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | Caracol FHD OPC 2
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66366
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | Caracol FHD OPC 3
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66367
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | CARACOL FHD P
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66368
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | Caracol HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66369
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | City TV
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66371
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | DHE HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66373
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | El Tiempo
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66374
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | La Kalle HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66375
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | NTN 24
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66376
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | RCN FHD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66377
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | RCN HD
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66378
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | RCN HD OPC 4
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66381
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | RCN Internacional
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66382
-#EXTINF:0 tvg-id="ext" group-title="☆ COLOMBIA ☆",COLOMBIA | RCN Novelas
-http://redlighting.servep2p.com:8080/grupomike9/QbX6L8er5B/66383
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] TF1 FR HD
+http://supersonictv.live:25461/032451/181022/84809
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] TEVA HD
+http://supersonictv.live:25461/032451/181022/84810
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] TELETOON HD
+http://supersonictv.live:25461/032451/181022/84811
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] TCM CINIMA HD
+http://supersonictv.live:25461/032451/181022/84812
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] SERIE CLUB HD
+http://supersonictv.live:25461/032451/181022/84813
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] SEASON HD
+http://supersonictv.live:25461/032451/181022/84814
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] SCIENCE VIE HD
+http://supersonictv.live:25461/032451/181022/84815
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RTS UN HD
+http://supersonictv.live:25461/032451/181022/84816
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RTS DEUX HD
+http://supersonictv.live:25461/032451/181022/84817
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RTL9 HD
+http://supersonictv.live:25461/032451/181022/84818
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC Sport Live 1 HD
+http://supersonictv.live:25461/032451/181022/84819
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC Sport Live 2 HD
+http://supersonictv.live:25461/032451/181022/84820
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC Sport Live 3 HD
+http://supersonictv.live:25461/032451/181022/84821
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC Sport Live 4 HD
+http://supersonictv.live:25461/032451/181022/84822
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC Sport Live 5 HD
+http://supersonictv.live:25461/032451/181022/84823
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC Sport Live 6 HD
+http://supersonictv.live:25461/032451/181022/84824
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC Sport Live 7 HD
+http://supersonictv.live:25461/032451/181022/84825
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC Sport Live 8 HD
+http://supersonictv.live:25461/032451/181022/84826
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC Sport Live 9 HD
+http://supersonictv.live:25461/032451/181022/84827
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC Sport Live 10 HD
+http://supersonictv.live:25461/032451/181022/84828
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC SPORT ACCESS 1 HD
+http://supersonictv.live:25461/032451/181022/84829
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC SPORT ACCESS 2 HD
+http://supersonictv.live:25461/032451/181022/84830
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC SPORT ACCESS 3 HD
+http://supersonictv.live:25461/032451/181022/84831
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC SPORT NEWS HD
+http://supersonictv.live:25461/032451/181022/84832
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC STORY HD
+http://supersonictv.live:25461/032451/181022/84833
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RMC DECOUVERTE HD
+http://supersonictv.live:25461/032451/181022/84834
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] RFM TV MUSIC HD
+http://supersonictv.live:25461/032451/181022/84835
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] PLANETE CI HD
+http://supersonictv.live:25461/032451/181022/84836
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] PLANETE  A E HD
+http://supersonictv.live:25461/032451/181022/84837
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] PIWI   HD
+http://supersonictv.live:25461/032451/181022/84838
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] PARIS PREMIERE HD
+http://supersonictv.live:25461/032451/181022/84839
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] PARAMOUNT CHANNEL HD
+http://supersonictv.live:25461/032451/181022/84840
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] OCS MAX HD
+http://supersonictv.live:25461/032451/181022/84841
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] OCS GEANTS HD
+http://supersonictv.live:25461/032451/181022/84842
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] OCS CITY HD
+http://supersonictv.live:25461/032451/181022/84843
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] OCS CHOC HD
+http://supersonictv.live:25461/032451/181022/84844
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] NICKELODEON JUN HD
+http://supersonictv.live:25461/032451/181022/84845
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] NICKELODEON HD
+http://supersonictv.live:25461/032451/181022/84846
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] NATIONAL GEO HD
+http://supersonictv.live:25461/032451/181022/84847
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] NAT GEO WILD HD
+http://supersonictv.live:25461/032451/181022/84848
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] MY CUISINE HD
+http://supersonictv.live:25461/032451/181022/84849
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] MOTORSPORT.TV HD
+http://supersonictv.live:25461/032451/181022/84850
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] MEZZO LIVE HD
+http://supersonictv.live:25461/032451/181022/84851
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] MEZZO FR HD
+http://supersonictv.live:25461/032451/181022/84852
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] MCM HD
+http://supersonictv.live:25461/032451/181022/84853
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] MCM  POP HD
+http://supersonictv.live:25461/032451/181022/84854
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] MANGAS HD
+http://supersonictv.live:25461/032451/181022/84855
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] M6 FR HD
+http://supersonictv.live:25461/032451/181022/84856
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] LCP 24 HD
+http://supersonictv.live:25461/032451/181022/84857
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] LCI HD
+http://supersonictv.live:25461/032451/181022/84858
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] L'EQUIPE 21 HD
+http://supersonictv.live:25461/032451/181022/84859
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] HISTOIRE HD
+http://supersonictv.live:25461/032451/181022/84860
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] GULLI HD
+http://supersonictv.live:25461/032451/181022/84861
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] GOLF+ HD
+http://supersonictv.live:25461/032451/181022/84862
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] GOLF CHANNEL HD
+http://supersonictv.live:25461/032451/181022/84863
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] GAME ONE HD
+http://supersonictv.live:25461/032451/181022/84864
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] FRANCE O HD
+http://supersonictv.live:25461/032451/181022/84865
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] FRANCE 5HD
+http://supersonictv.live:25461/032451/181022/84866
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] FRANCE 4HD
+http://supersonictv.live:25461/032451/181022/84867
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] FRANCE 3HD
+http://supersonictv.live:25461/032451/181022/84868
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] FRANCE 2HD
+http://supersonictv.live:25461/032451/181022/84869
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] FRANCE 24 HD
+http://supersonictv.live:25461/032451/181022/84870
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] EURONEWS HD
+http://supersonictv.live:25461/032451/181022/84871
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] E ENTERTAINEMENT HD
+http://supersonictv.live:25461/032451/181022/84872
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BOOMERANG
+http://supersonictv.live:25461/032451/181022/84873
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BOING HD
+http://supersonictv.live:25461/032451/181022/84874
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] DISNEY XD HD
+http://supersonictv.live:25461/032451/181022/84875
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] DISNEY JUNIOR HD
+http://supersonictv.live:25461/032451/181022/84876
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] DISNEY CINEMA HD
+http://supersonictv.live:25461/032451/181022/84877
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] DISNEY CHANNEL HD
+http://supersonictv.live:25461/032451/181022/84878
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] DISCOVERY SCi HD
+http://supersonictv.live:25461/032451/181022/84879
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] DISCOVERY INVESTIGATION HD
+http://supersonictv.live:25461/032451/181022/84880
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] DISCOVERY HD
+http://supersonictv.live:25461/032451/181022/84881
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] DISCOVERY FAMLIY HD
+http://supersonictv.live:25461/032451/181022/84882
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CRIME DISTRICT HD
+http://supersonictv.live:25461/032451/181022/84883
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR]  COMEDIE+ HD
+http://supersonictv.live:25461/032451/181022/84884
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CINE+ CLUB HD
+http://supersonictv.live:25461/032451/181022/84885
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CINE+ PREMIER HD
+http://supersonictv.live:25461/032451/181022/84886
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CINE+ POLAR HD
+http://supersonictv.live:25461/032451/181022/84887
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CINE+ FRISSON HD
+http://supersonictv.live:25461/032451/181022/84888
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CINE+ FAMIZ HD
+http://supersonictv.live:25461/032451/181022/84889
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CINE+ EMOTION HD
+http://supersonictv.live:25461/032451/181022/84890
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CINE+ CLASSIC HD
+http://supersonictv.live:25461/032451/181022/84891
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CHERIE 25 HD
+http://supersonictv.live:25461/032451/181022/84892
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CHASSE PECHE HD
+http://supersonictv.live:25461/032451/181022/84893
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CARTOON NETWORK HD
+http://supersonictv.live:25461/032451/181022/84894
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CANAL+ SPORT HD
+http://supersonictv.live:25461/032451/181022/84895
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CANAL+ SERIES HD
+http://supersonictv.live:25461/032451/181022/84896
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CANAL+ HD
+http://supersonictv.live:25461/032451/181022/84897
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CANAL+ DECALE HD
+http://supersonictv.live:25461/032451/181022/84898
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CANAL+ FAMILY HD
+http://supersonictv.live:25461/032451/181022/84899
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CANAL+ CINEMA HD
+http://supersonictv.live:25461/032451/181022/84900
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] CANAL J  HD
+http://supersonictv.live:25461/032451/181022/84901
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] C8 HD
+http://supersonictv.live:25461/032451/181022/84902
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] C STAR HD
+http://supersonictv.live:25461/032451/181022/84903
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] C NEWS HD
+http://supersonictv.live:25461/032451/181022/84904
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BFM TV HD
+http://supersonictv.live:25461/032451/181022/84905
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BET HD
+http://supersonictv.live:25461/032451/181022/84906
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] SYFY HD
+http://supersonictv.live:25461/032451/181022/84907
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] EUROSPORT 2 HD
+http://supersonictv.live:25461/032451/181022/84908
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] EUROSPORT 1 FHD
+http://supersonictv.live:25461/032451/181022/84909
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] beIN SPORT 1HD
+http://supersonictv.live:25461/032451/181022/84910
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] beIN SPORT 2HD
+http://supersonictv.live:25461/032451/181022/84911
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] beIN SPORT 3HD
+http://supersonictv.live:25461/032451/181022/84912
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BeIN Sports MAX 4
+http://supersonictv.live:25461/032451/181022/84913
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BeIN Sports MAX 5
+http://supersonictv.live:25461/032451/181022/84914
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BeIN Sports MAX 6
+http://supersonictv.live:25461/032451/181022/84915
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BeIN Sports MAX 7
+http://supersonictv.live:25461/032451/181022/84916
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BeIN Sports MAX 8
+http://supersonictv.live:25461/032451/181022/84917
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BeIN Sports MAX 9
+http://supersonictv.live:25461/032451/181022/84918
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] BeIN Sports MAX 10
+http://supersonictv.live:25461/032451/181022/84919
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] ARTE HD
+http://supersonictv.live:25461/032451/181022/84920
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] ANIMAUX HD
+http://supersonictv.live:25461/032451/181022/84921
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] ACTION HD
+http://supersonictv.live:25461/032451/181022/84922
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] AB1 HD
+http://supersonictv.live:25461/032451/181022/84923
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] 6TER HD
+http://supersonictv.live:25461/032451/181022/84924
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] 13EME RUE HD
+http://supersonictv.live:25461/032451/181022/84925
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR]  NRJ TV HD
+http://supersonictv.live:25461/032451/181022/84926
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] M6 MUSIC
+http://supersonictv.live:25461/032451/181022/84927
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] FRANCE INFO HD
+http://supersonictv.live:25461/032451/181022/84928
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] Francophonie
+http://supersonictv.live:25461/032451/181022/84929
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] TRACE MZIKI
+http://supersonictv.live:25461/032451/181022/84930
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] TV 5
+http://supersonictv.live:25461/032451/181022/84931
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] J-ONE HD
+http://supersonictv.live:25461/032451/181022/84932
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] AB3
+http://supersonictv.live:25461/032451/181022/84933
+#EXTINF:0 tvg-id="ext" group-title="Channels",[FR] AMAZON PRIME 1 HD
+http://supersonictv.live:25461/032451/181022/84934
+#EXTINF:0 tvg-id="ZDFinfo.de" group-title="Channels",[DE] ZDF info HD
+http://supersonictv.live:25461/032451/181022/84653
+#EXTINF:0 tvg-id="ZDFneo.de" group-title="Channels",[DE] ZDF NEO HD
+http://supersonictv.live:25461/032451/181022/84654
+#EXTINF:0 tvg-id="Vox.de" group-title="Channels",[DE] VOX HD
+http://supersonictv.live:25461/032451/181022/84655
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] UNIVERSAL TV HD
+http://supersonictv.live:25461/032451/181022/84656
+#EXTINF:0 tvg-id="TNTSerie.de" group-title="Channels",[DE] TNT SERIE HD
+http://supersonictv.live:25461/032451/181022/84657
+#EXTINF:0 tvg-id="TNTFilm.de" group-title="Channels",[DE] TNT FILM HD
+http://supersonictv.live:25461/032451/181022/84658
+#EXTINF:0 tvg-id="TNTGlitz.de" group-title="Channels",[DE] TNT COMEDY HD
+http://supersonictv.live:25461/032451/181022/84659
+#EXTINF:0 tvg-id="SciFi.de" group-title="Channels",[DE] SYFY HD
+http://supersonictv.live:25461/032451/181022/84660
+#EXTINF:0 tvg-id="SuperRTL.de" group-title="Channels",[DE] SUPER RTL HD
+http://supersonictv.live:25461/032451/181022/84661
+#EXTINF:0 tvg-id="Sixx.de" group-title="Channels",[DE] SIXX HD
+http://supersonictv.live:25461/032451/181022/84666
+#EXTINF:0 tvg-id="Sat1Gold.de" group-title="Channels",[DE] SAT 1 GOLD HD
+http://supersonictv.live:25461/032451/181022/84667
+#EXTINF:0 tvg-id="RTLPassion.de" group-title="Channels",[DE] RTL PASSION HD
+http://supersonictv.live:25461/032451/181022/84668
+#EXTINF:0 tvg-id="RTLNitro.de" group-title="Channels",[DE] RTL Nitro HD
+http://supersonictv.live:25461/032451/181022/84669
+#EXTINF:0 tvg-id="RTL.de" group-title="Channels",[DE] RTL HD
+http://supersonictv.live:25461/032451/181022/84670
+#EXTINF:0 tvg-id="RTLCrime.de" group-title="Channels",[DE] RTL CRIME HD
+http://supersonictv.live:25461/032451/181022/84671
+#EXTINF:0 tvg-id="RTL2.de" group-title="Channels",[DE] RTL 2 HD
+http://supersonictv.live:25461/032451/181022/84672
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",[DE] PROSIEBEN Maxx HD
+http://supersonictv.live:25461/032451/181022/84673
+#EXTINF:0 tvg-id="ORF1.at" group-title="Channels",[DE] ORF 1 HD
+http://supersonictv.live:25461/032451/181022/84674
+#EXTINF:0 tvg-id="ORF2.at" group-title="Channels",[DE] ORF 2 HD
+http://supersonictv.live:25461/032451/181022/84675
+#EXTINF:0 tvg-id="NatGeoWild.de" group-title="Channels",[DE] NATIONAL GEOGRAPHIC WILD HD
+http://supersonictv.live:25461/032451/181022/84676
+#EXTINF:0 tvg-id="ntv.de" group-title="Channels",[DE] N-TV HD
+http://supersonictv.live:25461/032451/181022/84677
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="Channels",[DE] KINOWELT
+http://supersonictv.live:25461/032451/181022/84678
+#EXTINF:0 tvg-id="Kika.de" group-title="Channels",[DE] KIKA HD
+http://supersonictv.live:25461/032451/181022/84679
+#EXTINF:0 tvg-id="Kabel.de" group-title="Channels",[DE] KABEL 1 HD
+http://supersonictv.live:25461/032451/181022/84680
+#EXTINF:0 tvg-id="History.de" group-title="Channels",[DE] HISTORY HD
+http://supersonictv.live:25461/032451/181022/84681
+#EXTINF:0 tvg-id="Classica.de" group-title="Channels",[DE] CLASSICA
+http://supersonictv.live:25461/032451/181022/84687
+#EXTINF:0 tvg-id="13thStreet.de" group-title="Channels",[DE] 13TH  STREET HD
+http://supersonictv.live:25461/032451/181022/84688
+#EXTINF:0 tvg-id="Heimatkanal.de" group-title="Channels",[DE] HEIMATKANAL
+http://supersonictv.live:25461/032451/181022/84689
+#EXTINF:0 tvg-id="Romance.de" group-title="Channels",[DE] ROMANCE TV
+http://supersonictv.live:25461/032451/181022/84690
+#EXTINF:0 tvg-id="ATV.de" group-title="Channels",[DE] ATV
+http://supersonictv.live:25461/032451/181022/84692
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",[DE] ARD
+http://supersonictv.live:25461/032451/181022/84693
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] D MAX
+http://supersonictv.live:25461/032451/181022/84694
+#EXTINF:0 tvg-id="TLC.de" group-title="Channels",[DE] TLC HD
+http://supersonictv.live:25461/032451/181022/84695
+#EXTINF:0 tvg-id="DisneyCinemagic.de" group-title="Channels",[DE] Disney Cinemagic
+http://supersonictv.live:25461/032451/181022/84696
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] DISNEY Jr.
+http://supersonictv.live:25461/032451/181022/84697
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] E !
+http://supersonictv.live:25461/032451/181022/84698
+#EXTINF:0 tvg-id="KabelEinsDoku.de" group-title="Channels",[DE] KABEL EINS  DOKU
+http://supersonictv.live:25461/032451/181022/84699
+#EXTINF:0 tvg-id="Sat1.de" group-title="Channels",[DE] SAT.1 HD
+http://supersonictv.live:25461/032451/181022/84700
+#EXTINF:0 tvg-id="3sat.de" group-title="Channels",[DE] 3SAT HD
+http://supersonictv.live:25461/032451/181022/84701
+#EXTINF:0 tvg-id="ZDF.de" group-title="Channels",[DE] ZDF HD
+http://supersonictv.live:25461/032451/181022/84702
+#EXTINF:0 tvg-id="Pro7.de" group-title="Channels",[DE] PRO SIEBEN HD
+http://supersonictv.live:25461/032451/181022/84703
+#EXTINF:0 tvg-id="RTLLiving.de" group-title="Channels",[DE] RTL LIVING
+http://supersonictv.live:25461/032451/181022/84704
+#EXTINF:0 tvg-id="DiscoveryChannel.de" group-title="Channels",[DE] DISCOVERY CHANNEL
+http://supersonictv.live:25461/032451/181022/84705
+#EXTINF:0 tvg-id="ntv.de" group-title="Channels",[DE] N-TV HD
+http://supersonictv.live:25461/032451/181022/84706
+#EXTINF:0 tvg-id="NatGeoHD.de" group-title="Channels",[DE] NAT GEO HD
+http://supersonictv.live:25461/032451/181022/84707
+#EXTINF:0 tvg-id="EEntertainment.de" group-title="Channels",[DE] E! ENTERTAINMENT
+http://supersonictv.live:25461/032451/181022/84708
+#EXTINF:0 tvg-id="Boomerang.de" group-title="Channels",[DE] BOOMERANG
+http://supersonictv.live:25461/032451/181022/84709
+#EXTINF:0 tvg-id="ARTE.de" group-title="Channels",[DE] ARTE
+http://supersonictv.live:25461/032451/181022/84710
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] WELT HD
+http://supersonictv.live:25461/032451/181022/84711
+#EXTINF:0 tvg-id="DisneyCinemagic.de" group-title="Channels",[DE] DISNEY CINEMAGIC
+http://supersonictv.live:25461/032451/181022/84712
+#EXTINF:0 tvg-id="CartoonNetwork.de" group-title="Channels",[DE] CARTOON NETWORK
+http://supersonictv.live:25461/032451/181022/84713
+#EXTINF:0 tvg-id="Fox.de" group-title="Channels",[DE] FOX
+http://supersonictv.live:25461/032451/181022/84714
+#EXTINF:0 tvg-id="Kinowelt.de" group-title="Channels",[DE] KINOWELT HD
+http://supersonictv.live:25461/032451/181022/84715
+#EXTINF:0 tvg-id="Romance.de" group-title="Channels",[DE] ROMANCE TV
+http://supersonictv.live:25461/032451/181022/84716
+#EXTINF:0 tvg-id="TNTSerie.de" group-title="Channels",[DE] TNT SERIE
+http://supersonictv.live:25461/032451/181022/84717
+#EXTINF:0 tvg-id="DasErste.de" group-title="Channels",[DE] DAS ERSTE
+http://supersonictv.live:25461/032451/181022/84721
+#EXTINF:0 tvg-id="One.de" group-title="Channels",[DE] ONE HD
+http://supersonictv.live:25461/032451/181022/84722
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] EUROSPORT 1
+http://supersonictv.live:25461/032451/181022/84724
+#EXTINF:0 tvg-id="Eurosport2.de" group-title="Channels",[DE] EUROSPORT 2
+http://supersonictv.live:25461/032451/181022/84725
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] EUROSPORT 2 XTRA
+http://supersonictv.live:25461/032451/181022/84726
+#EXTINF:0 tvg-id="MotorVision.de" group-title="Channels",[DE] MOTORVISION TV
+http://supersonictv.live:25461/032451/181022/84728
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] CINE SELECT 1
+http://supersonictv.live:25461/032451/181022/84729
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] CINE SELECT 2
+http://supersonictv.live:25461/032451/181022/84730
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] CINE SELECT 3
+http://supersonictv.live:25461/032451/181022/84731
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] CINE SELECT 4
+http://supersonictv.live:25461/032451/181022/84732
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] CINE SELECT 5
+http://supersonictv.live:25461/032451/181022/84733
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] DAZN 1 HD
+http://supersonictv.live:25461/032451/181022/84736
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] DAZN 2 HD
+http://supersonictv.live:25461/032451/181022/84737
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TELEKOM DEL SPORT  1 HD
+http://supersonictv.live:25461/032451/181022/84746
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TELEKOM DEL SPORT  2 HD
+http://supersonictv.live:25461/032451/181022/84747
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TELEKOM BUNDESLIGA 1 HD
+http://supersonictv.live:25461/032451/181022/84748
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TELEKOM BUNDESLIGA 2 HD
+http://supersonictv.live:25461/032451/181022/84749
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TELEKOM BUNDESLIGA 3 HD
+http://supersonictv.live:25461/032451/181022/84750
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TELEKOM BUNDESLIGA 4 HD
+http://supersonictv.live:25461/032451/181022/84751
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TELEKOM BUNDESLIGA 5 HD
+http://supersonictv.live:25461/032451/181022/84752
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TELEKOM BUNDESLIGA 6 HD
+http://supersonictv.live:25461/032451/181022/84753
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] TELEKOM BUNDESLIGA 7 HD
+http://supersonictv.live:25461/032451/181022/84754
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] DAZN 1
+http://supersonictv.live:25461/032451/181022/84755
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] DAZN 2
+http://supersonictv.live:25461/032451/181022/84756
+#EXTINF:0 tvg-id="HR.de" group-title="Channels",[DE] HR
+http://supersonictv.live:25461/032451/181022/84780
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] Baden TV
+http://supersonictv.live:25461/032451/181022/84781
+#EXTINF:0 tvg-id="DeutscheWelle.de" group-title="Channels",[DE] DW
+http://supersonictv.live:25461/032451/181022/84782
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] Noa 4 Hamburg
+http://supersonictv.live:25461/032451/181022/84783
+#EXTINF:0 tvg-id="ext" group-title="Channels",[DE] RFO
+http://supersonictv.live:25461/032451/181022/84784
+#EXTINF:0 tvg-id="tagesschau24.de" group-title="Channels",[DE] tagesschau 24
+http://supersonictv.live:25461/032451/181022/84785
+#EXTINF:0 tvg-id="tvo.de" group-title="Channels",[DE] TV Oberfranken
+http://supersonictv.live:25461/032451/181022/84786
+#EXTINF:0 tvg-id="RTLPlus.de" group-title="Channels",[DE] RTL PLUS
+http://supersonictv.live:25461/032451/181022/84787
+#EXTINF:0 tvg-id="ZeeOne.de" group-title="Channels",[DE] Zee One
+http://supersonictv.live:25461/032451/181022/84788
+#EXTINF:0 tvg-id="Tele5.at" group-title="Channels",[DE] Tele 5
+http://supersonictv.live:25461/032451/181022/84789
+#EXTINF:0 tvg-id="ProSiebenMaxx.de" group-title="Channels",[DE] PRO 7 Maxx
+http://supersonictv.live:25461/032451/181022/84790
+#EXTINF:0 tvg-id="ProSiebenFun.de" group-title="Channels",[DE] PRO 7 FUN
+http://supersonictv.live:25461/032451/181022/84791
+#EXTINF:0 tvg-id="Pro7.ch" group-title="Channels",[DE] PRO 7
+http://supersonictv.live:25461/032451/181022/84792
+#EXTINF:0 tvg-id="NickJr.de" group-title="Channels",[DE] Nick Jr
+http://supersonictv.live:25461/032451/181022/84793
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Pictures | HD
+http://supersonictv.live:25461/032451/181022/85437
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Pictures | SD
+http://supersonictv.live:25461/032451/181022/85438
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Salaam
+http://supersonictv.live:25461/032451/181022/85439
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] And Flix | HD
+http://supersonictv.live:25461/032451/181022/85440
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] And Flix
+http://supersonictv.live:25461/032451/181022/85441
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] And Prive HD
+http://supersonictv.live:25461/032451/181022/85442
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Classic
+http://supersonictv.live:25461/032451/181022/85443
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Tv | SD
+http://supersonictv.live:25461/032451/181022/85444
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Cinema | SD
+http://supersonictv.live:25461/032451/181022/85445
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Cinema | HD
+http://supersonictv.live:25461/032451/181022/85446
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Cinemalu | SD
+http://supersonictv.live:25461/032451/181022/85447
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Cafe | SD
+http://supersonictv.live:25461/032451/181022/85448
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD India
+http://supersonictv.live:25461/032451/181022/85449
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD News
+http://supersonictv.live:25461/032451/181022/85450
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee news
+http://supersonictv.live:25461/032451/181022/85451
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Tv | HD
+http://supersonictv.live:25461/032451/181022/85452
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Cafe | HD
+http://supersonictv.live:25461/032451/181022/85453
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee anmol
+http://supersonictv.live:25461/032451/181022/85454
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zing
+http://supersonictv.live:25461/032451/181022/85455
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Magic
+http://supersonictv.live:25461/032451/181022/85456
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Marati | HD
+http://supersonictv.live:25461/032451/181022/85457
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Yuva
+http://supersonictv.live:25461/032451/181022/85458
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Living Foodz
+http://supersonictv.live:25461/032451/181022/85459
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Action | HD
+http://supersonictv.live:25461/032451/181022/85460
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Bangla | SD
+http://supersonictv.live:25461/032451/181022/85461
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Bangla | HD
+http://supersonictv.live:25461/032451/181022/85462
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Punjabi
+http://supersonictv.live:25461/032451/181022/85463
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Tamil
+http://supersonictv.live:25461/032451/181022/85464
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] 9xo music (English)
+http://supersonictv.live:25461/032451/181022/85465
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee 24 Taas (Marathi)
+http://supersonictv.live:25461/032451/181022/85466
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee 24 Kalak (Gujarati)
+http://supersonictv.live:25461/032451/181022/85467
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Business
+http://supersonictv.live:25461/032451/181022/85468
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Hindustan
+http://supersonictv.live:25461/032451/181022/85469
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee TALKIES MARATHI
+http://supersonictv.live:25461/032451/181022/85470
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Sarthak TV
+http://supersonictv.live:25461/032451/181022/85471
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Talkies | HD
+http://supersonictv.live:25461/032451/181022/85472
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] & TV | SD
+http://supersonictv.live:25461/032451/181022/85473
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] & TV | HD
+http://supersonictv.live:25461/032451/181022/85474
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Aaj Tak | HD
+http://supersonictv.live:25461/032451/181022/85475
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] BBC World News| HD
+http://supersonictv.live:25461/032451/181022/85476
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD Bangla
+http://supersonictv.live:25461/032451/181022/85477
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD Bihar
+http://supersonictv.live:25461/032451/181022/85478
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD Girnar
+http://supersonictv.live:25461/032451/181022/85479
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD Kisan
+http://supersonictv.live:25461/032451/181022/85480
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD Malayalam
+http://supersonictv.live:25461/032451/181022/85481
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD Punjabi
+http://supersonictv.live:25461/032451/181022/85482
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD Odia
+http://supersonictv.live:25461/032451/181022/85483
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD Sahyadri
+http://supersonictv.live:25461/032451/181022/85484
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DD Yadagiri
+http://supersonictv.live:25461/032451/181022/85485
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Divya TV (Hindi)
+http://supersonictv.live:25461/032451/181022/85486
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] EZ mall (Hindi)
+http://supersonictv.live:25461/032451/181022/85487
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] India TV News (English)
+http://supersonictv.live:25461/032451/181022/85488
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Makkal TV (Tamil)
+http://supersonictv.live:25461/032451/181022/85489
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Sanskar Tv (Hindi)
+http://supersonictv.live:25461/032451/181022/85490
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Wion (English)
+http://supersonictv.live:25461/032451/181022/85491
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee 24 Ghanta (Bangla)
+http://supersonictv.live:25461/032451/181022/85492
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Etc (Hindi)
+http://supersonictv.live:25461/032451/181022/85493
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee Talkies | SD (Marathi)
+http://supersonictv.live:25461/032451/181022/85494
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Zee News UP UK (Hindi)
+http://supersonictv.live:25461/032451/181022/85495
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] A Plus | SD
+http://supersonictv.live:25461/032451/181022/85496
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Atv | SD
+http://supersonictv.live:25461/032451/181022/85497
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Express ent | SD
+http://supersonictv.live:25461/032451/181022/85498
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] AAJ ENTERTAINMENT  | SD
+http://supersonictv.live:25461/032451/181022/85499
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Aaj News | SD
+http://supersonictv.live:25461/032451/181022/85500
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Samaa | SD
+http://supersonictv.live:25461/032451/181022/85501
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Dawn News | SD
+http://supersonictv.live:25461/032451/181022/85502
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Express News | SD
+http://supersonictv.live:25461/032451/181022/85503
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Ary News wd | SD
+http://supersonictv.live:25461/032451/181022/85504
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Ary Zindagi | SD
+http://supersonictv.live:25461/032451/181022/85505
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Aryd World | SD
+http://supersonictv.live:25461/032451/181022/85506
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Film World | SD
+http://supersonictv.live:25461/032451/181022/85507
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Manoranjan | SD
+http://supersonictv.live:25461/032451/181022/85508
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] BOL NEWS FHD
+http://supersonictv.live:25461/032451/181022/85509
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] ARY World UK
+http://supersonictv.live:25461/032451/181022/85510
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] ARY NEWS HD
+http://supersonictv.live:25461/032451/181022/85511
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] GEO NEWS
+http://supersonictv.live:25461/032451/181022/85512
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Geo Tez
+http://supersonictv.live:25461/032451/181022/85513
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Dunya News
+http://supersonictv.live:25461/032451/181022/85514
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Samaa News
+http://supersonictv.live:25461/032451/181022/85515
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] EXPRESS NEWS HD
+http://supersonictv.live:25461/032451/181022/85516
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] NEWS 24 HD
+http://supersonictv.live:25461/032451/181022/85517
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Channel 44 UK
+http://supersonictv.live:25461/032451/181022/85518
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] DIN NEWS HD
+http://supersonictv.live:25461/032451/181022/85519
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Roze News
+http://supersonictv.live:25461/032451/181022/85520
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] News One HD
+http://supersonictv.live:25461/032451/181022/85521
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] A Plus
+http://supersonictv.live:25461/032451/181022/85522
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] TV One
+http://supersonictv.live:25461/032451/181022/85523
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Geo Entertainment
+http://supersonictv.live:25461/032451/181022/85524
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Geo TV
+http://supersonictv.live:25461/032451/181022/85525
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Geo Kahani
+http://supersonictv.live:25461/032451/181022/85526
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] AAJ ENTERTAINMENT
+http://supersonictv.live:25461/032451/181022/85527
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] QURAN TV
+http://supersonictv.live:25461/032451/181022/85528
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] PTV Home
+http://supersonictv.live:25461/032451/181022/85529
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Venus TV HD
+http://supersonictv.live:25461/032451/181022/85530
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Kay2 TV
+http://supersonictv.live:25461/032451/181022/85531
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Joo Music
+http://supersonictv.live:25461/032451/181022/85532
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] AVT KHYBER
+http://supersonictv.live:25461/032451/181022/85533
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Geo Super
+http://supersonictv.live:25461/032451/181022/85534
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Makkah Live HD
+http://supersonictv.live:25461/032451/181022/85535
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Madinah Live HD
+http://supersonictv.live:25461/032451/181022/85536
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Quran TV
+http://supersonictv.live:25461/032451/181022/85537
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] ARY QTV
+http://supersonictv.live:25461/032451/181022/85538
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Minhaj TV
+http://supersonictv.live:25461/032451/181022/85539
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Madani Channel Urdu
+http://supersonictv.live:25461/032451/181022/85540
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] MADANI CHANNEL ENGLISH
+http://supersonictv.live:25461/032451/181022/85541
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] ZEE TV HD
+http://supersonictv.live:25461/032451/181022/85542
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] ZEE CINEMA HD
+http://supersonictv.live:25461/032451/181022/85543
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] ZEE ACTION
+http://supersonictv.live:25461/032451/181022/85544
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] STAR GOLD HD
+http://supersonictv.live:25461/032451/181022/85545
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Sony Mix HD
+http://supersonictv.live:25461/032451/181022/85546
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SAB TV HD
+http://supersonictv.live:25461/032451/181022/85547
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY MAX 2
+http://supersonictv.live:25461/032451/181022/85548
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] STAR MOVIES FHD
+http://supersonictv.live:25461/032451/181022/85549
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] BOLLYWOOD PREMIER FHD
+http://supersonictv.live:25461/032451/181022/85550
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] COLORS CINEPLEX HD
+http://supersonictv.live:25461/032451/181022/85551
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] ZEE BOLLYWOOD
+http://supersonictv.live:25461/032451/181022/85552
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] ZEE ETC
+http://supersonictv.live:25461/032451/181022/85553
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] B4U Plus
+http://supersonictv.live:25461/032451/181022/85554
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] B4U Movies
+http://supersonictv.live:25461/032451/181022/85555
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] B4U Music
+http://supersonictv.live:25461/032451/181022/85556
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Aaho Music
+http://supersonictv.live:25461/032451/181022/85557
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] 9X JALWA
+http://supersonictv.live:25461/032451/181022/85558
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] & Pictures HD
+http://supersonictv.live:25461/032451/181022/85559
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] MBC Bollywood HD
+http://supersonictv.live:25461/032451/181022/85560
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  IN STAR GOLD FHD
+http://supersonictv.live:25461/032451/181022/85561
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  IN STAR JALSHA MOVIES FHD
+http://supersonictv.live:25461/032451/181022/85562
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] STAR MOVIES SELECT FHD
+http://supersonictv.live:25461/032451/181022/85563
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  IN STAR SPORTS 1 FHD
+http://supersonictv.live:25461/032451/181022/85564
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  IN STAR SPORTS 1 FHD HINDI
+http://supersonictv.live:25461/032451/181022/85565
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  IN STAR SPORTS 2 FHD
+http://supersonictv.live:25461/032451/181022/85566
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  IN STAR SPORTS SELECT 2 HD
+http://supersonictv.live:25461/032451/181022/85567
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] STAR VIJAY FHD
+http://supersonictv.live:25461/032451/181022/85568
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  IN STAR WORLD PREMIERE FHD
+http://supersonictv.live:25461/032451/181022/85569
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  COLORS BANGLA HD
+http://supersonictv.live:25461/032451/181022/85570
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  COLORS GUJARATI
+http://supersonictv.live:25461/032451/181022/85571
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  COLORS HD
+http://supersonictv.live:25461/032451/181022/85572
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  COLORS KANNADA HD
+http://supersonictv.live:25461/032451/181022/85573
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  COLORS MARATHI HD
+http://supersonictv.live:25461/032451/181022/85574
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  COLORS ORIYA
+http://supersonictv.live:25461/032451/181022/85575
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  COLORS TAMIL HD
+http://supersonictv.live:25461/032451/181022/85576
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  COMEDY CENTRAL HD
+http://supersonictv.live:25461/032451/181022/85577
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  FLOWERS TV
+http://supersonictv.live:25461/032451/181022/85578
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  CARTOON NETWORK TAMIL
+http://supersonictv.live:25461/032451/181022/85579
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  CN HD TAMIL
+http://supersonictv.live:25461/032451/181022/85580
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY CHANNEL TAMIL
+http://supersonictv.live:25461/032451/181022/85581
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY KIDS TAMIL
+http://supersonictv.live:25461/032451/181022/85582
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  HISTORY 18 TAMIL
+http://supersonictv.live:25461/032451/181022/85583
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  KAIRALI TV
+http://supersonictv.live:25461/032451/181022/85584
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  KAIRALI WE TV
+http://supersonictv.live:25461/032451/181022/85585
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  KAIRALI PEOPLE TV
+http://supersonictv.live:25461/032451/181022/85586
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  JAYA MAX
+http://supersonictv.live:25461/032451/181022/85587
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  JAYA PLUS
+http://supersonictv.live:25461/032451/181022/85588
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  JAYA TV HD
+http://supersonictv.live:25461/032451/181022/85589
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ASIANET HD
+http://supersonictv.live:25461/032451/181022/85590
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ASIANET NEWS
+http://supersonictv.live:25461/032451/181022/85591
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ASIANETHD
+http://supersonictv.live:25461/032451/181022/85592
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ASIANET MOVIES
+http://supersonictv.live:25461/032451/181022/85593
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ASIANET PLUS
+http://supersonictv.live:25461/032451/181022/85594
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  CNBC AWAAZ
+http://supersonictv.live:25461/032451/181022/85595
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  CNBC BAZAAR MNO
+http://supersonictv.live:25461/032451/181022/85596
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  CNBC TV 18
+http://supersonictv.live:25461/032451/181022/85597
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  CNBC TV18 PRIME HD
+http://supersonictv.live:25461/032451/181022/85598
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  CNN
+http://supersonictv.live:25461/032451/181022/85599
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  CNN NEWS 18
+http://supersonictv.live:25461/032451/181022/85600
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV ABHIRUCHI
+http://supersonictv.live:25461/032451/181022/85601
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV ANDHRA PRADESH
+http://supersonictv.live:25461/032451/181022/85602
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV BANGLA NEWS
+http://supersonictv.live:25461/032451/181022/85603
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV BIHAR
+http://supersonictv.live:25461/032451/181022/85604
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV CINEMA
+http://supersonictv.live:25461/032451/181022/85605
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV HARYANA AND HP NEWS
+http://supersonictv.live:25461/032451/181022/85606
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV KANNADA NEWS
+http://supersonictv.live:25461/032451/181022/85607
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV LIFE
+http://supersonictv.live:25461/032451/181022/85608
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV MP
+http://supersonictv.live:25461/032451/181022/85609
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV NEWS GUJARATI
+http://supersonictv.live:25461/032451/181022/85610
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV NEWS ORIYA
+http://supersonictv.live:25461/032451/181022/85611
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV PLUS
+http://supersonictv.live:25461/032451/181022/85612
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV RAJASTHAN
+http://supersonictv.live:25461/032451/181022/85613
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV TELANGANA
+http://supersonictv.live:25461/032451/181022/85614
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV TELUGU
+http://supersonictv.live:25461/032451/181022/85615
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV UP
+http://supersonictv.live:25461/032451/181022/85616
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  ETV URDU
+http://supersonictv.live:25461/032451/181022/85617
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  EURO NEWS
+http://supersonictv.live:25461/032451/181022/85618
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY
+http://supersonictv.live:25461/032451/181022/85619
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY CHANNEL BENGALI
+http://supersonictv.live:25461/032451/181022/85620
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY CHANNEL HINDI
+http://supersonictv.live:25461/032451/181022/85621
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY CHANNEL TAMIL
+http://supersonictv.live:25461/032451/181022/85622
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY CHANNEL TELUGU
+http://supersonictv.live:25461/032451/181022/85623
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY HD WORLD
+http://supersonictv.live:25461/032451/181022/85624
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY KIDS 1
+http://supersonictv.live:25461/032451/181022/85625
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY KIDS 2
+http://supersonictv.live:25461/032451/181022/85626
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY KIDS TAMIL
+http://supersonictv.live:25461/032451/181022/85627
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY SCIENCE
+http://supersonictv.live:25461/032451/181022/85628
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  DISCOVERY TURBO
+http://supersonictv.live:25461/032451/181022/85629
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] STAR PLUS
+http://supersonictv.live:25461/032451/181022/85630
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] STAR PLUS (INDIA)
+http://supersonictv.live:25461/032451/181022/85631
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] STAR PLUS (UK)
+http://supersonictv.live:25461/032451/181022/85632
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY MIX
+http://supersonictv.live:25461/032451/181022/85633
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY AATH
+http://supersonictv.live:25461/032451/181022/85634
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY TV HD
+http://supersonictv.live:25461/032451/181022/85635
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY TV SD
+http://supersonictv.live:25461/032451/181022/85636
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY TV (UK)
+http://supersonictv.live:25461/032451/181022/85637
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY SAB HD
+http://supersonictv.live:25461/032451/181022/85638
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY SAB SD
+http://supersonictv.live:25461/032451/181022/85639
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY SAB (UK)
+http://supersonictv.live:25461/032451/181022/85640
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY PAL
+http://supersonictv.live:25461/032451/181022/85641
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY MAX
+http://supersonictv.live:25461/032451/181022/85642
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY MAX 2
+http://supersonictv.live:25461/032451/181022/85643
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY SIX HD
+http://supersonictv.live:25461/032451/181022/85644
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY ESPN HD
+http://supersonictv.live:25461/032451/181022/85645
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY YAY HINDI
+http://supersonictv.live:25461/032451/181022/85646
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY TEN 1
+http://supersonictv.live:25461/032451/181022/85647
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] SONY TEN 2
+http://supersonictv.live:25461/032451/181022/85648
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] FOOD FOOD TV
+http://supersonictv.live:25461/032451/181022/85649
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Willow Cricket
+http://supersonictv.live:25461/032451/181022/85650
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN] Willow Cricket Extra
+http://supersonictv.live:25461/032451/181022/85651
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IN]  STAR SPORTS 3
+http://supersonictv.live:25461/032451/181022/85652
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Tv8
+http://supersonictv.live:25461/032451/181022/83363
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Top Crime
+http://supersonictv.live:25461/032451/181022/83364
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Tg Com 24
+http://supersonictv.live:25461/032451/181022/83365
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Super!
+http://supersonictv.live:25461/032451/181022/83366
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Super Tennis HD
+http://supersonictv.live:25461/032451/181022/83367
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] RTL 102.5
+http://supersonictv.live:25461/032451/181022/83421
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] RSI La2 HD
+http://supersonictv.live:25461/032451/181022/83422
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] RSI La1 HD
+http://supersonictv.live:25461/032451/181022/83423
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Roma Channel
+http://supersonictv.live:25461/032451/181022/83424
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rete 4 HD
+http://supersonictv.live:25461/032451/181022/83425
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Real Time
+http://supersonictv.live:25461/032451/181022/83426
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai yoyo
+http://supersonictv.live:25461/032451/181022/83427
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai Storia
+http://supersonictv.live:25461/032451/181022/83428
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai Sport   HD
+http://supersonictv.live:25461/032451/181022/83429
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai Scuola
+http://supersonictv.live:25461/032451/181022/83430
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai Premium
+http://supersonictv.live:25461/032451/181022/83431
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai News 24
+http://supersonictv.live:25461/032451/181022/83432
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai Movie
+http://supersonictv.live:25461/032451/181022/83433
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai Gulp
+http://supersonictv.live:25461/032451/181022/83434
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai 5 Ful HD
+http://supersonictv.live:25461/032451/181022/83435
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai 4 Full HD
+http://supersonictv.live:25461/032451/181022/83436
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai 4
+http://supersonictv.live:25461/032451/181022/83437
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai 3 HD
+http://supersonictv.live:25461/032451/181022/83438
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai 3 Full HD
+http://supersonictv.live:25461/032451/181022/83439
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai 2 HD
+http://supersonictv.live:25461/032451/181022/83440
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai 2 Full HD
+http://supersonictv.live:25461/032451/181022/83441
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Rai 1 HD
+http://supersonictv.live:25461/032451/181022/83442
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Radio Italia TV
+http://supersonictv.live:25461/032451/181022/83443
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Radio Capital TV
+http://supersonictv.live:25461/032451/181022/83444
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Premium Stories
+http://supersonictv.live:25461/032451/181022/83445
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] PREMIUM CINEMA ENERGY FHD
+http://supersonictv.live:25461/032451/181022/83446
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT]  PREMIUM CINEMA ENERGY
+http://supersonictv.live:25461/032451/181022/83447
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Premium Emotion
+http://supersonictv.live:25461/032451/181022/83448
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Premium Crime HD
+http://supersonictv.live:25461/032451/181022/83449
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Premium Crime Full HD
+http://supersonictv.live:25461/032451/181022/83450
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Premium Comedy
+http://supersonictv.live:25461/032451/181022/83451
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Premium Cinema HD
+http://supersonictv.live:25461/032451/181022/83452
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Premium Cinema  24 HD
+http://supersonictv.live:25461/032451/181022/83453
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Premium Action HD
+http://supersonictv.live:25461/032451/181022/83454
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Premium Action Full HD
+http://supersonictv.live:25461/032451/181022/83455
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Premium 20
+http://supersonictv.live:25461/032451/181022/83456
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Pesca e Caccia
+http://supersonictv.live:25461/032451/181022/83457
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Paramount NETWORK HD
+http://supersonictv.live:25461/032451/181022/83458
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Nove TV
+http://supersonictv.live:25461/032451/181022/83459
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Nickelodeon
+http://supersonictv.live:25461/032451/181022/83460
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Nick Junior
+http://supersonictv.live:25461/032451/181022/83461
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] NationalGeo HD
+http://supersonictv.live:25461/032451/181022/83462
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] NatGeo Wild HD
+http://supersonictv.live:25461/032451/181022/83463
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Milan Channel
+http://supersonictv.live:25461/032451/181022/83464
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Mediaset Extra
+http://supersonictv.live:25461/032451/181022/83465
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Marco Polo
+http://supersonictv.live:25461/032451/181022/83466
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] M2O
+http://supersonictv.live:25461/032451/181022/83467
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] LaEffe
+http://supersonictv.live:25461/032451/181022/83468
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] La7d
+http://supersonictv.live:25461/032451/181022/83469
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] La7
+http://supersonictv.live:25461/032451/181022/83470
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] La 5
+http://supersonictv.live:25461/032451/181022/83471
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] K2
+http://supersonictv.live:25461/032451/181022/83472
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Italia 2
+http://supersonictv.live:25461/032451/181022/83473
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Italia 1 HD
+http://supersonictv.live:25461/032451/181022/83474
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Fox Crime HD
+http://supersonictv.live:25461/032451/181022/83475
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Fox Crime Full HD
+http://supersonictv.live:25461/032451/181022/83476
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Focus
+http://supersonictv.live:25461/032451/181022/83477
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Eurosport 2 HD
+http://supersonictv.live:25461/032451/181022/83478
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Eurosport 1 HD
+http://supersonictv.live:25461/032451/181022/83479
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Dmax
+http://supersonictv.live:25461/032451/181022/83480
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Disney Junior
+http://supersonictv.live:25461/032451/181022/83481
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Disney Channel
+http://supersonictv.live:25461/032451/181022/83482
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Discovery Sci HD
+http://supersonictv.live:25461/032451/181022/83483
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Discovery HD
+http://supersonictv.live:25461/032451/181022/83484
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Discovery Full HD
+http://supersonictv.live:25461/032451/181022/83485
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Dea Kids
+http://supersonictv.live:25461/032451/181022/83486
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Dea junior
+http://supersonictv.live:25461/032451/181022/83487
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] DAZN Sport 5 HD
+http://supersonictv.live:25461/032451/181022/83488
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] DAZN Sport 4 HD
+http://supersonictv.live:25461/032451/181022/83489
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] DAZN Sport 3 HD
+http://supersonictv.live:25461/032451/181022/83490
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] DAZN Sport 2 HD
+http://supersonictv.live:25461/032451/181022/83491
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] DAZN Sport 1 HD
+http://supersonictv.live:25461/032451/181022/83492
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Dazn Serie A1 Full HD
+http://supersonictv.live:25461/032451/181022/83493
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Crime Investigation HD
+http://supersonictv.live:25461/032451/181022/83494
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Comedy Central
+http://supersonictv.live:25461/032451/181022/83495
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Cartoonito
+http://supersonictv.live:25461/032451/181022/83496
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Canale 8
+http://supersonictv.live:25461/032451/181022/83497
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Canale 5 HD
+http://supersonictv.live:25461/032451/181022/83498
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Canale 5 Full HD
+http://supersonictv.live:25461/032451/181022/83499
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Caccia e Pesca
+http://supersonictv.live:25461/032451/181022/83500
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Boomerang
+http://supersonictv.live:25461/032451/181022/83501
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Boing
+http://supersonictv.live:25461/032451/181022/83502
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Blaze HD
+http://supersonictv.live:25461/032451/181022/83503
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Baby Tv
+http://supersonictv.live:25461/032451/181022/83504
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Alice
+http://supersonictv.live:25461/032451/181022/83505
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Iris
+http://supersonictv.live:25461/032451/181022/83506
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Inter Channel
+http://supersonictv.live:25461/032451/181022/83507
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] History Lab
+http://supersonictv.live:25461/032451/181022/83508
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] History HD
+http://supersonictv.live:25461/032451/181022/83509
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Giallo
+http://supersonictv.live:25461/032451/181022/83510
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Gambero Rosso HD
+http://supersonictv.live:25461/032451/181022/83511
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Frisbee
+http://supersonictv.live:25461/032451/181022/83512
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Fox HD
+http://supersonictv.live:25461/032451/181022/83513
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Fox Full HD
+http://supersonictv.live:25461/032451/181022/83514
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Cartoon Network HD
+http://supersonictv.live:25461/032451/181022/83515
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Lazio Channel
+http://supersonictv.live:25461/032451/181022/83516
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Torino Channel
+http://supersonictv.live:25461/032451/181022/83517
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 1 HD
+http://supersonictv.live:25461/032451/181022/83518
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 2 HD
+http://supersonictv.live:25461/032451/181022/83519
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 4 HD
+http://supersonictv.live:25461/032451/181022/83520
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 6 HD
+http://supersonictv.live:25461/032451/181022/83521
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 8 HD
+http://supersonictv.live:25461/032451/181022/83522
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 10 HD
+http://supersonictv.live:25461/032451/181022/83523
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 12 HD
+http://supersonictv.live:25461/032451/181022/83524
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 14 HD
+http://supersonictv.live:25461/032451/181022/83525
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 15 HD
+http://supersonictv.live:25461/032451/181022/83526
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 16 HD
+http://supersonictv.live:25461/032451/181022/83527
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 17 HD
+http://supersonictv.live:25461/032451/181022/83528
+#EXTINF:0 tvg-id="ext" group-title="Channels",IT_PRIMAFILA 18 HD
+http://supersonictv.live:25461/032451/181022/83529
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] DAZN Sport 6 HD
+http://supersonictv.live:25461/032451/181022/83530
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] DAZN Sport 7 HD
+http://supersonictv.live:25461/032451/181022/83531
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] DAZN Sport 8 HD
+http://supersonictv.live:25461/032451/181022/83532
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] DAZN Sport 9 HD
+http://supersonictv.live:25461/032451/181022/83533
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] DAZN Sport 10 HD
+http://supersonictv.live:25461/032451/181022/83534
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] CIELO HD
+http://supersonictv.live:25461/032451/181022/83535
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Eleven Sport 1 HD
+http://supersonictv.live:25461/032451/181022/83536
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Eleven Sport 2 HD
+http://supersonictv.live:25461/032451/181022/83537
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Eleven Sport 3 HD
+http://supersonictv.live:25461/032451/181022/83538
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT] Eleven Sport 4 HD
+http://supersonictv.live:25461/032451/181022/83539
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] 51 Radio TV
+http://supersonictv.live:25461/032451/181022/83540
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Antenna Sud
+http://supersonictv.live:25461/032451/181022/83541
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Antenna Tre
+http://supersonictv.live:25461/032451/181022/83542
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Azzurra TV
+http://supersonictv.live:25461/032451/181022/83543
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] CafèTV24
+http://supersonictv.live:25461/032451/181022/83544
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Canale 10
+http://supersonictv.live:25461/032451/181022/83545
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Canale 10
+http://supersonictv.live:25461/032451/181022/83546
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Canale 2 Altamura
+http://supersonictv.live:25461/032451/181022/83547
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Canale 7
+http://supersonictv.live:25461/032451/181022/83548
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Canale 7
+http://supersonictv.live:25461/032451/181022/83549
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Canale 8
+http://supersonictv.live:25461/032451/181022/83550
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Canale 85 Puglia
+http://supersonictv.live:25461/032451/181022/83551
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Carina TV
+http://supersonictv.live:25461/032451/181022/83552
+#EXTINF:0 tvg-id="ext" group-title="Channels",[IT-Reg] Carina TV
+http://supersonictv.live:25461/032451/181022/83553
