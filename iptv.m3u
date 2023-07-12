@@ -2120,4 +2120,17 @@ http://tv.pro-ott.com:25443/live/4998548523/7467896546/151434.ts
 #EXTINF:0 tvg-id="ext" group-title="ARABIC MAROC",|.AR.| Al Ons
 http://tv.pro-ott.com:25443/live/4998548523/7467896546/151435.ts
 
-
+#EXTINF:-1,bein SPORTS 1 HD 
+http://81.49.224.77:8080/bein1/index.m3u8
+#EXTINF:-1,bein SPORTS 2 HD 
+http://81.49.224.77:8080/bein2/index.m3u8
+#EXTINF:-1,bein SPORTS 3 HD 
+http://81.49.224.77:8080/bein3/index.m3u8
+#EXTINF:-1,bein SPORTS 4 HD 
+http://81.49.224.77:8080/bein4/index.m3u8
+#EXTINF:-1,bein SPORTS 5 HD 
+http://81.49.224.77:8080/bein5/index.m3u8
+#EXTINF:-1,bein SPORTS 6 HD 
+http://81.49.224.77:8080/bein6/index.m3u8
+#EXTINF:-1,bein SPORTS 7 HD 
+http://81.49.224.77:8080/bein7/index.m3u8
