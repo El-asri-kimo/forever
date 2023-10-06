@@ -1,694 +1,603 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Saud Alshuraim Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/263.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/264.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Ahmed Amer Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/265.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Idrees Abkr Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/266.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Aloyoon AlKoshi Rewayat Warsh An Nafi Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/267.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Mohammed Siddiq AlMinshawi Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/268.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Alzain Mohammad Ahmad Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/269.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Abdulbasit Abdulsamad MJAWWAD Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/270.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Yasser AlDosari Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/271.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Mishary Alafasi Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/272.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Saad AlGhamdi Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/273.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Abdulrahman Alsudaes Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/368.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",اذكار الصباح و المساء
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/484.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد المسجد الحرام
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/485.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد المغرب
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/486.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد الجزائر
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/487.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد مصر
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/488.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد العراق
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/489.ts
-#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد الشامية
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/490.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIn Sports News
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/276.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 1 ⁴ᵏ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/314.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 2 ⁴ᵏ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/315.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 3 ⁴ᵏ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/316.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 4 ⁴ᵏ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/317.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 5 ⁴ᵏ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/318.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 6 ⁴ᵏ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/319.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 7 ⁴ᵏ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/320.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 8 ⁴ᵏ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/321.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports 4K ",beIN Sports 9 ⁴ᵏ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/322.m3u8
 
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="Bein sports ",beIN Sports News
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/276.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN 1 Premium ⚽
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/277.ts
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="Bein sports ",beIN Sports News
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/278.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN ⛳ 3 Premium ⚽
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/280.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN ⚽ 1 Premium FHD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/281.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN ⚽ 2 Premium FHD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/282.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN ⚽ 3 Premium FHD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/283.ts
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Bein sports ",beIN Sports 2 HD**
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/284.ts
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Bein sports ",beIN Sports 3 HD**
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/285.ts
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Bein sports ",beIN Sports 5 HD**
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/286.ts
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Bein sports ",beIN Sports 6 HD**
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/287.ts
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Bein sports ",beIN Sports 7 HD**
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/288.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN ⚽ 2 Premium SD ⚽
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/289.ts
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Bein sports ",beIN Sports 2 SD***
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/290.ts
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Bein sports ",beIN Sports 3 SD***
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/291.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN ⛳ 2 Premium ⚽
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/292.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN ⚽ 1 Premium SD ⚽
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/293.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN ⚽ 3 Premium SD ⚽
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/294.ts
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein sports ",beIN Sports 1 SD***
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/295.ts
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Bein sports ",beIN Sports 4 SD***
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/296.ts
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Bein sports ",beIN Sports 5 SD***
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/297.ts
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Bein sports ",beIN Sports 6 SD***
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/298.ts
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Bein sports ",beIN Sports 7 SD***
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/299.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN Sports 4 HD*+*
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/300.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/301.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports 1 FR HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/302.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports 2 FR HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/303.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports 1 EN HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/304.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports 2 EN HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/305.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports 3 EN HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/306.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports 1 EN SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/307.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports 2 EN SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/308.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports 3 EN SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/309.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports 1 FR SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/310.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",⚽ | beIN Sports 2 FR SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/311.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",Bein OutDoor
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/312.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",Bein AMC HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/313.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN SPORTS Premium 4K 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/314.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN SPORTS Premium 4K 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/315.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN SPORTS Premium 4K 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/316.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BeIN Sports 1 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/317.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BeIN Sports 2 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/318.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BeIN Sports 3 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/319.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BeIN Sports 4 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/320.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BeIN Sports 5 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/321.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BeIN Sports 6 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/322.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BeIN Sports 7 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/323.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BeIN Sports Extra 4k
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/324.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BeIN Sports Extra 4K 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/325.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BEIN DREAM WOKRS
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/326.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",BEIN BOOMERANGE
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/327.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN Sport AFC1 4k
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/328.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",Bein AFC Global
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/329.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN Sport AFC 2  4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/330.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN 4K UltraHD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/331.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",Bein AFC Global HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/332.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",Bein AFC3 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/333.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",Bein AFC Global SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/334.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN Sports 1 Premium HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/335.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN Sport 1 Premium SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/336.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN Sport 2 Premium HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/337.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN Sport 2 Premium SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/338.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN Sports 3 Premium HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/339.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN Sport 3 Premium SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/340.ts
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Bein sports ",beIN Sports 4 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/341.ts
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="Bein sports ",beIN Sport SD 4
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/342.ts
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Bein sports ",beIN Sport HD 5
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/343.ts
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Bein sports ",beIN Sport SD 5
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/344.ts
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Bein sports ",beIN Sport HD 6
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/345.ts
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Bein sports ",beIN Sport SD 6
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/346.ts
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Bein sports ",beIN Sport HD 7
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/347.ts
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Bein sports ",beIN Sport SD 7
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/348.ts
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein sports ",beIN Sports 1 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/349.ts
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Bein sports ",beIN Sports 2 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/350.ts
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Bein sports ",beIN Sports 3 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/351.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",Bein Sports PR 1 Low
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/352.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",Bein Sports PR 2 Low
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/353.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",Bein Sports PR 3 Low
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/354.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beINSPORTS NBA
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/355.ts
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="Bein sports ",bein sport News
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/356.ts
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title="Bein sports ",beIN Sports 1 SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/357.ts
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Bein sports ",beIN Sports 2 SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/358.ts
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title="Bein sports ",bein Sport 3 SD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/359.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN SPORTS PREMIUM1 HEVC
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/360.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN SPORTS PREMIUM2 HEVC
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/361.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN SPORTS PREMIUM3 HEVC
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/362.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN SPORTS1 H265
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/363.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN SPORTS2 H265
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/364.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN SPORTS3 H265
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/365.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",beIN SPORTS4 H265
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/366.ts
-#EXTINF:0 tvg-id="ext" group-title="Bein sports ",Bein  XTRA 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/367.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN Newsᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/277.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 1ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/278.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 2ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/280.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 3ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/281.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 4ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/282.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 5ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/283.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 6ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/284.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 7ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/285.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 8ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/286.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN XTRA 1ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/323.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN XTRA 2ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/324.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN XTRA 3ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/325.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS 9ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/509.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beINSPORTS NBA
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/510.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS AFC  ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/511.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS AFC 1 ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/512.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS AFC 2 ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/513.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports HD",beIN SPORTS AFC 3 ᴴᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/514.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 4 sᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/293.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 1  sᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/289.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 2 sᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/290.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 3 sᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/291.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 5 sᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/294.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 6 sᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/295.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 7 sᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/296.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 8 sᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/297.m3u8
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports SD",beIN Sport 9 sᴰ
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/298.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Saud Alshuraim Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/263.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/264.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Ahmed Amer Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/265.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Idrees Abkr Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/266.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Aloyoon AlKoshi Rewayat Warsh An Nafi Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/267.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Mohammed Siddiq AlMinshawi Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/268.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Alzain Mohammad Ahmad Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/269.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Abdulbasit Abdulsamad MJAWWAD Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/270.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Yasser AlDosari Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/271.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Mishary Alafasi Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/272.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Saad AlGhamdi Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/273.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Abdulrahman Alsudaes Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/368.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",اذكار الصباح و المساء
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/484.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد المسجد الحرام
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/485.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد المغرب
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/486.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد الجزائر
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/487.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد مصر
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/488.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد العراق
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/489.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",تكبيرات العيد الشامية
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/490.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",الرقية الشرعية ناصر القطامي
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/502.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",الصلاة على النبي مكرر
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/503.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",الرقية الشرعية ادريس ابكر
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/504.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",قرأن مع تفسير انجليزي Quran Translation
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/505.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",الشيخ محمد متولي الشعراوي
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/506.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",الشيخ محمد راتب النابلسي
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/507.m3u8
+#EXTINF:0 tvg-id="ext" group-title="إذاعة القرآن ",Radio Islam - English
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/508.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="قنوات دينية",Dua
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/501.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات دينية",Al Sunnah Al Nabawiyah TV (Medina)
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/254.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات دينية",Makkah TV
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/259.m3u8
+#EXTINF:0 tvg-id="IslamChannel.uk" group-title="قنوات دينية",Islam Channel
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/274.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات دينية",Nidae AlIslam Radio
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/275.m3u8
+#EXTINF:0 tvg-id="ext" group-title="قنوات دينية",Bahrain Quran
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/369.m3u8
+#EXTINF:0 tvg-id="ext" group-title="mo3ad - قنوات دينية",Al Quran Al Kareem TV (Mecca)
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/370.m3u8
+#EXTINF:0 tvg-id="Iqraa.net" group-title="قنوات دينية",Iqraa
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/493.m3u8
+#EXTINF:0 tvg-id="ext" group-title= قنوات دينية",Al MAJD Quran
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/499.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/122.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/122.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/123.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/123.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/124.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/124.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 4
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/125.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/125.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 6 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/126.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/126.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 5
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/127.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/127.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 7
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/128.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/128.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC ٍSD1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/129.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/129.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 1 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/130.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/130.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 2 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/131.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/131.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 3 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/132.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/132.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 4 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/133.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/133.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 5 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/134.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/134.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 6 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/135.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/135.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SSC SPORTS اس اس سي",SSC 7 4K
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/136.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/136.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",AD Sports PREMIEUM 1 SERIA A
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/137.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/137.m3u8
 #EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",AD StarzPlay SPORT 2 FHD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/139.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/139.m3u8
 #EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",AD Sports PREMIEUM 2 SERIA A
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/371.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/371.m3u8
 #EXTINF:0 tvg-id="ext" group-title="AD | STARZ PLAY SPORTS أبوظبي الرياضية",AD Sports PREMIEUM 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/483.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/483.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",alkass 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/479.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/479.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",jordan sport
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/140.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/140.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Abu Dhabi Sport 4
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/141.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/141.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Abu Dhabi Sport 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/142.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/142.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Abu Dhabi Sport 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/143.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/143.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Abu Dhabi Sport 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/144.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/144.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Dubai Sport 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/145.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/145.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Dubai Sport 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/146.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/146.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Dubai Sport 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/147.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/147.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Sharjah Sports
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/148.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/148.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",arriadia tv
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/149.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/149.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Bahrain Sports
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/150.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/150.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Oman Sports
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/151.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/151.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Libya Sports
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/152.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/152.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Ksa Sports 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/153.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/153.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",alkass4
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/154.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/154.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",alkass2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/155.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/155.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",alkass 5
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/156.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/156.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Ksa Sport 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/158.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/158.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",bein sport open
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/159.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/159.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",ON SPORTS 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/160.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/160.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",ON SPORTS 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/161.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/161.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Palestine Sport
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/162.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/162.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Nile Sport
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/163.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/163.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Sudan Sport
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/164.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/164.m3u8
 #EXTINF:0 tvg-id="Infosport.fr" group-title="Arabic Sports قنوات عربية رياضية",|FR| INFOSPORT+
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/165.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/165.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",On Time Sport 3HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/166.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/166.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Libya Sport 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/167.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/167.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",KSA SPORTS 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/168.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/168.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",ksa Sport 4
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/169.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/169.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Kuwait Sport HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/170.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/170.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Al Ahly
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/171.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/171.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Al Zamalek
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/172.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/172.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",IMPACT Wrestling TV
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/173.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/173.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Iraqia Sport
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/174.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/174.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Kass three
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/175.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/175.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",UFC FIGHTPASS FHD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/176.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/176.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",UFC Fight Pass UHD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/177.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/177.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Sports قنوات عربية رياضية",Al Rabiaa Iraq SPORT
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/178.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/178.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",DAZN BAR 2 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/179.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/179.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",DAZN BAR 1 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/180.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/180.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",BG | NOVA SPORT 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/181.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/181.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",TEN 3 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/182.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/182.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",TEN 2 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/183.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/183.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",TEN 1 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/185.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/185.m3u8
 #EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Other’s Sports قنوات رياضية أجنبية",|FR| CANAL+SPORT
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/186.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/186.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",|FR| RMC SPORT 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/187.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/187.m3u8
 #EXTINF:0 tvg-id="RMCSport4.fr" group-title="Other’s Sports قنوات رياضية أجنبية",RMC SPORT 4
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/188.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/188.m3u8
 #EXTINF:0 tvg-id="RMCSport2.fr" group-title="Other’s Sports قنوات رياضية أجنبية",RMC SPORT 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/189.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/189.m3u8
 #EXTINF:0 tvg-id="RMCSport1.fr" group-title="Other’s Sports قنوات رياضية أجنبية",RMC SPORT 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/190.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/190.m3u8
 #EXTINF:0 tvg-id="TNTSport1.uk" group-title="Other’s Sports قنوات رياضية أجنبية",bt sport 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/191.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/191.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",Varzesh 1 IR
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/192.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/192.m3u8
 #EXTINF:0 tvg-id="Eurosport2.fr" group-title="Other’s Sports قنوات رياضية أجنبية",|FR| EUROSPORT 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/193.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/193.m3u8
 #EXTINF:0 tvg-id="Eurosport1.fr" group-title="Other’s Sports قنوات رياضية أجنبية",|FR| EUROSPORT 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/194.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/194.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",|FR| beSPOR3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/195.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/195.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",|FR| beSPOR2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/196.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/196.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",|FR| beSPOR1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/197.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/197.m3u8
 #EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Other’s Sports قنوات رياضية أجنبية",ELEVEN SPORTS 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/198.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/198.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",DIGI SPORT1 (RO)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/199.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/199.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",DIGI SPORT 3 (RO)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/200.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/200.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",DIGI SPORT 2 (RO)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/201.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/201.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",HU | Digi Sport 2 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/202.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/202.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",HU | Digi Sport 1 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/203.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/203.m3u8
 #EXTINF:0 tvg-id="PolsatSport.pl" group-title="Other’s Sports قنوات رياضية أجنبية",Polsat Sport FHD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/204.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/204.m3u8
 #EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="Other’s Sports قنوات رياضية أجنبية",Polsat Sport Premium 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/205.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/205.m3u8
 #EXTINF:0 tvg-id="ZiggoSport.nl" group-title="Other’s Sports قنوات رياضية أجنبية",Ziggo Sport HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/206.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/206.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",SUPER SPORTS FOOTBALL
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/207.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/207.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",SUPER SPORTS VARIETY 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/208.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/208.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",SUPER SPORTS VARIETY 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/209.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/209.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",SUPER SPORTS VARIETY 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/210.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/210.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",SUPER SPORTS VARIETY 4
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/211.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/211.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",ASTRO SPORTS 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/212.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/212.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",Diema Sport 1 (L)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/213.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/213.m3u8
 #EXTINF:0 tvg-id="DiemaSport2.bg" group-title="Other’s Sports قنوات رياضية أجنبية",Diema Sport 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/214.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/214.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",Sport Klub Polska
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/215.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/215.m3u8
 #EXTINF:0 tvg-id="nsport.pl" group-title="Other’s Sports قنوات رياضية أجنبية",nSport+ HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/216.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/216.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",AU | Fox Sports 502
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/217.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/217.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",BT SPORT ESPN HD (UK)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/218.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/218.m3u8
 #EXTINF:0 tvg-id="TNTSport2.uk" group-title="Other’s Sports قنوات رياضية أجنبية",BT Sports 2 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/219.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/219.m3u8
 #EXTINF:0 tvg-id="SkySpAction.uk" group-title="Other’s Sports قنوات رياضية أجنبية",Sky Sport 3 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/220.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/220.m3u8
 #EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Other’s Sports قنوات رياضية أجنبية",Sky Sport 2 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/221.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/221.m3u8
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Other’s Sports قنوات رياضية أجنبية",Sky Sport 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/222.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/222.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",BG: ELEVEN SPORTS 1 BELGIUM (FR) HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/223.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/223.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",ASTRO SPORTS 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/224.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/224.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",C MORE FOTBOLL(SW)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/225.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/225.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",PREMIER SPORTS 1 (UK)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/226.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/226.m3u8
 #EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="Other’s Sports قنوات رياضية أجنبية",Polsat Sport Premium 2 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/227.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/227.m3u8
 #EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="Other’s Sports قنوات رياضية أجنبية",Polsat Sport Extra FHD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/228.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/228.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",BR | SPORTV HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/229.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/229.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",BR | SPORTV 2 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/230.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/230.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",BR | SPORTV 3 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/231.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/231.m3u8
 #EXTINF:0 tvg-id="sport1_hd" group-title="Other’s Sports قنوات رياضية أجنبية",Sport1 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/238.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/238.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",DE: Sport digital Fusball HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/239.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/239.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",Canal + Sport 1 HD AFRICA
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/240.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/240.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",Canal + Sport 2 HD AFRICA
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/241.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/241.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",Canal + Sport 3 HD AFRICA
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/242.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/242.m3u8
 #EXTINF:0 tvg-id="SportTVplus.pt" group-title="Other’s Sports قنوات رياضية أجنبية",SPORT TV +
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/243.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/243.m3u8
 #EXTINF:0 tvg-id="sporttv1.pt" group-title="Other’s Sports قنوات رياضية أجنبية",SPORT TV 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/244.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/244.m3u8
 #EXTINF:0 tvg-id="sporttv2.pt" group-title="Other’s Sports قنوات رياضية أجنبية",SPORT TV 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/245.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/245.m3u8
 #EXTINF:0 tvg-id="sporttv3.pt" group-title="Other’s Sports قنوات رياضية أجنبية",SPORT TV 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/246.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/246.m3u8
 #EXTINF:0 tvg-id="sporttv4.pt" group-title="Other’s Sports قنوات رياضية أجنبية",SPORT TV 4
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/247.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/247.m3u8
 #EXTINF:0 tvg-id="sporttv5.pt" group-title="Other’s Sports قنوات رياضية أجنبية",SPORT TV 5
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/248.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/248.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",SuperSport Premier League
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/249.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/249.m3u8
 #EXTINF:0 tvg-id="TNTSport3.uk" group-title="Other’s Sports قنوات رياضية أجنبية",BT Sports 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/250.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/250.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",IRE | Premier Sports 2ⓧᴴᴰ
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/251.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/251.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",IRE | Premier Sports 1ⓧടⅾ
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/252.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/252.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Other’s Sports قنوات رياضية أجنبية",US: wwe Network
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/481.ts
-
-#EXTINF:0 tvg-id="ext" group-title="- قنوات دينية",Al Sunnah Al Nabawiyah TV (Medina)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/254.ts
-#EXTINF:0 tvg-id="ext" group-title="- قنوات دينية",Makkah TV
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/259.ts
-#EXTINF:0 tvg-id="IslamChannel.uk" group-title="- قنوات دينية",Islam Channel
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/274.ts
-#EXTINF:0 tvg-id="ext" group-title="- قنوات دينية",Nidae AlIslam Radio
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/275.ts
-#EXTINF:0 tvg-id="ext" group-title="- قنوات دينية",Bahrain Quran
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/369.ts
-#EXTINF:0 tvg-id="ext" group-title="- قنوات دينية",Al Quran Al Kareem TV (Mecca)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/370.ts
-#EXTINF:0 tvg-id="Iqraa.net" group-title="- قنوات دينية",Iqraa
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/493.ts
-#EXTINF:0 tvg-id="ext" group-title="- قنوات دينية",Al MAJD Quran
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/499.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/481.m3u8
 
 #EXTINF:0 tvg-id="AlArabiya.nws" group-title="News - اخبار",Al Arabiya
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/255.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/255.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News - اخبار",Al Arabiya Al Hadath (1080p)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/256.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/256.m3u8
 #EXTINF:0 tvg-id="AlJazeeraArabe.nws" group-title="News - اخبار",Al Jazeera Arabic
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/257.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/257.m3u8
 #EXTINF:0 tvg-id="ext" group-title="News - اخبار",Al Jazeera Mubasher
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/258.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/258.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Fajer Tv 1 مباريات
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/494.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/494.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Fajer 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/495.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/495.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Fajer 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/496.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/496.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Fajer 4
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/497.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/497.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Fajer 5
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/498.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/498.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",ALMAJD KIDS
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/500.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/500.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="UAE الامارات ",Abu Dhabi Aloula
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/372.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/372.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UAE الامارات ",Abu Dhabi Emirates
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/373.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/373.m3u8
 #EXTINF:0 tvg-id="DubaiTVHD.net" group-title="UAE الامارات ",Dubai TV
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/374.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/374.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UAE الامارات ",Dubai Zaman
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/375.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/375.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UAE الامارات ",Noor Dubai (576p)
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/376.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/376.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UAE الامارات ",Majid TV
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/377.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/377.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UAE الامارات ",DUBAI Racing
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/378.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/378.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UAE الامارات ",DUBAI ONE HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/379.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/379.m3u8
 #EXTINF:0 tvg-id="ext" group-title="UAE الامارات ",No name
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/380.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/380.m3u8
 
 #EXTINF:0 tvg-id="2MMaroc.ma" group-title="Marocco  المغرب ",2M Monde
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/381.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/381.m3u8
 #EXTINF:0 tvg-id="AlAoula.ma" group-title="Marocco  المغرب ",Al Aoula
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/382.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/382.m3u8
 #EXTINF:0 tvg-id="AlMaghribia.ma" group-title="Marocco  المغرب ",Al Maghribia
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/383.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/383.m3u8
 #EXTINF:0 tvg-id="Assadissa.ma" group-title="Marocco  المغرب ",Assadissa
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/384.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/384.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Marocco  المغرب ",Tamazight MA
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/385.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/385.m3u8
 #EXTINF:0 tvg-id="Arrabiaa.ma" group-title="Marocco  المغرب ",Arrabiaa
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/386.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/386.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Marocco  المغرب ",AFLAM TV 7
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/480.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/480.m3u8
 
 #EXTINF:0 tvg-id="MBC1.net" group-title="MBC ام بي سي ",MBC 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/387.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/387.m3u8
 #EXTINF:0 tvg-id="MBC2.net" group-title="MBC ام بي سي ",MBC 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/388.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/388.m3u8
 #EXTINF:0 tvg-id="MBC3.net" group-title="MBC ام بي سي ",MBC 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/389.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/389.m3u8
 #EXTINF:0 tvg-id="MBC4.net" group-title="MBC ام بي سي ",MBC 4
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/390.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/390.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",MBC 5
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/391.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/391.m3u8
 #EXTINF:0 tvg-id="MBCMax.net" group-title="MBC ام بي سي ",MBC MAX
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/392.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/392.m3u8
 #EXTINF:0 tvg-id="MBCBollywood.net" group-title="MBC ام بي سي ",MBC BOLLYWOOD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/393.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/393.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",MBC IRAQ
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/394.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/394.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",MBC MASR2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/395.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/395.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",MBC MASR
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/396.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/396.m3u8
 #EXTINF:0 tvg-id="MBCAction.net" group-title="MBC ام بي سي ",MBC ACTION
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/397.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/397.m3u8
 #EXTINF:0 tvg-id="MBCMax.net" group-title="MBC ام بي سي ",MBC MAX
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/398.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/398.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",MBC + Drama
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/399.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/399.m3u8
 #EXTINF:0 tvg-id="MBCDrama.net" group-title="MBC ام بي سي ",MBC DRAMA
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/400.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/400.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",mbc persia
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/402.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/402.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",rotana classic
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/403.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/403.m3u8
 #EXTINF:0 tvg-id="RotanaCinema.il" group-title="MBC ام بي سي ",rotana cinema
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/404.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/404.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",rotana drama
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/405.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/405.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",rotana khalijia
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/406.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/406.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",rotana plus
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/408.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/408.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",rotana cinema ksa
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/409.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/409.m3u8
 #EXTINF:0 tvg-id="ext" group-title="MBC ام بي سي ",rotana kids
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/410.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/410.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="SHAHID شاهد",[Shahid Action]
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/412.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/412.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SHAHID شاهد",Shahid SciFi
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/413.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/413.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SHAHID شاهد",Shahid TURKISH
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/415.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/415.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SHAHID شاهد",Shahid Arabia
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/416.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/416.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SHAHID شاهد",Shahid Arabic Classic
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/417.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/417.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SHAHID شاهد",[Shahid HINDI]
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/419.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/419.m3u8
 #EXTINF:0 tvg-id="ext" group-title="SHAHID شاهد",Shahid VIP Horror
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/420.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/420.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX نيتفلكس",Netflix Arabic
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/427.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/427.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX نيتفلكس",Netflix Drama
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/428.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/428.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX نيتفلكس",Netflix Horror
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/429.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/429.m3u8
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX نيتفلكس",Netflix Action
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/430.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/430.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: Yahala HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/434.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/434.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: ART Hekayat HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/436.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/436.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: ART Hekayat 2 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/437.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/437.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: Yahala Cinema HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/438.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/438.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: ART Aflam 2 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/439.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/439.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: Action HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/440.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/440.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: ART Cinema HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/441.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/441.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN :ALFA ALYOUM
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/442.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/442.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: Disney Junior HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/443.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/443.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: Alfa Cinema 1 HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/444.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/444.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: Movies
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/445.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/445.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: ART Aflam 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/446.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/446.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",osn Musalsalt 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/448.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/448.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN : Comedy
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/449.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/449.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",Osn Cinema 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/450.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/450.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",[OSN] wwe
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/452.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/452.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN Nat Geo Pepole
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/455.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/455.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN MOVIES FIRST HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/457.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/457.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",osn MOVIES DISNEY HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/458.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/458.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN ALFA MUSALSALT 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/459.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/459.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN BOX OFFICE 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/460.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/460.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN BOX OFFICE 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/461.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/461.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN BOX OFFICE 3
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/462.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/462.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN: Movie Drama
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/463.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/463.m3u8
 #EXTINF:0 tvg-id="StarWorldHD.in" group-title="OSN او اس ان ",STAR WORLD HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/464.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/464.m3u8
 #EXTINF:0 tvg-id="StarMoviesHD.in" group-title="OSN او اس ان ",STAR MOVIES HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/465.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/465.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",ART Action HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/466.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/466.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN Al Safwa HD
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/472.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/472.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN Action 1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/473.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/473.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN Action 2
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/474.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/474.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN Netflix
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/475.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/475.m3u8
 #EXTINF:0 tvg-id="ext" group-title="OSN او اس ان ",OSN KIDS1
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/477.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/477.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Documentary وثائقي ",VIP Documentary
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/424.ts
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/424.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Documentary وثائقي ",Shahid VIP Wild
-http://mo3ad.xyz:80/live/mo3ad6gL00/mo3ad6gL00/425.ts
-
+http://mo3ad.xyz:80/live/mo3adh38M0/mo3adh38M0/425.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Kimo Al Fajer",PS: Al Fajer
 http://iptvtree.net:8080/F16446/53833304/266285
