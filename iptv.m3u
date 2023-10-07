@@ -645,3 +645,33 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=508346&ext
 
 #EXTINF:0 tvg-id="ext" group-title="France KIMO➾ Planete",FR: Discovry ID
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=508280&extension=ts&play_token=848r0hsO7k
+
+
+
+
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| CANAL PLAY 01
+http://magott.net:80/okota397/34882648583/430
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| CANAL PLAY 02
+http://magott.net:80/okota397/34882648583/431
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| CANAL PLAY 03
+http://magott.net:80/okota397/34882648583/432
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| CANAL PLAY 04
+http://magott.net:80/okota397/34882648583/433
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| CANAL PLAY 05
+http://magott.net:80/okota397/34882648583/434
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| CANAL PLAY 06
+http://magott.net:80/okota397/34882648583/435
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| CANAL PLAY 07
+http://magott.net:80/okota397/34882648583/436
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| CANAL PLAY 08
+http://magott.net:80/okota397/34882648583/437
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| BOX OFFICE 1
+http://magott.net:80/okota397/34882648583/38373
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| BOX OFFICE 2
+http://magott.net:80/okota397/34882648583/38374
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| BOX OFFICE 3
+http://magott.net:80/okota397/34882648583/38375
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| BOX OFFICE 4
+http://magott.net:80/okota397/34882648583/38376
+#EXTINF:0 tvg-id="ext" group-title="●★| INFORMATIONS |★●",|FR| BOX OFFICE 5
+http://magott.net:80/okota397/34882648583/38377
