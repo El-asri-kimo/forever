@@ -588,29 +588,6 @@ http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/63174
 #EXTINF:0 tvg-id="ext" group-title="|FR| FRANCE SPORT",FR - AMAZON PRIME VIDEO MULTIPLEX FHd
 http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/67590
 
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",FR: BKNETFLIX 1 H265/HEVC
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/24001
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",FR: BKNETFLIX 3 H265/HEVC
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/24002
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX MOVIES 3 CRIME-DRAME HD FR
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/24003
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",FR: BKNETFLIX 2 H265/HEVC
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/24004
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",FR: BKNETFLIX 4 H265/HEVC
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/24006
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX MOVIES 7 HD FR
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/24007
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX MOVIES 8 HD FR
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/34410
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX Play TV KIDS 1
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35566
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX Play TV KIDS 2
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35567
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX Play TV KIDS 3
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35568
-#EXTINF:0 tvg-id="ext" group-title="|FR| BOX OFFICE & NETFLIX",NETFLIX Play TV KIDS 4
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35569
-
 #EXTINF:0 tvg-id="ext" group-title="|AR| ARABE NETFLIX ",AR: NETFLIX BOX OFFICE 1
 http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/32084
 #EXTINF:0 tvg-id="ext" group-title="|AR| ARABE NETFLIX ",AR: NETFLIX BOX OFFICE 2
@@ -737,49 +714,6 @@ http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/34398
 http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/34399
 
 
-
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID ARABIA 1
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35441
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID ACTION 1
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35443
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID ACTION 2
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35444
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID COMEDY 1
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35445
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID COMEDY 2
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35446
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID MOVIES
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35447
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID ADVENTURE 2
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35448
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| BOLLYWOOD 1
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35449
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| BOLLYWOOD 2
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35450
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| ACTION
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35451
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| CRIME 2
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35452
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| SCI-FI 1
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35453
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| SCI-FI 2
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35454
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR:SHAHID| HORROR 1
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35455
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| HORROR 2
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35456
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| CARTTON 1
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35457
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| ANIMATION 2
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35458
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| CINEMA
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35459
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID| ZAMAN
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/35460
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID DOCUMENTARY
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/34408
-#EXTINF:0 tvg-id="ext" group-title="|AR| SHAHID ARBIC",AR: SHAHID DOCUMENTARY 2
-http://iptv-tn.com:8080/is191841@telegra/Hdhhdh100_Ip.tv2c/34407
 
 
 
