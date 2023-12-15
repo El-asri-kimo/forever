@@ -2,30 +2,18 @@
 
 #######
 
-#EXTM3U
 
 #EXTINF:1,BEINSPORT 1 INT | RAW
-
 http://138.201.122.240:8888/stream/beintodconnect/trbeinsport1intraw/master.m3u8
-
 #EXTINF:2,TR | BEINSPORT 1 TOD | RAW
-
 http://138.201.122.240:8888/stream/beintodconnect/trbeinsport1todraw/master.m3u8
-
 #EXTINF:9,TR | BEINSPORT 2 TOD | RAW
-
 http://138.201.122.240:8888/stream/beintodconnect/trbeinsport2todraw/master.m3u8
-
 #EXTINF:9,TR | BEINSPORT 3 TOD | RAW
-
 http://138.201.122.240:8888/stream/beintodconnect/trbeinsport3todraw/master.m3u8
-
 #EXTINF:9,TR | BEINSPORT 4 TOD | RAW
-
 http://138.201.122.240:8888/stream/beintodconnect/trbeinsport4todraw/master.m3u8
-
 #EXTINF:9,TR | BEINSPORT 5 TOD | RAW
-
 http://138.201.122.240:8888/stream/beintodconnect/trbeinsport5todraw/master.m3u8
 
 ##########
