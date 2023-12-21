@@ -743,24 +743,6 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=508280&ext
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="Channels",BeIN Sports News
 http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/276.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/314.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/315.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 3 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/316.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 4 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/317.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 5 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/318.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 6 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/319.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 7 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/320.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 8 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/321.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 9 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/322.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN Newsᴴᴰ
 http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/277.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 1ᴴᴰ
@@ -1151,16 +1133,6 @@ http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/256.ts
 http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/257.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Al Jazeera Mubasher
 http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/258.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Fajer Tv 1 مباريات
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/494.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Fajer 2
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/495.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Fajer 3
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/496.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Fajer 4
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/497.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Fajer 5
-http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/498.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALMAJD KIDS
 http://mo3ad.xyz:80/live/mo3adiP376q/mo3adiP376q/500.ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Aloula
