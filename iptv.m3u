@@ -89,54 +89,89 @@ http://iptvtree.net:8080/9ba1ba9e/f0731c0237/280254
 http://iptvtree.net:8080/9ba1ba9e/f0731c0237/225567
 #EXTINF:0 tvg-id="ext" group-title="Channels",QA: Travel Channel
 http://iptvtree.net:8080/9ba1ba9e/f0731c0237/225570
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: Al Majd
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/225298
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: Al Majd Quran
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/17224
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: Alresalah TV
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/225180
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: ART Aflam 1
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/1278
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: ART Aflam 2
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/1277
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: ART Cinema
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/1279
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: ART Hekayat
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/1276
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: ART Hekayat 2
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/1275
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: Atfal & Mawaheb
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/265203
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: Basma Channel
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/43796
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: Channel 24 Saudi
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/3743
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: Ekhbariya TV
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/36634
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 1
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/266330
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 2
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/266331
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 3
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/266332
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 4
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/266333
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 5
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/266334
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 6
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/266335
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 7
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/266336
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 8
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/266337
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 9
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/266338
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 10
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/266339
-#EXTINF:0 tvg-id="ext" group-title="Channels",SA: IEN Doros 11
-http://iptvtree.net:8080/9ba1ba9e/f0731c0237/279698
 
 
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Action
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/2860
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Box Office 1
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/43903
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Box Office 2
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/3701
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Box Office 3
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/3702
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Comedy
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/2859
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Comedy 2
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/281484
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Enigma
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/2856
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Family
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/281477
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Kids
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/3694
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Kidz Zone
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/13828
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Living
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/22478
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Mezze
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/122553
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/22109
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies Action
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/297226
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies Disney
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/13666
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies Family
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/43912
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies First
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/2858
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Movies First +2
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/16917
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN ON DEMAND
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/43916
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN ON DEMAND 2
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/43918
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN ON DEMAND 3
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/300874
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN ON DEMAND EXTRA 1
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/43922
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN ON DEMAND EXTRA 2
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/2857
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN ON DEMAND EXTRA 3
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/43917
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Premiere
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/22118
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN TV Movies Comedy
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/300676
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN TV Movies Family
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/300675
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN TV Movies Hollywood
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/300677
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN TV Movies Premiere
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/300678
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN TV Yahala Aflam
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/2851
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Woman
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/282771
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE: OSN Yahala
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/2850
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 1
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/280132
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 2
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/280137
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 3
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/280134
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 4
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/280133
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC 5
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/280135
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Extra 1
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/280136
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Extra 2
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/281462
+#EXTINF:0 tvg-id="ext" group-title="Channels",SA: SSC Extra 3
+http://iptvtree.net:8080/9ba1ba9e/f0731c0237/299730
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",FR: A La Carte 1
 http://iptvtree.net:8080/9ba1ba9e/f0731c0237/231
