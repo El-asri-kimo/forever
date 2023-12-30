@@ -1,5 +1,17 @@
 #EXTM3U
 
+
+#EXTINF:0 tvg-id="ext" group-title="Palestine",PS: Al Fajer
+http://iptvtree.net:8080/d1823794/20ec6b948b/266285
+#EXTINF:0 tvg-id="ext" group-title="Palestine",PS: Al Fajer 2
+http://iptvtree.net:8080/d1823794/20ec6b948b/283275
+#EXTINF:0 tvg-id="ext" group-title="Palestine",PS: Al Fajer 3
+http://iptvtree.net:8080/d1823794/20ec6b948b/298398
+#EXTINF:0 tvg-id="ext" group-title="Palestine",PS: Al Fajer 4
+http://iptvtree.net:8080/d1823794/20ec6b948b/298399
+#EXTINF:0 tvg-id="ext" group-title="Palestine",PS: Al Fajer 5
+http://iptvtree.net:8080/d1823794/20ec6b948b/298400
+
 #EXTINF:0 tvg-id="Salon1.tr" group-title="Arabic",AR: beIN Box Office 1
 http://iptvtree.net:8080/d1823794/20ec6b948b/300137
 #EXTINF:0 tvg-id="Salon2.tr" group-title="Arabic",AR: beIN Box Office 2
