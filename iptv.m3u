@@ -1670,1620 +1670,223 @@ http://javaiptv.vip:80/craz362/0560888559/139860
 
 
 
-#EXTM3U
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FRANCE SPORT",|FR| CANAL+ SPORT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/39203.ts
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FRANCE SPORT",|FR| CANAL+ SPORT HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15191.ts
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FRANCE SPORT",|FR| CANAL+ SPORT FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51166.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| CANAL+ FOOT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/136367.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR.RP| CANAL+ FOOT HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/136368.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| CANAL+ FOOT FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/136369.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| CANAL+ SPORT 360
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/136372.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR.RP| CANAL+ SPORT 360 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/136371.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| CANAL+ SPORT 360 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/136370.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| CANAL+ PREMIER LEAGUE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/125118.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| CANAL+ PREMIER LEAGUE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/115017.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| CANAL+ TOP14 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108537.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR.RP| CANAL+ FORMULA1 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/125119.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| CANAL+ FORMULA1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108538.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| CANAL+ MOTO GP FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15147.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| DAZN 1 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/303273.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| DAZN 1 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277603.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| DAZN PPV Full HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277604.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME MULTIPLEX SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126666.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME MULTIPLEX HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126667.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME MULTIPLEX FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124796.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 1 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108558.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 1 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108559.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108560.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 2 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124486.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 2 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124485.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 2 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124484.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 3 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124489.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 3 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124488.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 3 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124487.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 4 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124492.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 4 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124491.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 4 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124490.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 5 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124495.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 5 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124494.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 5 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124493.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 6 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124520.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 6 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124523.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 6 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124524.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 7 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124521.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 7 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124525.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 7 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124526.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 8 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124522.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 8 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124527.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 8 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124559.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LIVE 9 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124560.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE 1 LiVE 9 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/124561.ts
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="FRANCE SPORT",|FR| BEIN SPORT 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15204.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR.RP| BEIN SPORT 1 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9340.ts
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="FRANCE SPORT",|FR| BEIN SPORT 1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51102.ts
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="FRANCE SPORT",|FR| BEIN SPORT 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15203.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR.RP| BEIN SPORT 2 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9339.ts
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="FRANCE SPORT",|FR| BEIN SPORT 2 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9588.ts
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="FRANCE SPORT",|FR| BEIN SPORT 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15202.ts
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="FRANCE SPORT",|FR| BEIN SPORT 3 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9341.ts
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="FRANCE SPORT",|FR| BEIN SPORT 3 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9587.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| BEIN SPORT 3 FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51100.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| RMC SPORT NEWS FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40481.ts
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FRANCE SPORT",|FR| RMC SPORT 1 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15127.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR.RP| RMC SPORT 1 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9218.ts
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FRANCE SPORT",|FR| RMC SPORT 1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9502.ts
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FRANCE SPORT",|FR| RMC SPORT 2 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15126.ts
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FRANCE SPORT",|FR.RP| RMC SPORT 2 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9217.ts
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FRANCE SPORT",|FR| RMC SPORT 2 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9501.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| RMC SPORT 3 SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/50978.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| RMC SPORT 3 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/50979.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| RMC SPORT 3 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/50980.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| RMC SPORT 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15124.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| RMC SPORT 4 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9215.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| RMC SPORT 4 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9499.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126960.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139104.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 2 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126961.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 2 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139105.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 3 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126962.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 3 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139106.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 4 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126963.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 4 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139107.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 5 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126964.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 5 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139108.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 6 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126965.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 6 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139109.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 7 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126966.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 7 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139110.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 8 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126967.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AMAZON PRIME LIGUE DEUX LIVE 8 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139111.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| MULTISPORTS 1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108540.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| MULTISPORTS 2 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108541.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| MULTISPORTS 3 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108542.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| MULTISPORTS 4 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108543.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| MULTISPORTS 6 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108545.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| MULTISPORTS 5 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108544.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 4 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15210.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 5 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15209.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 6 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15208.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 7 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15207.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 8 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15206.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 9 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15205.ts
-#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="FRANCE SPORT",|FR| BEIN SPORT MAX 10 hd
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15211.ts
-#EXTINF:0 tvg-id="RMCSportLive5.fr" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 5 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40480.ts
-#EXTINF:0 tvg-id="RMCSportLive6.fr" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 6 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40479.ts
-#EXTINF:0 tvg-id="RMCSportLive7.fr" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 7 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40478.ts
-#EXTINF:0 tvg-id="RMCSportLive8.fr" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 8 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40477.ts
-#EXTINF:0 tvg-id="RMCSportLive9.fr" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 9 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40476.ts
-#EXTINF:0 tvg-id="RMCSportLive10.fr" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 10 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40475.ts
-#EXTINF:0 tvg-id="RMCSportLive11.fr" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 11 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40474.ts
-#EXTINF:0 tvg-id="RMCSportLive12.fr" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 12 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40473.ts
-#EXTINF:0 tvg-id="RMCSportLive13.fr" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 13 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40472.ts
-#EXTINF:0 tvg-id="RMCSportLive14.fr" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 14 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40471.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| RMC SPORT LIVE 15 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40470.ts
-#EXTINF:0 tvg-id="RMCSportAccess1.fr" group-title="FRANCE SPORT",|FR| RMC SPORT ACCESS 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40484.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| RMC SPORT ACCESS 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40483.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108539.ts
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="FRANCE SPORT",|FR| EUROSPORT 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15172.ts
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="FRANCE SPORT",|FR.RP| EUROSPORT 1 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9281.ts
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="FRANCE SPORT",|FR| EUROSPORT 1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9549.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 1 FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51105.ts
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="FRANCE SPORT",|FR| EUROSPORT 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9279.ts
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="FRANCE SPORT",|FR.RP| EUROSPORT 2 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9280.ts
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="FRANCE SPORT",|FR| EUROSPORT 2 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9548.ts
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="FRANCE SPORT",|FR| EUROSPORT 2 FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51106.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139080.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 1 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139081.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139082.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139083.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 2 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139084.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 2 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139085.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139086.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 3 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139087.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 3 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139088.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139089.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 4 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139090.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 4 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139091.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 5
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139092.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 5 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139093.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 5 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139094.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 6
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139095.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 6 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139096.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 6 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139097.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 7
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139098.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 7 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139099.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 7 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139100.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 8
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139101.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 8 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139102.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EUROSPORT 360 8 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/139103.ts
-#EXTINF:0 tvg-id="Infosport.fr" group-title="FRANCE SPORT",|FR| INFOSPORT+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9265.ts
-#EXTINF:0 tvg-id="Infosport.fr" group-title="FRANCE SPORT",|FR| INFOSPORT HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15156.ts
-#EXTINF:0 tvg-id="Infosport.fr" group-title="FRANCE SPORT",|FR| INFOSPORT FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9534.ts
-#EXTINF:0 tvg-id="Foot24.fr" group-title="FRANCE SPORT",|FR| FOOT+ 24/24
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/32819.ts
-#EXTINF:0 tvg-id="Foot24.fr" group-title="FRANCE SPORT",|FR| FOOT+ 24/24 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51104.ts
-#EXTINF:0 tvg-id="Equipe21.fr" group-title="FRANCE SPORT",|FR| LEQUIPE 21
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9264.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR.RP| LEQUIPE 21 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15155.ts
-#EXTINF:0 tvg-id="EquipeTV.fr" group-title="FRANCE SPORT",|FR| LEQUIPE 21 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9533.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| LEQUIPE LIVE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/305443.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| LEQUIPE LIVE 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/305444.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| LEQUIPE LIVE 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/305445.ts
-#EXTINF:0 tvg-id="Golfplus.fr" group-title="FRANCE SPORT",|FR| GOLF+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9270.ts
-#EXTINF:0 tvg-id="Golfplus.fr" group-title="FRANCE SPORT",|FR| GOLF+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15161.ts
-#EXTINF:0 tvg-id="Golfplus.fr" group-title="FRANCE SPORT",|FR| GOLF+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/43446.ts
-#EXTINF:0 tvg-id="GolfChannel.fr" group-title="FRANCE SPORT",|FR| GOLF+ FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9540.ts
-#EXTINF:0 tvg-id="GolfChannel.fr" group-title="FRANCE SPORT",|FR| GOLF+ FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51107.ts
-#EXTINF:0 tvg-id="GolfChannel.fr" group-title="FRANCE SPORT",|FR| GOLF CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9378.ts
-#EXTINF:0 tvg-id="GolfChannel.fr" group-title="FRANCE SPORT",|FR| GOLF CHANNEL HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15162.ts
-#EXTINF:0 tvg-id="GolfChannel.fr" group-title="FRANCE SPORT",|FR| GOLF CHANNEL FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9539.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| GOLF CHANNEL FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51103.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR.RP| CANAL+ SPORT HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9326.ts
-#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="FRANCE SPORT",|FR| EQUIDIA LIVE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9282.ts
-#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="FRANCE SPORT",|FR| EQUIDIA LIVE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15173.ts
-#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="FRANCE SPORT",|FR| EQUIDIA LIVE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9550.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EXTREME SPORTS HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15227.ts
-#EXTINF:0 tvg-id="100NLTV.nl" group-title="FRANCE SPORT",|FR| AB MOTEUR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9359.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AUTOMOTO LA CHAINE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62915.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| MOTORSPORT TV FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9526.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EXTREME SPORTS FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62916.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| AEROSTAR TV FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62917.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| EQUIDIA HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51140.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| NAUTICAL CHANNEL HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62912.ts
-#EXTINF:0 tvg-id="OLTV.fr" group-title="FRANCE SPORT",|FR| OL TV FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9243.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| CHEVAL TV FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271135.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|FR| LUCKY JACK Full HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/274610.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 1 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277605.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 2 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277606.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 3 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277607.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 4 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277608.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 5 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277609.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 6 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277610.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 7 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277611.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 8 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277612.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 9 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277613.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 10 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277614.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 11 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277615.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 12 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277616.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 13 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277617.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 14 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277618.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",|MLS| EVENT 15 Full HD - (LIVE ONLY)
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/277619.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORT",Dazn ppv
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/303274.ts
-
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TNT",|FR| TF1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9211.ts
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TNT",|FR.RP| TF1 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15121.ts
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TNT",|FR| TF1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9210.ts
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TNT",|FR| TF1 4K
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62897.ts
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TNT",|FR| TF1+1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51178.ts
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TNT",|FR| TF1+1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51179.ts
-#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="FRANCE TNT",|FR| TF1 SERIES FILMS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51148.ts
-#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="FRANCE TNT",|FR.RP| TF1 SERIES FILMS HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51169.ts
-#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="FRANCE TNT",|FR| TF1 SERIES FILMS FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51172.ts
-#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE TNT",|FR| FRANCE 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9277.ts
-#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE TNT",|FR.RP| FRANCE 2 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15226.ts
-#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE TNT",|FR| FRANCE 2 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9546.ts
-#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE TNT",|FR| FRANCE 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9276.ts
-#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE TNT",|FR.RP| FRANCE 3 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15169.ts
-#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE TNT",|FR| FRANCE 3 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9545.ts
-#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE TNT",|FR| FRANCE 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9274.ts
-#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE TNT",|FR.RP| FRANCE 4 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15168.ts
-#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE TNT",|FR| FRANCE 4 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9544.ts
-#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE TNT",|FR| FRANCE 4 FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51176.ts
-#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE TNT",|FR| FRANCE 5
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9273.ts
-#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE TNT",|FR.RP| FRANCE 5 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15167.ts
-#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE TNT",|FR| FRANCE 5 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9543.ts
-#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE TNT",|FR| FRANCE 5 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51175.ts
-#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE TNT",|FR| M6
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9260.ts
-#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE TNT",|FR.RP| M6 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15154.ts
-#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE TNT",|FR| M6 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9531.ts
-#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE TNT",|FR| M6 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51174.ts
-#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE TNT",|FR| ARTE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9354.ts
-#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE TNT",|FR| ARTE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15212.ts
-#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE TNT",|FR| ARTE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9590.ts
-#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE TNT",|FR| C8 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51171.ts
-#EXTINF:0 tvg-id="TFX.fr" group-title="FRANCE TNT",|FR| TFX
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/50639.ts
-#EXTINF:0 tvg-id="TFX.fr" group-title="FRANCE TNT",|FR| TFX HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/50640.ts
-#EXTINF:0 tvg-id="TFX.fr" group-title="FRANCE TNT",|FR| TFX FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/50641.ts
-#EXTINF:0 tvg-id="TFX.fr" group-title="FRANCE TNT",|FR| TFX FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51168.ts
-#EXTINF:0 tvg-id="CStar.fr" group-title="FRANCE TNT",|FR| CSTAR FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51151.ts
-#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE TNT",|FR| 6TER
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9364.ts
-#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE TNT",|FR| 6TER HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15216.ts
-#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE TNT",|FR| 6TER FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9595.ts
-#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FRANCE TNT",|FR| PARIS PREMIERE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51129.ts
-#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE TNT",|FR| ARTE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51154.ts
-#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE TNT",|FR| FRANCE 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271306.ts
-#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FRANCE TNT",|FR| PARIS PREMIERE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15137.ts
-#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FRANCE TNT",|FR| PARIS PREMIERE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9238.ts
-#EXTINF:0 tvg-id="TVBreizh.fr" group-title="FRANCE TNT",|FR| TV BREIZH
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9206.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TNT",|FR.RP| TV BREIZH HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15116.ts
-#EXTINF:0 tvg-id="TVBreizh.fr" group-title="FRANCE TNT",|FR| TV BREIZH FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9491.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE TNT",|FR| TV BREIZH FHD HEVC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51119.ts
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE TNT",|FR| NRJ 12 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51134.ts
-
-#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE DIVERTISSEMENT",|FR| C8
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9293.ts
-#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE DIVERTISSEMENT",|FR| C8 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15232.ts
-#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE DIVERTISSEMENT",|FR| C8 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9574.ts
-#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE DIVERTISSEMENT",|FR| W9
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9372.ts
-#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE DIVERTISSEMENT",|FR.RP| W9 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15111.ts
-#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE DIVERTISSEMENT",|FR| W9 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9488.ts
-#EXTINF:0 tvg-id="CStar.fr" group-title="FRANCE DIVERTISSEMENT",|FR| CSTAR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15182.ts
-#EXTINF:0 tvg-id="CStar.fr" group-title="FRANCE DIVERTISSEMENT",|FR.RP| CSTAR HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9561.ts
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE DIVERTISSEMENT",|FR| CHERIE 25
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9313.ts
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE DIVERTISSEMENT",|FR| CHERIE 25 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15188.ts
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE DIVERTISSEMENT",|FR| CHERIE 25 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9572.ts
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE DIVERTISSEMENT",|FR| NRJ12
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15142.ts
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE DIVERTISSEMENT",|FR.RP| NRJ12 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9366.ts
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE DIVERTISSEMENT",|FR| NRJ12 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9521.ts
-#EXTINF:0 tvg-id="TV5MondeFBS.fr" group-title="FRANCE DIVERTISSEMENT",|FR| TV5 MONDE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51170.ts
-#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE DIVERTISSEMENT",|FR| TEVA FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9212.ts
-#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE DIVERTISSEMENT",|FR| RTL9
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9374.ts
-#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE DIVERTISSEMENT",|FR| RTL9 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15130.ts
-#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE DIVERTISSEMENT",|FR| RTL9 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9507.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| BET ETOILE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51153.ts
-#EXTINF:0 tvg-id="AB1.fr" group-title="FRANCE DIVERTISSEMENT",|FR| AB1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15233.ts
-#EXTINF:0 tvg-id="AB1.fr" group-title="FRANCE DIVERTISSEMENT",|FR| AB1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9594.ts
-#EXTINF:0 tvg-id="AB3.be" group-title="FRANCE DIVERTISSEMENT",|FR| AB3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9357.ts
-#EXTINF:0 tvg-id="AB3.be" group-title="FRANCE DIVERTISSEMENT",|FR| AB3 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15215.ts
-#EXTINF:0 tvg-id="AB3.be" group-title="FRANCE DIVERTISSEMENT",|FR| AB3 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9593.ts
-#EXTINF:0 tvg-id="SerieClub.fr" group-title="FRANCE DIVERTISSEMENT",|FR.RP| SERIE CLUB HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9226.ts
-#EXTINF:0 tvg-id="13RUE.fr" group-title="FRANCE DIVERTISSEMENT",|FR| 13EME RUE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9365.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR.RP| 13EME RUE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15217.ts
-#EXTINF:0 tvg-id="13RUE.fr" group-title="FRANCE DIVERTISSEMENT",|FR| 13EME RUE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9596.ts
-#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE DIVERTISSEMENT",|FR| SYFY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9214.ts
-#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE DIVERTISSEMENT",|FR.RP| SYFY HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15123.ts
-#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE DIVERTISSEMENT",|FR| SYFY FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9498.ts
-#EXTINF:0 tvg-id="E!Entertainment.fr" group-title="FRANCE DIVERTISSEMENT",|FR| E! ENTERTAINMENT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15175.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR.RP| E! ENTERTAINMENT HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9285.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| E! ENTERTAINMENT FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9553.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR.RP| MY CUISINE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/30818.ts
-#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDIE+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9297.ts
-#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDIE PLUS HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15183.ts
-#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDIE+ FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9563.ts
-#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE DIVERTISSEMENT",|FR| TEVA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/49805.ts
-#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE DIVERTISSEMENT",|FR| TEVA FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/49804.ts
-#EXTINF:0 tvg-id="Warnertv.fr" group-title="FRANCE DIVERTISSEMENT",|FR| WARNER TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9268.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| WARNER TV FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9267.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| MELODY TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/48042.ts
-#EXTINF:0 tvg-id="Melody.fr" group-title="FRANCE DIVERTISSEMENT",|FR| MELODY TV FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62227.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| MY CUISINE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/57358.ts
-#EXTINF:0 tvg-id="NovelasTV.fr" group-title="FRANCE DIVERTISSEMENT",|FR| NOVELAS TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62893.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| COMEDY CENTRAL FRANCE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62914.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| FASHION TV UHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62918.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| RTS DEUX FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9506.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| KTO TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/63011.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| ONE TV HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/69203.ts
-#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE DIVERTISSEMENT",|FR| W9 FHD HEVC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51173.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| EUROCHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/108053.ts
-#EXTINF:0 tvg-id="SerieClub.fr" group-title="FRANCE DIVERTISSEMENT",|FR| SERIE CLUB FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51123.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| RTL9 FHD HEVC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51125.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| MY ZEN TV FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62919.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| JAPANIM TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/249103.ts
-#EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="FRANCE DIVERTISSEMENT",|FR| TV5 MONDE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9192.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE DIVERTISSEMENT",|FR| CLUBBING TV HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/49803.ts
-
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="FRANCE CINEMA",|FR| CANAL+ SD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/32155.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR.RP| CANAL+ HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9324.ts
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="FRANCE CINEMA",|FR| CANAL+ FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9579.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR| CANAL+ FHD H265
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51165.ts
-#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FRANCE CINEMA",|FR| CANAL+ CINEMA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9332.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR.RP| CANAL+ CINEMA HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15195.ts
-#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FRANCE CINEMA",|FR| CANAL+ CINEMA FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9582.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR| CANAL+ BOX OFFICE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/278399.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR| CANAL+ BOX OFFICE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/278398.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR.RP| CANAL GRAND ECRAN HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/131807.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR.RP| CANAL FAMILY HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15193.ts
-#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="FRANCE CINEMA",|FR| CANAL FAMILY FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9580.ts
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE CINEMA",|FR| CANAL+ SERIE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9328.ts
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE CINEMA",|FR.RP| CANAL SERIE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15192.ts
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE CINEMA",|FR| CANAL SERIE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9578.ts
-#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="FRANCE CINEMA",|FR| ALTICE STUDIO
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40882.ts
-#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="FRANCE CINEMA",|FR| ALTICE STUDIO HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40881.ts
-#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="FRANCE CINEMA",|FR| ALTICE STUDIO FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/40880.ts
-#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FRANCE CINEMA",|FR| OCS CHOC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9247.ts
-#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FRANCE CINEMA",|FR| OCS CHOC HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15140.ts
-#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FRANCE CINEMA",|FR| OCS CHOC FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9518.ts
-#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FRANCE CINEMA",|FR| OCS CITY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9246.ts
-#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FRANCE CINEMA",|FR| OCS CITY HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15223.ts
-#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FRANCE CINEMA",|FR| OCS CITY FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9517.ts
-#EXTINF:0 tvg-id="OCSGeants.fr" group-title="FRANCE CINEMA",|FR| OCS GEANT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9245.ts
-#EXTINF:0 tvg-id="OCSGeants.fr" group-title="FRANCE CINEMA",|FR| OCS GEANTS HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15139.ts
-#EXTINF:0 tvg-id="OCSGeants.fr" group-title="FRANCE CINEMA",|FR| OCS GEANTS FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9516.ts
-#EXTINF:0 tvg-id="OCSMax.fr" group-title="FRANCE CINEMA",|FR| OCS MAX
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9244.ts
-#EXTINF:0 tvg-id="OCSMax.fr" group-title="FRANCE CINEMA",|FR| OCS MAX HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15222.ts
-#EXTINF:0 tvg-id="OCSMax.fr" group-title="FRANCE CINEMA",|FR| OCS MAX FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9515.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR| OCS PULP HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271879.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR| OCS PULP FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271880.ts
-#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRANCE CINEMA",|FR| CINE CLASSIC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9311.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR.RP| CINE CLASSIC HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15187.ts
-#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRANCE CINEMA",|FR| CINE CLASSIC FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9570.ts
-#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FRANCE CINEMA",|FR| CINE EMOTION
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9309.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR.RP| CINE EMOTION HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15186.ts
-#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FRANCE CINEMA",|FR| CINE EMOTION FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9568.ts
-#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRANCE CINEMA",|FR| CINE FAMIZ
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9307.ts
-#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRANCE CINEMA",|FR| CINE FAMIZ HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9306.ts
-#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRANCE CINEMA",|FR| CINE FAMIZ FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9567.ts
-#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FRANCE CINEMA",|FR| CINE FRISSON
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9304.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR.RP| CINE FRISSON HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15185.ts
-#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FRANCE CINEMA",|FR| CINE FRISSON FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9303.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR| POLAR + HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9564.ts
-#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FRANCE CINEMA",|FR| CINE PREMIER
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9300.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR.RP| CINE PREMIER HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15230.ts
-#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FRANCE CINEMA",|FR| CINE PREMIER FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9571.ts
-#EXTINF:0 tvg-id="Action.fr" group-title="FRANCE CINEMA",|FR| ACTION
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9356.ts
-#EXTINF:0 tvg-id="Action.fr" group-title="FRANCE CINEMA",|FR.RP| ACTION HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15214.ts
-#EXTINF:0 tvg-id="Action.fr" group-title="FRANCE CINEMA",|FR| ACTION FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9592.ts
-#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE CINEMA",|FR| TMC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9194.ts
-#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE CINEMA",|FR| TMC FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15119.ts
-#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE CINEMA",|FR| TMC+1 HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9494.ts
-#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE CINEMA",|FR| TCM CINEMA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/59874.ts
-#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE CINEMA",|FR| TCM CINEMA HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126952.ts
-#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE CINEMA",|FR| TCM CINEMA FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9195.ts
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE CINEMA",|FR| PARAMOUNT CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9240.ts
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE CINEMA",|FR| PARAMOUNT CHANNEL HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15138.ts
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE CINEMA",|FR| PARAMOUNT CHANNEL FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9514.ts
-#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRANCE CINEMA",|FR| CINE CLASSIC FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/50886.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CINEMA",|FR| CINE CLUB FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/50883.ts
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE CINEMA",|FR| CANAL+ SERIES FHD HEVC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51162.ts
-
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ORANGE",|FR| ORANGE CINE 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15246.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ORANGE",|FR| ORANGE CINE 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15245.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ORANGE",|FR| ORANGE CINE 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15244.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ORANGE",|FR| ORANGE CINE 5
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15243.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ORANGE",|FR| ORANGE CINE 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15247.ts
-
-#EXTINF:0 tvg-id="BabyTV.fr" group-title="FRANCE ENFANT",|FR| BABY TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62903.ts
-#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="FRANCE ENFANT",|FR| DISNEY CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9290.ts
-#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="FRANCE ENFANT",|FR| DISNEY CHANNEL HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15178.ts
-#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="FRANCE ENFANT",|FR| DISNEY CHANNEL FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9557.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ENFANT",|FR| DISNEY CHANNEL +1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62898.ts
-#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="FRANCE ENFANT",|FR| DISNEY JUNIOR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9369.ts
-#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="FRANCE ENFANT",|FR| DISNEY JUNIOR HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15177.ts
-#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="FRANCE ENFANT",|FR| DISNEY JUNIOR FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9287.ts
-#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="FRANCE ENFANT",|FR| DISNEY JUNIOR FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9555.ts
-#EXTINF:0 tvg-id="100NLTV.nl" group-title="FRANCE ENFANT",|FR| DISNEY CINEMA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9288.ts
-#EXTINF:0 tvg-id="DisneyMagic.fr" group-title="FRANCE ENFANT",|FR| DISNEY CINEMA HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15229.ts
-#EXTINF:0 tvg-id="100NLTV.nl" group-title="FRANCE ENFANT",|FR| DISNEY CINEMA FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9556.ts
-#EXTINF:0 tvg-id="100NLTV.nl" group-title="FRANCE ENFANT",|FR| DISNEY XD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9286.ts
-#EXTINF:0 tvg-id="DisneyXD.fr" group-title="FRANCE ENFANT",|FR| DISNEY XD HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15176.ts
-#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FRANCE ENFANT",|FR| NICKELODEON
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9251.ts
-#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FRANCE ENFANT",|FR| NICKELODEON HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15143.ts
-#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FRANCE ENFANT",|FR| NICKELODEON FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9522.ts
-#EXTINF:0 tvg-id="NickJr.fr" group-title="FRANCE ENFANT",|FR| NICKELODEON JUNIOR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9250.ts
-#EXTINF:0 tvg-id="NickJr.fr" group-title="FRANCE ENFANT",|FR.RP| NICKELODEON JUNIOR HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9252.ts
-#EXTINF:0 tvg-id="NickJr.fr" group-title="FRANCE ENFANT",|FR| NICKELODEON JUNIOR FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15225.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ENFANT",|FR| NICKELODEON 4 TEEN
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/49802.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ENFANT",|FR| NICKELODEON 4 TEEN FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/49801.ts
-#EXTINF:0 tvg-id="TeleTOON.fr" group-title="FRANCE ENFANT",|FR| TELETOON +
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9373.ts
-#EXTINF:0 tvg-id="TeleTOON.fr" group-title="FRANCE ENFANT",|FR| TELETOON + FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9496.ts
-#EXTINF:0 tvg-id="PIWI.fr" group-title="FRANCE ENFANT",|FR| PIWI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9237.ts
-#EXTINF:0 tvg-id="PIWI.fr" group-title="FRANCE ENFANT",|FR| PIWI HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15136.ts
-#EXTINF:0 tvg-id="PIWI.fr" group-title="FRANCE ENFANT",|FR| PIWI FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9513.ts
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="FRANCE ENFANT",|FR| CANAL J
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9323.ts
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="FRANCE ENFANT",|FR| CANAL J HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15231.ts
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="FRANCE ENFANT",|FR| CANAL J FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9576.ts
-#EXTINF:0 tvg-id="Tiji.fr" group-title="FRANCE ENFANT",|FR| TIJI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9209.ts
-#EXTINF:0 tvg-id="Tiji.fr" group-title="FRANCE ENFANT",|FR| TIJI HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15120.ts
-#EXTINF:0 tvg-id="Tiji.fr" group-title="FRANCE ENFANT",|FR| TIJI FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9495.ts
-#EXTINF:0 tvg-id="Boomerang.fr" group-title="FRANCE ENFANT",|FR| BOOMERANG
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9334.ts
-#EXTINF:0 tvg-id="Boomerang.fr" group-title="FRANCE ENFANT",|FR| BOOMERANG HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15198.ts
-#EXTINF:0 tvg-id="Boomerang.fr" group-title="FRANCE ENFANT",|FR| BOOMERANG FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9583.ts
-#EXTINF:0 tvg-id="Boing.fr" group-title="FRANCE ENFANT",|FR| BOING
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9335.ts
-#EXTINF:0 tvg-id="Boing.fr" group-title="FRANCE ENFANT",|FR| BOING HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15199.ts
-#EXTINF:0 tvg-id="Boing.fr" group-title="FRANCE ENFANT",|FR| BOING FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9584.ts
-#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="FRANCE ENFANT",|FR| CARTOON NETWORK
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9315.ts
-#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="FRANCE ENFANT",|FR.RP| CARTOON NETWORK HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9371.ts
-#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="FRANCE ENFANT",|FR| CARTOON NETWORK FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15190.ts
-#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="FRANCE ENFANT",|FR| CARTOON NETWORK FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9573.ts
-#EXTINF:0 tvg-id="GameOne.fr" group-title="FRANCE ENFANT",|FR| GAME ONE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9271.ts
-#EXTINF:0 tvg-id="GameOne.fr" group-title="FRANCE ENFANT",|FR| GAME ONE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15163.ts
-#EXTINF:0 tvg-id="GameOne.fr" group-title="FRANCE ENFANT",|FR| GAME ONE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9541.ts
-#EXTINF:0 tvg-id="Gulli.fr" group-title="FRANCE ENFANT",|FR| GULLI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9269.ts
-#EXTINF:0 tvg-id="Gulli.fr" group-title="FRANCE ENFANT",|FR| GULLI HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15160.ts
-#EXTINF:0 tvg-id="Gulli.fr" group-title="FRANCE ENFANT",|FR| GULLI FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9538.ts
-#EXTINF:0 tvg-id="Mangas.fr" group-title="FRANCE ENFANT",|FR| MANGAS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9257.ts
-#EXTINF:0 tvg-id="Mangas.fr" group-title="FRANCE ENFANT",|FR| MANGA FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9530.ts
-#EXTINF:0 tvg-id="Mangas.fr" group-title="FRANCE ENFANT",|FR| MANGAS HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51137.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ENFANT",|FR| J ONE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/30600.ts
-#EXTINF:0 tvg-id="Toonami.fr" group-title="FRANCE ENFANT",|FR| TOONAMI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/46532.ts
-#EXTINF:0 tvg-id="Toonami.fr" group-title="FRANCE ENFANT",|FR| TOONAMI FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/50674.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ENFANT",|FR| GAME ONE +1 FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62910.ts
-#EXTINF:0 tvg-id="DisneyXD.fr" group-title="FRANCE ENFANT",|FR| DISNEY XD FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9554.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ENFANT",|FR| FOX KIDS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271992.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE ENFANT",|FR| PITCHOUN TV HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62905.ts
-
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| CANAL+ Docs FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/142288.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR.RP| PLANETE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15135.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| PLANETE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9512.ts
-#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="FRANCE CULTURE",|FR| PLANETE A&E
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9235.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR.RP| PLANETE A&E HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15134.ts
-#EXTINF:0 tvg-id="Planete+CrimeInvestigation.fr" group-title="FRANCE CULTURE",|FR| PLANETE CI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9234.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR.RP| PLANETE CI HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15133.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| PLANETE CRIME FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9510.ts
-#EXTINF:0 tvg-id="DiscoveryInvestigation.fr" group-title="FRANCE CULTURE",|FR| DISCOVERY INVESTIGATION
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51141.ts
-#EXTINF:0 tvg-id="DiscoveryInvestigation.fr" group-title="FRANCE CULTURE",|FR.RP| DISCOVERY INVESTIGATION HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9559.ts
-#EXTINF:0 tvg-id="DiscoveryInvestigation.fr" group-title="FRANCE CULTURE",|FR| DISCOVERY INVESTIGATION FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51142.ts
-#EXTINF:0 tvg-id="Discovery.fr" group-title="FRANCE CULTURE",|FR| DISCOVERY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9292.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR.RP| DISCOVERY HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15180.ts
-#EXTINF:0 tvg-id="Discovery.fr" group-title="FRANCE CULTURE",|FR| DISCOVERY FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9560.ts
-#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="FRANCE CULTURE",|FR| DISCOVERY FAMILY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51144.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| DISCOVERY FAMILY HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/30662.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| DISCOVERY FAMILY FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51143.ts
-#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FRANCE CULTURE",|FR| DISCOVERY SCIENCE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9291.ts
-#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FRANCE CULTURE",|FR.RP| DISCOVERY SCIENCE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15179.ts
-#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FRANCE CULTURE",|FR| DISCOVERY SCIENCE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9558.ts
-#EXTINF:0 tvg-id="NatGeo.fr" group-title="FRANCE CULTURE",|FR|  NATIONAL GEOGRAPHIC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9368.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR.RP| NATIONAL GEOGRAPHIC HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15144.ts
-#EXTINF:0 tvg-id="NatGeo.fr" group-title="FRANCE CULTURE",|FR| NATIONAL GEOGRAPHIC FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9523.ts
-#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="FRANCE CULTURE",|FR| NATIONAL GEO WILD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9367.ts
-#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="FRANCE CULTURE",|FR| NATIONAL GEO WILD HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15145.ts
-#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="FRANCE CULTURE",|FR| NATIONAL GEO WILD FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9524.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| SCIENCES ET VIE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9228.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| SCIENCES ET VIE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15129.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| SCIENCES ET VIE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9504.ts
-#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE CULTURE",|FR| ANIMAUX
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9355.ts
-#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE CULTURE",|FR| ANIMAUX HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15213.ts
-#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE CULTURE",|FR| ANIMAUX FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9591.ts
-#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE CULTURE",|FR| USHUAIA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9205.ts
-#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE CULTURE",|FR.RP| USHUAIA HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15115.ts
-#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE CULTURE",|FR| USHUAIA FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9490.ts
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE CULTURE",|FR| RMC DECOUVERTE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15131.ts
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE CULTURE",|FR| RMC DECOUVERTE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9508.ts
-#EXTINF:0 tvg-id="Trek.fr" group-title="FRANCE CULTURE",|FR| TREK
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9193.ts
-#EXTINF:0 tvg-id="Trek.fr" group-title="FRANCE CULTURE",|FR| TREK HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15117.ts
-#EXTINF:0 tvg-id="Trek.fr" group-title="FRANCE CULTURE",|FR| TREK FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9492.ts
-#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FRANCE CULTURE",|FR| CHASSE & PECHE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15189.ts
-#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FRANCE CULTURE",|FR| CHASSE & PECHE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9314.ts
-#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FRANCE CULTURE",|FR| CHASSE & PECHE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51149.ts
-#EXTINF:0 tvg-id="Seasons.fr" group-title="FRANCE CULTURE",|FR| SEASON
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9227.ts
-#EXTINF:0 tvg-id="Seasons.fr" group-title="FRANCE CULTURE",|FR| SEASON HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15128.ts
-#EXTINF:0 tvg-id="Seasons.fr" group-title="FRANCE CULTURE",|FR| SEASON FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9503.ts
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE CULTURE",|FR| CRIME DISTRICT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9296.ts
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE CULTURE",|FR| CRIME DISTRICT FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9562.ts
-#EXTINF:0 tvg-id="Histoire.fr" group-title="FRANCE CULTURE",|FR| HISTOIRE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/15158.ts
-#EXTINF:0 tvg-id="Histoire.fr" group-title="FRANCE CULTURE",|FR| HISTOIRE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9536.ts
-#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="FRANCE CULTURE",|FR| TOUTE LHISTOIRE FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9208.ts
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE CULTURE",|FR| CRIME DISTRICT FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51136.ts
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE CULTURE",|FR| CRIME DISTRICT HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51145.ts
-#EXTINF:0 tvg-id="RMCStory.fr" group-title="FRANCE CULTURE",|FR| RMC STORY HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/118366.ts
-#EXTINF:0 tvg-id="PLANETE.fr" group-title="FRANCE CULTURE",|FR| PLANETE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9236.ts
-#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE CULTURE",|FR| ANIMAUX FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51155.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| My Cuisine FullHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/30747.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| OCS CHOC FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51133.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| OCS CITY FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51132.ts
-#EXTINF:0 tvg-id="OCSGeants.fr" group-title="FRANCE CULTURE",|FR| OCS GEANTS FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51131.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| PLANETE  CI FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51127.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| PLANETE A&E FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51128.ts
-#EXTINF:0 tvg-id="ScienceVie.fr" group-title="FRANCE CULTURE",|FR| SCIENCE ET VIE HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/9229.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE CULTURE",|FR| SCIENCES & VIE FHD BKP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/51124.ts
-#EXTINF:0 tvg-id="Museum.fr" group-title="FRANCE CULTURE",|FR| MUSEUM CHANNEL HD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/62894.ts
-
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE FHD HEVC",|FR.H265| TF1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60692.ts
-#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE FHD HEVC",|FR.H265| TF1 +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83090.ts
-#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE FHD HEVC",|FR.H265| M6
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60697.ts
-#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE FHD HEVC",|FR.H265| C8
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60700.ts
-#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE FHD HEVC",|FR.H265| W9
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60699.ts
-#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE FHD HEVC",|FR.H265| FRANCE 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60693.ts
-#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE FHD HEVC",|FR.H265| FRANCE 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60694.ts
-#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE FHD HEVC",|FR.H265| FRANCE 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60695.ts
-#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE FHD HEVC",|FR.H265| FRANCE 5
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60696.ts
-#EXTINF:0 tvg-id="TFX.fr" group-title="FRANCE FHD HEVC",|FR.H265| TFX
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60710.ts
-#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE FHD HEVC",|FR.H265| TMC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60712.ts
-#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE FHD HEVC",|FR.H265| 6TER
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60713.ts
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE FHD HEVC",|FR.H265| CHERIE 25
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83151.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| POLAR+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83146.ts
-#EXTINF:0 tvg-id="ComedyCentral.fr" group-title="FRANCE FHD HEVC",|FR.H265| COMEDY CENTRAL FRANCE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83144.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| COMEDIE+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83143.ts
-#EXTINF:0 tvg-id="SerieClub.fr" group-title="FRANCE FHD HEVC",|FR.H265| SERIE CLUB
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83142.ts
-#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE FHD HEVC",|FR.H265| SYFY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83136.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| RTL9
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60714.ts
-#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FRANCE FHD HEVC",|FR.H265| PARIS PREMIERE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83145.ts
-#EXTINF:0 tvg-id="BET.fr" group-title="FRANCE FHD HEVC",|FR.H265| BET
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83140.ts
-#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE FHD HEVC",|FR.H265| TEVA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60739.ts
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="FRANCE FHD HEVC",|FR.H265| CANALJ
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60757.ts
-#EXTINF:0 tvg-id="AlticeStudio.fr" group-title="FRANCE FHD HEVC",|FR.H265| ALTICE STUDIO
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60763.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| WARNER TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60764.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TV BREIZH
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83139.ts
-#EXTINF:0 tvg-id="AB1.fr" group-title="FRANCE FHD HEVC",|FR.H265| AB3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83138.ts
-#EXTINF:0 tvg-id="AB1.fr" group-title="FRANCE FHD HEVC",|FR.H265| AB1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83137.ts
-#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE FHD HEVC",|FR.H265| ARTE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60698.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| LCP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60691.ts
-#EXTINF:0 tvg-id="CStar.fr" group-title="FRANCE FHD HEVC",|FR.H265| CSTAR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60702.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| A+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83101.ts
-#EXTINF:0 tvg-id="BFMTV.fr" group-title="FRANCE FHD HEVC",|FR.H265| BFMTV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60704.ts
-#EXTINF:0 tvg-id="BFMParis.fr" group-title="FRANCE FHD HEVC",|FR.H265| BFM PARIS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60772.ts
-#EXTINF:0 tvg-id="BFMLyon.fr" group-title="FRANCE FHD HEVC",|FR.H265| BFM LYON
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83156.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| E! ENTERTAINMENT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83141.ts
-#EXTINF:0 tvg-id="LaChaineMeteo.fr" group-title="FRANCE FHD HEVC",|FR.H265| LA CHAINE METEO FHD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83155.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| EURONEWS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83154.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| I24 NEWS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83153.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| FRANCE INFO
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83152.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TV5 MONDE FBS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83099.ts
-#EXTINF:0 tvg-id="CNews.fr" group-title="FRANCE FHD HEVC",|FR.H265| CNEWS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60701.ts
-#EXTINF:0 tvg-id="LCI.fr" group-title="FRANCE FHD HEVC",|FR.H265| LCI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60703.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CANAL+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60725.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CANAL + CINEMA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60724.ts
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE FHD HEVC",|FR.H265| CANAL+ SERIES
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60726.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CANAL FAMILY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60732.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CINE FRISSON
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60734.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CINE EMOTION
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60737.ts
-#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="FRANCE FHD HEVC",|FR.H265| TF1 SERIES FILMS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60711.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CINE PREMIER
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60738.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CINE FAMIZ
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60750.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CINE CLASSIC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60751.ts
-#EXTINF:0 tvg-id="OCSMax.fr" group-title="FRANCE FHD HEVC",|FR.H265| OCS MAX
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60746.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| OCS CITY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60747.ts
-#EXTINF:0 tvg-id="OCSGeants.fr" group-title="FRANCE FHD HEVC",|FR.H265| OCS GEANTS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60748.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| OCS CHOC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60749.ts
-#EXTINF:0 tvg-id="Action.fr" group-title="FRANCE FHD HEVC",|FR.H265| ACTION
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60736.ts
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE FHD HEVC",|FR.H265| PARAMOUNT DECALE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83149.ts
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE FHD HEVC",|FR.H265| PARAMOUNT CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83147.ts
-#EXTINF:0 tvg-id="BabyTV.fr" group-title="FRANCE FHD HEVC",|FR.H265| BABY TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83125.ts
-#EXTINF:0 tvg-id="Gulli.fr" group-title="FRANCE FHD HEVC",|FR.H265| GULLI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60706.ts
-#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="FRANCE FHD HEVC",|FR.H265| CARTOON NETWORK
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60731.ts
-#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="FRANCE FHD HEVC",|FR.H265| DISNEY CHANNEL +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83089.ts
-#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="FRANCE FHD HEVC",|FR.H265| DISNEY JUNIOR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60743.ts
-#EXTINF:0 tvg-id="GameOne.fr" group-title="FRANCE FHD HEVC",|FR.H265| GAME ONE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60771.ts
-#EXTINF:0 tvg-id="GameOne.fr" group-title="FRANCE FHD HEVC",|FR.H265| GAME ONE +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83086.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TELETOON+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83128.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TELETOON +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83129.ts
-#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FRANCE FHD HEVC",|FR.H265| NICKELODEON
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60770.ts
-#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FRANCE FHD HEVC",|FR.H265| NICKELODEON +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83087.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| NICKELODEON 4TEEN
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60769.ts
-#EXTINF:0 tvg-id="NickJr.fr" group-title="FRANCE FHD HEVC",|FR.H265| NICK JUNIOR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60768.ts
-#EXTINF:0 tvg-id="Tiji.fr" group-title="FRANCE FHD HEVC",|FR.H265| TIJI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83127.ts
-#EXTINF:0 tvg-id="Boomerang.fr" group-title="FRANCE FHD HEVC",|FR.H265| BOOMERANG
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60735.ts
-#EXTINF:0 tvg-id="PIWI.fr" group-title="FRANCE FHD HEVC",|FR.H265| PIWI+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83126.ts
-#EXTINF:0 tvg-id="Toonami.fr" group-title="FRANCE FHD HEVC",|FR.H265| TOONAMI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83124.ts
-#EXTINF:0 tvg-id="Boing.fr" group-title="FRANCE FHD HEVC",|FR.H265| BOING
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83123.ts
-#EXTINF:0 tvg-id="TouteHistoire.fr" group-title="FRANCE FHD HEVC",|FR.H265| TOUTE L HISTOIRE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60708.ts
-#EXTINF:0 tvg-id="RMCStory.fr" group-title="FRANCE FHD HEVC",|FR.H265| RMC STORY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60715.ts
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE FHD HEVC",|FR.H265| RMC DECOUVERTE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60716.ts
-#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE FHD HEVC",|FR.H265| ANIMAUX
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60728.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| NATIONAL GEO CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60741.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| NAT GEO WILD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60729.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| PLANETE +
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60752.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| DISCOVERY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60753.ts
-#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="FRANCE FHD HEVC",|FR.H265| DISCOVERY FAMILY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60754.ts
-#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FRANCE FHD HEVC",|FR.H265| DISCOVERY SCIENCE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60755.ts
-#EXTINF:0 tvg-id="DiscoveryInvestigation.fr" group-title="FRANCE FHD HEVC",|FR.H265| DISCOVERY INVES
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60756.ts
-#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE FHD HEVC",|FR.H265| USHUAIA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60758.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| PLANETE+A&E
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60759.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| PLANETE + CI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60760.ts
-#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FRANCE FHD HEVC",|FR.H265| CHASSE & PECHE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60761.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| SCIENCES&VIE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60762.ts
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE FHD HEVC",|FR.H265| CRIME DISTRICT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83134.ts
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE FHD HEVC",|FR.H265| NRJ12
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60709.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| M6 MUSIC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60730.ts
-#EXTINF:0 tvg-id="MCM.fr" group-title="FRANCE FHD HEVC",|FR.H265| MCM TOP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60744.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MTV HITS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83113.ts
-#EXTINF:0 tvg-id="MTV.fr" group-title="FRANCE FHD HEVC",|FR.H265| MTV FRANCE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83112.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| OLYMPIA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83108.ts
-#EXTINF:0 tvg-id="RFMTV.fr" group-title="FRANCE FHD HEVC",|FR.H265| RFM TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83106.ts
-#EXTINF:0 tvg-id="Trek.fr" group-title="FRANCE FHD HEVC",|FR.H265| TREK
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83100.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| L'EQUIPE 21
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60707.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| INFOSPORT+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83120.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CANAL+ SPORT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60727.ts
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FRANCE FHD HEVC",|FR.H265| RMC SPORT 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60720.ts
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FRANCE FHD HEVC",|FR.H265| RMC SPORT 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60721.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| RMC SPORT 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60722.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| RMC SPORT 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60723.ts
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="FRANCE FHD HEVC",|FR.H265| EUROSPORT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60766.ts
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="FRANCE FHD HEVC",|FR.H265| EUROSPORT2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60767.ts
-#EXTINF:0 tvg-id="Automoto.fr" group-title="FRANCE FHD HEVC",|FR.H265| MOTORSPORT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83119.ts
-#EXTINF:0 tvg-id="Automoto.fr" group-title="FRANCE FHD HEVC",|FR.H265| AUTOMOTO
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83118.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| GOLF+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83116.ts
-#EXTINF:0 tvg-id="GolfChannel.fr" group-title="FRANCE FHD HEVC",|FR.H265| GOLF CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83115.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BEIN SPORT 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83082.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BEIN SPORT 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83081.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BEIN SPORT 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83080.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BEIN SPORT MAX 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83079.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BEIN SPORT MAX 5
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83077.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BEIN SPORT MAX 6
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83076.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BEIN SPORT MAX 7
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83075.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BEIN SPORT MAX 8
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83078.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BEIN SPORT MAX 9
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83074.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BEIN SPORT MAX 10
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83073.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MULTISPORTS 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83091.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MULTISPORTS 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83092.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MULTISPORTS 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83093.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MULTISPORTS 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83094.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MULTISPORTS 5
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83095.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MULTISPORTS 6
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83096.ts
-#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE FHD HEVC",|FR.H265| TCM CINEMA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/126959.ts
-#EXTINF:0 tvg-id="LaUne.be" group-title="FRANCE FHD HEVC",|FR.H265| A LA UNE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83150.ts
-#EXTINF:0 tvg-id="StingrayDjazz.fr" group-title="FRANCE FHD HEVC",|FR.H265| DJAZZ TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83109.ts
-#EXTINF:0 tvg-id="RMCSportAccess1.fr" group-title="FRANCE FHD HEVC",|FR.H265| RMC SPORTS ACCESS 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83084.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| RMC SPORTS ACCESS 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83083.ts
-#EXTINF:0 tvg-id="TraceUrban.fr" group-title="FRANCE FHD HEVC",|FR.H265| TRACE URBAN
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83104.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| STINGRAY CLASSICA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83110.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| EQUIDIA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/60745.ts
-#EXTINF:0 tvg-id="ES1.fr" group-title="FRANCE FHD HEVC",|FR.H265| ES1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/83121.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| A LA UNE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271062.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| PARAMOUNT DECALE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271063.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| PARAMOUNT CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271064.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| POLAR+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271065.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| PARIS PREMIERE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271066.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| COMEDY CENTRAL FRANCE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271067.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| COMEDIE+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271068.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| NOVELAS TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271069.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TCM CINEMA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271070.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MTV FRANCE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271071.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| DJAZZ TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271072.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| E! ENTERTAINMENT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271073.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BET
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271074.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TV BREIZH
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271075.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| AB3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271076.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| AB1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271077.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| SYFY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271078.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CRIME DISTRICT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271079.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| SEASONS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271080.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MUSEUM CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271081.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TREK
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271082.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TELETOON +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271083.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TELETOON+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271084.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TIJI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271085.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| PIWI+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271086.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BABY TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271087.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TOONAMI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271088.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| BOING
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271089.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| J-ONE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271090.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| ES1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271091.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| INFOSPORT+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271092.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| RFM TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271093.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TRACE LATINA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271094.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TRACE URBAN
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271095.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| A+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271096.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| beIN SPORT MAX 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271097.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| beIN SPORT MAX 5
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271098.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| beIN SPORT MAX 6
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271099.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| beIN SPORT MAX 7
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271100.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| beIN SPORT MAX 8
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271101.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| beIN SPORT MAX 9
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271102.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| beIN SPORT MAX 10
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271103.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| GAME ONE +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271104.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| NICKELODEON +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271105.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TMC +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271106.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| DISNEY CHANNEL +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271107.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| LA CHAINE METEO
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271108.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| I24 NEWS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271109.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| FRANCE 24
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271110.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| FRANCE INFO
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271111.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| CHERIE 25
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271112.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TREK
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271113.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TV5 MONDE FBS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271114.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| ONE TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271115.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| TF1 +1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271116.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| WARNER TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271117.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MCM
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271118.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| NRJ HITS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271119.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MANGAS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271120.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| canal J
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271121.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| histoire
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271122.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| PUBLIC SENAT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271123.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MOTORSPORT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271124.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| AUTOMOTO
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271125.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| GOLF+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271126.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| GOLF CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271127.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE FHD HEVC",|FR.H265| MTV HITS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/271128.ts
-
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| TF1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111512.ts
-#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE SD",|.FR.SD.| M6
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111513.ts
-#EXTINF:0 tvg-id="TFX.fr" group-title="FRANCE SD",|.FR.SD.| TFX
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111514.ts
-#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="FRANCE SD",|.FR.SD.| TF1 SERIES
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111515.ts
-#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE SD",|.FR.SD.| FRANCE 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111516.ts
-#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE SD",|.FR.SD.| FRANCE 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111517.ts
-#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE SD",|.FR.SD.| FRANCE 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111518.ts
-#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE SD",|.FR.SD.| FRANCE 5
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111519.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| FRANCE O
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111520.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| FRANCE INFO
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111521.ts
-#EXTINF:0 tvg-id="BFMTV.fr" group-title="FRANCE SD",|.FR.SD.| BFM TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111522.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| LCP
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111523.ts
-#EXTINF:0 tvg-id="LCI.fr" group-title="FRANCE SD",|.FR.SD.| LCI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111524.ts
-#EXTINF:0 tvg-id="CNews.fr" group-title="FRANCE SD",|.FR.SD.| CNEWS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111525.ts
-#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE SD",|.FR.SD.| ARTE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111526.ts
-#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE SD",|.FR.SD.| 6TER
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111527.ts
-#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE SD",|.FR.SD.| C8
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111528.ts
-#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE SD",|.FR.SD.| W9
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111529.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| RTL9
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111530.ts
-#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE SD",|.FR.SD.| NRJ12
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111531.ts
-#EXTINF:0 tvg-id="CStar.fr" group-title="FRANCE SD",|.FR.SD.| CSTAR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111532.ts
-#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE SD",|.FR.SD.| TMC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111533.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| AB1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111534.ts
-#EXTINF:0 tvg-id="RMCStory.fr" group-title="FRANCE SD",|.FR.SD.| RMC STORY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111535.ts
-#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE SD",|.FR.SD.| CHERIE 25
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111536.ts
-#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FRANCE SD",|.FR.SD.| PARIS PREMIERE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111537.ts
-#EXTINF:0 tvg-id="SerieClub.fr" group-title="FRANCE SD",|.FR.SD.| SERIE CLUB
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111538.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| 13EME.RUE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111539.ts
-#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE SD",|.FR.SD.| Syfy
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111541.ts
-#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE SD",|.FR.SD.| TEVA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111542.ts
-#EXTINF:0 tvg-id="BET.fr" group-title="FRANCE SD",|.FR.SD.| BET
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111543.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| COMEDIE+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111544.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| WARNER.TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111545.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| MY CUISINE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111546.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CANAL+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111547.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CANAL+ DECALE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111548.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CANAL+ CINEMA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111549.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CANAL+ FAMILY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111550.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CANAL+ SPORT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111551.ts
-#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE SD",|.FR.SD.| CANAL+ SERIES
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111552.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CINE+ PREMIER
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111553.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CINE+ FRISSON
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111554.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CINE+ EMOTION
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111555.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CINE+ FAMIZ
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111556.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CINE+ CLUB
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111557.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CINE+ POLAR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111558.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| CINE+ CLASSIC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111559.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| ACTION
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111560.ts
-#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE SD",|.FR.SD.| TCM CINEMA
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111561.ts
-#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE SD",|.FR.SD.| PARAMOUNT CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111562.ts
-#EXTINF:0 tvg-id="OCSMax.fr" group-title="FRANCE SD",|.FR.SD.| OCS MAX
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111563.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| OCS CITY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111564.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| OCS CHOC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111565.ts
-#EXTINF:0 tvg-id="OCSGeants.fr" group-title="FRANCE SD",|.FR.SD.| OCS GEANTS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111566.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| BEIN SPORTS 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111567.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| BEIN SPORTS 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111568.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| BEIN SPORTS 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111569.ts
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FRANCE SD",|.FR.SD.| RMC SPORT 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111570.ts
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FRANCE SD",|.FR.SD.| RMC SPORT 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111571.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| RMC SPORT 3
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111572.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| RMC SPORT 4
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111573.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| INFOSPORT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111575.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| L'EQUIPE 21
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111576.ts
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="FRANCE SD",|.FR.SD.| EUROSPORT 1
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111577.ts
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="FRANCE SD",|.FR.SD.| EUROSPORT 2
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111578.ts
-#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE SD",|.FR.SD.| USHUAIA TV
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111579.ts
-#EXTINF:0 tvg-id="Trek.fr" group-title="FRANCE SD",|.FR.SD.| TREK
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111581.ts
-#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE SD",|.FR.SD.| RMC DECOUVERTE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111582.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| NATIONAL GEOGRAPHIC
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111583.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| NATIONAL GEO WILD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111584.ts
-#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FRANCE SD",|.FR.SD.| CHASSE & PECHE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111585.ts
-#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE SD",|.FR.SD.| ANIMAUX
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111586.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| SCIENCE VIE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111587.ts
-#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FRANCE SD",|.FR.SD.| DISCOVERY SCIENCE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111588.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| DISCOVERY CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111589.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| DISCOVERY FAMILY
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111590.ts
-#EXTINF:0 tvg-id="DiscoveryInvestigation.fr" group-title="FRANCE SD",|.FR.SD.| DISCOVERY INVESTIGATION
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111591.ts
-#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE SD",|.FR.SD.| CRIME DISTRICT
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111592.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| PLANETE CRIME INVESTIGATION
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111593.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| PLANETE+
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111594.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| PLANETE A&E
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111595.ts
-#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="FRANCE SD",|.FR.SD.| DISNEY CHANNEL
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111596.ts
-#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="FRANCE SD",|.FR.SD.| DISNEY JUNIOR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111597.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| DISNEY XD
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111598.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| DISNEY +
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111599.ts
-#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FRANCE SD",|.FR.SD.| NICKELODEON
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111600.ts
-#EXTINF:0 tvg-id="NickJr.fr" group-title="FRANCE SD",|.FR.SD.| NICKELODEON JUNIOR
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111601.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| NICKELODEON TOON
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111602.ts
-#EXTINF:0 tvg-id="Boomerang.fr" group-title="FRANCE SD",|.FR.SD.| BOOMERANG
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111603.ts
-#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="FRANCE SD",|.FR.SD.| Cartoon Network
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111604.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| TELETOON
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111605.ts
-#EXTINF:0 tvg-id="Tiji.fr" group-title="FRANCE SD",|.FR.SD.| TIJI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111606.ts
-#EXTINF:0 tvg-id="PIWI.fr" group-title="FRANCE SD",|.FR.SD.| PIWI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111607.ts
-#EXTINF:0 tvg-id="Gulli.fr" group-title="FRANCE SD",|.FR.SD.| GULLI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111608.ts
-#EXTINF:0 tvg-id="CanalJ.fr" group-title="FRANCE SD",|.FR.SD.| CANAL J
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111609.ts
-#EXTINF:0 tvg-id="ext" group-title="FRANCE SD",|.FR.SD.| BOING
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111610.ts
-#EXTINF:0 tvg-id="Toonami.fr" group-title="FRANCE SD",|.FR.SD.| TOONAMI
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111611.ts
-#EXTINF:0 tvg-id="Mangas.fr" group-title="FRANCE SD",|.FR.SD.| MANGAS
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111612.ts
-#EXTINF:0 tvg-id="GameOne.fr" group-title="FRANCE SD",|.FR.SD.| GAME ONE
-http://vip.itvdom.com:25443/live/thoumy30/1234567890/111613.ts
+#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE",|FR| TF1  HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61511
+#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE",|FR| FRANCE 2 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61512
+#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE",|FR| FRANCE 3 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61513
+#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE",|FR| FRANCE 4  HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61514
+#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE",|FR| FRANCE 5 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61515
+#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE",|FR| M6 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61516
+#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE",|FR| ARTE HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61517
+#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE",|FR| 6TER FULL HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61518
+#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE",|FR| C8 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61519
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE",|FR| CHERIE 25 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61520
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE",|FR| NRJ 12 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61521
+#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE",|FR| W9 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61522
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| CSTAR HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61523
+#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE",|FR| TMC HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61524
+#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE",|FR| RTL9 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61525
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| RMC STORY HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61526
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| TFX HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61527
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| TF1 SERIES FILMS HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61528
+#EXTINF:0 tvg-id="13RUE.fr" group-title="FRANCE",|FR| 13EME RUE HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61529
+#EXTINF:0 tvg-id="AB1.fr" group-title="FRANCE",|FR| AB1 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61530
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| AB3 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61531
+#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE",|FR| Teva HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61532
+#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE",|FR| SYFY HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61533
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="FRANCE",|FR| TV BREIZH HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61534
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| E! ENTERTAINMENT HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61535
+#EXTINF:0 tvg-id="Trek.fr" group-title="FRANCE",|FR| TREK HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61536
+#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE",|FR| COMEDIE+  HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61537
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| WARNER TV HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61538
+#EXTINF:0 tvg-id="BET.fr" group-title="FRANCE",|FR| BET HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61539
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="FRANCE",|FR| CANAL + HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61540
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FRANCE",|FR| CANAL+  CINEMA HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61541
+#EXTINF:0 tvg-id="CANALplusFamily.fr" group-title="FRANCE",|FR| CANAL FAMILY HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61542
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE",|FR| CANAL  SERIES HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61543
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: Paramount Channel Decale HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61544
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FRANCE",|FR| CINE  PREMIER HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61545
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FRANCE",|FR| CINE FRISSON HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61546
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FRANCE",|FR| CINE  EMOTION HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61547
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRANCE",|FR| CINE  FAMIZ HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61548
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRANCE",|FR| CINE+ CLASSIC HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61549
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="FRANCE",|FR| SERIE CLUB HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61550
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FRANCE",|FR| CINE+ CLUB HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61551
+#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE",|FR| TCM CINEMA HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61552
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE",|FR| PARAMOUNT CHANNEL HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61553
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| POLAR+ HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61554
+#EXTINF:0 tvg-id="Action.fr" group-title="FRANCE",|FR| ACTION HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61555
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FRANCE",|FR| OCS CHOC HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61556
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FRANCE",|FR| OCS CITY HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61557
+#EXTINF:0 tvg-id="OCSGeants.fr" group-title="FRANCE",|FR| OCS GEANTS HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61558
+#EXTINF:0 tvg-id="OCSMax.fr" group-title="FRANCE",|FR| OCS MAX HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61559
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE",|FR| CRIME DISTRICT HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61560
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",FR: Canal+ Grand Ecran FHD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61561
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FRANCE",|FR| CANAL + SPORT HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61562
+#EXTINF:0 tvg-id="Infosport.fr" group-title="FRANCE",|FR| INFOSPORT HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61563
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| RMC 1 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61564
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| RMC 2 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61565
+#EXTINF:0 tvg-id="beINSport1.fr" group-title="FRANCE",|FR| BEIN SPORT 1 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61566
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="FRANCE",|FR| BEIN SPORT 2 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61567
+#EXTINF:0 tvg-id="beINSport3.fr" group-title="FRANCE",|FR| BEIN SPORT 3 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61568
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="FRANCE",|FR| BEIN SPORT MAX 4
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61569
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="FRANCE",|FR| BEIN SPORT MAX 5
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61570
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="FRANCE",|FR| BEIN SPORT MAX 6
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61571
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="FRANCE",|FR| BEIN SPORT MAX 7
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61572
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| BEIN SPORT MAX 8
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61573
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| BEIN SPORT MAX 9
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61574
+#EXTINF:0 tvg-id="Foot24.fr" group-title="FRANCE",|FR| FOOT+ 24/24 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61581
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| L'EQUIPE 21 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61582
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR|  MOTORVISION  HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61583
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| AUTOMOTO HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61584
+#EXTINF:0 tvg-id="Eurosport1.fr" group-title="FRANCE",|FR| EUROSPORT 1 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61585
+#EXTINF:0 tvg-id="Eurosport2.fr" group-title="FRANCE",|FR| EUROSPORT 2 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61586
+#EXTINF:0 tvg-id="GolfChannel.fr" group-title="FRANCE",|FR| GOLF+  HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61587
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="FRANCE",|FR| EQUIDIA LIVE HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61588
+#EXTINF:0 tvg-id="DisneyChannel.fr" group-title="FRANCE",|FR| DISNEY CHANNEL HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61589
+#EXTINF:0 tvg-id="DisneyJunior.fr" group-title="FRANCE",|FR| DISNEY JUNIOR FHD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61590
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| DISNEY+ HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61591
+#EXTINF:0 tvg-id="CartoonNetwork.fr" group-title="FRANCE",|FR| CARTOON NETWORK HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61592
+#EXTINF:0 tvg-id="CanalJ.fr" group-title="FRANCE",|FR| CANAL J HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61593
+#EXTINF:0 tvg-id="Nickelodeon.fr" group-title="FRANCE",|FR| NICKELODEON HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61594
+#EXTINF:0 tvg-id="NickJr.fr" group-title="FRANCE",|FR| NICKELODEON JUNIOR HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61595
+#EXTINF:0 tvg-id="PIWI.fr" group-title="FRANCE",|FR| PIWI+ HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61596
+#EXTINF:0 tvg-id="Boomerang.fr" group-title="FRANCE",|FR| BOOMERANG HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61597
+#EXTINF:0 tvg-id="Boing.fr" group-title="FRANCE",|FR| BOING HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61598
+#EXTINF:0 tvg-id="Mangas.fr" group-title="FRANCE",|FR| MANGAS HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61599
+#EXTINF:0 tvg-id="Gulli.fr" group-title="FRANCE",|FR| GULLI HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61600
+#EXTINF:0 tvg-id="Tiji.fr" group-title="FRANCE",|FR| TIJI HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61601
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE",|FR| RMC DECOUVERTE FULL HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61602
+#EXTINF:0 tvg-id="Voyage.fr" group-title="FRANCE",|FR| VOYAGE HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61603
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE",|FR| USHUAIA TV HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61604
+#EXTINF:0 tvg-id="Seasons.fr" group-title="FRANCE",|FR| SEASONS HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61605
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FRANCE",|FR| CHASSE ET PECHE HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61606
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| SCIENCE & VIE HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61607
+#EXTINF:0 tvg-id="NatGeo.fr" group-title="FRANCE",|FR| NATIONAL GEOGRAPHIC HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61608
+#EXTINF:0 tvg-id="NatGeoWildHD.fr" group-title="FRANCE",|FR| NATIONAL GEO WILD HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61609
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="FRANCE",|FR| PLANETE+  HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61610
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="FRANCE",|FR| PLANETE A&E HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61611
+#EXTINF:0 tvg-id="Planete+CrimeInvestigation.fr" group-title="FRANCE",|FR| PLANETE CI HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61612
+#EXTINF:0 tvg-id="Discovery.fr" group-title="FRANCE",|FR| DISCOVERY HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61613
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| DISCOVERY FAMILY HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61614
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| DISCOVERY INVESTIGATION HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61615
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FRANCE",|FR| DISCOVERY SCIENCE HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61616
+#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE",|FR| ANIMAUX HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61617
+#EXTINF:0 tvg-id="BFMTV.fr" group-title="FRANCE",|FR| BFM TV HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61618
+#EXTINF:0 tvg-id="France24fr.fr" group-title="FRANCE",|FR| FRANCE 24 HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61619
+#EXTINF:0 tvg-id="LCI.fr" group-title="FRANCE",|FR| LCI HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61620
+#EXTINF:0 tvg-id="ext" group-title="FRANCE",|FR| NRJ HITS FRANCE HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61621
+#EXTINF:0 tvg-id="M6MusicHits.fr" group-title="FRANCE",|FR| M6 MUSIC HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61622
+#EXTINF:0 tvg-id="TraceUrban.fr" group-title="FRANCE",|FR| TRACE URBAN HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61623
+#EXTINF:0 tvg-id="MTV.fr" group-title="FRANCE",|FR| MTV  HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61624
+#EXTINF:0 tvg-id="MCM.fr" group-title="FRANCE",|FR| MCM HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61625
+#EXTINF:0 tvg-id="CNews.fr" group-title="FRANCE",FR: CNEWS HD
+http://001004.eu:8080/E7YxFTeBps/11eRc9w7US/61626
