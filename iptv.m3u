@@ -4015,456 +4015,2104 @@ http://mytv-extra.com:88/live/5574701575/puniEhhNrytZRiT/400264573.m3u8
 
 
 
+
+##################
+
+
+
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kimo TV
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/276.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 1 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/314.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 2 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/315.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 3 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/316.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 4 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/317.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 5 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/318.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 6 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/319.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 7 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/320.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 8 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/321.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sports 9 ⁴ᵏ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/322.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Newsᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/277.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 1ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/278.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 2ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/280.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 3ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/281.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 4ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/282.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 5ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/283.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 6ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/284.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 7ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/285.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 8ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/286.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN XTRA 1ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/323.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN XTRA 2ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/324.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN XTRA 3ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/325.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS 9ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/509.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beINSPORTS NBA
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/510.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS AFC  ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/511.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS AFC 1 ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/512.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS AFC 2 ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/513.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN SPORTS AFC 3 ᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/514.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport 4 sᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/293.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport 1  sᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/289.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport 2 sᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/290.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport 3 sᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/291.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport 5 sᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/294.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport 6 sᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/295.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport 7 sᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/296.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport 8 sᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/297.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",beIN Sport 9 sᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/298.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Saud Alshuraim Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/263.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Abdulrasheed Soufi Rewayat Khalaf An Hamzah Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/264.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ahmed Amer Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/265.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Idrees Abkr Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/266.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Aloyoon AlKoshi Rewayat Warsh An Nafi Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/267.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mohammed Siddiq AlMinshawi Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/268.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Alzain Mohammad Ahmad Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/269.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Abdulbasit Abdulsamad MJAWWAD Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/270.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Yasser AlDosari Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/271.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mishary Alafasi Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/272.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Saad AlGhamdi Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/273.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Abdulrahman Alsudaes Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/368.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",اذكار الصباح و المساء
-https://ia802908.us.archive.org/30/items/mlms_20014-B2-eid/mlms_20014-B2-eid_vbr.m3u
-#EXTINF:0 tvg-id="ext" group-title="Channels",تكبيرات العيد المسجد الحرام
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/485.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",تكبيرات العيد المغرب
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/486.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",تكبيرات العيد الجزائر
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/487.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",تكبيرات العيد مصر
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/488.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",تكبيرات العيد العراق
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/489.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",تكبيرات العيد الشامية
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/490.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dua
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/501.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",الرقية الشرعية ناصر القطامي
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/502.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",الصلاة على النبي مكرر
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/503.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",الرقية الشرعية ادريس ابكر
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/504.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",قرأن مع تفسير انجليزي Quran Translation
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/505.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",الشيخ محمد متولي الشعراوي
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/506.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",الشيخ محمد راتب النابلسي
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/507.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Radio Islam - English
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/508.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mahmoud Khalil AlHussary Rewayat Warsh An Nafi Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/520.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Mohammed Siddiq AlMinshawi Almusshaf Al Mojawwad Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/521.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Maher Al Meaqli Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/526.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/122.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 3
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/124.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 4
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/125.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 6 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/126.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 5
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/127.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 7
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/128.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC ٍSD1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/129.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 1 4K
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/130.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 2 4K
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/131.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 3 4K
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/132.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 4 4K
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/133.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 5 4K
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/134.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 6 4K
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/135.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SSC 7 4K
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/136.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sports PREMIEUM 1 SERIA A
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/137.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD StarzPlay SPORT 2 FHD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/139.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sports PREMIEUM 2 SERIA A
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/371.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sports PREMIEUM 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/483.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sports Asia 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/518.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD Sports Asia 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/519.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",alkass 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/479.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",jordan sport
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/140.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sport 4
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/141.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sport 3
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/142.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sport 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/143.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Abu Dhabi Sport 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/144.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sport 3
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/145.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sport 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/146.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Dubai Sport 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/147.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sharjah Sports
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/148.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",arriadia tv
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/149.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Bahrain Sports
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/150.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Oman Sports
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/151.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Libya Sports
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/152.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ksa Sports 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/153.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",alkass4
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/154.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",alkass2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/155.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",alkass 5
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/156.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Ksa Sport 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/158.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",bein sport open
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/159.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ON SPORTS 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/160.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ON SPORTS 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/161.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Palestine Sport
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/162.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nile Sport
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/163.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sudan Sport
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/164.ts
-#EXTINF:0 tvg-id="Infosport.fr" group-title="Channels",|FR| INFOSPORT+
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/165.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",On Time Sport 3HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/166.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Libya Sport 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/167.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",KSA SPORTS 3
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/168.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ksa Sport 4
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/169.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kuwait Sport HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/170.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Ahly
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/171.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Zamalek
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/172.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IMPACT Wrestling TV
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/173.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Iraqia Sport
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/174.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Kass three
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/175.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UFC FIGHTPASS FHD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/176.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",UFC Fight Pass UHD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/177.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Rabiaa Iraq SPORT
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/178.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN BAR 2 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/179.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DAZN BAR 1 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/180.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BG | NOVA SPORT 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/181.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TEN 3 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/182.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TEN 2 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/183.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TEN 1 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/185.ts
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Channels",|FR| CANAL+SPORT
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/186.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| RMC SPORT 3
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/187.ts
-#EXTINF:0 tvg-id="RMCSport4.fr" group-title="Channels",RMC SPORT 4
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/188.ts
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Channels",RMC SPORT 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/189.ts
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Channels",RMC SPORT 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/190.ts
-#EXTINF:0 tvg-id="TNTSport1.uk" group-title="Channels",bt sport 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/191.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Varzesh 1 IR
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/192.ts
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Channels",|FR| EUROSPORT 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/193.ts
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Channels",|FR| EUROSPORT 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/194.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| beSPOR3
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/195.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| beSPOR2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/196.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",|FR| beSPOR1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/197.ts
-#EXTINF:0 tvg-id="ElevenSports1.pl" group-title="Channels",ELEVEN SPORTS 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/198.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI SPORT1 (RO)
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/199.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI SPORT 3 (RO)
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/200.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DIGI SPORT 2 (RO)
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/201.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HU | Digi Sport 2 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/202.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",HU | Digi Sport 1 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/203.ts
-#EXTINF:0 tvg-id="PolsatSport.pl" group-title="Channels",Polsat Sport FHD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/204.ts
-#EXTINF:0 tvg-id="PolsatSportPremium1.pl" group-title="Channels",Polsat Sport Premium 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/205.ts
-#EXTINF:0 tvg-id="ZiggoSport.nl" group-title="Channels",Ziggo Sport HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/206.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORTS FOOTBALL
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/207.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORTS VARIETY 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/208.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORTS VARIETY 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/209.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORTS VARIETY 3
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/210.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SUPER SPORTS VARIETY 4
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/211.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASTRO SPORTS 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/212.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Diema Sport 1 (L)
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/213.ts
-#EXTINF:0 tvg-id="DiemaSport2.bg" group-title="Channels",Diema Sport 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/214.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Sport Klub Polska
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/215.ts
-#EXTINF:0 tvg-id="nsport.pl" group-title="Channels",nSport+ HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/216.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AU | Fox Sports 502
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/217.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BT SPORT ESPN HD (UK)
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/218.ts
-#EXTINF:0 tvg-id="TNTSport2.uk" group-title="Channels",BT Sports 2 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/219.ts
-#EXTINF:0 tvg-id="SkySpAction.uk" group-title="Channels",Sky Sport 3 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/220.ts
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",Sky Sport 2 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/221.ts
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",Sky Sport 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/222.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BG: ELEVEN SPORTS 1 BELGIUM (FR) HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/223.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ASTRO SPORTS 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/224.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",C MORE FOTBOLL(SW)
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/225.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",PREMIER SPORTS 1 (UK)
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/226.ts
-#EXTINF:0 tvg-id="PolsatSportPremium2.pl" group-title="Channels",Polsat Sport Premium 2 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/227.ts
-#EXTINF:0 tvg-id="PolsatSportExtra.pl" group-title="Channels",Polsat Sport Extra FHD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/228.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR | SPORTV HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/229.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR | SPORTV 2 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/230.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",BR | SPORTV 3 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/231.ts
-#EXTINF:0 tvg-id="sport1_hd" group-title="Channels",Sport1 HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/238.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",DE: Sport digital Fusball HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/239.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 1 HD AFRICA
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/240.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 2 HD AFRICA
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/241.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Canal + Sport 3 HD AFRICA
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/242.ts
-#EXTINF:0 tvg-id="SportTVplus.pt" group-title="Channels",SPORT TV +
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/243.ts
-#EXTINF:0 tvg-id="sporttv1.pt" group-title="Channels",SPORT TV 1
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/244.ts
-#EXTINF:0 tvg-id="sporttv2.pt" group-title="Channels",SPORT TV 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/245.ts
-#EXTINF:0 tvg-id="sporttv3.pt" group-title="Channels",SPORT TV 3
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/246.ts
-#EXTINF:0 tvg-id="sporttv4.pt" group-title="Channels",SPORT TV 4
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/247.ts
-#EXTINF:0 tvg-id="sporttv5.pt" group-title="Channels",SPORT TV 5
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/248.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",SuperSport Premier League
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/249.ts
-#EXTINF:0 tvg-id="TNTSport3.uk" group-title="Channels",BT Sports 3
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/250.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IRE | Premier Sports 2ⓧᴴᴰ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/251.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",IRE | Premier Sports 1ⓧടⅾ
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/252.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",US: wwe Network
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/481.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Sunnah Al Nabawiyah TV (Medina)
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/254.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Makkah TV
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/259.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",KIEF
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/274.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Nidae AlIslam Radio
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/275.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ZAD TV
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/369.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Quran Al Kareem TV (Mecca)
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/370.ts
-#EXTINF:0 tvg-id="Iqraa.net" group-title="Channels",Iqraa
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/493.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al MAJD Quran
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/499.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",أذكار الصباح والمساء
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/524.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",‎زیکرى بەیانیان(أذكار الصباح) بە دەنگی قورئان خوێن رعد الکوردی
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/525.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",سورة البقرة كاملة / ماهر المعيقلي
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/527.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ماهر المعيقلي - البقرة
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/528.ts
-#EXTINF:0 tvg-id="AlArabiya.nws" group-title="Channels",Al Arabiya
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/255.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Arabiya Al Hadath (1080p)
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/256.ts
-#EXTINF:0 tvg-id="AlJazeeraArabe.nws" group-title="Channels",Al Jazeera Arabic
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/257.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Jazeera Mubasher
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/258.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Fajer Tv 1 مباريات
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/494.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Fajer 2
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/495.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Fajer 3
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/496.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Fajer 4
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/497.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Al Fajer 5
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/498.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",ALMAJD KIDS
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/500.ts
-#EXTINF:0 tvg-id="2MMaroc.ma" group-title="Channels",2M Monde
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/381.ts
-#EXTINF:0 tvg-id="AlAoula.ma" group-title="Channels",Al Aoula
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/382.ts
-#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="Channels",Al Maghribia
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/383.ts
-#EXTINF:0 tvg-id="Assadissa.ma" group-title="Channels",Assadissa
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/384.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Tamazight MA
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/385.ts
-#EXTINF:0 tvg-id="Arrabiaa.ma" group-title="Channels",Arrabiaa
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/386.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AFLAM TV 7
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/480.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",VIP Documentary
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/424.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Shahid VIP Wild
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/425.ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",AD Nat Geo HD
-http://mo3ad.xyz:80/live/mo3adlo35Du/mo3adlo35Du/522.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEIN SPORTS NEWS 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/74447.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS GLOBAL 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83091.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR |   BEIN SPORTS 1  4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83092.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83093.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS 3 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83094.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS 4 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83095.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS 5 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83096.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS 6 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83097.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 07 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47326.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS 8 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83098.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS 9 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83099.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 01 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47302.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 02 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3266.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 03 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47315.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 03 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3267.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 04 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47319.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 04 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3268.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 05 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47323.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 07 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82799.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEIN SPORTS 8 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/74445.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEIN SPORTS 9 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/74446.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47303.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47306.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47307.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 3 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47310.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 4 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47314.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 5 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47318.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 6 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47322.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 7 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47327.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 8 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47331.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 9 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47333.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEIN SPORTS 1 FR 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/74449.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEIN SPORTS 2 FR 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/74450.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEIN SPORTS 3 FR 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/74451.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",FR | BEIN SPORTS FRENSH 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83105.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",FR | BEIN SPORTS FRENSH 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83106.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",EN | BEIN SPORTS ENGLISH 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83103.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 1 ENGLISH 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47334.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS 2 ENGLISH 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47335.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS XTRA 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83100.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS XTRA 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83101.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS XTRA 3 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83102.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS AFC 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83086.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",AR | BEIN SPORTS AFC 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83085.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",US | BEIN SPORTS NBA 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83107.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS 4K",BEINSPORTS NBA 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47336.ts
+
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| 13 EME RUE 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/146.ts
+#EXTINF:0 tvg-id="13RUE.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| 13 EME RUE FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/147.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| A+ 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/176.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| AB 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/168.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| AB 3  4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/171.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| AB 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/170.ts
+#EXTINF:0 tvg-id="AB1.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| AB1 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/169.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| E! ENTERTAINMENT 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/161.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| E! ENTERTAINMENT FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/160.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| NOLLYWOOD  EPIC SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/177.ts
+#EXTINF:0 tvg-id="Nollywood.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| NOLLYWOOD TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/178.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| NOVELAS TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/317.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| NOVELAS TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/318.ts
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| PARIS PREMIERE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/158.ts
+#EXTINF:0 tvg-id="ParisPremiere.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| PARIS PREMIERE SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/159.ts
+#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| RTL 9 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/306.ts
+#EXTINF:0 tvg-id="RTL9.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| RTL 9 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/307.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR| SERIE CLUB 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/144.ts
+#EXTINF:0 tvg-id="SerieClub.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| SERIE CLUB SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/145.ts
+#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| SYFY HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/143.ts
+#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| TEVA SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/309.ts
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| TV BREIZH HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/150.ts
+#EXTINF:0 tvg-id="TVBreizh.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| TV BREIZH SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/151.ts
+#EXTINF:0 tvg-id="TV5MondeEurope.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| TV5 MONDE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/174.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",|FR|SD| TV5 MONDE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/175.ts
+#EXTINF:0 tvg-id="Comedie.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| Comédie +
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/86787.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",20 Minutes TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89384.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",Albi TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89388.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",Alpe d’Huez TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89389.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",Canal 32
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89420.ts
+#EXTINF:0 tvg-id="KTO.fr" group-title="FRANCE GÉNÉRALISTES ",KTO
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89475.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",Maurienne TV (720p)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89482.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",Mosaik Cristal
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89486.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",SQOOL TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89557.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",Stormcast Novelas TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89558.ts
+#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE GÉNÉRALISTES ",Téva
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89567.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",TV3V
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89576.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",TV7 Colmar
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89582.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",TV78
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89584.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",TV Monaco
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89586.ts
+#EXTINF:0 tvg-id="TV-Vendee.fr" group-title="FRANCE GÉNÉRALISTES ",TV Vendée
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89589.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",TVR (Bretagne)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89591.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",ViàMatélé
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89594.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",viàOccitanie
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89596.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE GÉNÉRALISTES ",viàTéléPaese
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89597.ts
+#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE GÉNÉRALISTES ",FRANCE 3
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87034.ts
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE GÉNÉRALISTES ",|FR| NRJ 12 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3304.ts
+#EXTINF:0 tvg-id="France3Bretagne.fr" group-title="FRANCE GÉNÉRALISTES ",France 3 Bretagne
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87039.ts
+#EXTINF:0 tvg-id="France3Auvergne.fr" group-title="FRANCE GÉNÉRALISTES ",France 3 Auvergne
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87038.ts
+#EXTINF:0 tvg-id="France3Aquitaine.fr" group-title="FRANCE GÉNÉRALISTES ",France 3 Aquitaine
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87037.ts
+#EXTINF:0 tvg-id="France3Alsace.fr" group-title="FRANCE GÉNÉRALISTES ",France 3 Alsace
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87036.ts
+#EXTINF:0 tvg-id="France3Alpes.fr" group-title="FRANCE GÉNÉRALISTES ",France 3 Alpes
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87035.ts
+
+#EXTINF:0 tvg-id="Action.fr" group-title="FRANCE CINÉMA",|FR| ACTION SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/114.ts
+#EXTINF:0 tvg-id="Action.fr" group-title="FRANCE CINÉMA",|FR| ACTION HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/115.ts
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="FRANCE CINÉMA",|FR| CANAL SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/105.ts
+#EXTINF:0 tvg-id="CANALplus.fr" group-title="FRANCE CINÉMA",|FR| CANAL  HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/104.ts
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FRANCE CINÉMA",|FR| CANAL  CINEMA SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/113.ts
+#EXTINF:0 tvg-id="CANALplusCINEMA.fr" group-title="FRANCE CINÉMA",|FR| CANAL  CINEMA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/112.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",|FR| CANAL  SERIES SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/109.ts
+#EXTINF:0 tvg-id="CanalplusSeries.fr" group-title="FRANCE CINÉMA",|FR| CANAL  SERIE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/107.ts
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRANCE CINÉMA",|FR| CINE  CLASSIC SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/134.ts
+#EXTINF:0 tvg-id="CinecinemaClassic.fr" group-title="FRANCE CINÉMA",|FR| CINE  CLASSIC HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/135.ts
+#EXTINF:0 tvg-id="CinecinemaClub.fr" group-title="FRANCE CINÉMA",|FR| CINE  CLUB SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/132.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",|FR| CINE  CLUB HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/133.ts
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FRANCE CINÉMA",|FR| CINE  EMOTION SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/128.ts
+#EXTINF:0 tvg-id="CinecinemaEmotion.fr" group-title="FRANCE CINÉMA",|FR| CINE  EMOTION HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/129.ts
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRANCE CINÉMA",|FR| CINE  FAMIZ SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/130.ts
+#EXTINF:0 tvg-id="CinecinemaFamiz.fr" group-title="FRANCE CINÉMA",|FR| CINE  FAMIZ HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/131.ts
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FRANCE CINÉMA",|FR| CINE  FRISSON SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/126.ts
+#EXTINF:0 tvg-id="CinecinemaFrisson.fr" group-title="FRANCE CINÉMA",|FR| CINE  FRISSON HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/127.ts
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FRANCE CINÉMA",|FR| CINE  PREMIER SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/124.ts
+#EXTINF:0 tvg-id="CinecinemaPremier.fr" group-title="FRANCE CINÉMA",|FR| CINE  PREMIER HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/125.ts
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FRANCE CINÉMA",|FR| OCS CHOC HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/123.ts
+#EXTINF:0 tvg-id="OrangeCinechoc.fr" group-title="FRANCE CINÉMA",|FR| OCS CHOC SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/122.ts
+#EXTINF:0 tvg-id="OrangeCineHappy.fr" group-title="FRANCE CINÉMA",|FR| OCS CITY HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/119.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",|FR| OCS CITY 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/118.ts
+#EXTINF:0 tvg-id="OCSGeants.fr" group-title="FRANCE CINÉMA",|FR| OCS GEANTS HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/121.ts
+#EXTINF:0 tvg-id="OCSGeants.fr" group-title="FRANCE CINÉMA",|FR| OCS GEANTS SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/120.ts
+#EXTINF:0 tvg-id="OCSMax.fr" group-title="FRANCE CINÉMA",|FR| OCS MAX HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/117.ts
+#EXTINF:0 tvg-id="OCSMax.fr" group-title="FRANCE CINÉMA",|FR| OCS MAX SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/116.ts
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE CINÉMA",|FR| PARAMOUNT CHANNEL HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/139.ts
+#EXTINF:0 tvg-id="ParamountChannel.fr" group-title="FRANCE CINÉMA",|FR| PARAMOUNT CHANNEL SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/138.ts
+#EXTINF:0 tvg-id="ParamountChannelDecale.fr" group-title="FRANCE CINÉMA",|FR| PARAMOUNT DECALE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/137.ts
+#EXTINF:0 tvg-id="ParamountChannelDecale.fr" group-title="FRANCE CINÉMA",|FR| PARAMOUNT DECALE SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/136.ts
+#EXTINF:0 tvg-id="PolarPlus.fr" group-title="FRANCE CINÉMA",|FR| POLAR  4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/140.ts
+#EXTINF:0 tvg-id="PolarPlus.fr" group-title="FRANCE CINÉMA",|FR| POLAR  SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/141.ts
+#EXTINF:0 tvg-id="RTSUn.ch" group-title="FRANCE CINÉMA",|FR| RTS UN HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/320.ts
+#EXTINF:0 tvg-id="Syfy.fr" group-title="FRANCE CINÉMA",|FR| SYFY HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/142.ts
+#EXTINF:0 tvg-id="Teva.fr" group-title="FRANCE CINÉMA",|FR| TEVA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/308.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",|FR| WARNER HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/148.ts
+#EXTINF:0 tvg-id="Warnertv.fr" group-title="FRANCE CINÉMA",|FR| WARNER TV SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/149.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",|FR|: CANAL CINEMA ST
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48024.ts
+#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE CINÉMA",|FR| TCM HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/62200.ts
+#EXTINF:0 tvg-id="TCM.fr" group-title="FRANCE CINÉMA",|FR| TCM CINEMA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80683.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",|FR| CANAL+ GRAND ÉCRAN HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/86236.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",|FR| CANAL+DOCS_HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/86235.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",Bref Cinéma 100% Court Métrage
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89416.ts
+#EXTINF:0 tvg-id="FilmRiseBingeWatch.de" group-title="FRANCE CINÉMA",FilmRise Binge Watch
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89444.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",FilmRise Séries France
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89445.ts
+#EXTINF:0 tvg-id="Filmstream.de" group-title="FRANCE CINÉMA",Filmstream
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89446.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",MyTime Movie Network (1080p)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89491.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",Mytime Movies
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89492.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",UniversCiné Le Meilleur du Cinéma
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89593.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",Wildside TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89600.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",Zylo Ciné Nanar
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89601.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",Zylo Emotion' L
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89602.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE CINÉMA",Zylo ScreamIN
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89603.ts
+
+#EXTINF:0 tvg-id="ChassePeche.fr" group-title="FRANCE DECOUVERTE ",|FR| CHASSE ET PECHE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37351.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| CHASSE ET PECHE 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37349.ts
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE DECOUVERTE ",|FR| CRIME DISTRICT
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37367.ts
+#EXTINF:0 tvg-id="Discovery.fr" group-title="FRANCE DECOUVERTE ",|FR| DISCOVERY
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37319.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| DISCOVERY ID
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37325.ts
+#EXTINF:0 tvg-id="DiscoveryFamily.fr" group-title="FRANCE DECOUVERTE ",|FR| DISCOVERY FAMILY
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37323.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| DISCOVERY FAMILY HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37322.ts
+#EXTINF:0 tvg-id="DiscoveryInvestigation.fr" group-title="FRANCE DECOUVERTE ",|FR| DISCOVERY INVESTIGATION
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37327.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| DISCOVERY INVESTIGATION HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37326.ts
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FRANCE DECOUVERTE ",|FR| DISCOVERY SCIENCE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37321.ts
+#EXTINF:0 tvg-id="DiscoveryScience.fr" group-title="FRANCE DECOUVERTE ",|FR| DISCOVERY SCIENCE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37320.ts
+#EXTINF:0 tvg-id="Histoire.fr" group-title="FRANCE DECOUVERTE ",|FR| HISTOIRE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37341.ts
+#EXTINF:0 tvg-id="Histoire.fr" group-title="FRANCE DECOUVERTE ",|FR| HISTOIRE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37338.ts
+#EXTINF:0 tvg-id="NatGeo.fr" group-title="FRANCE DECOUVERTE ",|FR| NATIONAL GEOGRAPHIC
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37329.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| NGC WILD HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37330.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| PLANET A&E HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37314.ts
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="FRANCE DECOUVERTE ",|FR| PLANETE+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37313.ts
+#EXTINF:0 tvg-id="PLANETEnoLIMIT.fr" group-title="FRANCE DECOUVERTE ",|FR| PLANETE+  A&E
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37315.ts
+#EXTINF:0 tvg-id="Planete+CrimeInvestigation.fr" group-title="FRANCE DECOUVERTE ",|FR| PLANETE+ CI
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37317.ts
+#EXTINF:0 tvg-id="Planete+CrimeInvestigation.fr" group-title="FRANCE DECOUVERTE ",|FR| PLANETE+ CI HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37316.ts
+#EXTINF:0 tvg-id="PLANETE.fr" group-title="FRANCE DECOUVERTE ",|FR| PLANETE+ HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37312.ts
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="FRANCE DECOUVERTE ",|FR| SCIENCE ET VIE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37355.ts
+#EXTINF:0 tvg-id="ScienceVie.fr" group-title="FRANCE DECOUVERTE ",|FR| SCIENCE ET VIE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37353.ts
+#EXTINF:0 tvg-id="Seasons.fr" group-title="FRANCE DECOUVERTE ",|FR| SEASONS
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37365.ts
+#EXTINF:0 tvg-id="Seasons.fr" group-title="FRANCE DECOUVERTE ",|FR| SEASONS HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37358.ts
+#EXTINF:0 tvg-id="Trek.fr" group-title="FRANCE DECOUVERTE ",|FR| TREK HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37344.ts
+#EXTINF:0 tvg-id="Trek.fr" group-title="FRANCE DECOUVERTE ",|FR| TREK HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37347.ts
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE DECOUVERTE ",|FR| USHUAIA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37336.ts
+#EXTINF:0 tvg-id="UshuaiaTV.fr" group-title="FRANCE DECOUVERTE ",|FR| USHUAIA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37334.ts
+#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE DECOUVERTE ",|FR| ARTE SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3292.ts
+#EXTINF:0 tvg-id="ARTE.fr" group-title="FRANCE DECOUVERTE ",|FR| ARTE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3291.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| RMC STORY 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3314.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| RMC STORY HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3313.ts
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE DECOUVERTE ",|FR| RMC DECOUVERTE SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3316.ts
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE DECOUVERTE ",|FR| RMC DECOUVERTE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3315.ts
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE DECOUVERTE ",|FR| RMC DECOUVERTE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37357.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",L'Esprit Sorcier TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87043.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",Cribs Maisons De Star
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89427.ts
+#EXTINF:0 tvg-id="FashionTV4K.eu" group-title="FRANCE DECOUVERTE ",Fashion TV UHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89443.ts
+#EXTINF:0 tvg-id="VosgesTV.fr" group-title="FRANCE DECOUVERTE ",Vosges Télévision
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89598.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",Dossiers FBI
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89606.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| DISCOVERY 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37318.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| DISCOVERY ID HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37324.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| TOUTE L HISTOIRE 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37308.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| NATIONAL  GEOGRAPHIC  WILD 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37332.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| TOUTE L'HISTOIRE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37310.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| ANIMAUX 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37342.ts
+#EXTINF:0 tvg-id="Animaux.fr" group-title="FRANCE DECOUVERTE ",|FR| ANIMAUX
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37343.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE DECOUVERTE ",|FR| NGC HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37328.ts
+#EXTINF:0 tvg-id="RMCdecouverte.fr" group-title="FRANCE DECOUVERTE ",|FR| RMC DECOUVERTE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37356.ts
+#EXTINF:0 tvg-id="CrimeDistrict.fr" group-title="FRANCE DECOUVERTE ",|FR| CRIME DISTRICT HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/37366.ts
+
+#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE TNT",|FR| 6TER SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3312.ts
+#EXTINF:0 tvg-id="6ter.fr" group-title="FRANCE TNT",|FR| 6TER HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3311.ts
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE TNT",|FR| CHERIE 25 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3318.ts
+#EXTINF:0 tvg-id="Cherie25.fr" group-title="FRANCE TNT",|FR| CHERIE 25 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3317.ts
+#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TNT",|FR| TF1 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3277.ts
+#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TNT",|FR| TF1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89227.ts
+#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TNT",|FR| TF1 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89568.ts
+#EXTINF:0 tvg-id="TF1.fr" group-title="FRANCE TNT",|FR| TF1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3278.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE TNT",|FR| TF1+1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/86237.ts
+#EXTINF:0 tvg-id="TFX.fr" group-title="FRANCE TNT",|FR| TFX SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3302.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE TNT",|FR| TFX HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3301.ts
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="FRANCE TNT",|FR| TF1 SERIES FILMS SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3310.ts
+#EXTINF:0 tvg-id="TF1SeriesFilms.fr" group-title="FRANCE TNT",|FR| TF1 SERIES FILMS 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3309.ts
+#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE TNT",|FR| FRANCE 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89448.ts
+#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE TNT",|FR| FRANCE 2SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/72528.ts
+#EXTINF:0 tvg-id="France2.fr" group-title="FRANCE TNT",|FR| FRANCE 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3281.ts
+#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE TNT",|FR| FRANCE 3 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3284.ts
+#EXTINF:0 tvg-id="France3.fr" group-title="FRANCE TNT",|FR| FRANCE 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3283.ts
+#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE TNT",|FR| FRANCE 4
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89459.ts
+#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE TNT",|FR| FRANCE 4 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3306.ts
+#EXTINF:0 tvg-id="France4.fr" group-title="FRANCE TNT",|FR| FRANCE 4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3305.ts
+#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE TNT",|FR| FRANCE 5
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89460.ts
+#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE TNT",|FR| FRANCE 5 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3286.ts
+#EXTINF:0 tvg-id="France5.fr" group-title="FRANCE TNT",|FR| FRANCE 5 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3285.ts
+#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE TNT",|FR| M6 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3288.ts
+#EXTINF:0 tvg-id="M6.fr" group-title="FRANCE TNT",|FR| M6 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3287.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE TNT",|FR| M6 INTERNATIONAL 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3290.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE TNT",|FR| M6 INTERNATIONAL HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3289.ts
+#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE TNT",|FR| C8 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/72387.ts
+#EXTINF:0 tvg-id="C8.fr" group-title="FRANCE TNT",|FR| C8 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/39909.ts
+#EXTINF:0 tvg-id="CStar.fr" group-title="FRANCE TNT",|FR| CSTAR SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3308.ts
+#EXTINF:0 tvg-id="CStar.fr" group-title="FRANCE TNT",|FR| CSTAR HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3307.ts
+#EXTINF:0 tvg-id="NRJ12.fr" group-title="FRANCE TNT",|FR| NRJ 12 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3303.ts
+#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE TNT",|FR| TMC SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3298.ts
+#EXTINF:0 tvg-id="TMC.fr" group-title="FRANCE TNT",|FR| TMC HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3297.ts
+#EXTINF:0 tvg-id="TMCplus1.fr" group-title="FRANCE TNT",|FR| TMC+1 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3300.ts
+#EXTINF:0 tvg-id="TMCplus1.fr" group-title="FRANCE TNT",|FR| TMC  1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3299.ts
+#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE TNT",|FR| W9 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3296.ts
+#EXTINF:0 tvg-id="W9.fr" group-title="FRANCE TNT",|FR| W9 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3295.ts
+#EXTINF:0 tvg-id="France3Rhone-Alpes.fr" group-title="FRANCE TNT",France 3 Rhone-Alpes
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89458.ts
+#EXTINF:0 tvg-id="France3Provence-Alpes.fr" group-title="FRANCE TNT",France 3 Provence-Alpes
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89457.ts
+#EXTINF:0 tvg-id="France3Picardie.fr" group-title="FRANCE TNT",France 3 Picardie
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89456.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE TNT",France 3 Nouvelle-Aquitaine
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89455.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE TNT",France 3 Nord Pas-de-Calais
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89454.ts
+#EXTINF:0 tvg-id="France3Midi-Pyrenees.fr" group-title="FRANCE TNT",France 3 Midi-Pyrenees
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89453.ts
+#EXTINF:0 tvg-id="France3Lorraine.fr" group-title="FRANCE TNT",France 3 Lorraine
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89452.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE TNT",France 3 Languedoc-Roussillon
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89451.ts
+#EXTINF:0 tvg-id="France3CotedAzur.fr" group-title="FRANCE TNT",France 3 Cote d'Azur
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89450.ts
+#EXTINF:0 tvg-id="France3Champagne-Ardenne.fr" group-title="FRANCE TNT",France 3 Champagne-Ardenne
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89449.ts
+
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",CANAL SPORTS 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46374.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",CANAL SPORTS 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65604.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",CANAL SPORTS 3
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65605.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",CANAL SPORTS 4
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65606.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",CANAL SPORTS 5
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65607.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65595.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65596.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65597.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME  4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65598.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME  5 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65599.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME 6 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65600.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME 7 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65601.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME 8 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65602.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME 9 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65603.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME 1 (LIGUE 2)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46366.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME 2 (LIGUE 2)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46367.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE AMAZON LIGUE",AMAZON PRIME 3 (LIGUE 2)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46373.ts
+
+#EXTINF:0 tvg-id="Infosport.fr" group-title="FRANCE SPORTS",INFOSPORT +
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/379.ts
+#EXTINF:0 tvg-id="Infosport.fr" group-title="FRANCE SPORTS",INFOSPORT+ HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/378.ts
+#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="FRANCE SPORTS",CANAL+SPORT
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/42014.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",CANAL+SPORTS HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/106.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",CANAL+SPORT 360
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/42015.ts
+#EXTINF:0 tvg-id="C+FOOT.fr" group-title="FRANCE SPORTS",CANAL+FOOT
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/68610.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",CANAL+FOOT HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/68524.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="FRANCE SPORTS",BEIN SPORTS 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/329.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="FRANCE SPORTS",BEIN SPORTS 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/328.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="FRANCE SPORTS",BEIN SPORTS 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/331.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="FRANCE SPORTS",BEIN SPORTS 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/330.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="FRANCE SPORTS",BEIN SPORTS 3
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/333.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="FRANCE SPORTS",BEIN SPORTS 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/74452.ts
+#EXTINF:0 tvg-id="BeInSportMax4.fr" group-title="FRANCE SPORTS",BEIN SPORTS MAX 4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/334.ts
+#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="FRANCE SPORTS",BEIN SPORTS MAX 5 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/335.ts
+#EXTINF:0 tvg-id="BeInSportMax6.fr" group-title="FRANCE SPORTS",BEIN SPORTS MAX 6 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/336.ts
+#EXTINF:0 tvg-id="BeInSportMax7.fr" group-title="FRANCE SPORTS",BEIN SPORTS MAX 7 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/337.ts
+#EXTINF:0 tvg-id="BeInSportMax8.fr" group-title="FRANCE SPORTS",BEIN SPORTS MAX 8 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/338.ts
+#EXTINF:0 tvg-id="BeInSportMax9.fr" group-title="FRANCE SPORTS",BEIN SPORTS MAX 9 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/339.ts
+#EXTINF:0 tvg-id="BeInSportMax10.fr" group-title="FRANCE SPORTS",BEIN SPORTS MAX 10 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/340.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FRANCE SPORTS",RMC SPORT 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/345.ts
+#EXTINF:0 tvg-id="RMCSport1.fr" group-title="FRANCE SPORTS",RMC SPORT 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/346.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FRANCE SPORTS",RMC SPORT 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/347.ts
+#EXTINF:0 tvg-id="RMCSport2.fr" group-title="FRANCE SPORTS",RMC SPORT 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/348.ts
+#EXTINF:0 tvg-id="RMCSport3.fr" group-title="FRANCE SPORTS",RMC SPORT 3
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/349.ts
+#EXTINF:0 tvg-id="RMCSport4.fr" group-title="FRANCE SPORTS",RMC SPORT 4
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/350.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT  5 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/351.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT  6 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/352.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT 7
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/354.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT  7 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/353.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT  8
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/355.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT 8 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/356.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT 9
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/358.ts
+#EXTINF:0 tvg-id="RMCSportLive9.fr" group-title="FRANCE SPORTS",RMC SPORT 9 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/357.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT 10
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/360.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT 10 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/359.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT  11
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/362.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT  11 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/361.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT 12
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/364.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT  12 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/363.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",RMC SPORT  13 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/365.ts
+#EXTINF:0 tvg-id="EquipeTV.fr" group-title="FRANCE SPORTS",L EQUIPE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/49151.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",L EQUIPE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/49150.ts
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="FRANCE SPORTS",EQUIDIA LIVE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/381.ts
+#EXTINF:0 tvg-id="EquidiaLive.fr" group-title="FRANCE SPORTS",EQUIDIA LIVE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/380.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",AUTO MOTO HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/386.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MOTORSPORT TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/384.ts
+#EXTINF:0 tvg-id="Golf.es" group-title="FRANCE SPORTS",GOLF
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/383.ts
+#EXTINF:0 tvg-id="GOLF.ca" group-title="FRANCE SPORTS",GOLF  HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/382.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/367.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/366.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/369.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/368.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS 3
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/371.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/370.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS  4
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/373.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS 4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/372.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS 5
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/375.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS 5 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/374.ts
+#EXTINF:0 tvg-id="MULTISPORTS6.fr" group-title="FRANCE SPORTS",MULTISPORTS 6
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/377.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",MULTI SPORTS 6 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/376.ts
+#EXTINF:0 tvg-id="esp" group-title="FRANCE SPORTS",EUROSPORT 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/342.ts
+#EXTINF:0 tvg-id="esp-hd" group-title="FRANCE SPORTS",EUROSPORT 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/341.ts
+#EXTINF:0 tvg-id="esp2" group-title="FRANCE SPORTS",EUROSPORT 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/344.ts
+#EXTINF:0 tvg-id="esp2" group-title="FRANCE SPORTS",EUROSPORT 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/343.ts
+#EXTINF:0 tvg-id="EUROSPORT3601.fr" group-title="FRANCE SPORTS",EUROSPORT 360 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/389.ts
+#EXTINF:0 tvg-id="EUROSPORT3602.fr" group-title="FRANCE SPORTS",EUROSPORT 360 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/390.ts
+#EXTINF:0 tvg-id="EUROSPORT3603.fr" group-title="FRANCE SPORTS",EUROSPORT 360 3
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/391.ts
+#EXTINF:0 tvg-id="EUROSPORT3604.fr" group-title="FRANCE SPORTS",EUROSPORT 360 4
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/392.ts
+#EXTINF:0 tvg-id="EUROSPORT3605.fr" group-title="FRANCE SPORTS",EUROSPORT 360 5
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/393.ts
+#EXTINF:0 tvg-id="Equipe21.fr" group-title="FRANCE SPORTS",L'Equipe
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87042.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",L'Equipe 21 TV 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89476.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",Sport En France
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89556.ts
+#EXTINF:0 tvg-id="ext" group-title="FRANCE SPORTS",CANAL+ 360 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/91378.ts
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS GLOBAL
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/72385.ts
+#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="BEIN SPORTS  SD",BEINSPORTS NEWS
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/72386.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 1 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3254.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 1 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47305.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 2 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3255.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 2 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47309.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 3 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3256.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 3 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3257.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 4 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47317.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 4 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3258.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 5 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3259.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 5 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47321.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 6 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3260.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 6 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47325.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 7 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47329.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 7 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3261.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 8 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3262.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 08 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82774.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 9 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3263.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS 09 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82775.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS EN 1 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82776.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS EN 2 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82777.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS FR  1 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82779.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS FR  2 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82780.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS FR 3 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82781.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS  SD",BEINSPORTS LEAGUE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3264.ts
+#EXTINF:0 tvg-id="ort" group-title="BEIN SPORTS  SD",1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90659.ts
+#EXTINF:0 tvg-id="Canal2.mx" group-title="BEIN SPORTS  SD",2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90660.ts
+
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",AFCAN LIVE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90661.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",CANAL + AFCAN SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90045.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",CANAL+ AFCAN HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90046.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN_SPORTS AFCON 1SD-
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/88853.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN_SPORTS AFCON 1HD.
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/88850.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",[untitled]
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/88852.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN_SPORTS AFCON 2HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/88851.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",[untitled]
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89375.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN_SPORTS_ASIANCUP1HD-
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89374.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN_SPORTS_ASIANCUP2SD.
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89377.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN_SPORTS_ASIANCUP2HD.
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89376.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 1 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87252.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87249.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87256.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 2 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87253.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87248.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87257.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 3 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87254.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87250.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 3 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87258.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 4 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87255.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 4 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87259.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEINSPORTS MAX 4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/87251.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN SPORTS ASIANCUP 1 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89608.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN SPORTS ASIANCUP 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89609.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN SPORTS ASIANCUP 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89610.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",|BEIN SPORTS ASIANCUP 2 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89611.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN SPORTS ASIANCUP 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89612.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",BEIN SPORTS ASIANCUP 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89613.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",RTI  1 HD CAN
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90056.ts
+#EXTINF:0 tvg-id="ext" group-title=" 2024 AFRICA CUP - ASIAN CUP  ",RTI  2 HD CAN
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90055.ts
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS NEWS HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/72.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEIN SPORTS NEWS HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83108.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEIN SPORTS GLOBAL HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83109.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS GLOBAL HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/20040.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS  1 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82782.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/59.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="BEIN SPORTS HD",BEIN SPORTS 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83110.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS  2 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82783.ts
+#EXTINF:0 tvg-id="beINSport2.fr" group-title="BEIN SPORTS HD",BEINSPORTS 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="BEIN SPORTS HD",BEIN SPORTS 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83111.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS  3 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82784.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEIN SPORTS HD",BEINSPORTS 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/61.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="BEIN SPORTS HD",BEIN SPORTS 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83112.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 4 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82786.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 04 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/62.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="BEIN SPORTS HD",BEIN SPORTS 4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83113.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 5 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82788.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 05 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/63.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="BEIN SPORTS HD",BEIN SPORTS 5 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83114.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS  6 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82790.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEIN SPORTS HD",BEINSPORTS 6 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/65.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="BEIN SPORTS HD",BEIN SPORTS 6  HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83115.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS  7 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82792.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEIN SPORTS HD",BEINSPORTS 7 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/66.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="BEIN SPORTS HD",BEIN SPORTS 7 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83116.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 8 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82793.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEIN SPORTS HD",BEINSPORTS 8 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/67.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="BEIN SPORTS HD",BEIN SPORTS 8 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83117.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 9 ⚽
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82794.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 09 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/68.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="BEIN SPORTS HD",BEIN SPORTS 9 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83118.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 1 FR HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEIN SPORTS FR 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83125.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 2 FR HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/74.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEIN SPORTS FR 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83126.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS 3 FR HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/332.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS EN 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82796.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEIN SPORTS EN 1  HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83122.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS EN 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82797.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEIN SPORTS EN 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83123.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEIN SPORTS EXTRA 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83119.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEIN SPORTS EXTRA 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83120.ts
+#EXTINF:0 tvg-id="NBAtv.sport" group-title="BEIN SPORTS HD",BEIN SPORTS NBA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83127.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN SPORTS HD",BEINSPORTS NBA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/47301.ts
+
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT 2M MAROC
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16362.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT AL OULA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16358.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT AL OULA INTER
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16359.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT AL MAGHRIBIA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16369.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT MEDI 1 TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16379.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT ARRYADIA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16364.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT ARRABIA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16367.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT ASSADISSA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16372.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT TAMAZIGHT
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16374.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT AFLAM 7 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16373.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT AL OULA 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT AL OULA INTER
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/49.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT AL MAGHRIBIA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/54.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT ARRYADIA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/51.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT ARRIADIA 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/52.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT ARRABIA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/53.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT ASSADISSA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/55.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT TAMAZIGHT
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/57.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT AFLAM 7 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/56.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT MEDI 1 TV 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/58.ts
+#EXTINF:0 tvg-id="ext" group-title="MAROC TNT",TNT  LAAYOUNE TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/88928.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC NEWS HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46815.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SA: SSC 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/38864.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SA: SSC 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/38865.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SA: SSC 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/38866.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SA: SSC 4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/38867.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SA: SSC 5 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/38868.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 1 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46825.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46826.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 1 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46827.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 2 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46828.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46829.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 2 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46830.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 3 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46831.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46832.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 3 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46833.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 4 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46834.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46835.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 4 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46836.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 5 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46837.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 5 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46838.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC 5 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46839.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",|AR| SSC EXTRA 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/38869.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",|AR| SSC EXTRA 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/38870.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC EXTRA 1 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46816.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC EXTRA 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46817.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC EXTRA 1 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46818.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC EXTRA 2 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46819.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC EXTRA 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46820.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC EXTRA 2 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46821.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC EXTRA 3 SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46822.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC EXTRA 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46823.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",SSC EXTRA 3 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46824.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC SPORTS",|AR| SSC 5 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16315.ts
+
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="MOROCCO",2M
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/7939.ts
+#EXTINF:0 tvg-id="2MMaroc.ma" group-title="MOROCCO",2M MAROC
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16363.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",2M HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/514.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",2M MAROC NATIONAL
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/515.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",AL AOULA INTER
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/511.ts
+#EXTINF:0 tvg-id="AlAoula.ma" group-title="MOROCCO",AL AOULA INTER HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/512.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",AL AOULA INT 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16357.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",MEDI 1 TV MAGHREB
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16378.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",MEDI 1 TV AFRIQUE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16381.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",MEDI1 MAROC 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16377.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",MEDI 1 TV ARABIC HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16380.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",MEDI 1 TV AFRIQUE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/523.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",ARRIADIA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16489.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",ARRYADIA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/7942.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",|ARRYADIA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/516.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",ARRYADIA HD.
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16365.ts
+#EXTINF:0 tvg-id="AlMaghribia.ma" group-title="MOROCCO",AL MAGHRIBIA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16370.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",ALMAGHRIBIA 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16368.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",ARABIAA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16366.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",TV TAMAZIGHT HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/7941.ts
+#EXTINF:0 tvg-id="Assadissa.ma" group-title="MOROCCO",ASSADISSA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16371.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",LAAYOUNE TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16375.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",AFLAM 7 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/7940.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",CHADA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16383.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",CHADA TV  4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16382.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",CANAL ATLAS
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16385.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",M24 MAROC
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16387.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",M24 MAROC
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/529.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",AL ONS TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16384.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",TELE MAROC HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/7943.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",##### |AR| MOROCCO #####
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16356.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",KABOUR & LAHBIB
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/71206.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",KABOUR & LAHBIB 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/71208.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",صلاح وفاتي
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85179.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",أنا و خويا و مراتو
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85180.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",بومبا كوميك
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85181.ts
+#EXTINF:0 tvg-id="ext" group-title="MOROCCO",الدرب
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85182.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",##### |AR| ALGERIA #####
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16433.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ENTV ALGERIE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/538.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ENTV ALGERIE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/535.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| CANAL ALGERIE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/539.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| CANAL ALGERIE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/540.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| A3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/531.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| A3 ALGERIE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16436.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ALGERIE 4
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/543.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ALGERIE 5
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/544.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ALGERIE 6
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/545.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| TV CORAN
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/555.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| TV TAMAZIGHT
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/556.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| TV7 EL MAARIFA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/537.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| TV8 EDHAKIRA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/533.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ECHOROUK
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/548.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ECHOUROUK TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/549.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ECHOUROUK NEWS
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/552.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ECHOUROUK NEWS HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/550.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ENNAHAR TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/554.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| ENNAHAR ALGERIE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/553.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| EL HEDDAF
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/562.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| SAMIRA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/559.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| EL DJAZAIRIA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16444.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| EL DJAZAIR N1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/566.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| DZAIR 3
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16448.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| AL MAGHARIBIYA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/536.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| AL MAGHARIBIA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/558.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| EL BILAD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/563.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| BAHIA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/568.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| BERBERE TELEVISION
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/557.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| EL FADJR TV DZ
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/569.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| AL24 NEWS
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/532.ts
+#EXTINF:0 tvg-id="ext" group-title="ALGERIA",|AR| SALAM TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/534.ts
+
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| M TUNISIA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/570.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| TUNISNA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/571.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| HANNIBAL
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/572.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| ATTESSIA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/573.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| ZITOUNA HEDAYA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/574.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| AL JANOUBIA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/575.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| AL HIWAR ETTOUNSI
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/576.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| TUNESIE TELEVISION
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/577.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| TUNISIA NATIONAL 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/578.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| TUNISIA NATIONAL 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/579.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| AL INSEN
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/580.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| NESSMA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/581.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| TELVZA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/582.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| ZAYTOONA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/583.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| CARTHAGE+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/530.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| TUNISIA NATIONAL 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16427.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| TUNISIA NATIONAL 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16426.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| TUNESIE TELEVISION
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16425.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| TUNISNA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16419.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",##### |AR| TUNISIA #####
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16417.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| HANNIBAL
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16420.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| ATTESSIA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16421.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| NESSMA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16429.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| TELVZA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16430.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| CARTHAGE+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16432.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| AWDEH TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16563.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| AYAAT TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16782.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| AZHARI TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16712.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| BAHIA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16446.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| ALQANAT 9 TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16529.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| ELWATANIA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16494.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| ELMOURITANIA 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16487.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| ELMOURITANIA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16486.ts
+#EXTINF:0 tvg-id="ext" group-title="TUNISIA",|AR| SAMIRA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16441.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",GULLI BIL ARABI
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/3274.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SBC
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1046.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SAUDI 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1047.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SAUDI 24
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1048.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SAUDI TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1049.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1050.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1051.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1052.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS 4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1053.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS PLUS 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1054.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS PLUS 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1055.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| AL MERGAB
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1056.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| NABA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1057.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| AL SAHRAA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/1058.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 10
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16343.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 11
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16344.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 12
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16345.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 01
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16334.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 02
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16335.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 03
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16336.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 04
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16337.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 05
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16338.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 06
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16339.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 07
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16340.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 08
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16341.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|KSA|iEN Doros 09
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16342.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SAUDI 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16744.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SAUDI 24
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16745.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SAUDI TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16746.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16747.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16748.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16749.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS 4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16750.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS PLUS 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16751.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| KSA SPORTS PLUS 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16752.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",##### |AR| SAUDI ARABIA #####
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16742.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SAUDI SUNNAH HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16760.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SAUDI SUNNAH
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16759.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SAUDI QURAN HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16758.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| SAUDI QURAN
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16757.ts
+#EXTINF:0 tvg-id="ext" group-title="ARABIA SAUDI ",|AR| MAKKAH TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16783.ts
+
+#EXTINF:0 tvg-id="MBC1.net" group-title="MBC GROUP ",MBC 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/75.ts
+#EXTINF:0 tvg-id="MBC2.net" group-title="MBC GROUP ",MBC 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64201.ts
+#EXTINF:0 tvg-id="MBC3.net" group-title="MBC GROUP ",MBC 3
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/77.ts
+#EXTINF:0 tvg-id="MBC4.net" group-title="MBC GROUP ",MBC 4
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64269.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",MBC 5
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/79.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",MBC 5 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64206.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",MBC MASR
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/89.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",MBC MASR 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64214.ts
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="MBC GROUP ",MBC DRAMA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/97.ts
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="MBC GROUP ",MBC DRAMA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/82.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",MBC DRAMA PLUS 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64212.ts
+#EXTINF:0 tvg-id="MBCMax.net" group-title="MBC GROUP ",MBC MAX
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64210.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",MBC MAX 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64222.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",MBC IRAQ
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",MBC FARESI
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64268.ts
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="MBC GROUP ",MBC BOLLYWOOD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64209.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",MBC BOLLYWOOD 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64220.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",MBC VARIETY 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64221.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",FOX LIFE 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64231.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",STAR WORLD 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64229.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",##### |AR| MBC GROUP #####
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16388.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16405.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16389.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16390.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC 3 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16407.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC 4
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16392.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC 4 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16408.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC DRAMA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16396.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC DRAMA 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16411.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC DRAMA PLUS UHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16416.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC MASR 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16402.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC MASR 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16412.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC BOLLYWOOD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16397.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC BOLLYWOOD UHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16413.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC ACTION
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16394.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC ACTION UHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16410.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC MAX
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16395.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC IRAQ HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16398.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC IRAQ 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16415.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|AR| MBC 2 UHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16406.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",##### MYHD 4K #####
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/16404.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|:MBC 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64202.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|:MBC 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64203.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|:MBC 4 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64205.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|:MBC DRAMA +
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/102.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD| MBC + POWER DRAMA 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64204.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|:MBC MASR 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64215.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|:MBC IRAQ 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64211.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|:MBC ELIFE 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64213.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|:MBC ACTION 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64207.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|MBC ACTION 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64219.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|MBC+ POWER SPORT 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/8353.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD| ANIMAL PLANET 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64224.ts
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP ",|MYHD|:FOX ACTION MOVIES 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/64230.ts
+
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Baed El Shar (2023)  بعد الشر
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80385.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",19B (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80402.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Al Bab Al Akhdar (2022) الباب الأخضر
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80404.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Beit.ARubi.2023
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80406.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Bezat (2023) بيزات
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80407.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Big Lie (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80408.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Two for Rent (2023) إتنين للإيجار
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80410.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",King of the Ring (2023) ملك الحلبة
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80411.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Gurub Al Mamiz (2023)جروب الماميز
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80412.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Harley (2023) هارلي
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80413.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Tag (2023) تاج
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80415.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",(2023) Al Fil الفيل
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80416.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Wala Ghalta (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80417.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",11:11 (2022)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80418.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Al Hayba: The Movie (2022)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80419.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Al.Ragol.Al.Rabe.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80420.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Amuhom.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80422.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Assembly.Paper.2020
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80423.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Bahebak.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80424.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Daughters.Of.Abdulrahman.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80425.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Dyouf.Sharaf.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80426.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",El.Da'wa.Ammah.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80427.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Gawizni.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80428.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",HanoVille.Hy.AT.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80429.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Hazak Al Youm (2022)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80430.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Kayan.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80431.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Khetet Mazinger (2022)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80432.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Kira.Wel.Gen.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80433.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",My.Mom.Is.a.Minister.2022
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80434.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Raven Song (2022)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80435.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Ashbah Europa (2022)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80436.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Taht Tahdid Al Silah (2022)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80437.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Saber & Rady (2020)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80438.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Taslim Ahali (2022)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80439.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Not going into hell (2017)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80441.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Lif W Irja'a Tani (2023) لف وارجع تاني
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80442.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Mohema Mesh Mohema (2022) مهمة مش مهمة
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80443.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",1000 Mabrouk (2009)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80445.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",أبو رياض من قدك
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80446.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Afreet Transit (2020)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80447.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Searching For Freedom (2005) الباحثات عن الحرية
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80448.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",The Party (2013) الحفلة
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80449.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Over My Dead Body (2013) على جثتي
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80450.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Badal Faqed (2009)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80451.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Bewildered Bolbol (2010) بلبل حيران
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80452.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Camp (2003)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80453.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Captain Hima (2008)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80454.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",The Passage (2019) الممر
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80455.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",The only witness (2021) الشاهد الوحيد
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80456.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",She Made Me a Criminal (2006) جعلتني مجرما
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80457.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",H Dabbour (2008)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80458.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Freezer's Campaign (2016) حملة فريزر
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80459.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Kimo & his Friend (2004) كيمو و أنتيمو
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80460.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Kira & El Gen (2022) كيرة و الجن
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80461.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Life Suits Me Well (2021)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80462.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",We Are in a Mess (2005) معلش إحنا بنتبهدل
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80463.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Life's Speed Bump (2006) مطب صناعي
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80464.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Gurub Al Mamiz (2023) جروب الماميز
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80465.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Light of My Eyes (2010) نور عيني
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80466.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Omar & Salma 2 (2009) 2 عمر وسلمي
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80467.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Omar & Salma 3 (2012)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80468.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Answer Hour (2023) ساعة إجابة
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80469.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Saeedi Fi El Gamaa El Amrekiia (1998) صعيدي في الجامعة الامريكية
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80470.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",First Year of Deception (2004) سنة أولى نصب
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80471.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Romantic Sayed (2005) سيد العاطفي
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80472.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",The Ghost (2007) الشبح
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80473.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Shalaby (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80474.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Taht Tahdid Al Silah (2022) تحت تهديد السلاح
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80475.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Taimour & Shafi'aa (2007) تيمور وشفيقة
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80476.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Thaneya Wahda (2021)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80477.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",The Black Box (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80478.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Transit Prisoner (2008)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80479.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Tuk-Tuk (2015)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80480.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",A Stand Worthy of Men (2021) وقفة رجالة
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80481.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Born to Be a Criminal (2006) وش اجرام
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80482.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",A Useless Day (2015) يوم مالوش لازمة
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80483.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Zaki Chan (2005)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80484.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Zizi's Family (1963) عائلة زيزي
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80485.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Al Halfout (1985)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80486.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Al-Kit Kat (1991) الكيت كات
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80487.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",The Message (1976) الرسالة
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80488.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Banat Hawwa (1954) بنات حوا
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80490.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Almurahikat (1960) المراهقات
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80491.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",The Man I Love (1962) هذا الرجل أحبه
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80492.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Love in a Jail Cell (1983) حب في الزنزانة
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80493.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Ismail Yassine Fil Ustul (1957) إسماعيل يس في الأسطول
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80494.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Take Care Of Zozo (1972) خلي بالك من زوزو
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80495.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",The People's Idol (1967) معبودة الجماهير
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80496.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Who is the Thief Between Us (1984) مين فينا الحرامي
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80497.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",The Lady's Driver (1994) سواق الهانم
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80498.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Sirr Taqiyyat Al Ikhfa (1959) سر طاقية الاخفاء
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80499.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE AR ",Encrypted Letter (2008) ورقة شفرة
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80500.ts
+
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",MULTISUB :Mission Raniganj (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80833.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",MULTISUB :The Bad Guys: A Very Bad Holiday (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80834.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",MULTISUB :The Hoot Owl (2022)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80835.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",MULTISUB :The Lesson (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80836.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",MULTISUB :The Perfect In-Laws (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80837.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",MULTISUB :The Shepherd (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80838.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",Elf Me (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80840.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",Family Switch (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80841.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",Ghost Babe (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80842.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",It's a Wonderful Knife (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80843.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",The Dark Sisters (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80844.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",Forever (2023)
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/80845.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",HARRY POTTER
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85173.ts
+#EXTINF:0 tvg-id="ext" group-title="BOX OFFICE SUB .AR ",TAXI
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85174.ts
+
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| E! HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/944.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| AL YAWM 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/947.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| COMEDY CENTRAL HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/948.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| LIVING HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/951.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/952.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN|  ACTION 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/953.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| SERIES FIRST HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/954.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| YAHALA CINEMA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/955.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| YAHALA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/956.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| SERIES HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/957.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| CINEMA 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/958.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| FANN 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/959.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| AL SAFWA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/960.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| STAR MOVIES 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/961.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| NEWS HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/962.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| TLC HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/963.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| CINEMA 2  4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/964.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES FIRST HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/965.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES FIRST+2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/966.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MUSIC NOW
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/967.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES DISNEY HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/975.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MEZZE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/977.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES KIDS HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/978.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| COMEDY 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/979.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| YAHALA OULA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/980.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| AL YAWM HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46938.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| COMEDY CENTRAL HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46942.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| HISTORY
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46947.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIE ACTION
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46948.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES ACTION 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46949.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES ACTION HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46950.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES COMEDY HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46951.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES FIRST
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46952.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES FIRST 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46954.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MOVIES KIDS HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46956.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| MUSALSALAT
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46957.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| STAR MOVIES HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46961.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| YA HALA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46962.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| YA HALA ALOULA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/46963.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| H2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/91516.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| NAT GEO HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/91517.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| NAT GEO WILD HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/91518.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| DISCOVERY CHANNEL HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/91519.ts
+#EXTINF:0 tvg-id="ext" group-title="OSN+ 4K",|OSN| DISCOVERY IDX HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/91520.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",===== SHAHID LIVE =====
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73734.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| GO_PLUS
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73739.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| AFLAM COMEDY
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73745.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| Ramez
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73751.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| TASH
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73753.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| AROUS BEIRUT
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73756.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| AL MASRAH
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73760.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| NASER AL QASSABY
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73761.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| AL OSTOURA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73763.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| AL ZAEEM
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73764.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| HASSINO
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73765.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| THE CHEF
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73777.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|SHAHID| WWE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/73779.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID VIP 15
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84621.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID VIP 17
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84623.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID VIP 18
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84624.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID VIP 20
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84626.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID VIP 22
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84628.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID VIP 23
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84629.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID VIP 27
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84633.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID VIP 28
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84634.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID VIP 31
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84637.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID VIP
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84638.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID SERIES 13 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84652.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID SERIES 17 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84656.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID SERIES 18 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84657.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID SERIES 20 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84659.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID SERIES 24 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84663.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID SERIES 27 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84665.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",|AR| SHAHID SERIES 28 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/84666.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",عادل إمام
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85168.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",سمير غانم
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85169.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",أحمد زكي
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85172.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",أحلام بنات
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85303.ts
+#EXTINF:0 tvg-id="ext" group-title="SHAHID VIP",24/7 -كازا ستريت
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/86055.ts
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN MOVIES 1 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60172.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN MOVIES 2 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60173.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN MOVIES 3 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60174.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN MOVIES 4- 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60175.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN SERIES 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60176.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN SERIES 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60177.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN FOX MOVIES ACTION HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60178.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN FATAFEAT
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60179.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN GOURMET 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60182.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN JEEM HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60183.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN BOOMERANG HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60185.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN BE JUNIOR
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60186.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN DRAMA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60187.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN NAT GEO
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60189.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN NAT GEO WILD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/60191.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN MOVIES 1 PREMIERE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90764.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN MOVIES 2  ACTION
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90765.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN MOVIE 3 DRAMA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90766.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN MOVIE 4 FAMILY
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90767.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN BOX OFFICE 1 UHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90873.ts
+#EXTINF:0 tvg-id="ext" group-title="BEIN ENTERTAINMENT 4K",|AR| BEIN BOX OFFICE 2 UHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/90874.ts
+
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEINSPORTS 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48971.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEINSPORTS 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48972.ts
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="TÜRKIYE SPORTS",|TR| EUROSPORT 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/49098.ts
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="TÜRKIYE SPORTS",|TR| GS TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/49101.ts
+#EXTINF:0 tvg-id="FBTV.tr" group-title="TÜRKIYE SPORTS",|TR| FB TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/49102.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| TAY TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/49103.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR | BEIN SPORT 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83062.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR | BEIN SPORT 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83066.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR | BEIN SPORT 4 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83068.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR | TIVIBU SPORT 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83073.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR | EUROSPORT 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83074.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR | EUROSPORT 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83075.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR | SMART SPORT 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83076.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR | S SPORT 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83079.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR| A Sport HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83080.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR | FB TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83082.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",TR | GALATASARAY TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/83083.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORTS 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85785.ts
+#EXTINF:0 tvg-id="LIGTV.tr" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORT 1 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85786.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORT 1 HD -
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85787.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEINSPORT 2 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85790.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEINSPORT 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85791.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORTS 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85792.ts
+#EXTINF:0 tvg-id="LIGTV2.tr" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORTS 2 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85793.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEINSPORT 3 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85794.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEINSPORT 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85795.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORTS 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85796.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORTS 3 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85797.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEINSPORT 4 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85798.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEINSPORT 4 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85799.ts
+#EXTINF:0 tvg-id="LIGTV4.tr" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORTS 4 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85801.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORT MAX  1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85812.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORT MAX  2 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85813.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEIN SPORTS MAX 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85814.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| BEiNSPORTS 1 ʜᴅ 720
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85820.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| S-SPORT
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85824.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| S SPORT PLUS 1 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85825.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| S SPORT PLUS 2 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85826.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR|  S SPORT2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85827.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| S SPORT+1 MAC SAATI
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85829.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| S SPORT+2 MAC SAATI
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85830.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| S SPORT+3 MAC SAATI
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85831.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| S Sport+5 Mac Saati
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85833.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EXXEN SPORT 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85834.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EXXEN SPORT 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85838.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EXXEN SPORT 3 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85839.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EXXEN SPORT 4 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85840.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EXXEN SPORT 5 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85841.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EXXEN SPORT 6 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85842.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EXXEN SPORT 7 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85843.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EXXEN SPORT 8 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85844.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EXXEN SPORT 9 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85845.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EXXEN SPORT 10 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85846.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| SPOR SMART HEVC
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85847.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR|  SPORSMART 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85850.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR|  TIVIBU SPOR HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85851.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| TiViBUSPOR 1 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85853.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| TiViBUSPOR 2 HD+
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85854.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| TIVIBU SPOR 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85856.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| TIVIBU SPOR 3 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85858.ts
+#EXTINF:0 tvg-id="TRT3.tr" group-title="TÜRKIYE SPORTS",|TR| TRT SPOR
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85859.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| TRT SPOR YILDIZ HEVC
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85861.ts
+#EXTINF:0 tvg-id="TRT3.tr" group-title="TÜRKIYE SPORTS",|TR|  TRT SPOR HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85862.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR|  TRT SPOR YILDIZ HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85863.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| TRT 3 SPOR HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85864.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| A SPOR HEVC
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85865.ts
+#EXTINF:0 tvg-id="ASpor.tr" group-title="TÜRKIYE SPORTS",|TR|  A SPOR HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85866.ts
+#EXTINF:0 tvg-id="ASpor.tr" group-title="TÜRKIYE SPORTS",|TR| A SPOR
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85867.ts
+#EXTINF:0 tvg-id="TJKTV.tr" group-title="TÜRKIYE SPORTS",|TR| TJK TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85868.ts
+#EXTINF:0 tvg-id="NBATV.tr" group-title="TÜRKIYE SPORTS",|TR|  NBA TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85869.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| NBA TV
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85870.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| EDGE SPORT HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85871.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| YEDEK | SMARTSPOR HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85872.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| HAM | SMARTSPOR 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85873.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| HAM | SARANSPORT 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85874.ts
+#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="TÜRKIYE SPORTS",|TR| GS TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85876.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| SARANSPORT HD 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85877.ts
+#EXTINF:0 tvg-id="FBTV.tr" group-title="TÜRKIYE SPORTS",|TR| FB TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85878.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SPORTS",|TR| CBC SPORT HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85879.ts
+#EXTINF:0 tvg-id="NTVSpor.tr" group-title="TÜRKIYE SPORTS",|TR| NTV SPOR
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85881.ts
+#EXTINF:0 tvg-id="Eurosport.tr" group-title="TÜRKIYE SPORTS",|TR|  EUROSPORT 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85882.ts
+#EXTINF:0 tvg-id="Eurosport2.tr" group-title="TÜRKIYE SPORTS",|TR| Eurosport 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/85884.ts
+
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS KEMAL SUNAL
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48973.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS YESILCAM
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48974.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS ANiMASYON
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48975.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MASHA iLE KOCA AYI
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48976.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS PEPEE
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48977.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS NiLOYA
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48978.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MOVIES 10
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48979.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MOVIES 9
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48980.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MOVIES 8
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48982.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MOVIES 7
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48983.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MOVIES 6
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48984.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MOVIES 5
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48985.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MOVIES 4
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48986.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MOVIES 3
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48987.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MOVIES 2
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48988.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| BOSS MOVIES 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/48989.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| ENO ANiMASYON
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/49078.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| ENO TURK 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/49079.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| ENO WESTERN
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/49096.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",[TR] ENO TURK 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81498.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",[TR] ENO ANIMASYON HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81499.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",[TR] ENO WESTERN FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81500.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",[TR] KEMAL SUNAL TV HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81519.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",[TR] LOVE NATURE FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81520.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",[TR] SINEMA TV 1001 FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81521.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",[TR] SINEMA TV AKSIYON FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81522.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",[TR] SINEMA TV AILE FHD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81523.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",[TR] TV 52 ORDU SD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81524.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| REDBOX PREMIER
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81525.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| REDBOX VIZYON 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81526.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| REDBOX VIZYON 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81527.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| REDBOX SINEMA TURK 1 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81528.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| REDBOX SINEMA TURK 2 HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81529.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| REDBOX ACTIE HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81530.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| REDBOX BILIMKURGU HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81531.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| REDBOX HORROR HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81532.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| REDBOX MIX HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81533.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| REDBOX DRAMA HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81534.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| MOVIE FAMILY HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81716.ts
+#EXTINF:0 tvg-id="DiziPremiumHD.tr" group-title="TÜRKIYE SINEMA",|TR| DiZi PREMIUM HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81722.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| DIZISMART MAX HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81723.ts
+#EXTINF:0 tvg-id="FX.tr" group-title="TÜRKIYE SINEMA",|TR| FX HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81724.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| ENO TURK 1
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81810.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| ENO ANIMASYON
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81811.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| ENO WESTERN
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81812.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| SINEMA TV ACTION HD
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81863.ts
+#EXTINF:0 tvg-id="ext" group-title="TÜRKIYE SINEMA",|TR| KEMAL SUNAL TV 4K
+http://bg.bleutv.net:8080/live/172014668533933/172016714351540/81864.ts
+
+
