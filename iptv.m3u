@@ -1,4 +1,40 @@
 #EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 1 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549285&extension=ts&play_token=oc6pG2RWZE&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 2 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549288&extension=ts&play_token=aqg13DAIXB&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 1 FHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549438&extension=ts&play_token=xhgd6UWgkl&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 2 FHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549439&extension=ts&play_token=D76HAKPndL&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 3 FHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549440&extension=ts&play_token=jMMEMk7IRD&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 4 FHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549441&extension=ts&play_token=3Df0BjDKUy&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 1 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550843&extension=ts&play_token=rM32AGzJum&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 2 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550844&extension=ts&play_token=GXYNPRAcAo&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 3 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550845&extension=ts&play_token=NwX9POiqLp&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 4 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550846&extension=ts&play_token=ANkkgOZfV7&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 5 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550847&extension=ts&play_token=CyZ9QccQO4&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 6 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550848&extension=ts&play_token=1ExL3i6cUd&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 7 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550849&extension=ts&play_token=uCcjylOcL8&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 8 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550850&extension=ts&play_token=iHNdq4UWC1&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 9 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550851&extension=ts&play_token=NSclwkqYNg&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 10 UHD
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1550852&extension=ts&play_token=6BLuRaxVv2&sn2=
+
+
+
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 1
 http://173.212.193.243:8080/mo3adgh34S8/mo3adgh34S8/877
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 2
