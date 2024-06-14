@@ -21,18 +21,14 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1554687&ex
 
 
 
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 1 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549285&extension=ts&play_token=oc6pG2RWZE&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 2 UHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549288&extension=ts&play_token=aqg13DAIXB&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 1 FHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549438&extension=ts&play_token=xhgd6UWgkl&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 2 FHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549439&extension=ts&play_token=D76HAKPndL&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 3 FHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549440&extension=ts&play_token=jMMEMk7IRD&sn2=
-#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 4 FHD
-http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549441&extension=ts&play_token=3Df0BjDKUy&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 1 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1549285&extension=ts&play_token=yHDAQuFD10&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 2 HD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1549289&extension=ts&play_token=9fp9ow4DCm&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 1 SD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1549286&extension=ts&play_token=1PsN2CmAAE&sn2=
+#EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 2 SD
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1549290&extension=ts&play_token=fjWUxTs6lR&sn2=
 #EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 1 UHD
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:Af:99:2d&stream=1550843&extension=ts&play_token=B1Ik1rVmKc&sn2=
 #EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| EURO CUP 2 UHD
