@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title=" عيد أضحى مبارك ",تكبيرات العشر من ذي الحجة
+http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1554691&extension=ts&play_token=cSPGdSOdag&sn2=
 
 #EXTINF:0 tvg-id="ext" group-title="KIMO EURO 2024 🇩🇪  🌏",AR| BEIN SPORTS Max 1 UHD
 http://portal.magic8kip.tv/play/live.php?mac=00:1A:79:C3:D3:9D&stream=1549285&extension=ts&play_token=oc6pG2RWZE&sn2=
