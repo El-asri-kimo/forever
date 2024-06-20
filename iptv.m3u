@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0 tvg-id="ext" group-title="BEINSPORTS |KIMO EURO 2024 ",beIN SPORTS MAX 1
-http://nettv-premium.com/play/live.php?mac=00:1a:79:2a:39:06&stream=1137084&extension=ts&play_token=JPCf8EH4JK
+http://psk-sdk.ddno.us:7070/live/Abdelaziz.bix/bduzzbv7/213125.ts
 #EXTINF:0 tvg-id="ext" group-title="BEINSPORTS |KIMO EURO 2024 ",beIN SPORTS MAX 2
-http://nettv-premium.com/play/live.php?mac=00:1a:79:2a:39:06&stream=1137085&extension=ts&play_token=49blS5ezgZ
+http://psk-sdk.ddno.us:7070/live/Abdelaziz.bix/bduzzbv7/213127.ts
 #EXTINF:0 tvg-id="ext" group-title="BEINSPORTS |KIMO EURO 2024 ",beIN SPORTS MAX 3
-http://nettv-premium.com/play/live.php?mac=00:1a:79:2a:39:06&stream=1137606&extension=ts&play_token=MYFxCRQStJ
+http://psk-sdk.ddno.us:7070/live/Abdelaziz.bix/bduzzbv7/213129.ts
 #EXTINF:0 tvg-id="ext" group-title="BEINSPORTS |KIMO EURO 2024 ",beIN SPORTS MAX 4
-http://nettv-premium.com/play/live.php?mac=00:1a:79:2a:39:06&stream=1137605&extension=ts&play_token=HLUPK3hKNz
+http://psk-sdk.ddno.us:7070/live/Abdelaziz.bix/bduzzbv7/213131.ts
 
 #EXTINF:0 tvg-id="ext" group-title="BEINSPORTS | SPORTS",beIN SPORTS NEWS HD
 http://boxtv.dynedns.ovh:80/d8a35c57cdb3/654321reza/105523
