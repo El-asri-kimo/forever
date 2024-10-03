@@ -40,6 +40,12 @@ http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/880
 #EXTINF:0 tvg-id="ext" group-title="StarzPlay SPORTS",AD | SPORT PREMIUM 2 HD
 http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/881
 
+#EXTINF:0 tvg-id="ext" group-title="France Channels",CRIME District HEVC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:B0:C8:FF&stream=67185&extension=ts&play_token=72KoQUQpMV&sn2=
+#EXTINF:0 tvg-id="ext" group-title="France Channels",DESCOVRY investigation 
+http://pythonlive.net:8789/live/0138074888/7362/1910.ts
+
+
 #EXTINF:0 tvg-id="2MMaroc.ma" group-title="Arabic Channels قنوات عربية",2M Monde
 http://173.212.193.243:8080/JhoSyC4xxB/rQMcNhqUZU/411
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",AL AOULA HD
