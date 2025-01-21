@@ -562,3 +562,8 @@ http://king4k.tv/play/live.php?mac=00:1A:79:4c:82:56&stream=107016&extension=ts&
 http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=507508&extension=ts&play_token=fWeTGDmDjn&sn2=
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",ID
 http://king4k.tv/play/live.php?mac=00:1A:79:4c:82:56&stream=207200&extension=ts&play_token=ran41gXQF5&sn2=
+
+#EXTINF:0 tvg-id="ext" group-title="TOD SPORTS ⚽ ",TOD 1
+http://king4k.tv/play/live.php?mac=00:1A:79:4c:82:56&stream=1036847&extension=ts&play_token=pDiiGZx2Xr&sn2=
+#EXTINF:0 tvg-id="ext" group-title="TOD SPORTS ⚽ ",TOD 2
+http://king4k.tv/play/live.php?mac=00:1A:79:4c:82:56&stream=1036843&extension=ts&play_token=fpi1X05woV&sn2=
