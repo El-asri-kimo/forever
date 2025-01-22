@@ -567,3 +567,11 @@ http://king4k.tv/play/live.php?mac=00:1A:79:4c:82:56&stream=207200&extension=ts&
 http://king4k.tv/play/live.php?mac=00:1A:79:4c:82:56&stream=1036847&extension=ts&play_token=pDiiGZx2Xr&sn2=
 #EXTINF:0 tvg-id="ext" group-title="TOD SPORTS ⚽ ",TOD 2
 http://king4k.tv/play/live.php?mac=00:1A:79:4c:82:56&stream=1036843&extension=ts&play_token=fpi1X05woV&sn2=
+
+
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 1
+http://sky-tv.org:88/BMLTHTEACY1XSYO/Hp0tI4BNFg/99226?play_token=nZsi0PnWRR
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport Max 1
+http://sky-tv.org:88/BMLTHTEACY1XSYO/Hp0tI4BNFg/99230?play_token=yJNj9JvsLV
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport Max 2
+http://sky-tv.org:88/BMLTHTEACY1XSYO/Hp0tI4BNFg/99231?play_token=Mo3QrNkBw1
