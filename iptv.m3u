@@ -576,14 +576,16 @@ http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=1614236&exte
 
 
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport Haber
-http://sky-tv.org:88/BMLTHTEACY1XSYO/aXGGDE0BhT/99232?play_token=8coTFyV3aq
+http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=912885&extension=ts&play_token=2SKBwOpCSq&sn2=
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 1
-http://sky-tv.org:88/BMLTHTEACY1XSYO/aXGGDE0BhT/99226?play_token=dE2odVl9v7
+http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=913457&extension=ts&play_token=V7yEHjoAbE&sn2=
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 2
-http://sky-tv.org:88/BMLTHTEACY1XSYO/aXGGDE0BhT/99227?play_token=IMIomSlwHl
+http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=913455&extension=ts&play_token=QUSrv9LkFO&sn2=
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 3
-http://sky-tv.org:88/BMLTHTEACY1XSYO/aXGGDE0BhT/99228?play_token=6QZEvfQzfC
+http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=913444&extension=ts&play_token=dJqX8lTPeV&sn2=
+#EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 4
+http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=913453&extension=ts&play_token=09xYXehRcS&sn2=
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",A Spor HD
-http://sky-tv.org:88/BMLTHTEACY1XSYO/aXGGDE0BhT/99244?play_token=58YPZ1L4s2
+http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=913404&extension=ts&play_token=xj0Xw3Vymj&sn2=
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",TRT Spor HD
-http://sky-tv.org:88/BMLTHTEACY1XSYO/aXGGDE0BhT/99242?play_token=H3IUWEIIMa
+http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=913401&extension=ts&play_token=rYq4KIToqZ&sn2=
