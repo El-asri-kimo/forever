@@ -591,7 +591,7 @@ http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=1071008&exte
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",Crime District 2nd
 http://dream4k.co:8080/play/live.php?mac=00:1A:79:B4:E7:43&stream=32813&extension=ts&play_token=eyD6H9W0Y5
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",ID 1st
-http://line.iptveros.com/play/live.php?mac=00:1A:79:45:B7:1C&stream=507508&extension=ts&play_token=xrXbCChg6P&sn2=
+http://dream4k.co/play/live.php?mac=00:1A:79:B4:E7:43&stream=3670&extension=ts&play_token=cv2hybuGqf
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",ID 2nd
 http://dream4k.co:2082/play/live.php?mac=00:1A:79:B4:E7:43&stream=148482&extension=ts&play_token=05L45bK8GG
 
