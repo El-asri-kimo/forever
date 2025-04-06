@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports news
-http://rsplus.cc:80/get.php?username=play&password=live.php?mac=00:1A:79:40:28:E4&stream=1066879&extension=ts&play_token=VAzWUspHS6&sn2=&type=m3u_plus
+http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544476.ts
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 1
 http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544474.ts
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 2
