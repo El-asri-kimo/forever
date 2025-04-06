@@ -1,24 +1,26 @@
 #EXTM3U
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports news
+http://rsplus.cc:80/get.php?username=play&password=live.php?mac=00:1A:79:40:28:E4&stream=1066879&extension=ts&play_token=VAzWUspHS6&sn2=&type=m3u_plus
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/877
+http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544474.ts
 #EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/878
+http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544473.ts
 #EXTINF:0 tvg-id="beinSports3.fr" group-title="beIN Sports  بي ان سبورت",beIN Sports 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/879
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN Sports  بي ان سبورت",BeIN Sports 7 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/884
+http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544472.ts 
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN Sports  بي ان سبورت",BeIN Sports 4
+http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544471.ts 
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports  بي ان سبورت",القرآن الكريم 
 http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/405
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/406
-#EXTINF:0 tvg-id="beinSports3.fr" group-title="beIN Sports  بي ان سبورت",beIN Sports 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/407
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN 4 FHD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/408
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN 5 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/409
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN 6 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/410
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 9
+http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544466.ts 
+#EXTINF:0 tvg-id="beinSports3.fr" group-title="beIN Sports  بي ان سبورت",beIN Sports 5
+http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544470.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN 6
+http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544469.ts 
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN 7
+http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544468.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN 8
+http://cf.4kmo.me/live/98caf8baae/013bf6e23e/544467.ts 
 
 #EXTINF:0 tvg-id="ext" group-title="SSC قنوات اس اس سي",SSC 1 HD
 http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/733
