@@ -37,1254 +37,1291 @@ http://std.visiolinks.com:2082/live/0688848585/64a2n3y67s/152125.ts
 #EXTINF:0 tvg-id="ext" group-title="SSC قنوات اس اس سي",SSC-EXTRA 2 HD
 http://std.visiolinks.com:2082/live/0688848585/64a2n3y67s/152124.ts
 
+ #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="beIN Sports  بي ان سبورت",القرآن الكريم 
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/405.ts
+#EXTINF:0 tvg-id="beinSports3.fr" group-title="beIN Sports  بي ان سبورت",beIN Sports 3
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/407.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN 4 FHD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/408.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN 5 HD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/409.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 2
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/406.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN 6 HD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/410.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 1
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/877.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN Sports  بي ان سبورت",beIN Sports 2
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/878.ts
+#EXTINF:0 tvg-id="beinSports3.fr" group-title="beIN Sports  بي ان سبورت",beIN Sports 3
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/879.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN Sports  بي ان سبورت",BeIN Sports 7 HD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/884.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SSC قنوات اس اس سي",SSC 1 HD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/733.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC قنوات اس اس سي",SSC 2 HD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/734.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC قنوات اس اس سي",SSC 3 HD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/735.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC قنوات اس اس سي",SSC 5 HD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/737.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC قنوات اس اس سي",SSC 4 HD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/732.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC قنوات اس اس سي",SSC-EXTRA 1 HD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/882.ts
+#EXTINF:0 tvg-id="ext" group-title="SSC قنوات اس اس سي",SSC-EXTRA 2 HD
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/883.ts
+
 #EXTINF:0 tvg-id="ext" group-title="StarzPlay SPORTS",AD | SPORT PREMIUM 1 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/880
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/880.ts
 #EXTINF:0 tvg-id="ext" group-title="StarzPlay SPORTS",AD | SPORT PREMIUM 2 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/881
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/881.ts
 
 #EXTINF:0 tvg-id="2MMaroc.ma" group-title="Arabic Channels قنوات عربية",2M Monde
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/411
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/411.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",AL AOULA HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/412
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/412.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Aoula International (360p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/441
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/441.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Aqsa Channel
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/442
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/442.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Arabiya (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/443
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/443.ts
 #EXTINF:0 tvg-id="AlArabiyaAlHadath.net" group-title="Arabic Channels قنوات عربية",Al Arabiya Al Hadath
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/444
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/444.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Ekhbariya (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/445
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/445.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Hurra (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/449
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/449.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Iraqia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/450
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/450.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Iraqia News
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/451
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/451.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Iraqia Sport
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/452
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/452.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Jazeera Arabic (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/455
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/455.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Jazeera Balkans (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/456
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/456.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Jazeera Documentary
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/457
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/457.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Jazeera Mubasher (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/458
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/458.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Khalij (720p) [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/459
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/459.ts
 #EXTINF:0 tvg-id="AlMaghribia.ma" group-title="Arabic Channels قنوات عربية",Al Maghribia (360p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/461
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/461.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Mamlaka TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/462
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/462.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Mayadeen (576p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/466
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/466.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Quran Al Kareem TV (Mecca)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/468
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/468.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Rasheed (408p)7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/470
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/470.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Saudiya (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/474
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/474.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Sharqiya (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/475
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/475.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Sharqiya News (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/477
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/477.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Sunnah Al Nabawiyah TV (Medina) (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/478
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/478.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Wousta TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/480
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/480.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Yaum TV (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/481
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/481.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Alerth Alnabawi (576p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/489
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/489.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Alghad Almushreq (576p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/494
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/494.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Alhaqeqa Aldawlia (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/496
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/496.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Alyaman Shabab (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/511
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/511.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Amman TV (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/512
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/512.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Asharq (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/516
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/516.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Audeh (480p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/522
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/522.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Ayaat (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/523
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/523.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Bahrain International (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/524
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/524.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Bahrain Sports 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/525
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/525.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Bahrain Sports 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/526
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/526.ts
 #EXTINF:0 tvg-id="BahrainTV.net" group-title="Arabic Channels قنوات عربية",Bahrain TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/527
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/527.ts
 #EXTINF:0 tvg-id="BBCArabic.net" group-title="Arabic Channels قنوات عربية",BBC Arabic (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/528
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/528.ts
 #EXTINF:0 tvg-id="cartoon" group-title="Arabic Channels قنوات عربية",Cartoon Network Arabia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/532
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/532.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",CGTN Arabic (576p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/533
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/533.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",DW Arabic (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/548
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/548.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Elsharq TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/559
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/559.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",France 24 Arabic (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/565
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/565.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Gulli Bil Arabi (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/567
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/567.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Hala TV (576p) [
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/571
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/571.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Halab Today TV (480p) [
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/572
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/572.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Iqraa (576p) [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/577
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/577.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",JAWHARA TV (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/581
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/581.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Jeddah Radio (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/582
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/582.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Kaif TV (576p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/585
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/585.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",KSA Sports 3 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/589
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/589.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Majid TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/601
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/601.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Makkah TV (576p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/602
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/602.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Medi 1 TV Maghreb
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/622
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/622.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Mekameleen TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/623
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/623.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Nabaa TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/634
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/634.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Nablus TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/635
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/635.ts
 #EXTINF:0 tvg-id="NatGeoAD.net" group-title="Arabic Channels قنوات عربية",National Geographic Abu Dhabi
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/636
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/636.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Nidae AlIslam Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/637
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/637.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Noor Dubai (576p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/638
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/638.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Palestine Mubasher
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/646
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/646.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Palestine Today
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/648
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/648.ts
 #EXTINF:0 tvg-id="QatarTV.net" group-title="Arabic Channels قنوات عربية",Qatar TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/652
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/652.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Rajeen TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/660
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/660.ts
 #EXTINF:0 tvg-id="RotanaCinema.il" group-title="Arabic Channels قنوات عربية",Rotana Cinema
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/662
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/662.ts
 #EXTINF:0 tvg-id="RotanaCinema.il" group-title="Arabic Channels قنوات عربية",Rotana Cinema
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/663
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/663.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Rotana Classic
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/664
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/664.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Rotana Clip
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/665
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/665.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Rotana Comedy
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/666
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/666.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Rotana Drama
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/667
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/667.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Rotana Khalijia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/668
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/668.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Rotana Kids
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/669
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/669.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Rotana+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/676
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/676.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Roya TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/677
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/677.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Shabab FM
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/688
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/688.ts
 #EXTINF:0 tvg-id="SkyNwsArabia.uk" group-title="Arabic Channels قنوات عربية",Sky News Arabia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/692
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/692.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Suhail TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/699
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/699.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Syria Drama
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/700
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/700.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Syria Satellite Channel
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/701
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/701.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Syria TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/702
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/702.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Taha TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/703
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/703.ts
 #EXTINF:0 tvg-id="TakbeerTV.uk" group-title="Arabic Channels قنوات عربية",Takbeer TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/704
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/704.ts
 #EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="Arabic Channels قنوات عربية",TRT Arabi
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/711
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/711.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Tunisie Immobilier TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/712
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/712.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Watar TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/720
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/720.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Yas (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/727
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/727.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Abu Dhabi Aloula (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/896
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/896.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Abu Dhabi Emirates (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/897
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/897.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Abu Dhabi Sports 1 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/898
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/898.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Abu Dhabi Sports 2 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/899
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/899.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Ajman TV [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/900
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/900.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Aan TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/901
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/901.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Arabiya (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/902
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/902.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Arabiya (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/903
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/903.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Arabiya (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/904
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/904.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al DafrahTV TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/905
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/905.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Hadath TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/906
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/906.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Hadath TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/907
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/907.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Hadath TV (1080p) [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/908
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/908.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Mashhad (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/909
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/909.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Mashhad (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/910
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/910.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Qamar TV (360p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/911
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/911.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Shallal TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/912
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/912.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Sharqiya Min Kabla (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/913
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/913.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Al Yaum TV (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/914
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/914.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Baynounah TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/915
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/915.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Citruss TV (720p) [Geo-blocked]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/916
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/916.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",CNBC Arabia (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/917
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/917.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai One (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/918
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/918.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai Racing (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/919
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/919.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai Racing 2 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/920
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/920.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai Racing 3 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/921
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/921.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai Sports 1 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/922
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/922.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai Sports 1 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/923
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/923.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai Sports 2 (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/924
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/924.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai Sports 3 (1080p) [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/925
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/925.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/926
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/926.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/927
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/927.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/928
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/928.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai TV (576p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/929
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/929.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Dubai Zaman (1080p) [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/930
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/930.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC 1 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/931
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/931.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC 1 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/932
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/932.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC 1 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/933
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/933.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC 1 USA (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/934
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/934.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC 3 EUR (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/935
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/935.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC 3 KSA (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/936
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/936.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC 4 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/937
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/937.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC 4 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/938
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/938.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC 5 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/939
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/939.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC Bollywood (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/940
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/940.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC Bollywood (1080p) [Geo-blocked]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/941
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/941.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC Drama KSA (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/942
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/942.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC Drama USA (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/943
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/943.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC FM (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/944
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/944.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC Iraq (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/945
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/945.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC Masr 1 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/946
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/946.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC Masr 1 USA (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/947
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/947.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC Masr 2 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/948
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/948.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC Persia (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/949
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/949.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",MBC Plus Drama (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/950
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/950.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Nour TV (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/951
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/951.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",PMC (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/952
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/952.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Sama Dubai (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/953
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/953.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Sharjah 2 (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/954
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/954.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Sharjah Radio Quran (1080p) [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/955
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/955.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Sharjah Sports TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/956
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/956.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Sharjah TV (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/957
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/957.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Sky News Arabia (1080p) [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/958
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/958.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Sky News Arabia (Portrait) (1280p) [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/959
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/959.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",UBL (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/960
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/960.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Wanasah (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/961
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/961.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Weyyak Action (1080p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/962
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/962.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Weyyak Drama (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/963
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/963.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Weyyak Mix (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/964
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/964.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Weyyak Nawaem (720p)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/965
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/965.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Zee Aflam (720p) [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/966
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/966.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic Channels قنوات عربية",Zee Alwan (720p) [Not 24/7]
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/967
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/967.ts
 
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports VIP",beIN Sports 1 VIP
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/886
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/886.ts
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports VIP",beIN Sports 2 VIP
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/887
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/887.ts
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports VIP",beIN Sports 3 VIP
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/888
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/888.ts
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports VIP",beIN Sports 4 VIP
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/889
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/889.ts
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports VIP",Bein Sport 5 VIP
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/890
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/890.ts
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN Sports VIP",Bein Sport 6
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/891
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/891.ts
 #EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN Sports VIP",BEIN SPORTS 7
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/892
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/892.ts
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports VIP",BEIN SPORTS 8 VIP
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/893
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/893.ts
 #EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN Sports VIP",beIN SPORTS 9
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/894
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/894.ts
 #EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="beIN Sports VIP",beIN SPORTS XTRA 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/895
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/895.ts
 
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[SPO**] * Bein Sport AFC
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1140
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1140.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[SPO**] * Bein Sport AFC 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1141
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1141.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[SPO**] * Bein Sport AFC 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1142
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1142.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[SPO**] * Bein Sport AFC 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1143
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1143.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Bein Sport Asian Cup 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1144
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1144.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Bein Sport Asian Cup 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1145
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1145.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[SPO**] World Cup Sum (TS)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1146
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1146.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[SPO**] World Cup Sum (Rec)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1147
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1147.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORTS NEWS HD⚽️
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1341
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1341.ts
 #EXTINF:0 tvg-id="beinsportsnews.jsc" group-title="World Sports ",beIN SPORTS NEWS
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1342
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1342.ts
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="World Sports ",beIN SPORTS 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1343
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1343.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",LIVE 24 SPORT 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1344
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1344.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",LIVE 24 SPORT 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1345
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1345.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",LIVE 24 SPORT 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1346
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1346.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",LIVE 24 SPORT 4
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1347
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1347.ts
 #EXTINF:0 tvg-id="beinSports2.fr" group-title="World Sports ",BEIN SPORT 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1348
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1348.ts
 #EXTINF:0 tvg-id="bein3hd.jsc" group-title="World Sports ",BEIN SPORT 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1349
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1349.ts
 #EXTINF:0 tvg-id="bein4hd.jsc" group-title="World Sports ",BEIN SPORT 4
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1350
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1350.ts
 #EXTINF:0 tvg-id="bein5hd.jsc" group-title="World Sports ",BEIN SPORT 5
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1351
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1351.ts
 #EXTINF:0 tvg-id="bein6hd.jsc" group-title="World Sports ",BEIN SPORT 6
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1352
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1352.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORT 7+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1353
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1353.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORT 8+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1354
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1354.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORT 9+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1355
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1355.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORT 1+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1356
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1356.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORT 2+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1357
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1357.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORT 3+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1358
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1358.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORT 4+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1359
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1359.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORT 5+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1360
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1360.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORT 6+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1361
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1361.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",RMC 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1362
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1362.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",RMC 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1363
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1363.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",RMC 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1364
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1364.ts
 #EXTINF:0 tvg-id="bein1hd.jsc" group-title="World Sports ",BEIN SPORT 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1365
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1365.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BEIN SPORT 1+
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1366
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1366.ts
 #EXTINF:0 tvg-id="esp" group-title="World Sports ",Eurosport 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1367
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1367.ts
 #EXTINF:0 tvg-id="esp2" group-title="World Sports ",Eurosport 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1368
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1368.ts
 #EXTINF:0 tvg-id="futbol" group-title="World Sports ",Telekanal Futbol
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1369
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1369.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",RTSH Sport
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1370
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1370.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Türkmenistan Sport
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1371
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1371.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",My Padel tv
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1372
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1372.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Bein SportXtra ñ
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1373
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1373.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Bein SportXtra
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1374
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1374.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Scooore
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1375
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1375.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Fifa +
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1376
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1376.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Womens Sports Network
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1377
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1377.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",FTF Sports
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1378
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1378.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Pac 12 Insider
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1379
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1379.ts
 #EXTINF:0 tvg-id="TraceSports.pl" group-title="World Sports ",Trace Sports
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1380
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1380.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Stadium
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1381
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1381.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",ITSF
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1382
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1382.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",True Premier 1 (edge)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1383
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1383.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",True Premier 2 (edge)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1384
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1384.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",USA Network (38)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1385
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1385.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Sky Sports Main Event (mag)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1386
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1386.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Sky Sports Premier League (mag)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1387
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1387.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Sky Sports PL (mag)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1388
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1388.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 1 (mag)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1389
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1389.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 1 (tuy)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1390
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1390.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 1 (server)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1391
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1391.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 2 (mag)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1392
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1392.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 2 (tuy)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1393
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1393.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 2 (server)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1394
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1394.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 3 (mag)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1395
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1395.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 3 (tuy)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1396
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1396.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 3 (server)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1397
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1397.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 4 (mag)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1398
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1398.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 4 (tuy)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1399
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1399.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 4 (server)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1400
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1400.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Polsat Sport Premium 1 (cdn)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1401
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1401.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Polsat Sport Premium 2 (cdn)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1402
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1402.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Now HK Premier Sports 1 EPL (7pal)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1403
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1403.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Now HK Premier Sports 2 EPL (7pal)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1404
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1404.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Sky Sports NZ EPL (7pal)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1405
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1405.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 1 (7pal)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1406
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1406.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 2 (7pal)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1407
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1407.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",TNT Sports 3 (7pal)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1408
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1408.ts
 #EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="World Sports ",SKYSPORTS 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1409
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1409.ts
 #EXTINF:0 tvg-id="SkySpCricket.uk" group-title="World Sports ",SKYSPORTS 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1410
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1410.ts
 #EXTINF:0 tvg-id="SkySpAction.uk" group-title="World Sports ",SKYSPORTS 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1411
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1411.ts
 #EXTINF:0 tvg-id="SkySports4.uk" group-title="World Sports ",SKYSPORTS 4
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1412
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1412.ts
 #EXTINF:0 tvg-id="SkySports5.uk" group-title="World Sports ",SKYSPORTS 5
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1413
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1413.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",SKYSPORTS 6
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1414
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1414.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",SKYSPORTS 7
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1415
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1415.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",SKY SPORT8
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1416
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1416.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",SKY SPORT9
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1417
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1417.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]CANAL MOTOR
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1418
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1418.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]MATCH! NRPA HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1419
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1419.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]ASTRA SPORT
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1420
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1420.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]FIGHTBOX HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1421
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1421.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]X SPORT HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1422
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1422.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]SPORT-ITALIA PLUS HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1423
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1423.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]BIKE HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1424
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1424.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]EUROSPORT 1HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1425
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1425.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]EUROSPORT 2HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1426
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1426.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]COMBATE HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1427
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1427.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]SPORTV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1428
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1428.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]PREMIERE 1HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1429
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1429.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]PREMIERE 2HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1430
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1430.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]PREMIERE 4HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1431
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1431.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]REDBULL TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1432
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1432.ts
 #EXTINF:0 tvg-id="SportsTV.tr" group-title="World Sports ",SPORTS TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1433
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1433.ts
 #EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="World Sports ",GALATASARAY TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1434
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1434.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",BIS HABER
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1435
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1435.ts
 #EXTINF:0 tvg-id="ASpor.tr" group-title="World Sports ",A SPOR
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1436
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1436.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]TURKMENISTAN SPORT HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1437
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1437.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]EUROSPORT 1HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1438
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1438.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]EUROSPORT 2HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1439
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1439.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",[$]NBA-TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1440
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1440.ts
 #EXTINF:0 tvg-id="ADSports1.net" group-title="World Sports ",Abu Dhabi Sports 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1441
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1441.ts
 #EXTINF:0 tvg-id="ADSports2.net" group-title="World Sports ",Abu Dhabi Sports 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1442
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1442.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Abu Dhabi Sports Yas TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1443
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1443.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Dubai SPORT 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1444
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1444.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Dubai SPORT 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1445
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1445.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",DubaiRacing 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1446
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1446.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",DubaiRacing 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1447
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1447.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Bahrain Sports 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1448
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1448.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Oman SPORT
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1449
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1449.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Maroc SPORT
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1450
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1450.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Nile sport
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1451
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1451.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Jordan sport
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1452
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1452.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Ksa sport 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1453
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1453.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",Ksa sport 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1454
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1454.ts
 #EXTINF:0 tvg-id="ext" group-title="World Sports ",ALRabiaa Sport
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1455
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1455.ts
 #EXTINF:0 tvg-id="TenHD.in" group-title="World Sports ",SONY Ten 1 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1456
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1456.ts
 #EXTINF:0 tvg-id="TenAction.in" group-title="World Sports ",SONY Ten 2 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1457
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1457.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",2M NAT
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1464
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1464.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",AL ARABY 2HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1465
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1465.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",AL ARABY TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1466
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1466.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",ALJADEED TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1467
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1467.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",ALKASS FOUR  HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1468
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1468.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",ALKASS ONE HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1469
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1469.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",ALKASS TWO  HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1470
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1470.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",ALMAJLIS
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1471
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1471.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",ALWESAM TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1472
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1472.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",ANEWS
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1473
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1473.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Abu Dhabi Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1474
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1474.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Aghani
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1475
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1475.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Ahurra Iraq
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1476
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1476.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Ajman Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1477
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1477.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Aoula Inter
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1478
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1478.ts
 #EXTINF:0 tvg-id="AlAoula.ma" group-title="Arabic VIP 2",Al Aoula Inter HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1479
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1479.ts
 #EXTINF:0 tvg-id="AlArabiya.nws" group-title="Arabic VIP 2",Al Arabiya
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1480
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1480.ts
 #EXTINF:0 tvg-id="AlArabiya.nws" group-title="Arabic VIP 2",Al Arabiya
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1481
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1481.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Arabiya Business
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1482
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1482.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Barlemania
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1483
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1483.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Ekhbaria
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1484
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1484.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Ekhbaria HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1485
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1485.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Hadath
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1486
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1486.ts
 #EXTINF:0 tvg-id="AlJazeera.ar" group-title="Arabic VIP 2",Al Jazeera
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1487
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1487.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Jazeera Documentary
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1488
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1488.ts
 #EXTINF:0 tvg-id="AlJazeeraEnglish.es" group-title="Arabic VIP 2",Al Jazeera English
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1489
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1489.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Jazeera Mubasher
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1490
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1490.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Jazeera Mubasher 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1491
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1491.ts
 #EXTINF:0 tvg-id="AlMaghribia.ma" group-title="Arabic VIP 2",Al Maghribia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1492
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1492.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Mashhad
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1493
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1493.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Rahma TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1494
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1494.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Rayyan 2 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1495
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1495.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Rayyan HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1496
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1496.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al Seraj TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1497
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1497.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Al-Arabiya Alhadath
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1498
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1498.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",AlAin Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1499
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1499.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",AlKawthar
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1500
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1500.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Algeria R1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1501
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1501.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Algeria TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1502
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1502.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Algerie Radio Internationale
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1503
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1503.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Alhurra
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1504
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1504.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Alhurra HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1505
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1505.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Alhurra Iraq HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1506
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1506.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Alkass Radio 01
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1507
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1507.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Alkass five HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1508
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1508.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Alkass four HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1509
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1509.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Alkass one HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1510
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1510.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Alkass three HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1511
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1511.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Alkass two HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1512
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1512.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Almajd 01
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1513
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1513.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Almajd 01 SD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1514
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1514.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Almajd 02
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1515
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1515.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Almajd 03
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1516
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1516.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Almajd 04
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1517
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1517.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Almajd 05
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1518
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1518.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Almajd 08
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1519
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1519.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Almamlaka TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1520
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1520.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Amman FM
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1521
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1521.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Arab Classical 96.9 FM
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1522
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1522.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Arabian Gulf 99.5 FM
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1523
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1523.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Arabica
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1524
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1524.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Arriadia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1525
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1525.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Arryadia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1526
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1526.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Arryadia HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1527
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1527.ts
 #EXTINF:0 tvg-id="Assadissa.ma" group-title="Arabic VIP 2",Assadissa
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1528
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1528.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Athagaviya
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1529
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1529.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Athaqafia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1530
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1530.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Attessia TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1531
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1531.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Awdeh
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1532
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1532.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Awdeh HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1533
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1533.ts
 #EXTINF:0 tvg-id="BBCArabic.net" group-title="Arabic VIP 2",BBC Arabic
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1534
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1534.ts
 #EXTINF:0 tvg-id="BBCNews.nws" group-title="Arabic VIP 2",BBC Arabic HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1535
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1535.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",BBC Horn of Africa
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1536
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1536.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",BBC World Service English Middle East
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1537
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1537.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Bahrain FM 93.3 FM
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1538
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1538.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Bahrain International HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1539
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1539.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Bahrain Quran
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1540
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1540.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Bahrain Radio Arabic 102.3 FM
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1541
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1541.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Bahrain Sport 1 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1542
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1542.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Bahrain Sport 2 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1543
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1543.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Bahrain TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1544
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1544.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Bangali
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1545
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1545.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Bedaya HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1546
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1546.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",CGTN-ARABIC HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1547
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1547.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",CN Arabia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1548
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1548.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",CNBC Arabiya
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1549
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1549.ts
 #EXTINF:0 tvg-id="Cnninternacional.br" group-title="Arabic VIP 2",CNNi SD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1550
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1550.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Canal Atlas
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1551
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1551.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Carthage +
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1552
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1552.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Chinguit
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1553
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1553.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Classic Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1554
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1554.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",DW A2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1555
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1555.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",DW Arabia HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1556
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1556.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",DW05
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1557
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1557.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Dava
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1558
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1558.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Dubai Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1559
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1559.ts
 #EXTINF:0 tvg-id="DubaiOne.net" group-title="Arabic VIP 2",Dubai One
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1560
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1560.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Dubai Racing 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1561
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1561.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Dubai Racing 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1562
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1562.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Dubai Sports 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1563
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1563.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Dubai Sports 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1564
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1564.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Dubai Sports 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1565
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1565.ts
 #EXTINF:0 tvg-id="DubaiTVHD.net" group-title="Arabic VIP 2",Dubai TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1566
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1566.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",ERI TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1567
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1567.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Ekhbaria
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1568
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1568.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",El Mahadra
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1569
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1569.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",El Medina
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1570
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1570.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",El Mourabitoune
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1571
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1571.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",El Mouritania
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1572
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1572.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",El Mouritania 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1573
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1573.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",El Ousra
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1574
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1574.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",El Wataniya
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1575
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1575.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Elmouritania HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1576
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1576.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",English Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1577
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1577.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Ennahar TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1578
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1578.ts
 #EXTINF:0 tvg-id="euro" group-title="Arabic VIP 2",Euronews
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1579
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1579.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Eurpean Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1580
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1580.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",France 24 (en français)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1581
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1581.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",France 24 (in arabic)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1582
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1582.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",France 24 HD (en Francais)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1583
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1583.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",France 24 HD (in Arabic)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1584
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1584.ts
 #EXTINF:0 tvg-id="france24" group-title="Arabic VIP 2",France 24 HD (in English)
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1585
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1585.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",French
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1586
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1586.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Fujairah Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1587
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1587.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Gayathi Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1588
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1588.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",General Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1589
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1589.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Hola Qatar
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1590
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1590.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Holly Quran
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1591
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1591.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Holy Quran 106.1 FM
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1592
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1592.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Holy Quran Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1593
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1593.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Hona AlAzim
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1594
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1594.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",IEN Rawdati HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1595
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1595.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",IEN TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1596
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1596.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Iran International TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1597
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1597.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Jawhara FM-TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1598
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1598.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Jedda Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1599
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1599.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Jordan Radio Foreign
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1600
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1600.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Jordan TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1601
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1601.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",KSA SPORTS 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1602
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1602.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",KSA SPORTS 1 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1603
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1603.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",KSA SPORTS 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1604
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1604.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",KSA SPORTS 2 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1605
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1605.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",KSA SPORTS 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1606
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1606.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",KSA SPORTS 3 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1607
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1607.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Kuwait Al-Arabi
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1608
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1608.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Kuwait Drama
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1609
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1609.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Kuwait Ethraa
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1610
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1610.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Kuwait Qurain
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1611
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1611.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Kuwait Sport Plus
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1612
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1612.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Kuwait Sports
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1613
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1613.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Kuwait TV 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1614
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1614.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Kuwait TV 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1615
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1615.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",LBC HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1616
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1616.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",LBC International
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1617
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1617.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",LIBYA SPORT 1 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1618
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1618.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Laayoune TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1619
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1619.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Libya Alrasmia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1620
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1620.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Libya Alwataniya
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1621
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1621.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Libya Alwatnya
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1622
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1622.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Libya Education
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1623
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1623.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Libya Sport 2 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1624
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1624.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Liwa Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1625
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1625.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",M24 MAROC
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1626
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1626.ts
 #EXTINF:0 tvg-id="MBC2.ae" group-title="Arabic VIP 2",MBC 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1627
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1627.ts
 #EXTINF:0 tvg-id="MBC3.net" group-title="Arabic VIP 2",MBC 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1628
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1628.ts
 #EXTINF:0 tvg-id="MBC4.net" group-title="Arabic VIP 2",MBC 4
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1629
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1629.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",MBC 5
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1630
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1630.ts
 #EXTINF:0 tvg-id="MBCAction.net" group-title="Arabic VIP 2",MBC Action
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1631
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1631.ts
 #EXTINF:0 tvg-id="MBCBollywood.net" group-title="Arabic VIP 2",MBC Bollywood
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1632
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1632.ts
 #EXTINF:0 tvg-id="MBCDrama.net" group-title="Arabic VIP 2",MBC Drama
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1633
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1633.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",MBC IRAQ
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1634
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1634.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",MBC IRAQ HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1635
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1635.ts
 #EXTINF:0 tvg-id="MBCMax.net" group-title="Arabic VIP 2",MBC MAX
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1636
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1636.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",MTV Lebanon HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1637
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1637.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",MUSAWA
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1638
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1638.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",MUSAWA HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1639
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1639.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Majan TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1640
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1640.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Mawtiny
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1641
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1641.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Medi1 TV Arabic
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1642
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1642.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Mowajhat
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1643
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1643.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",NBN
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1644
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1644.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Nedaa El Islam
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1645
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1645.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Nessma Ejdida
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1646
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1646.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",OMAN TV Culture HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1647
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1647.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",OMAN TV General HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1648
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1648.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",OMAN TV General SD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1649
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1649.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",OMAN TV Live HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1650
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1650.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",OMAN TV Sport HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1651
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1651.ts
 #EXTINF:0 tvg-id="o-tv" group-title="Arabic VIP 2",OTV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1652
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1652.ts
 #EXTINF:0 tvg-id="One.de" group-title="Arabic VIP 2",One
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1653
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1653.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",PEACE TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1654
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1654.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Palestine
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1655
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1655.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Palestine EDU
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1656
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1656.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Palestine HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1657
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1657.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Palestine Live
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1658
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1658.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Palestine Live HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1659
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1659.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Palestine News
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1660
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1660.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Palestine News HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1661
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1661.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Palestine Sport
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1662
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1662.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Promo 01
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1663
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1663.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Qatar 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1664
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1664.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Qatar 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1665
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1665.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Qatar QBS Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1666
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1666.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Qatar R Quran
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1667
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1667.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Qatar R Quran 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1668
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1668.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Qatar Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1669
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1669.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Qatar TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1670
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1670.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Qatar TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1671
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1671.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Qatar Urdu Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1672
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1672.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",R- Tunisie Culture
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1673
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1673.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",R- Tunisie Internationale
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1674
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1674.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",R- Tunisie Nationale
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1675
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1675.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",RAK Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1676
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1676.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",RT Arabic
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1677
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1677.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",RT Arabic HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1678
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1678.ts
 #EXTINF:0 tvg-id="russia-today" group-title="Arabic VIP 2",RT English
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1679
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1679.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",RTD-Djibouti
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1680
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1680.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio Amazigh
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1681
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1681.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio Bahrain English 96.5 FM
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1682
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1682.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio Coran
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1683
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1683.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio Culturelle
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1684
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1684.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio Inter
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1685
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1685.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio JEUNE
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1686
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1686.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio Jeunesse
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1687
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1687.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio Mauritanie
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1688
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1688.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio Med VI
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1689
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1689.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio Nationale
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1690
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1690.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio PANORAMA
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1691
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1691.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio Sawa VOA Sudan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1692
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1692.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Radio visuel NAT TN
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1693
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1693.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Ressala HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1694
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1694.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Riyad Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1695
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1695.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Rotana Cinema HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1696
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1696.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Rotana Classic HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1697
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1697.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Rotana Clip HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1698
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1698.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Rotana Comedy HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1699
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1699.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Rotana Drama HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1700
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1700.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Rotana Khalijeah HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1701
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1701.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Rotana Music HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1702
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1702.ts
 #EXTINF:0 tvg-id="Sbc.gr" group-title="Arabic VIP 2",SBC
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1703
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1703.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SBC  HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1704
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1704.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SHARJAH TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1705
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1705.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SHARQIYA from Kalba
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1706
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1706.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SSBC
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1707
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1707.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SSBC RADIO
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1708
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1708.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SSC Extra 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1709
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1709.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SSC Extra 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1710
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1710.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SSC News HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1711
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1711.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SSC1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1712
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1712.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SSC5
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1713
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1713.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",SYRIA TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1714
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1714.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sahel TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1715
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1715.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Salam TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1716
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1716.ts
 #EXTINF:0 tvg-id="SamaDubai.net" group-title="Arabic VIP 2",Sama Dubai
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1717
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1717.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Saudi 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1718
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1718.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Saudi Ch For Quran
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1719
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1719.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Saudi Ch for Sunnah
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1720
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1720.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Saudi Ch for Sunnah HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1721
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1721.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Saudi TV HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1722
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1722.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Saudi ch for Quran HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1723
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1723.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Saudia alaan tv HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1724
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1724.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Saudia alaan tv HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1725
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1725.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sawtoman 1 Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1726
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1726.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Shabab Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1727
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1727.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sharjah  Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1728
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1728.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sharjah radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1729
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1729.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sila Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1730
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1730.ts
 #EXTINF:0 tvg-id="SkyNwsArabia.uk" group-title="Arabic VIP 2",Sky News Arabia
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1731
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1731.ts
 #EXTINF:0 tvg-id="SkyNewsArabia.net" group-title="Arabic VIP 2",Sky News Arabia HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1732
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1732.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sky News Arabia Radio
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1733
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1733.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sout Alkhaleej 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1734
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1734.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sout Alkhaleej 3
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1735
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1735.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sout Alkhaleej 4
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1736
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1736.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sout Alkhaleej Europe
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1737
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1737.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Sudan TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1738
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1738.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",TDM Promo
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1739
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1739.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",TIVI5MONDE HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1740
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1740.ts
 #EXTINF:0 tvg-id="TRTAlArabiya.tr" group-title="Arabic VIP 2",TRT Arabi
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1741
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1741.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",TRT Arabi HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1742
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1742.ts
 #EXTINF:0 tvg-id="TRTWorldHD.tr" group-title="Arabic VIP 2",TRT World HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1743
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1743.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",TV5MONDE MAGHREB ORIENT HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1744
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1744.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",TV5MONDE STYLE HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1745
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1745.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Tamazight
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1746
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1746.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Teleliban TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1747
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1747.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Teleliban TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1748
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1748.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Telvza TV
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1749
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1749.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Thikrayat
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1750
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1750.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Thikrayatt HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1751
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1751.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",TiVi5MONDE
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1752
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1752.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Traditional Music 95.0 FM
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1753
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1753.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Tunisia 1 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1754
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1754.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Tunisia 2 HD
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1755
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1755.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Tunisia Educ1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1756
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1756.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Tunisia Nat 1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1757
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1757.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Tunisia Nat 2
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1758
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1758.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Tunisna
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1759
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1759.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",UAQ Adhan
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1760
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1760.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",VOA Libya
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1761
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1761.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",WRN (Sawt Al Alam) R1
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1762
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1762.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Wanasah
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1763
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1763.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",Yemen
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1764
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1764.ts
 #EXTINF:0 tvg-id="ZeeAlwan.net" group-title="Arabic VIP 2",ZEE ALWAN
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1765
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1765.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 01
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1766
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1766.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 02
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1767
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1767.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 03
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1768
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1768.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 04
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1769
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1769.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 05
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1770
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1770.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 06
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1771
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1771.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 07
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1772
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1772.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 08
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1773
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1773.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 09
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1774
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1774.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 10
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1775
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1775.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 11
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1776
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1776.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 12
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1777
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1777.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 13
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1778
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1778.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 14
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1779
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1779.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 15
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1780
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1780.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 16
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1781
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1781.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 17
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1782
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1782.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 18
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1783
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1783.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 19
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1784
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1784.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 20
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1785
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1785.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 21
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1786
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1786.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 22
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1787
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1787.ts
 #EXTINF:0 tvg-id="ext" group-title="Arabic VIP 2",iEN Doros 23
-http://173.212.193.243:8080/PbiEANUeb5/94UU7bDVJu/1788
+http://173.212.193.243:8080/live/EGJct7UyMD/l97PbPoFVd/1788.ts
 
 
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",Crime District 1st
