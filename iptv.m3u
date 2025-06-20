@@ -1,4 +1,18 @@
 #EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="DAZN Arabic",DAZN
+http://click12.live/live/TarekShiekhHamoud/62855174/226026.ts
+#EXTINF:0 tvg-id="ext" group-title="DAZN Arabic",DAZN
+http://click12.live/live/TarekShiekhHamoud/62855174/226156.ts
+#EXTINF:0 tvg-id="ext" group-title="DAZN Arabic",DAZN
+http://click12.live/live/TarekShiekhHamoud/62855174/226157.ts
+#EXTINF:0 tvg-id="ext" group-title="DAZN Arabic",DAZN
+http://click12.live/live/TarekShiekhHamoud/62855174/226158.ts
+#EXTINF:0 tvg-id="ext" group-title="DAZN Arabic",DAZN
+http://click12.live/live/TarekShiekhHamoud/62855174/226159.ts
+#EXTINF:0 tvg-id="ext" group-title="DAZN Arabic",DAZN
+http://click12.live/live/TarekShiekhHamoud/62855174/226160.ts
+
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports  بي ان سبورت",القرآن الكريم 
 http://173.212.193.243:8080/live/mo3ad222/mo3ad222/405.ts
 #EXTINF:0 tvg-id="beinSports3.fr" group-title="beIN Sports  بي ان سبورت",beIN Sports 3
