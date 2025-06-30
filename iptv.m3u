@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:0 tvg-id="ext" group-title="DAZN Arabic",DAZN CWC
+http://gt.6738hg.com:8080/G2kaQPiCaN/MXLQPRCc2C/85322?play_token=4KbZnzENML
 #EXTINF:0 tvg-id="ext" group-title="DAZN Arabic",DAZN
 http://click12.live/live/TarekShiekhHamoud/62855174/226026.ts
 #EXTINF:0 tvg-id="ext" group-title="DAZN Arabic",DAZN
