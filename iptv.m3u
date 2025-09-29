@@ -1,6 +1,17 @@
 #EXTM3U
 #EXTINF:-1,القرآن الكريم 
 http://173.212.193.243:8080/live/mo3ad270/mo3ad270/405.m3u8
+#EXTINF:-1,beIN Sports 1 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114053&extension=ts&play_token=O6zPT2TEYU
+#EXTINF:-1,beIN Sports 2 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114052&extension=ts&play_token=iKOQXxjKZT
+#EXTINF:-1,beIN Sports 3 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114050&extension=ts&play_token=qCJ7hY3kO6
+#EXTINF:-1,beIN Sports 4 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114049&extension=ts&play_token=r9YOPacpft
+#EXTINF:-1,beIN Sports 5 4K
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114048&extension=ts&play_token=SAdBHQC97l
+
 #EXTINF:-1,beIN Sports HD 3 
 http://173.212.193.243:8080/live/mo3ad270/mo3ad270/407.m3u8
 #EXTINF:-1,beIN 4 FHD
