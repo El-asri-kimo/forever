@@ -589,6 +589,28 @@ http://173.212.193.243:8080/live/mo3ad330/mo3ad330/1395.m3u8
 #EXTINF:-1,FRANCE 24 EN
 http://173.212.193.243:8080/live/mo3ad330/mo3ad330/1396.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="TOD🎥",TOD ACTION
+http://wink-4k.tv/live/ssss1111/1111ssss/187954.ts
+#EXTINF:0 tvg-id="ext" group-title="TOD🎥",TOD ANIMATION
+http://wink-4k.tv/live/ssss1111/1111ssss/187957.ts
+#EXTINF:0 tvg-id="ext" group-title="TOD🎥",TOD CARTOON
+http://wink-4k.tv/live/ssss1111/1111ssss/187958.ts
+#EXTINF:0 tvg-id="ext" group-title="TOD🎥",TOD HORROR
+#EXTINF:0 tvg-id="ext" group-title="TOD🎥",TOD BOLLYWOOD
+http://wink-4k.tv/live/ssss1111/1111ssss/187961.ts
+#EXTINF:0 tvg-id="ext" group-title="TOD🎥",TOD MAGIC
+http://wink-4k.tv/live/ssss1111/1111ssss/187962.ts
+#EXTINF:0 tvg-id="ext" group-title="TOD🎥",TOD MOVIES
+http://wink-4k.tv/live/ssss1111/1111ssss/187964.ts
+#EXTINF:0 tvg-id="ext" group-title="TOD🎥",STARZPLAY ACTION
+http://wink-4k.tv/live/ssss1111/1111ssss/222442.ts
+#EXTINF:0 tvg-id="ext" group-title="TOD🎥",CAPTAIN MAJID
+http://wink-4k.tv/live/ssss1111/1111ssss/222371.ts
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",Crime District
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=32813&extension=ts&play_token=EMQLgtMOEf
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",ID
