@@ -1,6 +1,10 @@
 #EXTM3U
 #EXTINF:-1,القرآن الكريم 
 http://173.212.193.243:8080/live/mo3ad330/mo3ad330/405.m3u8
+#EXTINF:-1,beIN Sports News
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=28939&extension=ts&play_token=Pq9qeoAMch
+#EXTINF:-1,beIN Sports Global
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=28938&extension=ts&play_token=B9zmqR3NdS
 #EXTINF:-1,beIN Sports 1 4K
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114053&extension=ts&play_token=O6zPT2TEYU
 #EXTINF:-1,beIN Sports 2 4K
