@@ -649,3 +649,6 @@ http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:11:4F:9F&stream=2212&ex
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=170678&extension=ts&play_token=9FsJbxFjSX
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",TRT Spor UHD
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=170679&extension=ts&play_token=2R8n7cwomq
+
+#EXTINF:-1,La1 HD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=653&extension=ts&play_token=C9EeEwS9xD
