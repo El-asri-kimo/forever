@@ -612,8 +612,22 @@ http://wink-4k.tv/live/ssss1111/1111ssss/222442.ts
 http://wink-4k.tv/live/ssss1111/1111ssss/222371.ts
 
 
-
-
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 1
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234023&extension=ts&play_token=uctOL8iupU
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 2
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234024&extension=ts&play_token=10eOST1dqb
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 3
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234025&extension=ts&play_token=QVEOLYtjZL
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 4
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234026&extension=ts&play_token=M7ObKPFhNN
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 5
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234027&extension=ts&play_token=qyiwOULaCh
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 6
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234028&extension=ts&play_token=Wwhzj9jrqN
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 7
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234030&extension=ts&play_token=Uk7fkkEdTw
+#EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 8
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234034&extension=ts&play_token=atKbq7zSeb
 
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",Crime District
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=32813&extension=ts&play_token=EMQLgtMOEf
