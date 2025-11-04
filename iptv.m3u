@@ -717,6 +717,24 @@ http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234030&extension=t
 #EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 8
 http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234034&extension=ts&play_token=atKbq7zSeb
 
+#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 1
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151081&extension=ts&play_token=10Nh4QSCAL
+#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 2
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151082&extension=ts&play_token=l9ZvhZ4KNn
+#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 3
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151083&extension=ts&play_token=HPlBrmxjwS
+#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 4
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151084&extension=ts&play_token=JSfUEWeTec
+#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 5
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=151085&extension=ts&play_token=abakMDukvy
+
+#EXTINF:0 tvg-id="ext" group-title="African Sports 🇿🇦",Super Sport Football
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=138591&extension=ts&play_token=LivcAeoaJA
+#EXTINF:0 tvg-id="ext" group-title="African Sports 🇿🇦",Super Sport Football Plus
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=138589&extension=ts&play_token=ycwXOdSZja
+#EXTINF:0 tvg-id="ext" group-title="African Sports 🇿🇦",Super Sport LaLiga
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=138584&extension=ts&play_token=d9DNPUmjoj
+
 #EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",RMC Documentaire
 http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=32818&extension=ts&play_token=20qAhd0K1W
 #EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",RMC découvert
