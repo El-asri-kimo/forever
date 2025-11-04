@@ -717,6 +717,23 @@ http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234030&extension=t
 #EXTINF:0 tvg-id="ext" group-title="Sports Replay♾️",Sports Replay 8
 http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=1234034&extension=ts&play_token=atKbq7zSeb
 
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",RMC Documentaire
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=32818&extension=ts&play_token=20qAhd0K1W
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",RMC découvert
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=329&extension=ts&play_token=p9FQYO7CQM
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Plante+
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=330&extension=ts&play_token=2t0WGkTUaL
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Nat Geo
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=336&extension=ts&play_token=aBLCMGvq6y
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Discovry
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=334&extension=ts&play_token=ShGYhYrm4G
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Ushuaia
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=335&extension=ts&play_token=bZoFylVbTq
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Animaux
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=338&extension=ts&play_token=m2wLvBbTFB
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",Crime District
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=32813&extension=ts&play_token=EMQLgtMOEf
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",ID
