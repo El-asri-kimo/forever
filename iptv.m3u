@@ -731,6 +731,9 @@ http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=334&extension=ts&pl
 http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=335&extension=ts&play_token=bZoFylVbTq
 #EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Animaux
 http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=338&extension=ts&play_token=m2wLvBbTFB
+#EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",Canal+ Docs
+http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=156878&extension=ts&play_token=JsrgV53kZY
+
 
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",Crime District
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=32813&extension=ts&play_token=EMQLgtMOEf
