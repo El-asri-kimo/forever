@@ -25,7 +25,18 @@ http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114045&extension=ts
 #EXTINF:-1,beIN Sports 9 4K
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=1269951&extension=ts&play_token=wE5p0iwaqD
 
-#EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="BEIN MAX",BEIN MAX 1
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146122&extension=ts&play_token=F7yhCg1Pjv
+#EXTINF:0 tvg-id="ext" group-title="BEIN MAX",BEIN MAX 2
+ http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146123&extension=ts&play_token=1ALWwB2wfW
+#EXTINF:0 tvg-id="ext" group-title="BEIN MAX",BEIN MAX 3 EN
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146124&extension=ts&play_token=xj2bWMaKr6
+#EXTINF:0 tvg-id="ext" group-title="BEIN MAX",BEIN MAX 4 FR
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146125&extension=ts&play_token=gBYLlzPZYR
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="belN Sports HD",القرآن الكريم 
 https://mo3ad.xyz:443/live/mo3ad545/mo3ad545/495.ts
 #EXTINF:0 tvg-id="ext" group-title="belN Sports HD",⚽ beIN Newsᴴᴰ
