@@ -33,9 +33,9 @@ http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146122&extension=ts
 #EXTINF:0 tvg-id="ext" group-title="BEIN MAX",BEIN MAX 3 EN
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146124&extension=ts&play_token=xj2bWMaKr6
 #EXTINF:0 tvg-id="ext" group-title="BEIN MAX",BEIN MAX 4 FR
-http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146125&extension=ts&play_token=gBYLlzPZYR
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146125&extension=ts&play_token=k87oI343wx
 
-#EXTM3U
+
 #EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 1
 https://mo3ad.xyz:443/live/mo3ad545/mo3ad545/626.ts
 #EXTINF:0 tvg-id="ext" group-title="LIVE SPORTS",LIVE 2
