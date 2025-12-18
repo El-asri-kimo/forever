@@ -1,9 +1,22 @@
 #EXTM3U
-
 #EXTINF:-1,القرآن الكريم
-http://4kplus.info/live/Voltaire_219180/UMjD2dNQ/227629.ts
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=166&extension=ts&play_token=8kzQDepBH0
 #EXTINF:-1,beIN Sports News
 http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=28939&extension=ts&play_token=Pq9qeoAMch
+
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 HD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146122&extension=ts&play_token=lXEAzVVcKs
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 SD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146118&extension=ts&play_token=DZNafhwSTP
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2 HD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146123&extension=ts&play_token=3zWIsVp6pX
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2 SD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146119&extension=ts&play_token=oxtrcBaI5B
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 3 ENG
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146124&extension=ts&play_token=y63NlVo0ne
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 4 FR
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146125&extension=ts&play_token=cPHvgzxNxf
+
 #EXTINF:-1,beIN Sports Global
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=22199&extension=ts&play_token=v5GovJtNJz
 #EXTINF:-1,beIN Sports Global HD إحتياطية
@@ -38,15 +51,18 @@ http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=114045&extension=ts
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=1269951&extension=ts&play_token=wE5p0iwaqD
 
 
-#EXTINF:0 tvg-id="ext" group-title="BEIN MAX",BEIN MAX 1
-http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146122&extension=ts&play_token=F7yhCg1Pjv
-#EXTINF:0 tvg-id="ext" group-title="BEIN MAX",BEIN MAX 2
- http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146123&extension=ts&play_token=1ALWwB2wfW
-#EXTINF:0 tvg-id="ext" group-title="BEIN MAX",BEIN MAX 3 EN
-http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146124&extension=ts&play_token=xj2bWMaKr6
-#EXTINF:0 tvg-id="ext" group-title="BEIN MAX",BEIN MAX 4 FR
-http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146125&extension=ts&play_token=k87oI343wx
-
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 HD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146122&extension=ts&play_token=lXEAzVVcKs
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 SD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146118&extension=ts&play_token=DZNafhwSTP
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2 HD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146123&extension=ts&play_token=3zWIsVp6pX
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2 SD
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146119&extension=ts&play_token=oxtrcBaI5B
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 3 ENG
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146124&extension=ts&play_token=y63NlVo0ne
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 4 FR
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146125&extension=ts&play_token=cPHvgzxNxf
                 
 #EXTM3U
 
