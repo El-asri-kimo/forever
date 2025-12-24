@@ -23,13 +23,13 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1988314&ex
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 2 raw
 
 
-#EXTINF:-1 tvg-id="mo3ad1" tvg-name="mo3ad | Channel 1",mo3ad | Channel 1
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 1
 http://185.226.172.11:8080/mo3ad/mo3ad1.m3u8
-#EXTINF:-1 tvg-id="mo3ad2" tvg-name="mo3ad | Channel 2",mo3ad | Channel 2
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 2
 http://185.226.172.11:8080/mo3ad/mo3ad2.m3u8
-#EXTINF:-1 tvg-id="mo3ad3" tvg-name="mo3ad | Channel 3",mo3ad | Channel 3
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 3
 http://185.226.172.11:8080/mo3ad/mo3ad3.m3u8
-#EXTINF:-1 tvg-id="mo3ad4" tvg-name="mo3ad | Channel 4",mo3ad | Channel 4
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 4
 http://185.226.172.11:8080/mo3ad/mo3ad4.m3u8
 
 
