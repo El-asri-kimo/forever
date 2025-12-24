@@ -4,6 +4,15 @@ http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=166&extension=ts&pl
 #EXTINF:-1,beIN Sports News
 http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=28939&extension=ts&play_token=Pq9qeoAMch
 
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1* FHD
+http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/399853.ts
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1* HD 
+http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/399851.ts
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2* FHD
+http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/399852.ts
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 2* HD
+http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/399849.ts
+
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 HD
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=146122&extension=ts&play_token=lXEAzVVcKs
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1 SD
