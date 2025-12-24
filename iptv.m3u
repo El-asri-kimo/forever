@@ -22,14 +22,8 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1988314&ex
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 2 raw
 http://10431-plan.ott-cdn.me/play/live.php?mac=00:1a:79:5f:21:7b&stream=1335315&extension=ts&play_token=JKqQ0566eD&sn2=
 
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",القناة 1
-http://185.226.172.11:8080/mo3ad/mo3ad1.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",القناة 2
-http://185.226.172.11:8080/mo3ad/mo3ad2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",القناة 3
-http://185.226.172.11:8080/mo3ad/mo3ad3.m3u8
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",القناة 4
-http://185.226.172.11:8080/mo3ad/mo3ad4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="ALG DZ",Programme National ALG
+http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=1389279&extension=ts&play_token=U4bvaNM9Ep
 
 
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON 2025",BEIN MAX 1* FHD
