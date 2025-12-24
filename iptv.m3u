@@ -4,13 +4,7 @@ http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=166&extension=ts&pl
 #EXTINF:-1,beIN Sports News
 http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=28939&extension=ts&play_token=Pq9qeoAMch
 
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 1 hevc
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1988318&extension=ts&play_token=4kTMNMVJ7K
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 1 raw
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1988316&extension=ts&play_token=eyTVwwAfpu
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 2 hevc
-http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1988314&extension=ts&play_token=NIVWlWHHFQ
-#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 2 raw
+
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1988312&extension=ts&play_token=tVy6Lom6yr
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 1 SD 480
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1987653&extension=ts&play_token=DlY3fzGpS5
@@ -20,7 +14,13 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1987654&ex
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1987650&extension=ts&play_token=4fSqHWEd7h
 #EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 2 HD 720
 http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1987651&extension=ts&play_token=NSWWfg2huQ
-
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 1 hevc
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1988318&extension=ts&play_token=4kTMNMVJ7K
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 1 raw
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1988316&extension=ts&play_token=eyTVwwAfpu
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 2 hevc
+http://stalker.ugoiptv.com/play/live.php?mac=00:1A:79:50:48:a3&stream=1988314&extension=ts&play_token=NIVWlWHHFQ
+#EXTINF:0 tvg-id="ext" group-title="CAF AFCON LOW",BEIN MAX 2 raw
 
 
 
