@@ -1,73 +1,603 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN MAX 3 4K (FR)
-http://v3655.in:80/live/769244218262/8543598877/922252.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN MAX 3 HD (FR)
-http://v3655.in:80/live/769244218262/8543598877/922251.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN MAX 3 SD (FR)
-http://v3655.in:80/live/769244218262/8543598877/922250.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN MAX 4 4K (EN)
-http://v3655.in:80/live/769244218262/8543598877/922255.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN MAX 4 HD (EN)
-http://v3655.in:80/live/769244218262/8543598877/922254.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN MAX 4 SD (EN)
-http://v3655.in:80/live/769244218262/8543598877/922253.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN SPORTS FR 1 4K
-http://v3655.in:80/live/769244218262/8543598877/921937.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN SPORTS FR 1 HD
-http://v3655.in:80/live/769244218262/8543598877/921936.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN SPORTS FR 2 4K
-http://v3655.in:80/live/769244218262/8543598877/921940.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN SPORTS FR 2 HD
-http://v3655.in:80/live/769244218262/8543598877/921939.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN SPORTS FR 3 4K
-http://v3655.in:80/live/769244218262/8543598877/921943.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",beIN SPORTS FR 3 HD
-http://v3655.in:80/live/769244218262/8543598877/921942.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",MOVISTAR EVENTOS 1 FHD
-http://v3655.in:80/live/769244218262/8543598877/921932.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",MOVISTAR EVENTOS 1 HD
-http://v3655.in:80/live/769244218262/8543598877/921931.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",MOVISTAR EVENTOS 2 FHD
-http://v3655.in:80/live/769244218262/8543598877/921934.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",MOVISTAR EVENTOS 2 HD
-http://v3655.in:80/live/769244218262/8543598877/921933.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",SPORT ITALIA 4K
-http://v3655.in:80/live/769244218262/8543598877/921947.ts
-#EXTINF:0 tvg-id="Sportitalia.it" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",SPORT ITALIA HD
-http://v3655.in:80/live/769244218262/8543598877/921946.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",SPORTDIGITAL GERMANY 4K
-http://v3655.in:80/live/769244218262/8543598877/921945.ts
-#EXTINF:0 tvg-id="ext" group-title="EU | AFRICA CAN 2025 (INTERNATIONAL)",SPORTDIGITAL GERMANY HD
-http://v3655.in:80/live/769244218262/8543598877/921944.ts
 
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",AL OULA TNT FHD
-http://v3655.in:80/live/769244218262/8543598877/922202.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",AL OULA TNT HD
-http://v3655.in:80/live/769244218262/8543598877/922203.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",ARRYADIA TNT FHD
-http://v3655.in:80/live/769244218262/8543598877/921908.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",ARRYADIA TNT HD
-http://v3655.in:80/live/769244218262/8543598877/921907.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",beIN MAX 1 4K
-http://v3655.in:80/live/769244218262/8543598877/921892.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",beIN MAX 1 FHD
-http://v3655.in:80/live/769244218262/8543598877/921893.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",beIN MAX 1 HD
-http://v3655.in:80/live/769244218262/8543598877/921891.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",beIN MAX 1 SD
-http://v3655.in:80/live/769244218262/8543598877/921890.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",beIN MAX 2 4K
-http://v3655.in:80/live/769244218262/8543598877/921896.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",beIN MAX 2 FHD
-http://v3655.in:80/live/769244218262/8543598877/921897.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",beIN MAX 2 HD
-http://v3655.in:80/live/769244218262/8543598877/921895.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",beIN MAX 2 SD
-http://v3655.in:80/live/769244218262/8543598877/921894.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",ENTV ALGERIE FHD
-http://v3655.in:80/live/769244218262/8543598877/921914.ts
-#EXTINF:0 tvg-id="ext" group-title="AR | AFRICA CAN 2025 (ARABIC)",ENTV ALGERIE HD
-http://v3655.in:80/live/769244218262/8543598877/921913.ts
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",السديس
+http://h5n.co:80/live/aa90665009room/aa6590006smart/367016.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",أحمد العجمي
+http://h5n.co:80/live/aa90665009room/aa6590006smart/367014.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",مشاري العفاسي
+http://h5n.co:80/live/aa90665009room/aa6590006smart/367015.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",ماهر المعيقلي
+http://h5n.co:80/live/aa90665009room/aa6590006smart/367012.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",هزاع البلوشي
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444126.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",سعد الغامدي
+http://h5n.co:80/live/aa90665009room/aa6590006smart/367013.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",عبدالباسط
+http://h5n.co:80/live/aa90665009room/aa6590006smart/367017.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",المنشاوي
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411591.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",الحصري
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411589.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",بندر بليلة
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444617.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",علي الحذيفي
+http://h5n.co:80/live/aa90665009room/aa6590006smart/446354.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",سعود الشريم
+http://h5n.co:80/live/aa90665009room/aa6590006smart/446355.ts
+#EXTINF:0 tvg-id="ext" group-title="QURAN KAREEM",فارس عباد
+http://h5n.co:80/live/aa90665009room/aa6590006smart/446356.ts
+
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472633.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472634.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472635.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472636.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472637.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472638.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 1 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472639.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 2 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472640.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN SPORTS MAX 1 SD F
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472647.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN SPORTS MAX 2 SD F
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472648.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN SPORTS MAX 1 HD F
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472649.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN SPORTS MAX 2 HD F
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472650.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN SPORTS MAX 1 FHD F
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472651.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN SPORTS MAX 2 FHD F
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472652.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN SPORTS MAX 1 4K F
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472653.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN SPORTS MAX 2 4K F
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472654.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN MAX 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472641.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN MAX 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472642.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN MAX 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472643.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN MAX 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472644.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN MAX 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472645.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beIN MAX 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472646.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472656.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472657.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472658.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472659.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472660.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",beN SPORTS MAX 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472661.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",ARRYADIA TNT SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472662.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN MAX AFCON 2025",ARRIADIA  TNT FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472663.ts
+
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (4K)",beIN 4k
+http://h5n.co:80/live/aa90665009room/aa6590006smart/464370.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (4K)",beIN 4k (UHD)
+http://h5n.co:80/live/aa90665009room/aa6590006smart/464371.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (4K)",beIN 4K 3840P (EVENT ONLY)
+http://h5n.co:80/live/aa90665009room/aa6590006smart/464372.ts
+
+#EXTINF:0 tvg-id="beinSports1.fr" group-title="beIN SPORTS LOW",beIN SPORTS 1 LOW
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461851.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 2 LOW
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461852.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 3 LOW
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461853.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 4 LOW
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461854.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 5 LOW
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461855.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 6 LOW
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461856.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 7 LOW
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461857.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 8 LOW
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461858.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 9 LOW
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461859.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 1 VEGA
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461860.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 2 VEGA
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461861.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 3 VEGA
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461862.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 4 VEGA
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461863.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 5 VEGA
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461864.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 6 VEGA
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461865.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 7 VEGA
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461866.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 8 VEGA
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461867.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS LOW",beIN SPORTS 9 VEGA
+http://h5n.co:80/live/aa90665009room/aa6590006smart/461868.ts
+
+#EXTINF:0 tvg-id="beinSports1.fr" group-title="beIN SPORTS (UHD)",beIN SPORTS 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420466.ts
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="beIN SPORTS (UHD)",beIN SPORTS 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420467.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 3 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420468.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 4 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420469.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 5 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420470.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 6 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420471.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 7 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420472.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 8 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420473.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 9 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420474.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420475.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420476.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="beIN SPORTS (UHD)",beIN SPORTS 3 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420477.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 4 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420478.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 5 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420479.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 6 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420480.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 7 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420481.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 8 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420482.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 9 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420483.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420484.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420485.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="beIN SPORTS (UHD)",beIN SPORTS 3 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420486.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 4 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420487.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 5 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420488.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 6 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420489.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 7 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420490.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 8 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420503.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (UHD)",beIN SPORTS 9 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420491.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (UHD)",beIN SPORTS 1 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420492.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (UHD)",beIN SPORTS 2 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420493.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (UHD)",beIN SPORTS 3 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420494.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (UHD)",beIN SPORTS 4 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420495.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (UHD)",beIN SPORTS 5 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420496.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (UHD)",beIN SPORTS 6 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420497.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (UHD)",beIN SPORTS 7 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420498.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (UHD)",beIN SPORTS 8 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420499.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (UHD)",beIN SPORTS 9 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/420500.ts
+
+#EXTINF:0 tvg-id="beinSports1.fr" group-title="beIN SPORTS (8K)",beIN SPORTS 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411669.ts
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="beIN SPORTS (8K)",beIN SPORTS 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411670.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 3 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411671.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 4 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411672.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 5 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411673.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 6 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411674.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 7 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411675.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 8 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411676.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 9 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411677.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411679.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411680.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="beIN SPORTS (8K)",beIN SPORTS 3 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411681.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 4 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411682.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 5 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411683.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 6 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411684.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 7 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411685.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 8 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411686.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 9 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411687.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411689.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411690.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="beIN SPORTS (8K)",beIN SPORTS 3 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411691.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 4 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411692.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 5 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411693.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 6 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411694.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 7 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411695.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 8 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411696.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (8K)",beIN SPORTS 9 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/411697.ts
+
+#EXTINF:0 tvg-id="beinSports1.fr" group-title="beIN SPORTS (SS)",beIN SPORTS 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444357.ts
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="beIN SPORTS (SS)",beIN SPORTS 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444358.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 3 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444359.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 4 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444360.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 5 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444361.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 6 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444362.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 7 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444363.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 8 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444364.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 9 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444365.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444366.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444367.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="beIN SPORTS (SS)",beIN SPORTS 3 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444368.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 4 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444369.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 5 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444370.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 6 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444371.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 7 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444372.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 8 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444373.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 9 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444374.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444384.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444385.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="beIN SPORTS (SS)",beIN SPORTS 3 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444386.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 4 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444387.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 5 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444388.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 6 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444389.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 7 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444390.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 8 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444391.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (SS)",beIN SPORTS 9 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444392.ts
+
+#EXTINF:0 tvg-id="beinSports1.fr" group-title="beIN SPORTS (F)",beIN SPORTS 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435245.ts
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="beIN SPORTS (F)",beIN SPORTS 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435246.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 3 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435247.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 4 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435248.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 5 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435249.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 6 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435250.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 7 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435251.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 8 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435252.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 9 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435253.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435254.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435255.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="beIN SPORTS (F)",beIN SPORTS 3 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435256.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 4 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435257.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 5 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435258.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 6 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435259.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 7 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435260.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 8 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435261.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 9 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435262.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435263.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435264.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="beIN SPORTS (F)",beIN SPORTS 3 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435265.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 4 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435266.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 5 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435267.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 6 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435268.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 7 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435269.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 8 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435270.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (F)",beIN SPORTS 9 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435271.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (F)",beIN SPORTS 1 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435272.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (F)",beIN SPORTS 2 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435273.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (F)",beIN SPORTS 3 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435274.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (F)",beIN SPORTS 4 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435275.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (F)",beIN SPORTS 5 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435276.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (F)",beIN SPORTS 6 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435277.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (F)",beIN SPORTS 7 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435278.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (F)",beIN SPORTS 8 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435279.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (F)",beIN SPORTS 9 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/435280.ts
+
+#EXTINF:0 tvg-id="beinSports1.fr" group-title="beIN SPORTS (G)",beIN SPORTS 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450244.ts
+#EXTINF:0 tvg-id="BeINSportsMAX2.es" group-title="beIN SPORTS (G)",beIN SPORTS 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450245.ts
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 3 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450246.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 4 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450247.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 5 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450248.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 6 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450249.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 7 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450250.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 8 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450251.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 9 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450252.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450253.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450254.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="beIN SPORTS (G)",beIN SPORTS 3 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450255.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 4 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450256.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 5 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450257.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 6 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450258.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 7 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450259.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 8 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450260.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 9 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450261.ts
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450262.ts
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450263.ts
+#EXTINF:0 tvg-id="LIGTV3.tr" group-title="beIN SPORTS (G)",beIN SPORTS 3 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450264.ts
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 4 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450265.ts
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 5 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450266.ts
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 6 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450267.ts
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 7 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450268.ts
+#EXTINF:0 tvg-id="bein8hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 8 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450269.ts
+#EXTINF:0 tvg-id="bein9hd.jsc" group-title="beIN SPORTS (G)",beIN SPORTS 9 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450270.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (G)",beIN SPORTS 1 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450271.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (G)",beIN SPORTS 2 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450272.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (G)",beIN SPORTS 3 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450273.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (G)",beIN SPORTS 4 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450274.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (G)",beIN SPORTS 5 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450275.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (G)",beIN SPORTS 6 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450276.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (G)",beIN SPORTS 7 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450277.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (G)",beIN SPORTS 8 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450278.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS (G)",beIN SPORTS 9 4K
+http://h5n.co:80/live/aa90665009room/aa6590006smart/450279.ts
+
+#EXTINF:0 tvg-id="beINSportsXtra1.qa" group-title="beIN SPORTS XTRA",beIN SPORTS XTRA 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472608.ts
+#EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="beIN SPORTS XTRA",beIN SPORTS XTRA 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472609.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS XTRA",beIN SPORTS XTRA 3 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472610.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS XTRA",beIN SPORTS XTRA 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472605.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS XTRA",beIN SPORTS XTRA 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472606.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS XTRA",beIN SPORTS XTRA 3 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472607.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS XTRA",beIN SPORTS XTRA 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444437.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS XTRA",beIN SPORTS XTRA 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444438.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS XTRA",beIN SPORTS XTRA 3 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444439.ts
+
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444542.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444543.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444544.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 3 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444545.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 4 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444546.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 5 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444547.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444536.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444537.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444538.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 3 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444539.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 4 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444540.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 5 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444541.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444548.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444549.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444550.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 3 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444551.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 4 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444552.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS AFC",beIN SPORTS AFC 5 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/444553.ts
+
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport ENG 1
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410114.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport ENG 2
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410118.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport ENG 1 FML
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410115.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport ENG 2 FML
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410119.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport ENG 1 LOC
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410116.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport ENG 2 LOC
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410120.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport ENG 1 PUR
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410130.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport ENG 2 PUR
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410131.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport ENG 1 TOD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410117.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport ENG 2 TOD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410121.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport FRA 1 FML
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410125.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport FRA 2 FML
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410127.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport FRA 1 PUR
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410133.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport FRA 2 PUR
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410134.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport FRA 1 LOC
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410126.ts
+#EXTINF:0 tvg-id="ext" group-title="beIN SPORTS EN-FR",|BeiN| beINSport FRA 2 LOC
+http://h5n.co:80/live/aa90665009room/aa6590006smart/410128.ts
+
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",THMANYAH 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/464250.ts
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",THMANYAH 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/464251.ts
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",THMANYAH 3 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/464252.ts
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",THMANYAH 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/464246.ts
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",THMANYAH 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/464247.ts
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",THMANYAH 3 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/464248.ts
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",THMANYAH 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/462826.ts
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",THMANYAH 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/462827.ts
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",THMANYAH 3 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/462830.ts
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",Thmanayh 1 HD (PRO)
+http://h5n.co:80/live/aa90665009room/aa6590006smart/473667.ts
+#EXTINF:0 tvg-id="ext" group-title="THMANYAH SPORTS",Thmanayh 1 4K (PRO)
+http://h5n.co:80/live/aa90665009room/aa6590006smart/473668.ts
+
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SHASHA 1 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472631.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SHASHA 2 SD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472632.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SHASHA 1 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472252.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SHASHA 2 HD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472253.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SHASHA 1 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472255.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SHASHA 2 FHD
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472256.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SERIE A ARABIC 1
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472263.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SERIE A ARABIC 2
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472262.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SERIE A ARABIC 3
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472261.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SHAID EVNET 1
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472258.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SHAID EVNET 2
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472259.ts
+#EXTINF:0 tvg-id="ext" group-title="SHASHA SPORTS",SHAID EVNET 3
+http://h5n.co:80/live/aa90665009room/aa6590006smart/472260.ts
 
 
 
