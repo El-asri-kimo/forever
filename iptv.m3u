@@ -240,6 +240,70 @@ http://s1.u-on.to:2095/hazeem82/FAA99028760/3028
 #EXTINF:0 tvg-id="beINSportsXtra2.qa" group-title="⚽ BEIN SPORTS SD ( 1 MB )",bein_Sports_Xtra_SD2
 http://s1.u-on.to:2095/hazeem82/FAA99028760/91155
 
+
+#EXTINF:0 tvg-id="MBC1.net" group-title="MBC GROUP - إم بي سي",AR:MBC_1
+http://s1.u-on.to:2095/hazeem82/FAA99028760/1265
+#EXTINF:0 tvg-id="MBC1.net" group-title="MBC GROUP - إم بي سي",AR:MBC_1_(Backup)
+http://s1.u-on.to:2095/hazeem82/FAA99028760/2729
+#EXTINF:0 tvg-id="MBC2.net" group-title="MBC GROUP - إم بي سي",AR:MBC_2
+http://s1.u-on.to:2095/hazeem82/FAA99028760/1264
+#EXTINF:0 tvg-id="MBC2.net" group-title="MBC GROUP - إم بي سي",AR:MBC_2_(Backup)
+http://s1.u-on.to:2095/hazeem82/FAA99028760/2730
+#EXTINF:0 tvg-id="MBC3.net" group-title="MBC GROUP - إم بي سي",AR:MBC_3
+http://s1.u-on.to:2095/hazeem82/FAA99028760/1263
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",AR:MBC_3_(Backup)
+http://s1.u-on.to:2095/hazeem82/FAA99028760/2731
+#EXTINF:0 tvg-id="MBC4.net" group-title="MBC GROUP - إم بي سي",AR:MBC_4
+http://s1.u-on.to:2095/hazeem82/FAA99028760/1262
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",AR:MBC_4_(Backup)
+http://s1.u-on.to:2095/hazeem82/FAA99028760/2732
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",AR:MBC_5
+http://s1.u-on.to:2095/hazeem82/FAA99028760/44807
+#EXTINF:0 tvg-id="MBCAction.net" group-title="MBC GROUP - إم بي سي",AR:MBC_Action
+http://s1.u-on.to:2095/hazeem82/FAA99028760/1261
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",AR:MBC_Action_(Backup)
+http://s1.u-on.to:2095/hazeem82/FAA99028760/2733
+#EXTINF:0 tvg-id="MBCBollywood.net" group-title="MBC GROUP - إم بي سي",AR:MBC_Bollywood
+http://s1.u-on.to:2095/hazeem82/FAA99028760/1260
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",AR:MBC_Bollywood_(Backup)
+http://s1.u-on.to:2095/hazeem82/FAA99028760/2734
+#EXTINF:0 tvg-id="MBCDrama.net" group-title="MBC GROUP - إم بي سي",AR:MBC_Drama
+http://s1.u-on.to:2095/hazeem82/FAA99028760/1259
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",AR:MBC-Iraq
+http://s1.u-on.to:2095/hazeem82/FAA99028760/33512
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",AR:MBC_Masr
+http://s1.u-on.to:2095/hazeem82/FAA99028760/1258
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",AR:MBC_MASR_(backup)
+http://s1.u-on.to:2095/hazeem82/FAA99028760/2316
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",AR:MBC_Masr_2
+http://s1.u-on.to:2095/hazeem82/FAA99028760/1257
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",AR:MBC_MASR_2_(backup)
+http://s1.u-on.to:2095/hazeem82/FAA99028760/2315
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP - إم بي سي",MBC-Masr-Drama
+http://s1.u-on.to:2095/hazeem82/FAA99028760/271513
+#EXTINF:0 tvg-id="MBCMax.net" group-title="MBC GROUP - إم بي سي",AR:MBC_Max
+http://s1.u-on.to:2095/hazeem82/FAA99028760/1256
+
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP USA - إم بي سي الامريكية",AR:MBC_1_USA
+http://s1.u-on.to:2095/hazeem82/FAA99028760/8146
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP USA - إم بي سي الامريكية",AR:MBC_2_USA
+http://s1.u-on.to:2095/hazeem82/FAA99028760/8145
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP USA - إم بي سي الامريكية",AR:MBC_3_USA
+http://s1.u-on.to:2095/hazeem82/FAA99028760/8144
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP USA - إم بي سي الامريكية",AR:MBC_4_USA
+http://s1.u-on.to:2095/hazeem82/FAA99028760/8143
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP USA - إم بي سي الامريكية",AR:MBC_Action_USA
+http://s1.u-on.to:2095/hazeem82/FAA99028760/8142
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP USA - إم بي سي الامريكية",AR:MBC_Bollywood_USA
+http://s1.u-on.to:2095/hazeem82/FAA99028760/8141
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP USA - إم بي سي الامريكية",AR:MBC_Drama_USA
+http://s1.u-on.to:2095/hazeem82/FAA99028760/8140
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP USA - إم بي سي الامريكية",AR:MBC_Masr_USA
+http://s1.u-on.to:2095/hazeem82/FAA99028760/8139
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP USA - إم بي سي الامريكية",AR:MBC_Masr_2_USA
+http://s1.u-on.to:2095/hazeem82/FAA99028760/8138
+#EXTINF:0 tvg-id="ext" group-title="MBC GROUP USA - إم بي سي الامريكية",AR:MBC_Max_USA
+http://s1.u-on.to:2095/hazeem82/FAA99028760/8137
 #EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 1
 http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/347873.ts
 #EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 2
