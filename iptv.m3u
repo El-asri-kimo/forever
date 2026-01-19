@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORTS 1080i",Bein Sports News
-http://anonymoustv.club/rw189YEH8n87255/UaejS8XvpH/2745?play_token=Uh4vBKGqwz
+#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORTS 1080i",EIN_SPORT_1_1080p
+http://s1.u-on.to:2095/live/hazeem82/FAA99028760/3111.ts
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORTS 1080i",BEIN_SPORT_2_1080p
 http://s1.u-on.to:2095/hazeem82/FAA99028760/3110
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORTS 1080i",BEIN_SPORT_3_1080p
