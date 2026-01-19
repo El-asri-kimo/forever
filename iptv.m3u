@@ -1,67 +1,7 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_1_HD
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2203
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_1_HD_Backup
-http://s1.u-on.to:2095/hazeem82/FAA99028760/85114
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_2_HD
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2204
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_2_HD_Backup
-http://s1.u-on.to:2095/hazeem82/FAA99028760/85113
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_3_HD
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2205
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_4_HD
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2206
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_1_SD
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2207
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_1_SD_Backup
-http://s1.u-on.to:2095/hazeem82/FAA99028760/85112
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_1_SD_Backup2
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2211
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_1_SD_Backup3
-http://s1.u-on.to:2095/hazeem82/FAA99028760/85106
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_2_SD
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2208
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_2_SD_Backup
-http://s1.u-on.to:2095/hazeem82/FAA99028760/85111
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_2_SD_Backup2
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2212
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_2_SD_Backup4
-http://s1.u-on.to:2095/hazeem82/FAA99028760/85105
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_3_SD
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2209
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_3_SD_Backup
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2213
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_4_SD
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2210
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_4_SD_Backup
-http://s1.u-on.to:2095/hazeem82/FAA99028760/2214
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_1_4K
-http://s1.u-on.to:2095/hazeem82/FAA99028760/39296
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_1_4K_Backup
-http://s1.u-on.to:2095/hazeem82/FAA99028760/85110
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_2_4K
-http://s1.u-on.to:2095/hazeem82/FAA99028760/39295
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_2_4K_Backup
-http://s1.u-on.to:2095/hazeem82/FAA99028760/85109
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_3_4K
-http://s1.u-on.to:2095/hazeem82/FAA99028760/39294
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_4_4K
-http://s1.u-on.to:2095/hazeem82/FAA99028760/39293
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_1_1080
-http://s1.u-on.to:2095/hazeem82/FAA99028760/39292
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_1_1080_Backup
-http://s1.u-on.to:2095/hazeem82/FAA99028760/85108
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_2_1080
-http://s1.u-on.to:2095/hazeem82/FAA99028760/39291
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_2_1080_Backup
-http://s1.u-on.to:2095/hazeem82/FAA99028760/85107
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_3_1080
-http://s1.u-on.to:2095/hazeem82/FAA99028760/39290
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN AFCON - كأس افريقيا",BEIN_MAX_4_1080
-http://s1.u-on.to:2095/hazeem82/FAA99028760/39289
 
-#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORTS 1080i",BEIN_SPORT_1_1080p
-http://s1.u-on.to:2095/hazeem82/FAA99028760/3111
+#EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORTS 1080i",Bein Sports News
+http://anonymoustv.club/rw189YEH8n87255/UaejS8XvpH/2745?play_token=Uh4vBKGqwz
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORTS 1080i",BEIN_SPORT_2_1080p
 http://s1.u-on.to:2095/hazeem82/FAA99028760/3110
 #EXTINF:0 tvg-id="ext" group-title="⚽ BEIN SPORTS 1080i",BEIN_SPORT_3_1080p
