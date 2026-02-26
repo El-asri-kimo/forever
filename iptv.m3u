@@ -3093,16 +3093,6 @@ http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/148133.ts
 #EXTINF:0 tvg-id="ext" group-title="Thmaniah | ثمانية",ثمانية (SD) | [أحداث حصرية]
 http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/148139.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 1
-http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/347873.ts
-#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 2
-http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/347872.ts
-#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 3
-http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/347871.ts
-#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 4
-http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/347870.ts
-#EXTINF:0 tvg-id="ext" group-title="Canal+ Sports 🇫🇷 ",Canal+ Sports 5
-http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/347869.ts
 
 #EXTINF:0 tvg-id="ext" group-title="France Documentaire 🇫🇷 ",RMC Documentaire
 http://anonymoustv.club/live/DT7e2rMzsJ86248/3L8J3HH3HB/152353.ts
@@ -3129,19 +3119,17 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=941637&exte
 
 
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport Haber
-http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=196816&extension=ts&play_token=DXG1JuEDA7
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=756&extension=ts&play_token=lZ9lTeS8F9
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 1 UHD
-http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=10698&extension=ts&play_token=ZSByA4ISOE
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=755&extension=ts&play_token=XypDcluE0G
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 2 UHD
 http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=10697&extension=ts&play_token=mjzYth8fAp
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 3 UHD
-http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=10695&extension=ts&play_token=jS4tDEqR0i
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=753&extension=ts&play_token=vJsUxbe4pp
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport 4 UHD
 http://tr.limonviptv.xyz:8080/play/live.php?mac=00:1A:79:11:4F:9F&stream=2212&extension=ts&play_token=Lsw5qCVMab
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",A Spor UHD
-http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=170678&extension=ts&play_token=9FsJbxFjSX
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=710&extension=ts&play_token=AiSAj9vwXd
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",TRT Spor UHD
-http://dream4k.co/play/live.php?mac=00:1A:79:17:12:88&stream=170679&extension=ts&play_token=2R8n7cwomq
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=709&extension=ts&play_token=18rPiEk4gA
 
-#EXTINF:-1,La1 HD
-http://dream4k.co/play/live.php?mac=00:1A:79:17:15:40&stream=653&extension=ts&play_token=C9EeEwS9xD
