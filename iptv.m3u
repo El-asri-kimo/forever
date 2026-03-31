@@ -126,25 +126,6 @@ http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/79.ts
 #EXTINF:0 tvg-id="ext" group-title="beIN Sports",beIN Sports France 2 (SD)
 http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/80.ts
 
-#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Aflam 2 4K
-http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160239.ts
-#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Aflam 3 4K
-http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160240.ts
-#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Aflam 4 4K
-http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160241.ts
-#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Turkey 4K
-http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160242.ts
-#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Alwathaeqye 4K
-http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160243.ts
-#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Atfal 4K
-http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160244.ts
-#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Mosalsalat 4K
-http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160245.ts
-#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Aghani 4K
-http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160246.ts
-#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Bollywood 4K
-http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160247.ts
-#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Korea 4K
 
 #EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Sports 1 4K
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/160252.ts
@@ -168,7 +149,25 @@ http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/160260.ts
 http://tornado-pro.com/live/alhomaidirashid@gmail.com/HOrashid1/160261.ts
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Aflam 2 4K
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160239.ts
+#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Aflam 3 4K
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160240.ts
+#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Aflam 4 4K
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160241.ts
+#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Turkey 4K
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160242.ts
+#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Alwathaeqye 4K
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160243.ts
+#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Atfal 4K
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160244.ts
+#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Mosalsalat 4K
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160245.ts
+#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Aghani 4K
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160246.ts
+#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Bollywood 4K
+http://tornado-pro.com:80/live/alhomaidirashid@gmail.com/HOrashid1/160247.ts
+#EXTINF:0 tvg-id="ext" group-title="Alwan | ألوان",Alwan Korea 4K
 
 
 #EXTINF:0 tvg-id="ext" group-title="NETFLIX",VIP: NETFLIX Action (FHD)
