@@ -736,6 +736,13 @@ http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7unxxDHsusDEeBUjjPoPyAo/ts
 #EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",Rewayat Hafs A'n Assem
 http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7gjRn7kh95JyxnXvjdjHzy4/ts
 
+#EXTINF:0 tvg-id="ext" group-title="Bein إحتياطي",⚽ beIN SPORTS 1ᴴᴰ
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=242255&extension=ts&play_token=QTwKQkzzst
+#EXTINF:0 tvg-id="ext" group-title="Bein إحتياطي",⚽ beIN SPORTS 2ᴴᴰ
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=242254&extension=ts&play_token=mdN7wPhQUF
+
+
+
 
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",Crime District
 http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=941629&extension=ts&play_token=ZPkc8MoR3T
