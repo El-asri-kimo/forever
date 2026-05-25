@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTM3U
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",⚽ beIN Newsᴴᴰ
 http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7uv2aRxeP2OVDohANfqf-hk/ts
@@ -78,72 +79,6 @@ http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7hBmxCvqX-s_LXEK9CzxxxU/ts
 http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7p6g0AISdPMbENMNvV0TVDU/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",LIVE 2
 http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7uW63fGPKtP-wFz72KHJhFg/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art Sport 1 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7q8rWe4ztUNtIiIACWhLrYQ/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art Sport 2 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7nBo3curoxP3YcWbQrqDcYo/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art Sport 3 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7s5708wXytcuZWdAe_PryoY/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art Sport 4 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7qH8o4HK0lyWuYiB6twrP4Y/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art Sport 5 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7hacsIyhkZwgfXDYdNQP5_E/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Art Sport 6 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7gtVL8VGoRX4LqwMFBeS6u0/ts
-#EXTINF:0 tvg-id="MaxSport1.bg" group-title="Channels",Max Sport 1 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7nl70FEISmJ5zjhbtsufY_Q/ts
-#EXTINF:0 tvg-id="MaxSport2.bg" group-title="Channels",Max Sport 2 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7hQaS0TSjMEyZY0gv_yXV00/ts
-#EXTINF:0 tvg-id="esp" group-title="Channels",Eurosport 1 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7nxP7txOOzPJXGiQ7Aco7oA/ts
-#EXTINF:0 tvg-id="esp2" group-title="Channels",Eurosport 2 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7rxtTd_F3jC0rL_fP61xdQc/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",T Sports
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7ndnCGgHu4g-3tj7QlpeHmA/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",Willow Extra
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7jXCoi1Xo-ZCrvK7hcgs7Uc/ts
-#EXTINF:0 tvg-id="SkySpPL.uk" group-title="Channels",Sky Sports Premier League HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7uRQkE_driqVI9sGyagB7PY/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sport 3 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7m8zg1LROW-VpQYWeEg-Zn8/ts
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title="Channels",BeIN Sports 6 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7oXtxWZAWxVptboeiqoKpP8/ts
-#EXTINF:0 tvg-id="SkySpMix.uk" group-title="Channels",Sky Sports Mix HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7i2o0lPkd9StLowVkcj61zs/ts
-#EXTINF:0 tvg-id="RacingUK.uk" group-title="Channels",Racing UK HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7guoAT0WqXjX2L1HLhcUlrA/ts
-#EXTINF:0 tvg-id="SkySportsNews.uk" group-title="Channels",Sky Sports News HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7suD2tpyH0vQPKOl7YHQ1zE/ts
-#EXTINF:0 tvg-id="LIGTV4.tr" group-title="Channels",BeIN Sports 4 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7qpvvJGPzQ0TXi9l8jM0pFw/ts
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title="Channels",BeIN Sports 2 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7nJsOZJJx5bJ1_lPSbS0i7k/ts
-#EXTINF:0 tvg-id="SkySportsF1.uk" group-title="Channels",F1 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7uUVBRlJVobQLrqHTFzHBn4/ts
-#EXTINF:0 tvg-id="SkySpFball.uk" group-title="Channels",Sky Sports Football HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7tvTx0EQ2cqMf-OMqW-2pj8/ts
-#EXTINF:0 tvg-id="SkySpMainEv.uk" group-title="Channels",Sky Sports Main Event HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7i34xBS6hCOvjWaiYLzIeQ0/ts
-#EXTINF:0 tvg-id="bein8hd.jsc" group-title="Channels",BeIN Sports 8 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7i6-YYXJ3gwzBBGZTpSmiho/ts
-#EXTINF:0 tvg-id="bein9hd.jsc" group-title="Channels",BeIN Sports 9 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7nxHZ5HQMkqTKm7iGLSBINw/ts
-#EXTINF:0 tvg-id="LIGTV3.tr" group-title="Channels",BeIN Sports 3 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7nhr4udEafwmm7Mt1YCz51c/ts
-#EXTINF:0 tvg-id="LIGTV.tr" group-title="Channels",BeIN Sports 1 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7sj5LTP7xi-nbtcH312jTtU/ts
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title="Channels",BeIN Sports 5 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7hrXYXQ2G3r5Riv6cVFKnMM/ts
-#EXTINF:0 tvg-id="SkySpCricket.uk" group-title="Channels",Sky Sports Cricket HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7jFttHIrxVrtxvUtFA0V67M/ts
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title="Channels",BeIN Sports 7 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7rDITGB-z9NX3uNS6zpQTXI/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sport 1 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7uOOAojlXPBhw1NfOz4LETo/ts
-#EXTINF:0 tvg-id="ext" group-title="Channels",TNT Sport 2 HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7o9NmkGDjjzZs2MFoMLef5A/ts
-#EXTINF:0 tvg-id="SkySpRacing.uk" group-title="Channels",Sky Sports Racing HD
-http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7ov5Za7mNqANkk3YoNNEEjc/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALWAN SPORTS 1
 http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7nUUlBeGgd9sI7PeKoSQ0Tg/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",ALWAN SPORTS 2
@@ -735,6 +670,24 @@ http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7j9wiFji_rt19lhLQsQVYas/ts
 http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7unxxDHsusDEeBUjjPoPyAo/ts
 #EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",Rewayat Hafs A'n Assem
 http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7gjRn7kh95JyxnXvjdjHzy4/ts
+#EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",⚽ beIN MAX 1⁴ᴷ
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7p0qnIN-dwkiUVPvk2eMsAU/ts
+#EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",⚽ beIN MAX 2⁴ᴷ
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7i14A6Rl5v71FfTfkSUvL0c/ts
+#EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",⚽beIN MAX3⁴ᴷ
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7nl-EEno5fqeVBrfLjw7gN4/ts
+#EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",⚽beIN MAX 4⁴ᴷ
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7t_LFGvsSvv53ENc9FRyxec/ts
+#EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",⚽ beIN MAX 1ᴴᴰ
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7j2WzEcw3p0SutcouBZKUcg/ts
+#EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",⚽ beIN MAX 2ᴴᴰ
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7tf77Hm-V6Ph7ROy8fjldk0/ts
+#EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",⚽ beIN MAX 3ᴴᴰ
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7s4OkP53ChQdfvAhrT_hKlo/ts
+#EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",⚽ beIN MAX 1 ˢᴰ
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7i-vHEeVje1h4IZoYpqIqpY/ts
+#EXTINF:0 tvg-id="ext" group-title="Amazing short Recitations",⚽ beIN MAX 2 ˢᴰ
+http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7gQjA94vY4VSroQqe8SJYJA/ts
 
 #EXTINF:0 tvg-id="ext" group-title="Bein إحتياطي",⚽ beIN SPORTS 1ᴴᴰ
 http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=242255&extension=ts&play_token=QTwKQkzzst
