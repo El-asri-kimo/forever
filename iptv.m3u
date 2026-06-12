@@ -1,4 +1,27 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="World Cup 2026",⚽ Tipik ᴴᴰ
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=1745082&extension=ts&play_token=gwSzZu00VM
+#EXTINF:0 tvg-id="ext" group-title="World Cup 2026",⚽ ZDFᴴᴰ
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=1745091&extension=ts&play_token=WBTjioVJm7
+#EXTINF:0 tvg-id="ext" group-title="World Cup 2026",⚽ DAS ERSTEᴴᴰ
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=1745090&extension=ts&play_token=AZEnDP4X9O
+#EXTINF:0 tvg-id="ext" group-title="World Cup 2026",⚽ M6ᴴᴰ
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=1745089&extension=ts&play_token=ZnuYxsQ4Oj
+#EXTINF:0 tvg-id="ext" group-title="World Cup 2026",⚽ Reeplay 1
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=1745140&extension=ts&play_token=wxfpjOsm7G
+#EXTINF:0 tvg-id="ext" group-title="World Cup 2026",⚽ Reeplay 2
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=1745141&extension=ts&play_token=9EEeOL3Ps4
+#EXTINF:0 tvg-id="ext" group-title="World Cup 2026",⚽ Reeplay 3
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=1745144&extension=ts&play_token=v4yINJiT7y
+#EXTINF:0 tvg-id="ext" group-title="World Cup 2026",⚽ Reeplay 4
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=1745145&extension=ts&play_token=2KKl7kj6EI
+#EXTINF:0 tvg-id="ext" group-title="World Cup 2026",⚽ Reeplay 5
+http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=1745146&extension=ts&play_token=ZhcdPZTE58
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",⚽ beIN Newsᴴᴰ
 http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7uv2aRxeP2OVDohANfqf-hk/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",⚽ beIN Sportsᴴᴰ
