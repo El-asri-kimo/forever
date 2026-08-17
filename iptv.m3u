@@ -719,9 +719,9 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=242254&exte
 
 
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",Crime District
-http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=941629&extension=ts&play_token=ZPkc8MoR3T
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=13750&extension=ts&play_token=fgA1wXa9yt
 #EXTINF:0 tvg-id="ext" group-title="France 🇫🇷 ",ID
-http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=941637&extension=ts&play_token=wnSJdwVBiK
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=13836&extension=ts&play_token=YNdqI9eyq1
 
 
 #EXTINF:0 tvg-id="ext" group-title="TURK 🇹🇷",Bein Sport Haber
