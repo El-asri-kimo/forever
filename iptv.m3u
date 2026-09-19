@@ -715,6 +715,17 @@ http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=242255&exte
 #EXTINF:0 tvg-id="ext" group-title="Bein إحتياطي",⚽ beIN SPORTS 2ᴴᴰ
 http://main.light-ott.net/play/live.php?mac=00:1A:79:89:A4:F5&stream=242254&extension=ts&play_token=mdN7wPhQUF
 
+#EXTINF:0 tvg-id="ext" group-title="MOVIES 🎬",MIX HOLLYWOOD
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=342425&extension=ts&play_token=JF2rmxGXWy
+#EXTINF:0 tvg-id="ext" group-title="MOVIES 🎬",JAMES BOND
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=216394&extension=ts&play_token=UneAJwSi76
+#EXTINF:0 tvg-id="ext" group-title="MOVIES 🎬",TOP CINEMA
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=216395&extension=ts&play_token=tv9UUa0K0f
+#EXTINF:0 tvg-id="ext" group-title="MOVIES 🎬",ROCKY
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=216396&extension=ts&play_token=GnQemfVR0a
+
+
+
 
 
 
