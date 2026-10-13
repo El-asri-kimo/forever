@@ -1,4 +1,25 @@
 #EXTM3U
+
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports إحتياطي",⚽ beIN Sports 1 SD
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=13614&extension=ts&play_token=25tpoIo2F2
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports إحتياطي",⚽ beIN Sports 2 SD
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=13615&extension=ts&play_token=uU93baeovP
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports إحتياطي",⚽ beIN Sports 3 
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=89342&extension=ts&play_token=ro4vzXXXiT
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports إحتياطي",⚽ beIN Sports 4 
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=78381&extension=ts&play_token=X6TPKPvUhR
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports إحتياطي",⚽ beIN Sports 5 
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=78382&extension=ts&play_token=U4lxUSWvpl
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports إحتياطي",⚽ beIN Sports 6
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=78383&extension=ts&play_token=R5bTDVjziB
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports إحتياطي",⚽ beIN Sports 7
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=78384&extension=ts&play_token=NV328ixV1K
+
+
+
+
+
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",⚽ beIN Newsᴴᴰ
 http://23370wa.xyz:80/play/BMoDRXtRtbrnsYhxpeoI7uv2aRxeP2OVDohANfqf-hk/ts
 #EXTINF:0 tvg-id="ext" group-title="Channels",⚽ beIN Sportsᴴᴰ
