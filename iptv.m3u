@@ -14,7 +14,8 @@ http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=78382&extension=ts
 http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=78383&extension=ts&play_token=R5bTDVjziB
 #EXTINF:0 tvg-id="ext" group-title="Bein Sports إحتياطي",⚽ beIN Sports 7
 http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=78384&extension=ts&play_token=NV328ixV1K
-
+#EXTINF:0 tvg-id="ext" group-title="Bein Sports إحتياطي",⚽ beIN Sports Xtra 1
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=129996&extension=ts&play_token=gddxRHZxZD
 
 
 
