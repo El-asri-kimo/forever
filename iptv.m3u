@@ -717,9 +717,10 @@ http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=216394&extension=t
 http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=216395&extension=ts&play_token=tv9UUa0K0f
 #EXTINF:0 tvg-id="ext" group-title="MOVIES 🎬",ROCKY
 http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=216396&extension=ts&play_token=GnQemfVR0a
-
-
-
+#EXTINF:0 tvg-id="ext" group-title="MOVIES 🎬",The Ring
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=216432&extension=ts&play_token=bVALobqvSv
+#EXTINF:0 tvg-id="ext" group-title="MOVIES 🎬",Dicaprio
+http://foxbleu.pro/play/live.php?mac=00:1A:79:24:9D:59&stream=232789&extension=ts&play_token=uEURE4Hxx1
 
 
 
